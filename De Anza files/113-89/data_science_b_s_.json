@@ -1,0 +1,821 @@
+{
+  "major": "Data Science B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 89,
+    "code": "UCD     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Davis",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 340711,
+        "courseTitle": "Linear Algebra ",
+        "courseNumber": "022A",
+        "prefix": "MAT",
+        "prefixParentId": 9999,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 9018,
+        "department": "Mathematics",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363589,
+              "courseTitle": "Linear Algebra - HONORS",
+              "courseNumber": "2BH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302590,
+              "courseTitle": "Linear Algebra",
+              "courseNumber": "2B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 292181,
+        "courseTitle": "Calculus",
+        "courseNumber": "021A",
+        "prefix": "MAT",
+        "prefixParentId": 9999,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 9018,
+        "department": "Mathematics",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 288768,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 256943,
+        "courseTitle": "Calculus",
+        "courseNumber": "021B",
+        "prefix": "MAT",
+        "prefixParentId": 9999,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 9018,
+        "department": "Mathematics",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 288769,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 256916,
+        "courseTitle": "Calculus",
+        "courseNumber": "021C",
+        "prefix": "MAT",
+        "prefixParentId": 9999,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 9018,
+        "department": "Mathematics",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 359110,
+              "courseTitle": "Calculus",
+              "courseNumber": "1C",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 309559,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1CH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 369644,
+        "courseTitle": "Introduction to Data Structures",
+        "courseNumber": "032B",
+        "prefix": "ECS",
+        "prefixParentId": 1110,
+        "prefixDescription": "Engineering Computer Science",
+        "departmentParentId": 14251,
+        "department": "Computer Science",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 300770,
+              "courseTitle": "Data Abstraction and Structures - HONORS",
+              "courseNumber": "22CH",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 306384,
+              "courseTitle": "Data Abstraction and Structures",
+              "courseNumber": "22C",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 354134,
+        "courseTitle": "Elementary Statistics",
+        "courseNumber": "013",
+        "prefix": "STA",
+        "prefixParentId": 3368,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 12558,
+        "department": "Statistics",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309383,
+              "courseTitle": "Integrated Statistics 2",
+              "courseNumber": "17",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "23432bfe-0867-47d1-bc37-e168f5a1d774",
+                  "publishedCourseIdentifierYearTermId": 279,
+                  "courseIdentifierParentId": 255009,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 283453,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 279,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "1d746210-c2b9-46d7-a513-f0c057692d0e",
+                  "publishedCourseIdentifierYearTermId": 279,
+                  "courseIdentifierParentId": 283453,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 255009,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 279,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION COURSES FOR THE MAJOR": [],
+    "REQUIRED FOR ADMISSION": [],
+    "COMPUTER SCIENCE ENGINEERING": [],
+    "MATHEMATICS": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "e6c16152-4950-457a-0817-08dc2665bef6",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 340711,
+                "courseTitle": "Linear Algebra ",
+                "courseNumber": "022A",
+                "prefix": "MAT",
+                "prefixParentId": 9999,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 9018,
+                "department": "Mathematics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6c1f8cac-b2db-4043-34b3-08dc2665a19f",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 292181,
+                "courseTitle": "Calculus",
+                "courseNumber": "021A",
+                "prefix": "MAT",
+                "prefixParentId": 9999,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 9018,
+                "department": "Mathematics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "820ef044-77d5-4016-34b4-08dc2665a19f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256943,
+                "courseTitle": "Calculus",
+                "courseNumber": "021B",
+                "prefix": "MAT",
+                "prefixParentId": 9999,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 9018,
+                "department": "Mathematics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "910c394d-bd69-461d-34b5-08dc2665a19f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256916,
+                "courseTitle": "Calculus",
+                "courseNumber": "021C",
+                "prefix": "MAT",
+                "prefixParentId": 9999,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 9018,
+                "department": "Mathematics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "24d6d964-a3b6-4a47-34b6-08dc2665a19f",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "STATISTICS": [],
+    "OTHER MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "163c9989-410b-4ca6-0816-08dc2665bef6",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377569,
+                "courseTitle": "Statistical Data Science II",
+                "courseNumber": "035B",
+                "prefix": "STA",
+                "prefixParentId": 3368,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 12558,
+                "department": "Statistics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8c881452-56b5-40ec-34b1-08dc2665a19f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377570,
+                "courseTitle": "Statistical Data Science III",
+                "courseNumber": "035C",
+                "prefix": "STA",
+                "prefixParentId": 3368,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 12558,
+                "department": "Statistics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "eaa05b8d-e65e-44db-34b2-08dc2665a19f",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "faf86be8-b6ea-4f82-0815-08dc2665bef6",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383644,
+                "courseTitle": "Data, Logic, & Computing",
+                "courseNumber": "017",
+                "prefix": "ECS",
+                "prefixParentId": 1110,
+                "prefixDescription": "Engineering Computer Science",
+                "departmentParentId": 14251,
+                "department": "Computer Science",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d76a0802-9651-431e-34b0-08dc2665a19f",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

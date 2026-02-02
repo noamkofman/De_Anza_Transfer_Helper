@@ -1,0 +1,532 @@
+{
+  "major": "Science, Technology, and Society, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 75,
+    "code": "CPP     ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "California Polytechnic University, Pomona",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 2018
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 283171,
+        "courseTitle": "Statistics with Applications",
+        "courseNumber": "1200",
+        "prefix": "STA",
+        "prefixParentId": 3364,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 9086,
+        "department": "Mathematics and Statistics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 352008,
+        "courseTitle": "Logic and Computing",
+        "courseNumber": "2180",
+        "prefix": "PHL",
+        "prefixParentId": 5446,
+        "prefixDescription": "Philosophy",
+        "departmentParentId": 10228,
+        "department": "Philosophy",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253827,
+              "courseTitle": "Deductive Logic",
+              "courseNumber": "7",
+              "prefix": "PHIL",
+              "prefixParentId": 5487,
+              "prefixDescription": "Philosophy",
+              "departmentParentId": 10175,
+              "department": "Philosophy",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 271300,
+        "courseTitle": "Introduction to Science, Technology and Society",
+        "courseNumber": "2010",
+        "prefix": "STS",
+        "prefixParentId": 14772,
+        "prefixDescription": "Science, Technology and Society",
+        "departmentParentId": 11840,
+        "department": "Science, Technology and Society",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 351674,
+        "courseTitle": "Introduction to Sociology",
+        "courseNumber": "2201",
+        "prefix": "SOC",
+        "prefixParentId": 9049,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 13523,
+        "department": "Sociology",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254964,
+              "courseTitle": "Introduction to Sociology",
+              "courseNumber": "1",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR REQUIRED": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 352008,
+                "courseTitle": "Logic and Computing",
+                "courseNumber": "2180",
+                "prefix": "PHL",
+                "prefixParentId": 5446,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10228,
+                "department": "Philosophy",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 352009,
+                    "courseTitle": "Logic and Computing",
+                    "courseNumber": "2180",
+                    "prefix": "CS",
+                    "prefixParentId": 518,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3233,
+                    "department": "Computer Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "95bed754-e50d-4b91-8c20-deb267d6a24e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 271300,
+                "courseTitle": "Introduction to Science, Technology and Society",
+                "courseNumber": "2010",
+                "prefix": "STS",
+                "prefixParentId": 14772,
+                "prefixDescription": "Science, Technology and Society",
+                "departmentParentId": 11840,
+                "department": "Science, Technology and Society",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "13975427-7f0c-4271-a85c-f1c7d1e23e21",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 351674,
+                "courseTitle": "Introduction to Sociology",
+                "courseNumber": "2201",
+                "prefix": "SOC",
+                "prefixParentId": 9049,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 13523,
+                "department": "Sociology",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "950440ca-7230-48a4-83bb-6825d86a2af4",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "MAJOR REQUIRED ELECTIVES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 364099,
+                "courseTitle": "Probability and Statistics for Computer Scientists and Engineers",
+                "courseNumber": "2260",
+                "prefix": "STA",
+                "prefixParentId": 3364,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 9086,
+                "department": "Mathematics and Statistics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "86192be3-44aa-48ea-ab60-e3f1760b14b2",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 283171,
+                "courseTitle": "Statistics with Applications",
+                "courseNumber": "1200",
+                "prefix": "STA",
+                "prefixParentId": 3364,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 9086,
+                "department": "Mathematics and Statistics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5bad1503-24dd-4f28-96f9-2b32743414b8",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "SOCIAL AND CULTURAL STUDIES OF SCIENCE & TECHNOLOGY": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 275198,
+                "courseTitle": "Science Fiction",
+                "courseNumber": "2880",
+                "prefix": "ENG",
+                "prefixParentId": 2697,
+                "prefixDescription": "English",
+                "departmentParentId": 5082,
+                "department": "English and Modern Languages",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0fcc8f42-292d-4690-9676-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "0fbd98f0-1a0e-404a-7a9d-08db8f7b48fa",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379306,
+                "courseTitle": "Digital Culture, Race, and Ethnicity",
+                "courseNumber": "2600",
+                "prefix": "EWS",
+                "prefixParentId": 8574,
+                "prefixDescription": "Ethnic and Women's Studies",
+                "departmentParentId": 5382,
+                "department": "Ethnic and Women's Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 379305,
+                    "courseTitle": "Digital Culture, Race, and Ethnicity",
+                    "courseNumber": "2600",
+                    "prefix": "IGE",
+                    "prefixParentId": 15220,
+                    "prefixDescription": "Interdisciplinary General Education",
+                    "departmentParentId": 7572,
+                    "department": "Interdisciplinary General Education",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9edbcbd3-6dd0-4740-9677-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379305,
+                "courseTitle": "Digital Culture, Race, and Ethnicity",
+                "courseNumber": "2600",
+                "prefix": "IGE",
+                "prefixParentId": 15220,
+                "prefixDescription": "Interdisciplinary General Education",
+                "departmentParentId": 7572,
+                "department": "Interdisciplinary General Education",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 379306,
+                    "courseTitle": "Digital Culture, Race, and Ethnicity",
+                    "courseNumber": "2600",
+                    "prefix": "EWS",
+                    "prefixParentId": 8574,
+                    "prefixDescription": "Ethnic and Women's Studies",
+                    "departmentParentId": 5382,
+                    "department": "Ethnic and Women's Studies",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1fb34949-4472-43ac-9678-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ETHICS AND POLICY OF SCIENCE AND TECHNOLOGY": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 273078,
+                "courseTitle": "Water in a Changing World",
+                "courseNumber": "1100",
+                "prefix": "GSC",
+                "prefixParentId": 3469,
+                "prefixDescription": "Geological Sciences",
+                "departmentParentId": 6256,
+                "department": "Geological Sciences",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "04949cd5-fee6-4933-9679-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "major": "Russian Language and Literature/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "2cb80e3b-b3fb-4089-1ae9-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309459,
+                "courseTitle": "Intermediate Russian",
+                "courseNumber": "6",
+                "prefix": "RUSSN",
+                "prefixParentId": 14375,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11805,
+                "department": "Russian",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b70a9683-7226-4730-98ad-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 306773,
+                "courseTitle": "Intensive Intermediate Russian",
+                "courseNumber": "20",
+                "prefix": "RUSSN",
+                "prefixParentId": 14375,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11805,
+                "department": "Russian",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 12,
+                "maxUnits": 12
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "de7c892b-c745-41b9-98ae-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "3b0bf636-387d-4f21-1768-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 360039,
+                "courseTitle": "Introduction to Russian Civilization",
+                "courseNumber": "90A",
+                "prefix": "RUSSN",
+                "prefixParentId": 14375,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11805,
+                "department": "Russian",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fd4b209f-4733-4ad3-9358-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287003,
+                "courseTitle": "Russian Civilization in 20th Century",
+                "courseNumber": "90B",
+                "prefix": "RUSSN",
+                "prefixParentId": 14375,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11805,
+                "department": "Russian",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "789bd0c0-d288-4dba-9359-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305187,
+                "courseTitle": "Great Russian Novel",
+                "courseNumber": "25W",
+                "prefix": "RUSSN",
+                "prefixParentId": 14375,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11805,
+                "department": "Russian",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6335e2d0-ecd7-4841-9798-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359809,
+                "courseTitle": "Russian Civilization in 20th Century",
+                "courseNumber": "90BW",
+                "prefix": "RUSSN",
+                "prefixParentId": 14375,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11805,
+                "department": "Russian",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1b0b85ca-c231-4749-9799-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287913,
+                "courseTitle": "Great Russian Novel",
+                "courseNumber": "25",
+                "prefix": "RUSSN",
+                "prefixParentId": 14375,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11805,
+                "department": "Russian",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9f48068a-09cd-4b78-9245-0d0934b424d7",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

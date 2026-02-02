@@ -1,0 +1,228 @@
+{
+  "major": "American Studies, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 116,
+    "code": "SFSU    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "San Francisco State University",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 236180,
+        "courseTitle": "Values in American Life",
+        "courseNumber": "225",
+        "prefix": "HUM",
+        "prefixParentId": 6459,
+        "prefixDescription": "Humanities",
+        "departmentParentId": 7346,
+        "department": "Humanities",
+        "begin": "Su2001",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 249152,
+              "courseTitle": "Popular Culture",
+              "courseNumber": "6",
+              "prefix": "HUMI",
+              "prefixParentId": 6457,
+              "prefixDescription": "Humanities",
+              "departmentParentId": 7405,
+              "department": "Humanities",
+              "begin": "F2006",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 356851,
+              "courseTitle": "Storytelling in American Culture",
+              "courseNumber": "5",
+              "prefix": "HUMI",
+              "prefixParentId": 6457,
+              "prefixDescription": "Humanities",
+              "departmentParentId": 7405,
+              "department": "Humanities",
+              "begin": "F2007",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "REQUIRED COURSES": [
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 1,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "83a8293c-a372-46cd-f792-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387684,
+                "courseTitle": "Values in American Life",
+                "courseNumber": "225",
+                "prefix": "AMST",
+                "prefixParentId": 16241,
+                "prefixDescription": "American Studies",
+                "departmentParentId": 13435,
+                "department": "American Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "447065e0-b46d-417e-e2ae-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 236180,
+                "courseTitle": "Values in American Life",
+                "courseNumber": "225",
+                "prefix": "HUM",
+                "prefixParentId": 6459,
+                "prefixDescription": "Humanities",
+                "departmentParentId": 7346,
+                "department": "Humanities",
+                "begin": "Su2001",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "338399db-5007-4a22-e2af-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365815,
+                "courseTitle": "Self, Place, and Knowing: Introduction to Interdisciplinary Inquiry",
+                "courseNumber": "200",
+                "prefix": "AMST",
+                "prefixParentId": 16241,
+                "prefixDescription": "American Studies",
+                "departmentParentId": 13435,
+                "department": "American Studies",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7340050e-fcfa-4fd3-bdc5-a7a968e9fcbf",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 367044,
+                "courseTitle": "Self, Place, and Knowing: Introduction to Interdisciplinary Inquiry",
+                "courseNumber": "200",
+                "prefix": "LS",
+                "prefixParentId": 13475,
+                "prefixDescription": "Liberal Studies",
+                "departmentParentId": 8464,
+                "department": "Liberal Studies",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6a865841-ae25-4276-9b77-a91f48c9af04",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

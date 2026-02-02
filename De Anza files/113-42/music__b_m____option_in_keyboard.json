@@ -1,0 +1,522 @@
+{
+  "major": "MUSIC, B.M. - Option in Keyboard",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 42,
+    "code": "CSUN    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Northridge",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 331018,
+                "courseTitle": "Style/Literature of Western Music I",
+                "courseNumber": "201",
+                "prefix": "MUS",
+                "prefixParentId": 6549,
+                "prefixDescription": "Music",
+                "departmentParentId": 9406,
+                "department": "Music",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "89050655-f529-4b00-ae3f-b953eb21b318",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 47929,
+                "courseTitle": "Functional Keyboard Skills II",
+                "courseNumber": "132B",
+                "prefix": "MUS",
+                "prefixParentId": 6549,
+                "prefixDescription": "Music",
+                "departmentParentId": 9406,
+                "department": "Music",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5cbb5bf0-572f-44f6-9634-3a98b44c92e8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "MUS 211, MUS 211L",
+                "courses": [
+                  {
+                    "id": "94acb528-5e59-44a2-ad6a-534bcbd73975",
+                    "position": 0,
+                    "courseIdentifierParentId": 46045,
+                    "courseTitle": "Musicianship III",
+                    "courseNumber": "211",
+                    "prefix": "MUS",
+                    "prefixParentId": 6549,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9406,
+                    "department": "Music",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "0d61b80c-7110-4895-a745-04b73b7f8290",
+                    "position": 1,
+                    "courseIdentifierParentId": 136582,
+                    "courseTitle": "Musicianship III Lab",
+                    "courseNumber": "211L",
+                    "prefix": "MUS",
+                    "prefixParentId": 6549,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9406,
+                    "department": "Music",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [
+                {
+                  "seriesCourseId": "0d61b80c-7110-4895-a745-04b73b7f8290",
+                  "position": 0,
+                  "content": "Articulation is subject to placement by proficiency exam"
+                }
+              ],
+              "id": "83847ee8-b160-42ac-afdb-fe786268724a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "MUS 191, MUS 191L",
+                "courses": [
+                  {
+                    "id": "6bdbd397-bd2f-4afb-962e-16c03f4a79a7",
+                    "position": 0,
+                    "courseIdentifierParentId": 121137,
+                    "courseTitle": "Fundamentals of Music Technology",
+                    "courseNumber": "191",
+                    "prefix": "MUS",
+                    "prefixParentId": 6549,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9406,
+                    "department": "Music",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "c8b4d4f4-8873-4ce8-b476-e29588195013",
+                    "position": 1,
+                    "courseIdentifierParentId": 136559,
+                    "courseTitle": "Fundamentals of Music Technology Lab",
+                    "courseNumber": "191L",
+                    "prefix": "MUS",
+                    "prefixParentId": 6549,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9406,
+                    "department": "Music",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "ded5b28c-a953-46cc-83ed-17d8acda1aeb",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "MUS 112, MUS 112L",
+                "courses": [
+                  {
+                    "id": "47baead5-b579-4844-aa38-8a6eabf7bae7",
+                    "position": 0,
+                    "courseIdentifierParentId": 47629,
+                    "courseTitle": "Musicianship II",
+                    "courseNumber": "112",
+                    "prefix": "MUS",
+                    "prefixParentId": 6549,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9406,
+                    "department": "Music",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "ac2b1736-1533-41cb-9b96-0aa4eebdac24",
+                    "position": 1,
+                    "courseIdentifierParentId": 136576,
+                    "courseTitle": "Musicianship II Lab",
+                    "courseNumber": "112L",
+                    "prefix": "MUS",
+                    "prefixParentId": 6549,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9406,
+                    "department": "Music",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [
+                {
+                  "seriesCourseId": "ac2b1736-1533-41cb-9b96-0aa4eebdac24",
+                  "position": 0,
+                  "content": "Articulation is subject to placement by proficiency exam"
+                }
+              ],
+              "id": "138d3f38-6337-4f4c-b2a5-81a39c78fdc1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136876,
+                "courseTitle": "Harmony I",
+                "courseNumber": "213",
+                "prefix": "MUS",
+                "prefixParentId": 6549,
+                "prefixDescription": "Music",
+                "departmentParentId": 9406,
+                "department": "Music",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3ebc3115-90fd-4ca3-8225-d813400f779d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "MUS 212, MUS 212L",
+                "courses": [
+                  {
+                    "id": "4e41522c-d89f-4999-b809-3b101d0a1f88",
+                    "position": 0,
+                    "courseIdentifierParentId": 45596,
+                    "courseTitle": "Musicianship IV",
+                    "courseNumber": "212",
+                    "prefix": "MUS",
+                    "prefixParentId": 6549,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9406,
+                    "department": "Music",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "e8e0860e-086c-4d5f-a638-a8ab5872f79c",
+                    "position": 1,
+                    "courseIdentifierParentId": 47580,
+                    "courseTitle": "Musicianship IV Lab",
+                    "courseNumber": "212L",
+                    "prefix": "MUS",
+                    "prefixParentId": 6549,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9406,
+                    "department": "Music",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [
+                {
+                  "seriesCourseId": "e8e0860e-086c-4d5f-a638-a8ab5872f79c",
+                  "position": 0,
+                  "content": "Articulation is subject to placement by proficiency exam"
+                }
+              ],
+              "id": "ef80791f-0083-43ad-9d10-defdb88b0260",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 331032,
+                "courseTitle": "Style/Literature of Western Music II",
+                "courseNumber": "202",
+                "prefix": "MUS",
+                "prefixParentId": 6549,
+                "prefixDescription": "Music",
+                "departmentParentId": 9406,
+                "department": "Music",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cbfaa6c7-8806-4406-a843-dcadad9c19e5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 47846,
+                "courseTitle": "Functional Keyboard Skills I",
+                "courseNumber": "132A",
+                "prefix": "MUS",
+                "prefixParentId": 6549,
+                "prefixDescription": "Music",
+                "departmentParentId": 9406,
+                "department": "Music",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "929924af-32b3-48a1-b81f-6c5352fa4512",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136902,
+                "courseTitle": "Harmony II",
+                "courseNumber": "214",
+                "prefix": "MUS",
+                "prefixParentId": 6549,
+                "prefixDescription": "Music",
+                "departmentParentId": 9406,
+                "department": "Music",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9de623ab-156d-470f-b3d4-8c73927f3534",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 2,
+          "amountQuantifier": "None",
+          "amountUnitType": "Unit",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "4c5e9a90-9ad4-4a0a-f38f-08dbc4fd2609",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 45909,
+                "courseTitle": "Keyboard Musicianship IV - Jazz",
+                "courseNumber": "210BJ",
+                "prefix": "MUS",
+                "prefixParentId": 6549,
+                "prefixDescription": "Music",
+                "departmentParentId": 9406,
+                "department": "Music",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "739dbad5-e9be-4c71-a55d-9caa2e24e923",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 361188,
+                "courseTitle": "Contemporary Keyboard Styles: Latin",
+                "courseNumber": "235A",
+                "prefix": "MUS",
+                "prefixParentId": 6549,
+                "prefixDescription": "Music",
+                "departmentParentId": 9406,
+                "department": "Music",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e97343f8-0c6b-45cd-807a-9e3eda38c3da",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 361189,
+                "courseTitle": "Contemporary Keyboard Styles: Jazz, Rock, and Pop",
+                "courseNumber": "235B",
+                "prefix": "MUS",
+                "prefixParentId": 6549,
+                "prefixDescription": "Music",
+                "departmentParentId": 9406,
+                "department": "Music",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c9e95264-b387-4f77-b53e-b56024d722c3",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 46064,
+                "courseTitle": "Keyboard Musicianship III - Jazz",
+                "courseNumber": "210AJ",
+                "prefix": "MUS",
+                "prefixParentId": 6549,
+                "prefixDescription": "Music",
+                "departmentParentId": 9406,
+                "department": "Music",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7b25ff90-10fd-4548-b9c1-c3b8cdce905d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

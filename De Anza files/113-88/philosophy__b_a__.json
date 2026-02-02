@@ -1,0 +1,380 @@
+{
+  "major": "Philosophy, B.A. ",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 88,
+    "code": "SSU     ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "Sonoma State University",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 221992,
+        "courseTitle": "Introduction to Philosophy",
+        "courseNumber": "120",
+        "prefix": "PHIL",
+        "prefixParentId": 5459,
+        "prefixDescription": "Philosophy",
+        "departmentParentId": 10157,
+        "department": "Philosophy",
+        "begin": "F2011",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282428,
+              "courseTitle": "Introduction to Philosophy",
+              "courseNumber": "1",
+              "prefix": "PHIL",
+              "prefixParentId": 5487,
+              "prefixDescription": "Philosophy",
+              "departmentParentId": 10175,
+              "department": "Philosophy",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 298944,
+        "courseTitle": "Applied Ethics",
+        "courseNumber": "204",
+        "prefix": "PHIL",
+        "prefixParentId": 5459,
+        "prefixDescription": "Philosophy",
+        "departmentParentId": 10157,
+        "department": "Philosophy",
+        "begin": "F2012",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368050,
+              "courseTitle": "Ethics - HONORS",
+              "courseNumber": "8H",
+              "prefix": "PHIL",
+              "prefixParentId": 5487,
+              "prefixDescription": "Philosophy",
+              "departmentParentId": 10175,
+              "department": "Philosophy",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253759,
+              "courseTitle": "Ethics",
+              "courseNumber": "8",
+              "prefix": "PHIL",
+              "prefixParentId": 5487,
+              "prefixDescription": "Philosophy",
+              "departmentParentId": 10175,
+              "department": "Philosophy",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 221992,
+                "courseTitle": "Introduction to Philosophy",
+                "courseNumber": "120",
+                "prefix": "PHIL",
+                "prefixParentId": 5459,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10157,
+                "department": "Philosophy",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f3e165c5-1bf9-4772-a386-262ee99355e2",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 298944,
+                "courseTitle": "Applied Ethics",
+                "courseNumber": "204",
+                "prefix": "PHIL",
+                "prefixParentId": 5459,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10157,
+                "department": "Philosophy",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8eecb24f-ba2b-444c-84b2-b2e19314f9e6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 242898,
+                "courseTitle": "Proseminar",
+                "courseNumber": "202",
+                "prefix": "PHIL",
+                "prefixParentId": 5459,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10157,
+                "department": "Philosophy",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9918b51c-5b17-429f-b545-aac8840b1a99",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "THE GOOD LIFE CONCENTRATION": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303971,
+                "courseTitle": "Buddhism, Philosophy & Culture",
+                "courseNumber": "201",
+                "prefix": "PHIL",
+                "prefixParentId": 5459,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10157,
+                "department": "Philosophy",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2509c26e-bf4a-4bf0-a000-c3467d4bb793",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 238830,
+                "courseTitle": "The Good Life",
+                "courseNumber": "212",
+                "prefix": "PHIL",
+                "prefixParentId": 5459,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10157,
+                "department": "Philosophy",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "abe44ff3-b1d3-4c6a-b623-410bd3375b74",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "SCIENCE, TECHNOLOGY, AND ETHICS CONCENTRATION": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 221986,
+                "courseTitle": "Introduction to Logic",
+                "courseNumber": "102",
+                "prefix": "PHIL",
+                "prefixParentId": 5459,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10157,
+                "department": "Philosophy",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9f5a0270-0f4c-4bc9-bc85-88b05514756b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "SOCIAL JUSTICE CONCENTRATION": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387320,
+                "courseTitle": "Global Justice",
+                "courseNumber": "203",
+                "prefix": "PHIL",
+                "prefixParentId": 5459,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10157,
+                "department": "Philosophy",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "61aae98f-4428-46ea-291b-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303970,
+                "courseTitle": "Race, Racism, Law, and Society",
+                "courseNumber": "275",
+                "prefix": "PHIL",
+                "prefixParentId": 5459,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10157,
+                "department": "Philosophy",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "061903f5-dcf2-4a31-a90d-f5bf8ff2164a",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

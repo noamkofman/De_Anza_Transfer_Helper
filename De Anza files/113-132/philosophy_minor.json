@@ -1,0 +1,394 @@
+{
+  "major": "Philosophy Minor",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 132,
+    "code": "UCSC    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Cruz",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 359401,
+        "courseTitle": "Introduction to Philosophy",
+        "courseNumber": "11",
+        "prefix": "PHIL",
+        "prefixParentId": 5507,
+        "prefixDescription": "Philosophy",
+        "departmentParentId": 10187,
+        "department": "Philosophy",
+        "begin": "W1998",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282428,
+              "courseTitle": "Introduction to Philosophy",
+              "courseNumber": "1",
+              "prefix": "PHIL",
+              "prefixParentId": 5487,
+              "prefixDescription": "Philosophy",
+              "departmentParentId": 10175,
+              "department": "Philosophy",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 352964,
+              "courseTitle": "Social and Political Philosophy",
+              "courseNumber": "2",
+              "prefix": "PHIL",
+              "prefixParentId": 5487,
+              "prefixDescription": "Philosophy",
+              "departmentParentId": 10175,
+              "department": "Philosophy",
+              "begin": "F2009",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 358532,
+        "courseTitle": "Introduction to Ethical Theory",
+        "courseNumber": "22",
+        "prefix": "PHIL",
+        "prefixParentId": 5507,
+        "prefixDescription": "Philosophy",
+        "departmentParentId": 10187,
+        "department": "Philosophy",
+        "begin": "F1994",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253759,
+              "courseTitle": "Ethics",
+              "courseNumber": "8",
+              "prefix": "PHIL",
+              "prefixParentId": 5487,
+              "prefixDescription": "Philosophy",
+              "departmentParentId": 10175,
+              "department": "Philosophy",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 307146,
+        "courseTitle": "Introductory Symbolic Logic",
+        "courseNumber": "9",
+        "prefix": "PHIL",
+        "prefixParentId": 5507,
+        "prefixDescription": "Philosophy",
+        "departmentParentId": 10187,
+        "department": "Philosophy",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MINOR": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "dc083106-44a6-493e-10e0-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359648,
+                "courseTitle": "Existentialism and After",
+                "courseNumber": "26",
+                "prefix": "PHIL",
+                "prefixParentId": 5507,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10187,
+                "department": "Philosophy",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0fe8e6a3-b708-4768-b131-d36433e58456",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384578,
+                "courseTitle": "Business Ethics",
+                "courseNumber": "27",
+                "prefix": "PHIL",
+                "prefixParentId": 5507,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10187,
+                "department": "Philosophy",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "132257f6-6360-40de-becd-1b4313390f9d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 307129,
+                "courseTitle": "Introduction to Ethics: Contemporary Moral Issues",
+                "courseNumber": "24",
+                "prefix": "PHIL",
+                "prefixParentId": 5507,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10187,
+                "department": "Philosophy",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dda3a391-24fa-462a-aeb9-f0df59deafd7",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359401,
+                "courseTitle": "Introduction to Philosophy",
+                "courseNumber": "11",
+                "prefix": "PHIL",
+                "prefixParentId": 5507,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10187,
+                "department": "Philosophy",
+                "begin": "W1998",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3e1d7123-2b37-4aba-a5a8-3fc2a1cf048b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308733,
+                "courseTitle": "Environmental Ethics",
+                "courseNumber": "28",
+                "prefix": "PHIL",
+                "prefixParentId": 5507,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10187,
+                "department": "Philosophy",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d32a7544-183b-40d5-bcb9-0b893fe967d0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303927,
+                "courseTitle": "Bioethics in the 21st Century: Science, Business, and Society",
+                "courseNumber": "80G",
+                "prefix": "PHIL",
+                "prefixParentId": 5507,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10187,
+                "department": "Philosophy",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 303928,
+                    "courseTitle": "Bioethics in the 21st Century: Science, Business, and Society",
+                    "courseNumber": "80G",
+                    "prefix": "BME",
+                    "prefixParentId": 13419,
+                    "prefixDescription": "Biomolecular Engineering",
+                    "departmentParentId": 1786,
+                    "department": "Biomolecular Engineering",
+                    "begin": "F2006",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b9ef27e7-261c-455d-91af-594ddaa9412d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 358532,
+                "courseTitle": "Introduction to Ethical Theory",
+                "courseNumber": "22",
+                "prefix": "PHIL",
+                "prefixParentId": 5507,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10187,
+                "department": "Philosophy",
+                "begin": "F1994",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7305734b-6b7d-4321-81bb-b0a4b8982e5e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 307146,
+                "courseTitle": "Introductory Symbolic Logic",
+                "courseNumber": "9",
+                "prefix": "PHIL",
+                "prefixParentId": 5507,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10187,
+                "department": "Philosophy",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "33480561-1270-4ee2-beef-4b613e71839c",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

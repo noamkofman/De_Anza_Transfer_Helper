@@ -1,0 +1,220 @@
+{
+  "major": "Political Science/International Affairs, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 46,
+    "code": "UCR     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Riverside",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 251663,
+        "courseTitle": "Comparative Politics",
+        "courseNumber": "15",
+        "prefix": "POSC",
+        "prefixParentId": 1936,
+        "prefixDescription": "Political Science",
+        "departmentParentId": 11066,
+        "department": "Political Science",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290158,
+              "courseTitle": "Comparative Politics",
+              "courseNumber": "2",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 283485,
+        "courseTitle": "World Politics",
+        "courseNumber": "20",
+        "prefix": "POSC",
+        "prefixParentId": 1936,
+        "prefixDescription": "Political Science",
+        "departmentParentId": 11066,
+        "department": "Political Science",
+        "begin": "F1995",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254897,
+              "courseTitle": "International Relations",
+              "courseNumber": "3",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "STRONGLY RECOMMENDED COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 251663,
+                "courseTitle": "Comparative Politics",
+                "courseNumber": "15",
+                "prefix": "POSC",
+                "prefixParentId": 1936,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 11066,
+                "department": "Political Science",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "An AP exam may be used to satisfy this course requirement"
+                }
+              ],
+              "id": "c390485a-3642-440b-a840-d310374cc811",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309040,
+                "courseTitle": "Politics of the Underdeveloped World",
+                "courseNumber": "17",
+                "prefix": "POSC",
+                "prefixParentId": 1936,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 11066,
+                "department": "Political Science",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cb9a246c-fcb0-4336-9913-d04ea0b14529",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 283485,
+                "courseTitle": "World Politics",
+                "courseNumber": "20",
+                "prefix": "POSC",
+                "prefixParentId": 1936,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 11066,
+                "department": "Political Science",
+                "begin": "F1995",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b0641eca-7aba-4bad-a972-20945a0362ad",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

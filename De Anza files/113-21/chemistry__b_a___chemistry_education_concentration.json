@@ -1,0 +1,659 @@
+{
+  "major": "Chemistry, B.A.: Chemistry Education Concentration",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 21,
+    "code": "CSUHAY",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "California State University, Hayward",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      },
+      {
+        "name": "California State University, East Bay",
+        "hasDepartments": true,
+        "fromYear": 2005,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 2018
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 2005
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 308342,
+        "courseTitle": "GENERAL CHEMISTRY I",
+        "courseNumber": "111",
+        "prefix": "CHEM",
+        "prefixParentId": 3762,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2282,
+        "department": "Chemistry",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 384930,
+        "courseTitle": "GENERAL CHEMISTRY LABORATORY I",
+        "courseNumber": "111L",
+        "prefix": "CHEM",
+        "prefixParentId": 3762,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2282,
+        "department": "Chemistry",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 281693,
+        "courseTitle": "GENERAL CHEMISTRY II",
+        "courseNumber": "112",
+        "prefix": "CHEM",
+        "prefixParentId": 3762,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2282,
+        "department": "Chemistry",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 256819,
+        "courseTitle": "CALCULUS I",
+        "courseNumber": "130",
+        "prefix": "MATH",
+        "prefixParentId": 9927,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 14106,
+        "department": "Mathematics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "Or",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288768,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 284363,
+        "courseTitle": "CALCULUS II",
+        "courseNumber": "131",
+        "prefix": "MATH",
+        "prefixParentId": 9927,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 14106,
+        "department": "Mathematics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "Or",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288769,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 284429,
+        "courseTitle": "Principles of Physics I",
+        "courseNumber": "125",
+        "prefix": "PHYS",
+        "prefixParentId": 201,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10760,
+        "department": "Physics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 256830,
+        "courseTitle": "Principles of Physics II",
+        "courseNumber": "126",
+        "prefix": "PHYS",
+        "prefixParentId": 201,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10760,
+        "department": "Physics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 359659,
+        "courseTitle": "Biology in the Real World",
+        "courseNumber": "100",
+        "prefix": "BIOL",
+        "prefixParentId": 9246,
+        "prefixDescription": "Biological Science",
+        "departmentParentId": 1620,
+        "department": "Biological Science",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309511,
+              "courseTitle": "Introductory Biology - HONORS",
+              "courseNumber": "10H",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282638,
+              "courseTitle": "Introductory Biology",
+              "courseNumber": "10",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": []
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION CORE": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "2704e9f7-6d79-4759-cef1-08dbfa6164b6",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 281693,
+                "courseTitle": "GENERAL CHEMISTRY II",
+                "courseNumber": "112",
+                "prefix": "CHEM",
+                "prefixParentId": 3762,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2282,
+                "department": "Chemistry",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c0ad6996-5f8a-473b-9dea-c062bf965ce9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359309,
+                "courseTitle": "QUANTITATIVE ANALYSIS",
+                "courseNumber": "220",
+                "prefix": "CHEM",
+                "prefixParentId": 3762,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2282,
+                "department": "Chemistry",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "24d865ed-7a63-406e-8dee-e6a574658033",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256819,
+                "courseTitle": "CALCULUS I",
+                "courseNumber": "130",
+                "prefix": "MATH",
+                "prefixParentId": 9927,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 14106,
+                "department": "Mathematics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3e937a3f-4f0e-4397-9d73-44ff247e12f9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284363,
+                "courseTitle": "CALCULUS II",
+                "courseNumber": "131",
+                "prefix": "MATH",
+                "prefixParentId": 9927,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 14106,
+                "department": "Mathematics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9bc1a965-e218-4d76-91cb-a7a6e7974c9a",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "85e5df28-2f31-40ba-ced9-08dbfa6164b6",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CHEM 111, CHEM 111L",
+                "courses": [
+                  {
+                    "id": "91cc27e5-390f-40cc-d67d-08dbfa6036af",
+                    "position": 0,
+                    "courseIdentifierParentId": 308342,
+                    "courseTitle": "GENERAL CHEMISTRY I",
+                    "courseNumber": "111",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3762,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2282,
+                    "department": "Chemistry",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "63318815-a134-42f6-d67e-08dbfa6036af",
+                    "position": 1,
+                    "courseIdentifierParentId": 384930,
+                    "courseTitle": "GENERAL CHEMISTRY LABORATORY I",
+                    "courseNumber": "111L",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3762,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2282,
+                    "department": "Chemistry",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "b7cdc007-d057-49cb-de2b-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308342,
+                "courseTitle": "GENERAL CHEMISTRY I",
+                "courseNumber": "111",
+                "prefix": "CHEM",
+                "prefixParentId": 3762,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2282,
+                "department": "Chemistry",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "df8da998-5196-4849-de2c-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384930,
+                "courseTitle": "GENERAL CHEMISTRY LABORATORY I",
+                "courseNumber": "111L",
+                "prefix": "CHEM",
+                "prefixParentId": 3762,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2282,
+                "department": "Chemistry",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c176c7da-e0ed-4e94-de2d-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "CONCENTRATION REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284429,
+                "courseTitle": "Principles of Physics I",
+                "courseNumber": "125",
+                "prefix": "PHYS",
+                "prefixParentId": 201,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10760,
+                "department": "Physics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6efb86e4-3f5f-4ec9-de50-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256830,
+                "courseTitle": "Principles of Physics II",
+                "courseNumber": "126",
+                "prefix": "PHYS",
+                "prefixParentId": 201,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10760,
+                "department": "Physics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ffbf9c0c-3abf-4698-de51-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359659,
+                "courseTitle": "Biology in the Real World",
+                "courseNumber": "100",
+                "prefix": "BIOL",
+                "prefixParentId": 9246,
+                "prefixDescription": "Biological Science",
+                "departmentParentId": 1620,
+                "department": "Biological Science",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dc3cfdba-8754-45e4-8b56-7db46f00a18b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308921,
+                "courseTitle": "Earth Systems Science",
+                "courseNumber": "100",
+                "prefix": "GEOL",
+                "prefixParentId": 11242,
+                "prefixDescription": "Geology",
+                "departmentParentId": 4127,
+                "department": "Earth and Environmental Sciences",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f270524c-117d-41b1-9830-f209a3f8aff7",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

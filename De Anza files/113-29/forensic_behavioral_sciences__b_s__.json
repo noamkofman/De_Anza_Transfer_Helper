@@ -1,0 +1,822 @@
+{
+  "major": "Forensic Behavioral Sciences (B.S.)",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 29,
+    "code": "CSUFRES ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Fresno",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 134991,
+        "courseTitle": "American Government and Institutions",
+        "courseNumber": "2",
+        "prefix": "PLSI",
+        "prefixParentId": 1918,
+        "prefixDescription": "Political Science",
+        "departmentParentId": 10952,
+        "department": "Political Science",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363587,
+              "courseTitle": "American Government and Politics - HONORS",
+              "courseNumber": "1H",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 271,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282754,
+              "courseTitle": "American Government and Politics",
+              "courseNumber": "1",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 267,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 198027,
+        "courseTitle": "Statistical and Computer Applications in Criminal Justice",
+        "courseNumber": "50",
+        "prefix": "CRIM",
+        "prefixParentId": 12002,
+        "prefixDescription": "Criminology",
+        "departmentParentId": 3610,
+        "department": "Criminology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 244328,
+        "courseTitle": "Introductory to Statistics and Data Analysis",
+        "courseNumber": "42",
+        "prefix": "PSYCH",
+        "prefixParentId": 4617,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11272,
+        "department": "Psychology",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "af6f5c37-ef17-4099-7ec4-08dbdbce1091",
+                  "publishedCourseIdentifierYearTermId": 279,
+                  "courseIdentifierParentId": 283453,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 255009,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 279,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158228,
+        "courseTitle": "Public Health Statistics",
+        "courseNumber": "92",
+        "prefix": "PH",
+        "prefixParentId": 7472,
+        "prefixDescription": "Public Health",
+        "departmentParentId": 11344,
+        "department": "Public Health",
+        "begin": "F2010",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 155272,
+        "courseTitle": "Elementary Statistics",
+        "courseNumber": "11",
+        "prefix": "MATH",
+        "prefixParentId": 9935,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8970,
+        "department": "Mathematics",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 155242,
+        "courseTitle": "Statistical Analysis I",
+        "courseNumber": "73",
+        "prefix": "DS",
+        "prefixParentId": 2866,
+        "prefixDescription": "Decision Sciences",
+        "departmentParentId": 2041,
+        "department": "Business Administration",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 329836,
+        "courseTitle": "Criminal Law",
+        "courseNumber": "20",
+        "prefix": "CRIM",
+        "prefixParentId": 12002,
+        "prefixDescription": "Criminology",
+        "departmentParentId": 3610,
+        "department": "Criminology",
+        "begin": "F1987",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "201ae098-894f-4a0e-8443-df9d9d26a7ac",
+                  "publishedCourseIdentifierYearTermId": 267,
+                  "courseIdentifierParentId": 277840,
+                  "courseTitle": "Concepts of Criminal Law (CP2)",
+                  "courseNumber": "13",
+                  "prefix": "POLI",
+                  "prefixParentId": 2020,
+                  "prefixDescription": "Political Science",
+                  "departmentParentId": 11018,
+                  "department": "Political Science",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                },
+                {
+                  "id": "7711d1c1-f5da-48af-bd95-45159e5c7394",
+                  "publishedCourseIdentifierYearTermId": 267,
+                  "courseIdentifierParentId": 301784,
+                  "courseTitle": "Concepts of Criminal Law (CP2)",
+                  "courseNumber": "3",
+                  "prefix": "PARA",
+                  "prefixParentId": 7126,
+                  "prefixDescription": "Paralegal Studies",
+                  "departmentParentId": 9993,
+                  "department": "Paralegal Studies",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 271186,
+              "courseTitle": "Concepts of Criminal Law (CP2)",
+              "courseNumber": "3",
+              "prefix": "ADMJ",
+              "prefixParentId": 2523,
+              "prefixDescription": "Administration of Justice",
+              "departmentParentId": 173,
+              "department": "Administration of Justice",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 235,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 329854,
+        "courseTitle": "Administration of Justice",
+        "courseNumber": "2",
+        "prefix": "CRIM",
+        "prefixParentId": 12002,
+        "prefixDescription": "Criminology",
+        "departmentParentId": 3610,
+        "department": "Criminology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283642,
+              "courseTitle": "Introduction to Administration of Justice",
+              "courseNumber": "10",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 267,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 198027,
+                "courseTitle": "Statistical and Computer Applications in Criminal Justice",
+                "courseNumber": "50",
+                "prefix": "CRIM",
+                "prefixParentId": 12002,
+                "prefixDescription": "Criminology",
+                "departmentParentId": 3610,
+                "department": "Criminology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fe952ef6-e329-4f26-a315-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 244328,
+                "courseTitle": "Introductory to Statistics and Data Analysis",
+                "courseNumber": "42",
+                "prefix": "PSYCH",
+                "prefixParentId": 4617,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11272,
+                "department": "Psychology",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9fcf4f55-fcbd-4b7f-a316-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158228,
+                "courseTitle": "Public Health Statistics",
+                "courseNumber": "92",
+                "prefix": "PH",
+                "prefixParentId": 7472,
+                "prefixDescription": "Public Health",
+                "departmentParentId": 11344,
+                "department": "Public Health",
+                "begin": "F2010",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "580e9d77-322f-4c91-a317-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 155272,
+                "courseTitle": "Elementary Statistics",
+                "courseNumber": "11",
+                "prefix": "MATH",
+                "prefixParentId": 9935,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8970,
+                "department": "Mathematics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1b3db24d-5c74-4152-a318-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 155242,
+                "courseTitle": "Statistical Analysis I",
+                "courseNumber": "73",
+                "prefix": "DS",
+                "prefixParentId": 2866,
+                "prefixDescription": "Decision Sciences",
+                "departmentParentId": 2041,
+                "department": "Business Administration",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c0175cfc-28c3-4ebe-a319-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329836,
+                "courseTitle": "Criminal Law",
+                "courseNumber": "20",
+                "prefix": "CRIM",
+                "prefixParentId": 12002,
+                "prefixDescription": "Criminology",
+                "departmentParentId": 3610,
+                "department": "Criminology",
+                "begin": "F1987",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ca1b90a3-bfb2-4fa9-8cce-697b76ec5e7b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329854,
+                "courseTitle": "Administration of Justice",
+                "courseNumber": "2",
+                "prefix": "CRIM",
+                "prefixParentId": 12002,
+                "prefixDescription": "Criminology",
+                "departmentParentId": 3610,
+                "department": "Criminology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "caeb17d8-6adc-4ad5-8d14-456896331494",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "OTHER DEGREE REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 134991,
+                "courseTitle": "American Government and Institutions",
+                "courseNumber": "2",
+                "prefix": "PLSI",
+                "prefixParentId": 1918,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 10952,
+                "department": "Political Science",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "547023bd-82cf-4622-9de9-c8f74dce2919",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

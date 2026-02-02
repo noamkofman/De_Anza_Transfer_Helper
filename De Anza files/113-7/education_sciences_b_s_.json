@@ -1,0 +1,290 @@
+{
+  "major": "Education Sciences B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 7,
+    "code": "UCSD    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, San Diego",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 370249,
+        "courseTitle": "Introduction to Math Teaching",
+        "courseNumber": "30",
+        "prefix": "EDS",
+        "prefixParentId": 16431,
+        "prefixDescription": "Education Studies",
+        "departmentParentId": 13594,
+        "department": "Education Studies",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 355252,
+        "courseTitle": "Introduction to Human Developmental Sciences",
+        "courseNumber": "1",
+        "prefix": "HDS",
+        "prefixParentId": 7,
+        "prefixDescription": "Human Developmental Sciences",
+        "departmentParentId": 7231,
+        "department": "Human Development Program",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 355278,
+        "courseTitle": "Practice of Social Research",
+        "courseNumber": "60",
+        "prefix": "SOCI",
+        "prefixParentId": 8981,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12169,
+        "department": "Sociology",
+        "begin": "F2009",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 299465,
+              "courseTitle": "The Process of Social Research",
+              "courseNumber": "14",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 370250,
+        "courseTitle": "Introduction to Teaching Science",
+        "courseNumber": "31",
+        "prefix": "EDS",
+        "prefixParentId": 16431,
+        "prefixDescription": "Education Studies",
+        "departmentParentId": 13594,
+        "department": "Education Studies",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 370249,
+                "courseTitle": "Introduction to Math Teaching",
+                "courseNumber": "30",
+                "prefix": "EDS",
+                "prefixParentId": 16431,
+                "prefixDescription": "Education Studies",
+                "departmentParentId": 13594,
+                "department": "Education Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "89deebfb-1add-4ef9-aee3-72de43f3509b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 355252,
+                "courseTitle": "Introduction to Human Developmental Sciences",
+                "courseNumber": "1",
+                "prefix": "HDS",
+                "prefixParentId": 7,
+                "prefixDescription": "Human Developmental Sciences",
+                "departmentParentId": 7231,
+                "department": "Human Development Program",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f4dbf7b5-28dc-4be1-a9b5-feb256cf0b4f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 370251,
+                "courseTitle": "Explorations in Education",
+                "courseNumber": "38",
+                "prefix": "EDS",
+                "prefixParentId": 16431,
+                "prefixDescription": "Education Studies",
+                "departmentParentId": 13594,
+                "department": "Education Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7896d534-0cef-460d-9ba9-3e173b3d420e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 355278,
+                "courseTitle": "Practice of Social Research",
+                "courseNumber": "60",
+                "prefix": "SOCI",
+                "prefixParentId": 8981,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12169,
+                "department": "Sociology",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f2901e43-d2dd-4cbd-a425-ec6d846f5a6b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 370250,
+                "courseTitle": "Introduction to Teaching Science",
+                "courseNumber": "31",
+                "prefix": "EDS",
+                "prefixParentId": 16431,
+                "prefixDescription": "Education Studies",
+                "departmentParentId": 13594,
+                "department": "Education Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "adce01a4-2137-431a-9715-2139e860c218",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 370252,
+                "courseTitle": "Explorations in Secondary STEM Education",
+                "courseNumber": "39",
+                "prefix": "EDS",
+                "prefixParentId": 16431,
+                "prefixDescription": "Education Studies",
+                "departmentParentId": 13594,
+                "department": "Education Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a1d8f90e-4818-42d7-b028-03f989d95524",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

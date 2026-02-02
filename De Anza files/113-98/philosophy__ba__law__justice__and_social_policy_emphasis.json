@@ -1,0 +1,300 @@
+{
+  "major": "Philosophy, BA, Law, Justice, and Social Policy Emphasis",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 98,
+    "code": "CSUB    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Bakersfield",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 237139,
+        "courseTitle": "Business Law",
+        "courseNumber": "2350",
+        "prefix": "ACCT",
+        "prefixParentId": 5759,
+        "prefixDescription": "Accounting",
+        "departmentParentId": 46,
+        "department": "Accounting",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280503,
+              "courseTitle": "Business Law I",
+              "courseNumber": "18",
+              "prefix": "BUS",
+              "prefixParentId": 8279,
+              "prefixDescription": "Business",
+              "departmentParentId": 1965,
+              "department": "Business",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 265249,
+        "courseTitle": "Legal Environment of Domestic and International Business",
+        "courseNumber": "2100",
+        "prefix": "BA",
+        "prefixParentId": 4072,
+        "prefixDescription": "Business Administration",
+        "departmentParentId": 2025,
+        "department": "Business Administration",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280503,
+              "courseTitle": "Business Law I",
+              "courseNumber": "18",
+              "prefix": "BUS",
+              "prefixParentId": 8279,
+              "prefixDescription": "Business",
+              "departmentParentId": 1965,
+              "department": "Business",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 285291,
+        "courseTitle": "Introduction to Criminal Justice",
+        "courseNumber": "1108",
+        "prefix": "CRJU",
+        "prefixParentId": 5598,
+        "prefixDescription": "Criminal Justice",
+        "departmentParentId": 3584,
+        "department": "Criminal Justice",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290405,
+              "courseTitle": "Introduction to Administration of Justice",
+              "courseNumber": "1",
+              "prefix": "ADMJ",
+              "prefixParentId": 2523,
+              "prefixDescription": "Administration of Justice",
+              "departmentParentId": 173,
+              "department": "Administration of Justice",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "79197e8d-188f-40b9-5a90-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 111811,
+                "courseTitle": "Orientation and Methods",
+                "courseNumber": "2610",
+                "prefix": "PHIL",
+                "prefixParentId": 5471,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10163,
+                "department": "Philosophy",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a1109606-45c4-4b2c-520c-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 1,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "62f2f283-c36c-4264-5a91-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 237139,
+                "courseTitle": "Business Law",
+                "courseNumber": "2350",
+                "prefix": "ACCT",
+                "prefixParentId": 5759,
+                "prefixDescription": "Accounting",
+                "departmentParentId": 46,
+                "department": "Accounting",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a5e2f0d1-7460-4386-520d-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 265249,
+                "courseTitle": "Legal Environment of Domestic and International Business",
+                "courseNumber": "2100",
+                "prefix": "BA",
+                "prefixParentId": 4072,
+                "prefixDescription": "Business Administration",
+                "departmentParentId": 2025,
+                "department": "Business Administration",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7590b540-11cc-4c5f-520e-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 285291,
+                "courseTitle": "Introduction to Criminal Justice",
+                "courseNumber": "1108",
+                "prefix": "CRJU",
+                "prefixParentId": 5598,
+                "prefixDescription": "Criminal Justice",
+                "departmentParentId": 3584,
+                "department": "Criminal Justice",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5d4dc54f-6689-4573-de74-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

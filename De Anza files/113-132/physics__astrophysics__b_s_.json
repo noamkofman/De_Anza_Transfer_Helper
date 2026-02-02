@@ -1,0 +1,974 @@
+{
+  "major": "Physics (Astrophysics) B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 132,
+    "code": "UCSC    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Cruz",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 308408,
+        "courseTitle": "Vector Calculus",
+        "courseNumber": "23A",
+        "prefix": "MATH",
+        "prefixParentId": 10044,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 9058,
+        "department": "Mathematics",
+        "begin": "F2013",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309560,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1DH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302624,
+              "courseTitle": "Calculus",
+              "courseNumber": "1D",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 308411,
+        "courseTitle": "Calculus for Science, Engineering, and Mathematics",
+        "courseNumber": "19B",
+        "prefix": "MATH",
+        "prefixParentId": 10044,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 9058,
+        "department": "Mathematics",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288769,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309559,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1CH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359110,
+              "courseTitle": "Calculus",
+              "courseNumber": "1C",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 277505,
+        "courseTitle": "Introduction to Physics III",
+        "courseNumber": "5C",
+        "prefix": "PHYS",
+        "prefixParentId": 322,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10823,
+        "department": "Physics",
+        "begin": "F1994",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 276901,
+              "courseTitle": "Physics for Scientists and Engineers: Electricity and Magnetism",
+              "courseNumber": "4B",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 307121,
+        "courseTitle": "Introduction to Physics I",
+        "courseNumber": "5A",
+        "prefix": "PHYS",
+        "prefixParentId": 322,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10823,
+        "department": "Physics",
+        "begin": "F1994",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305519,
+              "courseTitle": "Physics for Scientists and Engineers: Mechanics",
+              "courseNumber": "4A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 307127,
+        "courseTitle": "Introduction to Physics II",
+        "courseNumber": "5B",
+        "prefix": "PHYS",
+        "prefixParentId": 322,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10823,
+        "department": "Physics",
+        "begin": "F1994",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290250,
+              "courseTitle": "Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics",
+              "courseNumber": "4C",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 359398,
+        "courseTitle": " Calculus for Science, Engineering, and Mathematics",
+        "courseNumber": "19A",
+        "prefix": "MATH",
+        "prefixParentId": 10044,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 9058,
+        "department": "Mathematics",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288768,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 123425,
+        "courseTitle": "Introduction to Physics IV",
+        "courseNumber": "5D",
+        "prefix": "PHYS",
+        "prefixParentId": 322,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10823,
+        "department": "Physics",
+        "begin": "F2014",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290250,
+              "courseTitle": "Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics",
+              "courseNumber": "4C",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 276904,
+              "courseTitle": "Physics for Scientists and Engineers: Modern Physics",
+              "courseNumber": "4D",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 282277,
+        "courseTitle": "Vector Calculus",
+        "courseNumber": "23B",
+        "prefix": "MATH",
+        "prefixParentId": 10044,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 9058,
+        "department": "Mathematics",
+        "begin": "F2013",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309560,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1DH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302624,
+              "courseTitle": "Calculus",
+              "courseNumber": "1D",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 29374,
+        "courseTitle": "INTRODUCTION TO PHYSICS I LABORATORY",
+        "courseNumber": "5L",
+        "prefix": "PHYS",
+        "prefixParentId": 322,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10823,
+        "department": "Physics",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305519,
+              "courseTitle": "Physics for Scientists and Engineers: Mechanics",
+              "courseNumber": "4A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 311118,
+        "courseTitle": "INTRODUCTION TO PHYSICS II LABORATORY",
+        "courseNumber": "5M",
+        "prefix": "PHYS",
+        "prefixParentId": 322,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10823,
+        "department": "Physics",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290250,
+              "courseTitle": "Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics",
+              "courseNumber": "4C",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 27517,
+        "courseTitle": "INTRODUCTION TO PHYSICS LABORATORY III",
+        "courseNumber": "5N",
+        "prefix": "PHYS",
+        "prefixParentId": 322,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10823,
+        "department": "Physics",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 276901,
+              "courseTitle": "Physics for Scientists and Engineers: Electricity and Magnetism",
+              "courseNumber": "4B",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR PREPARATION COURSES REQUIRED FOR TRANSFER": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "25df77d8-b3e0-4542-de53-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308408,
+                "courseTitle": "Vector Calculus",
+                "courseNumber": "23A",
+                "prefix": "MATH",
+                "prefixParentId": 10044,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 9058,
+                "department": "Mathematics",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4e4d2ec1-fe67-432b-992c-6b3cdb55cc40",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308411,
+                "courseTitle": "Calculus for Science, Engineering, and Mathematics",
+                "courseNumber": "19B",
+                "prefix": "MATH",
+                "prefixParentId": 10044,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 9058,
+                "department": "Mathematics",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "827c462d-bb2e-4c06-bab2-87fe266593be",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 277505,
+                "courseTitle": "Introduction to Physics III",
+                "courseNumber": "5C",
+                "prefix": "PHYS",
+                "prefixParentId": 322,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10823,
+                "department": "Physics",
+                "begin": "F1994",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7fe8d250-ea15-44df-979d-0203e52e767b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 307121,
+                "courseTitle": "Introduction to Physics I",
+                "courseNumber": "5A",
+                "prefix": "PHYS",
+                "prefixParentId": 322,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10823,
+                "department": "Physics",
+                "begin": "F1994",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "419e63e8-444f-4693-9c3f-d520d291d160",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 307127,
+                "courseTitle": "Introduction to Physics II",
+                "courseNumber": "5B",
+                "prefix": "PHYS",
+                "prefixParentId": 322,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10823,
+                "department": "Physics",
+                "begin": "F1994",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ec55d855-f38a-437a-b14d-2a355853ad66",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359398,
+                "courseTitle": " Calculus for Science, Engineering, and Mathematics",
+                "courseNumber": "19A",
+                "prefix": "MATH",
+                "prefixParentId": 10044,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 9058,
+                "department": "Mathematics",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ef5ceecb-4602-428d-b063-7e24f21f4fec",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "STRONGLY RECOMMENDED ADVANCED PREPARATION COURSES": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "267447e8-be8e-4932-de54-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 123425,
+                "courseTitle": "Introduction to Physics IV",
+                "courseNumber": "5D",
+                "prefix": "PHYS",
+                "prefixParentId": 322,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10823,
+                "department": "Physics",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "33d49fcf-3a0b-4717-873b-e20d9910aee6",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR PREPARATION COURSES": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "81eb8c62-631c-4ce9-de5b-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 282277,
+                "courseTitle": "Vector Calculus",
+                "courseNumber": "23B",
+                "prefix": "MATH",
+                "prefixParentId": 10044,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 9058,
+                "department": "Mathematics",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "088d11f9-2380-4c86-c2e0-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 29374,
+                "courseTitle": "INTRODUCTION TO PHYSICS I LABORATORY",
+                "courseNumber": "5L",
+                "prefix": "PHYS",
+                "prefixParentId": 322,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10823,
+                "department": "Physics",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cfb79396-aebd-4134-969f-50f8257595ae",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 311118,
+                "courseTitle": "INTRODUCTION TO PHYSICS II LABORATORY",
+                "courseNumber": "5M",
+                "prefix": "PHYS",
+                "prefixParentId": 322,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10823,
+                "department": "Physics",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6a38ee96-99e8-45f2-bab4-84f1438374f4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 27517,
+                "courseTitle": "INTRODUCTION TO PHYSICS LABORATORY III",
+                "courseNumber": "5N",
+                "prefix": "PHYS",
+                "prefixParentId": 322,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10823,
+                "department": "Physics",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b5544260-1c17-4401-bf9b-08e7bec0ec12",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

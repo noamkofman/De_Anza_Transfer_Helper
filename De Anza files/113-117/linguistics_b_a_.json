@@ -1,0 +1,346 @@
+{
+  "major": "Linguistics/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 288891,
+        "courseTitle": "Culture and Communication",
+        "courseNumber": "4",
+        "prefix": "ANTHRO",
+        "prefixParentId": 10805,
+        "prefixDescription": "Anthropology",
+        "departmentParentId": 812,
+        "department": "Anthropology",
+        "begin": "F2017",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353570,
+              "courseTitle": "Linguistic Anthropology",
+              "courseNumber": "6",
+              "prefix": "ANTH",
+              "prefixParentId": 10801,
+              "prefixDescription": "Anthropology",
+              "departmentParentId": 749,
+              "department": "Anthropology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 259540,
+        "courseTitle": "Logic, First Course",
+        "courseNumber": "31",
+        "prefix": "PHILOS",
+        "prefixParentId": 5491,
+        "prefixDescription": "Philosophy",
+        "departmentParentId": 10222,
+        "department": "Philosophy",
+        "begin": "Su2015",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253827,
+              "courseTitle": "Deductive Logic",
+              "courseNumber": "7",
+              "prefix": "PHIL",
+              "prefixParentId": 5487,
+              "prefixDescription": "Philosophy",
+              "departmentParentId": 10175,
+              "department": "Philosophy",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281450,
+              "courseTitle": "General Psychology",
+              "courseNumber": "1",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "ec0b6aa4-2cb9-41ed-1bdd-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 288650,
+                "courseTitle": "Introduction to Linguistics Analysis",
+                "courseNumber": "20",
+                "prefix": "LING",
+                "prefixParentId": 118,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8640,
+                "department": "Linguistics",
+                "begin": "S2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9b34c004-d25d-4c91-85dc-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "AtLeast",
+          "amount": 2,
+          "amountUnitType": "Course",
+          "id": "e23e6a23-0627-4c4f-1747-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "Or",
+                "name": "PSYCH 10, PSYCH 100A",
+                "courses": [
+                  {
+                    "id": "432dc641-fe9e-4a5b-62d5-08db9366a6f7",
+                    "position": 0,
+                    "courseIdentifierParentId": 260129,
+                    "courseTitle": "Introductory Psychology",
+                    "courseNumber": "10",
+                    "prefix": "PSYCH",
+                    "prefixParentId": 4720,
+                    "prefixDescription": "Psychology",
+                    "departmentParentId": 11309,
+                    "department": "Psychology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "c7961be2-f751-4301-62d6-08db9366a6f7",
+                    "position": 1,
+                    "courseIdentifierParentId": 299713,
+                    "courseTitle": "Psychological Statistics",
+                    "courseNumber": "100A",
+                    "prefix": "PSYCH",
+                    "prefixParentId": 4720,
+                    "prefixDescription": "Psychology",
+                    "departmentParentId": 11309,
+                    "department": "Psychology",
+                    "begin": "Su2015",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [
+                {
+                  "seriesCourseId": "c7961be2-f751-4301-62d6-08db9366a6f7",
+                  "position": 0,
+                  "content": "Course recommended to be taken at university"
+                }
+              ],
+              "id": "71421e1c-190f-4496-29bf-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 288891,
+                "courseTitle": "Culture and Communication",
+                "courseNumber": "4",
+                "prefix": "ANTHRO",
+                "prefixParentId": 10805,
+                "prefixDescription": "Anthropology",
+                "departmentParentId": 812,
+                "department": "Anthropology",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d590b35b-64cb-4cf6-b76d-0638a7f12aec",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 259540,
+                "courseTitle": "Logic, First Course",
+                "courseNumber": "31",
+                "prefix": "PHILOS",
+                "prefixParentId": 5491,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10222,
+                "department": "Philosophy",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4e5c53bf-3a58-4287-92a4-b55d79b573e5",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "7bbfaea0-ef9f-410a-1bde-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Equivalent of level three of two foreign languages"
+              },
+              "requirementAttributes": [],
+              "id": "cf531a8f-8353-46fd-9e4e-350e4841665e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Elementary and Intermediate Levels (Six Terms) Of One Foreign Language"
+              },
+              "requirementAttributes": [],
+              "id": "c8a5ce50-841c-43b1-8081-97b6354c1492",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

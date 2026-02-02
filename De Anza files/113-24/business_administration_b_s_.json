@@ -1,0 +1,1161 @@
+{
+  "major": "Business Administration B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 24,
+    "code": "CSUSTAN ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Stanislaus",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 136436,
+        "courseTitle": "Finite Mathematics",
+        "courseNumber": "1500",
+        "prefix": "MATH",
+        "prefixParentId": 9930,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8965,
+        "department": "Mathematics",
+        "begin": "F1998",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307941,
+              "courseTitle": "Finite Mathematics",
+              "courseNumber": "11",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 245921,
+        "courseTitle": "Statistics",
+        "courseNumber": "1600",
+        "prefix": "MATH",
+        "prefixParentId": 9930,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8965,
+        "department": "Mathematics",
+        "begin": "F1993",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "889802b6-1e83-4e10-9760-a81658196c50",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 255009,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283453,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "c45721fe-e84c-4d51-ac58-8930c100f0d9",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 283453,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 255009,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 136405,
+        "courseTitle": "Statistics for Decision Making",
+        "courseNumber": "1610",
+        "prefix": "MATH",
+        "prefixParentId": 9930,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8965,
+        "department": "Mathematics",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "d35c78d8-7c7c-4832-991b-60958fac1512",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 283453,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 255009,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "f26a56c0-8f65-4778-807f-64e4eb13a9ca",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 255009,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283453,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 136440,
+        "courseTitle": "Principles of Microeconomics",
+        "courseNumber": "2510",
+        "prefix": "ECON",
+        "prefixParentId": 1201,
+        "prefixDescription": "Economics",
+        "departmentParentId": 4235,
+        "department": "Economics",
+        "begin": "F1993",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290810,
+              "courseTitle": "Principles of Microeconomics",
+              "courseNumber": "2",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 304874,
+              "courseTitle": "Principles of Microeconomics - HONORS",
+              "courseNumber": "2H",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 230191,
+        "courseTitle": "Financial Accounting",
+        "courseNumber": "2110",
+        "prefix": "ACC",
+        "prefixParentId": 5707,
+        "prefixDescription": "Accounting",
+        "departmentParentId": 9,
+        "department": "Accounting",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 360064,
+              "courseTitle": "Financial Accounting II - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305222,
+              "courseTitle": "Financial Accounting I - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280415,
+              "courseTitle": "Financial Accounting II",
+              "courseNumber": "1B",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309246,
+              "courseTitle": "Financial Accounting I",
+              "courseNumber": "1A",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 222130,
+        "courseTitle": "Managerial Accounting",
+        "courseNumber": "2130",
+        "prefix": "ACC",
+        "prefixParentId": 5707,
+        "prefixDescription": "Accounting",
+        "departmentParentId": 9,
+        "department": "Accounting",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 304827,
+              "courseTitle": "Managerial Accounting",
+              "courseNumber": "1C",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 360065,
+              "courseTitle": "Managerial Accounting - HONORS",
+              "courseNumber": "1CH",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 330675,
+        "courseTitle": "Introduction to Computer Information Systems",
+        "courseNumber": "2000",
+        "prefix": "CIS",
+        "prefixParentId": 2193,
+        "prefixDescription": "Computer Information Systems",
+        "departmentParentId": 3097,
+        "department": "Computer Information Systems",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275551,
+              "courseTitle": "Business Information Systems",
+              "courseNumber": "3",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2009",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 157875,
+        "courseTitle": "Law, Environment, and Ethics",
+        "courseNumber": "2060",
+        "prefix": "BLW",
+        "prefixParentId": 12196,
+        "prefixDescription": "Business Law",
+        "departmentParentId": 2109,
+        "department": "Business Law",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280503,
+              "courseTitle": "Business Law I",
+              "courseNumber": "18",
+              "prefix": "BUS",
+              "prefixParentId": 8279,
+              "prefixDescription": "Business",
+              "departmentParentId": 1965,
+              "department": "Business",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 157935,
+        "courseTitle": "Principles of Macroeconomics",
+        "courseNumber": "2500",
+        "prefix": "ECON",
+        "prefixParentId": 1201,
+        "prefixDescription": "Economics",
+        "departmentParentId": 4235,
+        "department": "Economics",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 357742,
+              "courseTitle": "Principles of Macroeconomics - HONORS",
+              "courseNumber": "1H",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253845,
+              "courseTitle": "Principles of Macroeconomics",
+              "courseNumber": "1",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION PREREQUISITES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 351926,
+                "courseTitle": "Calculus I",
+                "courseNumber": "1410",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1993",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c04e8cc6-6aaa-484b-c74e-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136436,
+                "courseTitle": "Finite Mathematics",
+                "courseNumber": "1500",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1998",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3c07f42b-9a3b-4e71-c74f-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383860,
+                "courseTitle": "Finite Mathematics and Business Statistics II",
+                "courseNumber": "1552",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b613aa59-afea-4753-c750-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330626,
+                "courseTitle": "Calculus With Applications I",
+                "courseNumber": "1910",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1993",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b295f99b-232c-403c-c751-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383862,
+                "courseTitle": "Finite Mathematics and Business Statistics III",
+                "courseNumber": "1553",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "43453941-7050-4893-c752-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 245921,
+                "courseTitle": "Statistics",
+                "courseNumber": "1600",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1993",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2ba9d020-e644-4c74-c753-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136405,
+                "courseTitle": "Statistics for Decision Making",
+                "courseNumber": "1610",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b8e20ad6-d834-4cf6-c754-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136440,
+                "courseTitle": "Principles of Microeconomics",
+                "courseNumber": "2510",
+                "prefix": "ECON",
+                "prefixParentId": 1201,
+                "prefixDescription": "Economics",
+                "departmentParentId": 4235,
+                "department": "Economics",
+                "begin": "F1993",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9456e7c2-73b7-4164-94f8-0da34ab890d8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250469,
+                "courseTitle": "Ethics and Social Responsibility for Businesses and Businesspeople",
+                "courseNumber": "2090",
+                "prefix": "BUS",
+                "prefixParentId": 8221,
+                "prefixDescription": "Business Administration",
+                "departmentParentId": 2040,
+                "department": "Business Administration",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "139deeb7-c772-44bb-9112-a91bd3b98db8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 230191,
+                "courseTitle": "Financial Accounting",
+                "courseNumber": "2110",
+                "prefix": "ACC",
+                "prefixParentId": 5707,
+                "prefixDescription": "Accounting",
+                "departmentParentId": 9,
+                "department": "Accounting",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "182127f9-6e53-4ac1-8b1f-cd011d108e27",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 222130,
+                "courseTitle": "Managerial Accounting",
+                "courseNumber": "2130",
+                "prefix": "ACC",
+                "prefixParentId": 5707,
+                "prefixDescription": "Accounting",
+                "departmentParentId": 9,
+                "department": "Accounting",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8d5013ec-a2fd-41de-9883-233e81074fc3",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330675,
+                "courseTitle": "Introduction to Computer Information Systems",
+                "courseNumber": "2000",
+                "prefix": "CIS",
+                "prefixParentId": 2193,
+                "prefixDescription": "Computer Information Systems",
+                "departmentParentId": 3097,
+                "department": "Computer Information Systems",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "09528cd8-ef6c-4e41-9157-603913721f09",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157875,
+                "courseTitle": "Law, Environment, and Ethics",
+                "courseNumber": "2060",
+                "prefix": "BLW",
+                "prefixParentId": 12196,
+                "prefixDescription": "Business Law",
+                "departmentParentId": 2109,
+                "department": "Business Law",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "abb402e5-02aa-4258-8da2-41f706a1b408",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157935,
+                "courseTitle": "Principles of Macroeconomics",
+                "courseNumber": "2500",
+                "prefix": "ECON",
+                "prefixParentId": 1201,
+                "prefixDescription": "Economics",
+                "departmentParentId": 4235,
+                "department": "Economics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "06590f84-7222-4cdc-b07e-ef858d47ae07",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "COMPUTER INFORMATION SYSTEMS CONCENTRATION": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 343533,
+                "courseTitle": "Introduction to Python Programming",
+                "courseNumber": "2020",
+                "prefix": "CIS",
+                "prefixParentId": 2193,
+                "prefixDescription": "Computer Information Systems",
+                "departmentParentId": 3097,
+                "department": "Computer Information Systems",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8d2fd1a6-66ac-40ce-a9a0-acf3de9405e6",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

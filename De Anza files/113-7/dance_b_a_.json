@@ -1,0 +1,308 @@
+{
+  "major": "Dance B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 7,
+    "code": "UCSD    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, San Diego",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 269450,
+        "courseTitle": "Introduction to Dance",
+        "courseNumber": "10",
+        "prefix": "TDTR",
+        "prefixParentId": 13839,
+        "prefixDescription": "Theatre & Dance/Dance Theory",
+        "departmentParentId": 12844,
+        "department": "Theatre and Dance",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353641,
+              "courseTitle": "Appreciation of Dance",
+              "courseNumber": "38A",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 269450,
+                "courseTitle": "Introduction to Dance",
+                "courseNumber": "10",
+                "prefix": "TDTR",
+                "prefixParentId": 13839,
+                "prefixDescription": "Theatre & Dance/Dance Theory",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7bc4a613-233c-48ce-9c4d-1c87c8a1fdde",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363559,
+                "courseTitle": "Movement Laboratory",
+                "courseNumber": "20",
+                "prefix": "TDMV",
+                "prefixParentId": 16172,
+                "prefixDescription": "Theatre & Dance/Dance Movement",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "eb4db2df-c002-40a3-a13d-6c7c551afa7e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363564,
+                "courseTitle": "Site Specific Dance and Performance",
+                "courseNumber": "5",
+                "prefix": "TDDM",
+                "prefixParentId": 16173,
+                "prefixDescription": "Theatre & Dance/Dance Making",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8cc96602-7d99-45f0-8df9-d2209d99e606",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363560,
+                "courseTitle": "Dance Movement and Analysis",
+                "courseNumber": "15",
+                "prefix": "TDTR",
+                "prefixParentId": 13839,
+                "prefixDescription": "Theatre & Dance/Dance Theory",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "db19b9fe-ecec-4cc5-829d-1c490be26066",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 269449,
+                "courseTitle": "Introduction to Dance Making",
+                "courseNumber": "1",
+                "prefix": "TDDM",
+                "prefixParentId": 16173,
+                "prefixDescription": "Theatre & Dance/Dance Making",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fd3f4635-2bfd-494f-9a5a-c9b9d7b60c94",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363561,
+                "courseTitle": "Dance on Film",
+                "courseNumber": "20",
+                "prefix": "TDTR",
+                "prefixParentId": 13839,
+                "prefixDescription": "Theatre & Dance/Dance Theory",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "68fc7d97-0b88-4586-b92a-3ded2922e1f5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 300552,
+                "courseTitle": "Theatre Practicum",
+                "courseNumber": "6",
+                "prefix": "TDPR",
+                "prefixParentId": 12,
+                "prefixDescription": "Theatre & Dance/Practicum",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 6
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "53a5188c-1f9b-49f3-9151-49d8419ff46a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363558,
+                "courseTitle": "Dance Pioneers of the Twentieth and Twenty-First Centuries",
+                "courseNumber": "21",
+                "prefix": "TDHD",
+                "prefixParentId": 16171,
+                "prefixDescription": "Theatre & Dance/Dance History",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9b9dd351-daf2-44cb-87c2-cd16c4e03fd5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363557,
+                "courseTitle": "Looking at Dance",
+                "courseNumber": "20",
+                "prefix": "TDHD",
+                "prefixParentId": 16171,
+                "prefixDescription": "Theatre & Dance/Dance History",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8e1ed345-c586-4a87-95ac-463efb574544",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

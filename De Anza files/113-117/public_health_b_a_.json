@@ -1,0 +1,842 @@
+{
+  "major": "Public Health/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 305292,
+        "courseTitle": "Cell and Molecular Biology",
+        "courseNumber": "7A",
+        "prefix": "LIFESCI",
+        "prefixParentId": 9769,
+        "prefixDescription": "Life Sciences",
+        "departmentParentId": 8609,
+        "department": "Life Sciences",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290473,
+              "courseTitle": "Cell and Molecular Biology",
+              "courseNumber": "6B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 303551,
+        "courseTitle": "Life: Concepts and Issues",
+        "courseNumber": "15",
+        "prefix": "LIFESCI",
+        "prefixParentId": 9769,
+        "prefixDescription": "Life Sciences",
+        "departmentParentId": 8609,
+        "department": "Life Sciences",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282638,
+              "courseTitle": "Introductory Biology",
+              "courseNumber": "10",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 361296,
+        "courseTitle": "Chemical Principles",
+        "courseNumber": "17",
+        "prefix": "CHEM",
+        "prefixParentId": 10658,
+        "prefixDescription": "Chemistry and Biochemistry",
+        "departmentParentId": 2396,
+        "department": "Chemistry and Biochemistry",
+        "begin": "S2017",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "Or",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359076,
+              "courseTitle": "Introductory Chemistry",
+              "courseNumber": "10",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309434,
+              "courseTitle": "Preparation Course for General Chemistry",
+              "courseNumber": "25",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 259,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 1827,
+        "courseTitle": "Chemical Structure",
+        "courseNumber": "20A",
+        "prefix": "CHEM",
+        "prefixParentId": 10658,
+        "prefixDescription": "Chemistry and Biochemistry",
+        "departmentParentId": 2396,
+        "department": "Chemistry and Biochemistry",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359228,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 304223,
+        "courseTitle": "Introduction to Statistical Reasoning",
+        "courseNumber": "10",
+        "prefix": "STATS",
+        "prefixParentId": 3372,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 12559,
+        "department": "Statistics",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 262474,
+        "courseTitle": "Introduction to Statistical Methods for Life and Health Sciences",
+        "courseNumber": "13",
+        "prefix": "STATS",
+        "prefixParentId": 3372,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 12559,
+        "department": "Statistics",
+        "begin": "Su2002",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 297063,
+        "courseTitle": "Principles of Oral Communication",
+        "courseNumber": "1",
+        "prefix": "COMM ",
+        "prefixParentId": 109,
+        "prefixDescription": "Communication ",
+        "departmentParentId": 2819,
+        "department": "Communication ",
+        "begin": "Su2017",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253717,
+              "courseTitle": "Public Speaking",
+              "courseNumber": "1",
+              "prefix": "COMM",
+              "prefixParentId": 4367,
+              "prefixDescription": "Communication Studies",
+              "departmentParentId": 13310,
+              "department": "Communication Studies",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302737,
+              "courseTitle": "Critical Thinking and Writing",
+              "courseNumber": "3",
+              "prefix": "PHIL",
+              "prefixParentId": 5487,
+              "prefixDescription": "Philosophy",
+              "departmentParentId": 10175,
+              "department": "Philosophy",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302735,
+              "courseTitle": "Literature and Composition",
+              "courseNumber": "1C",
+              "prefix": "EWRT",
+              "prefixParentId": 1402,
+              "prefixDescription": "English (Writing)",
+              "departmentParentId": 5070,
+              "department": "English (Writing)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305223,
+              "courseTitle": "Reading, Writing and Research - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "EWRT",
+              "prefixParentId": 1402,
+              "prefixDescription": "English (Writing)",
+              "departmentParentId": 5070,
+              "department": "English (Writing)",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280473,
+              "courseTitle": "Argumentation: Analysis of Oral and Written Communication",
+              "courseNumber": "9",
+              "prefix": "COMM",
+              "prefixParentId": 4367,
+              "prefixDescription": "Communication Studies",
+              "departmentParentId": 13310,
+              "department": "Communication Studies",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 360067,
+              "courseTitle": "Critical Reading, Writing and Thinking - HONORS",
+              "courseNumber": "2H",
+              "prefix": "EWRT",
+              "prefixParentId": 1402,
+              "prefixDescription": "English (Writing)",
+              "departmentParentId": 5070,
+              "department": "English (Writing)",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280460,
+              "courseTitle": "Reading, Writing and Research",
+              "courseNumber": "1B",
+              "prefix": "EWRT",
+              "prefixParentId": 1402,
+              "prefixDescription": "English (Writing)",
+              "departmentParentId": 5070,
+              "department": "English (Writing)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 308237,
+              "courseTitle": "Critical Reading, Writing and Thinking",
+              "courseNumber": "2",
+              "prefix": "EWRT",
+              "prefixParentId": 1402,
+              "prefixDescription": "English (Writing)",
+              "departmentParentId": 5070,
+              "department": "English (Writing)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "2521e8d8-7ab5-4b9e-1761-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305292,
+                "courseTitle": "Cell and Molecular Biology",
+                "courseNumber": "7A",
+                "prefix": "LIFESCI",
+                "prefixParentId": 9769,
+                "prefixDescription": "Life Sciences",
+                "departmentParentId": 8609,
+                "department": "Life Sciences",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ac48722a-7748-48fe-8707-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303551,
+                "courseTitle": "Life: Concepts and Issues",
+                "courseNumber": "15",
+                "prefix": "LIFESCI",
+                "prefixParentId": 9769,
+                "prefixDescription": "Life Sciences",
+                "departmentParentId": 8609,
+                "department": "Life Sciences",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b87e59f7-8728-472a-9355-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "01fe3491-9021-415b-1762-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 361296,
+                "courseTitle": "Chemical Principles",
+                "courseNumber": "17",
+                "prefix": "CHEM",
+                "prefixParentId": 10658,
+                "prefixDescription": "Chemistry and Biochemistry",
+                "departmentParentId": 2396,
+                "department": "Chemistry and Biochemistry",
+                "begin": "S2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "781ad637-ea6e-4966-8709-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 1827,
+                "courseTitle": "Chemical Structure",
+                "courseNumber": "20A",
+                "prefix": "CHEM",
+                "prefixParentId": 10658,
+                "prefixDescription": "Chemistry and Biochemistry",
+                "departmentParentId": 2396,
+                "department": "Chemistry and Biochemistry",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ddd3c18c-2bfc-46bc-9356-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "fcaf828f-fd82-40cc-1763-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304223,
+                "courseTitle": "Introduction to Statistical Reasoning",
+                "courseNumber": "10",
+                "prefix": "STATS",
+                "prefixParentId": 3372,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 12559,
+                "department": "Statistics",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8becfc17-8056-4b60-870b-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 262474,
+                "courseTitle": "Introduction to Statistical Methods for Life and Health Sciences",
+                "courseNumber": "13",
+                "prefix": "STATS",
+                "prefixParentId": 3372,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 12559,
+                "department": "Statistics",
+                "begin": "Su2002",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Acceptable substitute"
+                }
+              ],
+              "id": "b37d7cfa-afe3-437f-9357-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "9e4b6779-197e-43ff-1b58-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 297063,
+                "courseTitle": "Principles of Oral Communication",
+                "courseNumber": "1",
+                "prefix": "COMM ",
+                "prefixParentId": 109,
+                "prefixDescription": "Communication ",
+                "departmentParentId": 2819,
+                "department": "Communication ",
+                "begin": "Su2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "48883e4d-86fb-43fb-870d-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Writing II Courses"
+              },
+              "requirementAttributes": [],
+              "id": "b6779834-3898-458d-870e-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "adf021a9-820e-40d3-1b59-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Approved courses in Cultural Competency/Diversity"
+              },
+              "requirementAttributes": [],
+              "id": "ffb8d0a6-c35b-4989-2a5f-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Approved Courses in Health and Society"
+              },
+              "requirementAttributes": [],
+              "id": "42a5c362-d1bd-40b0-2a60-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

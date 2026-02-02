@@ -1,0 +1,859 @@
+{
+  "major": "Art B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 24,
+    "code": "CSUSTAN ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Stanislaus",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 330630,
+        "courseTitle": "Art History Survey-Ancient",
+        "courseNumber": "2515",
+        "prefix": "ART",
+        "prefixParentId": 4446,
+        "prefixDescription": "Art",
+        "departmentParentId": 1046,
+        "department": "Art",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253849,
+              "courseTitle": "History of Art: Europe During the Middle Ages and the Renaissance",
+              "courseNumber": "2B",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254867,
+              "courseTitle": "History of Art: Europe from Prehistory through Early Christianity",
+              "courseNumber": "2A",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 136396,
+        "courseTitle": "Art History Survey-Modern",
+        "courseNumber": "2520",
+        "prefix": "ART",
+        "prefixParentId": 4446,
+        "prefixDescription": "Art",
+        "departmentParentId": 1046,
+        "department": "Art",
+        "begin": "F1998",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 289337,
+              "courseTitle": "History of Art: Europe and the United States from Post-Impressionism to the Present",
+              "courseNumber": "2D",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253849,
+              "courseTitle": "History of Art: Europe During the Middle Ages and the Renaissance",
+              "courseNumber": "2B",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281454,
+              "courseTitle": "History of Art: Europe from the Baroque Period through Impressionism",
+              "courseNumber": "2C",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 157931,
+        "courseTitle": "Art History Survey-Non-Western",
+        "courseNumber": "2525",
+        "prefix": "ART",
+        "prefixParentId": 4446,
+        "prefixDescription": "Art",
+        "departmentParentId": 1046,
+        "department": "Art",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "cf3a921a-55e2-46d1-bf92-57922b25411c",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 296555,
+                  "courseTitle": "History of Art: Arts of Africa, Oceania and Native North America",
+                  "courseNumber": "2J",
+                  "prefix": "ARTS",
+                  "prefixParentId": 4538,
+                  "prefixDescription": "Arts",
+                  "departmentParentId": 1240,
+                  "department": "Arts",
+                  "begin": "F2021",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 296554,
+              "courseTitle": "History of Art: Arts of Africa, Oceania and Native North America",
+              "courseNumber": "22",
+              "prefix": "INTL",
+              "prefixParentId": 767,
+              "prefixDescription": "International Studies",
+              "departmentParentId": 7709,
+              "department": "International Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "b0a0db57-c73a-44f2-85b7-f9e33ff2b539",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 296554,
+                  "courseTitle": "History of Art: Arts of Africa, Oceania and Native North America",
+                  "courseNumber": "22",
+                  "prefix": "INTL",
+                  "prefixParentId": 767,
+                  "prefixDescription": "International Studies",
+                  "departmentParentId": 7709,
+                  "department": "International Studies",
+                  "begin": "F2021",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 296555,
+              "courseTitle": "History of Art: Arts of Africa, Oceania and Native North America",
+              "courseNumber": "2J",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 218887,
+        "courseTitle": "Art History Survey-Asian",
+        "courseNumber": "2527",
+        "prefix": "ART",
+        "prefixParentId": 4446,
+        "prefixDescription": "Art",
+        "departmentParentId": 1046,
+        "department": "Art",
+        "begin": "F2008",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "8bf1c6dc-4944-44ac-9945-3f72359beeb8",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 353553,
+                  "courseTitle": "History of Art: Arts of Asia",
+                  "courseNumber": "2G",
+                  "prefix": "ARTS",
+                  "prefixParentId": 4538,
+                  "prefixDescription": "Arts",
+                  "departmentParentId": 1240,
+                  "department": "Arts",
+                  "begin": "F2016",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353552,
+              "courseTitle": "History of Art: Arts of Asia",
+              "courseNumber": "40",
+              "prefix": "ASAM",
+              "prefixParentId": 16555,
+              "prefixDescription": "Asian American and Asian Studies",
+              "departmentParentId": 13706,
+              "department": "Asian American and Asian Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "4ba2b970-367c-4380-86da-e6450679666f",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 353552,
+                  "courseTitle": "History of Art: Arts of Asia",
+                  "courseNumber": "40",
+                  "prefix": "ASAM",
+                  "prefixParentId": 16555,
+                  "prefixDescription": "Asian American and Asian Studies",
+                  "departmentParentId": 13706,
+                  "department": "Asian American and Asian Studies",
+                  "begin": "F2021",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353553,
+              "courseTitle": "History of Art: Arts of Asia",
+              "courseNumber": "2G",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 171209,
+        "courseTitle": "Foundation Sculpture",
+        "courseNumber": "1200",
+        "prefix": "ART",
+        "prefixParentId": 4446,
+        "prefixDescription": "Art",
+        "departmentParentId": 1046,
+        "department": "Art",
+        "begin": "F2008",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 266844,
+              "courseTitle": "Intermediate Three-Dimensional Design",
+              "courseNumber": "10B",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 240234,
+              "courseTitle": "Three-Dimensional Design",
+              "courseNumber": "10A",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 330669,
+        "courseTitle": "Foundation Drawing",
+        "courseNumber": "1010",
+        "prefix": "ART",
+        "prefixParentId": 4446,
+        "prefixDescription": "Art",
+        "departmentParentId": 1046,
+        "department": "Art",
+        "begin": "F2007",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 228909,
+              "courseTitle": "Intermediate Drawing",
+              "courseNumber": "4B",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 268517,
+              "courseTitle": "Beginning Drawing",
+              "courseNumber": "4A",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 330663,
+        "courseTitle": "Drawing II: Composition",
+        "courseNumber": "1020",
+        "prefix": "ART",
+        "prefixParentId": 4446,
+        "prefixDescription": "Art",
+        "departmentParentId": 1046,
+        "department": "Art",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 201648,
+              "courseTitle": "Two-Dimensional Design",
+              "courseNumber": "8",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREREQUISITES FOR THE MAJOR": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330630,
+                "courseTitle": "Art History Survey-Ancient",
+                "courseNumber": "2515",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "35cb5c76-61a2-48b8-ce20-08db92d75f53",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136396,
+                "courseTitle": "Art History Survey-Modern",
+                "courseNumber": "2520",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "F1998",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2f969ce8-f2ec-44c3-ce21-08db92d75f53",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157931,
+                "courseTitle": "Art History Survey-Non-Western",
+                "courseNumber": "2525",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "58fe1a78-7e07-40ec-a1a8-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 236410,
+                "courseTitle": "Art History Survey-Islamic",
+                "courseNumber": "2526",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d7682c16-114a-44d1-a1a9-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 218887,
+                "courseTitle": "Art History Survey-Asian",
+                "courseNumber": "2527",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1d0c67ef-22cc-48a8-a1aa-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 215039,
+                "courseTitle": "Foundation Printmaking, Option A",
+                "courseNumber": "1030",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "F2007",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5a7036c7-3edc-4951-a1a6-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 347062,
+                "courseTitle": "Foundation Printmaking, Option B",
+                "courseNumber": "1035",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f238ede0-a6db-466d-a1a7-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136388,
+                "courseTitle": "Foundation Painting",
+                "courseNumber": "1100",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "290f2012-2c35-406d-9e63-c61d4b8be74b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171209,
+                "courseTitle": "Foundation Sculpture",
+                "courseNumber": "1200",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0dbe6485-271a-4a55-8909-76268d70a2da",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330669,
+                "courseTitle": "Foundation Drawing",
+                "courseNumber": "1010",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "F2007",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cb5c21a7-81b2-44ee-ba2e-2dac85cb7a76",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 248099,
+                "courseTitle": "Foundation Digital Media",
+                "courseNumber": "1040",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "S2008",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6ac013d7-0c67-4435-b924-21cc3268f41b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330663,
+                "courseTitle": "Drawing II: Composition",
+                "courseNumber": "1020",
+                "prefix": "ART",
+                "prefixParentId": 4446,
+                "prefixDescription": "Art",
+                "departmentParentId": 1046,
+                "department": "Art",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7ef36231-1a9f-4c62-869d-0dcadfc467f2",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

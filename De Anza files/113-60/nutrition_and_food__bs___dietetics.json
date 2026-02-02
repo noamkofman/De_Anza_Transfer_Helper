@@ -1,0 +1,697 @@
+{
+  "major": "Nutrition and Food, BS - Dietetics",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 60,
+    "code": "CSUS    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Sacramento",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 267641,
+        "courseTitle": "Food Safety and Sanitation",
+        "courseNumber": "9",
+        "prefix": "NUFD",
+        "prefixParentId": 16650,
+        "prefixDescription": "Nutrition and Food",
+        "departmentParentId": 5475,
+        "department": "Family and Consumer Sciences",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 341616,
+        "courseTitle": "Principles of Food Preparation",
+        "courseNumber": "11",
+        "prefix": "NUFD",
+        "prefixParentId": 16650,
+        "prefixDescription": "Nutrition and Food",
+        "departmentParentId": 5475,
+        "department": "Family and Consumer Sciences",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 301006,
+        "courseTitle": "General Chemistry I",
+        "courseNumber": "1A",
+        "prefix": "CHEM",
+        "prefixParentId": 3799,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2314,
+        "department": "Chemistry",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359228,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 329111,
+        "courseTitle": "Introduction to Statistics",
+        "courseNumber": "1",
+        "prefix": "STAT",
+        "prefixParentId": 3361,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 157316,
+        "courseTitle": "Basic Biological Concepts",
+        "courseNumber": "10",
+        "prefix": "BIO",
+        "prefixParentId": 4877,
+        "prefixDescription": "Biological Sciences",
+        "departmentParentId": 1627,
+        "department": "Biological Sciences",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290473,
+              "courseTitle": "Cell and Molecular Biology",
+              "courseNumber": "6B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 276682,
+        "courseTitle": "General Chemistry II",
+        "courseNumber": "1B",
+        "prefix": "CHEM",
+        "prefixParentId": 3799,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2314,
+        "department": "Chemistry",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306955,
+              "courseTitle": "General Chemistry and Qualitative Analysis",
+              "courseNumber": "1C",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 341634,
+        "courseTitle": "Nutrition and Wellness",
+        "courseNumber": "10",
+        "prefix": "NUFD",
+        "prefixParentId": 16650,
+        "prefixDescription": "Nutrition and Food",
+        "departmentParentId": 5475,
+        "department": "Family and Consumer Sciences",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353646,
+              "courseTitle": "Contemporary Nutrition",
+              "courseNumber": "10",
+              "prefix": "NUTR",
+              "prefixParentId": 7969,
+              "prefixDescription": "Nutrition",
+              "departmentParentId": 9790,
+              "department": "Nutrition",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 163595,
+        "courseTitle": "Organic Chemistry Lecture--Brief Course",
+        "courseNumber": "20",
+        "prefix": "CHEM",
+        "prefixParentId": 3799,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2314,
+        "department": "Chemistry",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 301520,
+        "courseTitle": "Microbiology for Allied Health Students",
+        "courseNumber": "39",
+        "prefix": "BIO",
+        "prefixParentId": 4877,
+        "prefixDescription": "Biological Sciences",
+        "departmentParentId": 1627,
+        "department": "Biological Sciences",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 276918,
+              "courseTitle": "Introductory Microbiology",
+              "courseNumber": "26",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2002",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 262922,
+        "courseTitle": "Introductory Psychology",
+        "courseNumber": "2",
+        "prefix": "PSYC",
+        "prefixParentId": 4649,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11240,
+        "department": "Psychology",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281450,
+              "courseTitle": "General Psychology",
+              "courseNumber": "1",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PRE-MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "fc66b58e-a32e-4445-5e8e-08dbfdccbd2c",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 267641,
+                "courseTitle": "Food Safety and Sanitation",
+                "courseNumber": "9",
+                "prefix": "NUFD",
+                "prefixParentId": 16650,
+                "prefixDescription": "Nutrition and Food",
+                "departmentParentId": 5475,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c84e0296-3d0f-4ed9-b470-bd2ac3a4eb09",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341616,
+                "courseTitle": "Principles of Food Preparation",
+                "courseNumber": "11",
+                "prefix": "NUFD",
+                "prefixParentId": 16650,
+                "prefixDescription": "Nutrition and Food",
+                "departmentParentId": 5475,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a9d42345-4537-4f32-b29d-5f02f98a7b94",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 301006,
+                "courseTitle": "General Chemistry I",
+                "courseNumber": "1A",
+                "prefix": "CHEM",
+                "prefixParentId": 3799,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2314,
+                "department": "Chemistry",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bf35cdc3-2508-4fe6-897d-a25acaf29c89",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329111,
+                "courseTitle": "Introduction to Statistics",
+                "courseNumber": "1",
+                "prefix": "STAT",
+                "prefixParentId": 3361,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "87cab198-dabd-47bb-9d4e-4c276aca8d73",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157316,
+                "courseTitle": "Basic Biological Concepts",
+                "courseNumber": "10",
+                "prefix": "BIO",
+                "prefixParentId": 4877,
+                "prefixDescription": "Biological Sciences",
+                "departmentParentId": 1627,
+                "department": "Biological Sciences",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3583375f-0f5e-4667-8733-24f48945bbfa",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 276682,
+                "courseTitle": "General Chemistry II",
+                "courseNumber": "1B",
+                "prefix": "CHEM",
+                "prefixParentId": 3799,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2314,
+                "department": "Chemistry",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5535b923-4f61-41c6-b7c0-eadd6a71a37c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341634,
+                "courseTitle": "Nutrition and Wellness",
+                "courseNumber": "10",
+                "prefix": "NUFD",
+                "prefixParentId": 16650,
+                "prefixDescription": "Nutrition and Food",
+                "departmentParentId": 5475,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "08cfbe29-16bc-4cdb-b5cf-25123aa420f3",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "a3f2af13-16bf-4bfa-5e8f-08dbfdccbd2c",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 163595,
+                "courseTitle": "Organic Chemistry Lecture--Brief Course",
+                "courseNumber": "20",
+                "prefix": "CHEM",
+                "prefixParentId": 3799,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2314,
+                "department": "Chemistry",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "57449e20-aec7-4f5a-bab9-05f92514a32d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 301520,
+                "courseTitle": "Microbiology for Allied Health Students",
+                "courseNumber": "39",
+                "prefix": "BIO",
+                "prefixParentId": 4877,
+                "prefixDescription": "Biological Sciences",
+                "departmentParentId": 1627,
+                "department": "Biological Sciences",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e36e2a2b-f257-43a7-afd2-6504c4d45ae3",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 262922,
+                "courseTitle": "Introductory Psychology",
+                "courseNumber": "2",
+                "prefix": "PSYC",
+                "prefixParentId": 4649,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11240,
+                "department": "Psychology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bde2abba-bf0f-4bc8-8ec9-3da692c304f0",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

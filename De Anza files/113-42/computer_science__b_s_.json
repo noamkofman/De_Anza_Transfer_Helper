@@ -1,0 +1,1906 @@
+{
+  "major": "COMPUTER SCIENCE, B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 42,
+    "code": "CSUN    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Northridge",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 136565,
+        "courseTitle": "Calculus II",
+        "courseNumber": "150B",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 359110,
+              "courseTitle": "Calculus",
+              "courseNumber": "1C",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 172001,
+        "courseTitle": "Introduction to Linear Algebra",
+        "courseNumber": "262",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302590,
+              "courseTitle": "Linear Algebra",
+              "courseNumber": "2B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 171510,
+        "courseTitle": "Calculus I",
+        "courseNumber": "150A",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 359110,
+              "courseTitle": "Calculus",
+              "courseNumber": "1C",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 171498,
+        "courseTitle": "Introduction to Formal Logic",
+        "courseNumber": "230",
+        "prefix": "PHIL",
+        "prefixParentId": 5415,
+        "prefixDescription": "Philosophy",
+        "departmentParentId": 10125,
+        "department": "Philosophy",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253827,
+              "courseTitle": "Deductive Logic",
+              "courseNumber": "7",
+              "prefix": "PHIL",
+              "prefixParentId": 5487,
+              "prefixDescription": "Philosophy",
+              "departmentParentId": 10175,
+              "department": "Philosophy",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275526,
+              "courseTitle": "Java Programming",
+              "courseNumber": "35A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 300746,
+              "courseTitle": "Introduction to Computer Programming Using Java",
+              "courseNumber": "36A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275613,
+              "courseTitle": "Beginning Programming Methodologies in C++",
+              "courseNumber": "22A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290473,
+              "courseTitle": "Cell and Molecular Biology",
+              "courseNumber": "6B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 309815,
+              "courseTitle": "Ecology and Evolution",
+              "courseNumber": "6C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290474,
+              "courseTitle": "Form and Function in the Biological World",
+              "courseNumber": "6A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290473,
+              "courseTitle": "Cell and Molecular Biology",
+              "courseNumber": "6B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 309815,
+              "courseTitle": "Ecology and Evolution",
+              "courseNumber": "6C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290474,
+              "courseTitle": "Form and Function in the Biological World",
+              "courseNumber": "6A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 306955,
+              "courseTitle": "General Chemistry and Qualitative Analysis",
+              "courseNumber": "1C",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359228,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Lecture only; Lab is not articulated"
+                }
+              ],
+              "courseIdentifierParentId": 283033,
+              "courseTitle": "Physical Geography",
+              "courseNumber": "1",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280962,
+              "courseTitle": "Weather and Climate Processes",
+              "courseNumber": "10",
+              "prefix": "MET",
+              "prefixParentId": 12075,
+              "prefixDescription": "Meteorology",
+              "departmentParentId": 9202,
+              "department": "Meteorology",
+              "begin": "F2012",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 44549,
+              "courseTitle": "Meteorology Laboratory",
+              "courseNumber": "10L",
+              "prefix": "MET",
+              "prefixParentId": 12075,
+              "prefixDescription": "Meteorology",
+              "departmentParentId": 9202,
+              "department": "Meteorology",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 308128,
+              "courseTitle": "Introductory Geology",
+              "courseNumber": "10",
+              "prefix": "GEOL",
+              "prefixParentId": 11330,
+              "prefixDescription": "Geology",
+              "departmentParentId": 6352,
+              "department": "Geology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305519,
+              "courseTitle": "Physics for Scientists and Engineers: Mechanics",
+              "courseNumber": "4A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306384,
+              "courseTitle": "Data Abstraction and Structures",
+              "courseNumber": "22C",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 300749,
+              "courseTitle": "Intermediate Problem Solving in Java",
+              "courseNumber": "36B",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306384,
+              "courseTitle": "Data Abstraction and Structures",
+              "courseNumber": "22C",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 300758,
+              "courseTitle": "Intermediate Programming Methodologies in C++",
+              "courseNumber": "22B",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306384,
+              "courseTitle": "Data Abstraction and Structures",
+              "courseNumber": "22C",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275526,
+              "courseTitle": "Java Programming",
+              "courseNumber": "35A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 279901,
+              "courseTitle": "Introduction to x86 Processor Assembly Language and Computer Architecture",
+              "courseNumber": "21JA",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359214,
+              "courseTitle": "Discrete Mathematics",
+              "courseNumber": "22",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 342227,
+                "courseTitle": "Advanced Data Structures",
+                "courseNumber": "282",
+                "prefix": "COMP",
+                "prefixParentId": 499,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3204,
+                "department": "Computer Science",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "48589e5e-b5b3-4fd1-ac44-79681a519973",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 331030,
+                "courseTitle": "Computer Organization",
+                "courseNumber": "222",
+                "prefix": "COMP",
+                "prefixParentId": 499,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3204,
+                "department": "Computer Science",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "658c0235-4688-4e4a-a6a5-135b980534f2",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136565,
+                "courseTitle": "Calculus II",
+                "courseNumber": "150B",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0c1f478f-517c-49fb-9df5-ae9e18f20633",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "COMP 182, COMP 182L",
+                "courses": [
+                  {
+                    "id": "d43e4eb0-4bef-4fd4-818c-df223fa44327",
+                    "position": 0,
+                    "courseIdentifierParentId": 136915,
+                    "courseTitle": "Data Structures and Program Design",
+                    "courseNumber": "182",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "b6e2412f-4e4c-47bf-8bf8-f49a91243110",
+                    "position": 1,
+                    "courseIdentifierParentId": 47552,
+                    "courseTitle": "Data Structures and Program Design Lab",
+                    "courseNumber": "182L",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "F2000",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "e8817294-0d40-41fa-8e94-9f3fc72f06af",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "COMP 122, COMP 122L",
+                "courses": [
+                  {
+                    "id": "0ca487f3-1b04-43a2-8f60-35b9a2e70a2a",
+                    "position": 0,
+                    "courseIdentifierParentId": 51732,
+                    "courseTitle": "Computer Architecture and Assembly Language",
+                    "courseNumber": "122",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "F2023",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "107419f7-67e3-4184-bc87-a0a99d9ec701",
+                    "position": 1,
+                    "courseIdentifierParentId": 50366,
+                    "courseTitle": "Computer Architecture and Assembly Language Lab",
+                    "courseNumber": "122L",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "S2007",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "9867e114-31c5-4182-bc99-525381cef506",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 172001,
+                "courseTitle": "Introduction to Linear Algebra",
+                "courseNumber": "262",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b3f235ef-f0e5-4a00-89cc-a60fa97e4657",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "COMP 256, COMP 256L",
+                "courses": [
+                  {
+                    "id": "3c92646c-3653-4514-b1ae-cd8eebcf2b87",
+                    "position": 0,
+                    "courseIdentifierParentId": 348342,
+                    "courseTitle": "Discrete Structures for Computer Science",
+                    "courseNumber": "256",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "F2011",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "d1ccd1d7-623d-4791-8625-b11c8e491904",
+                    "position": 1,
+                    "courseIdentifierParentId": 58534,
+                    "courseTitle": "Discrete Structures for Computer Science Lab",
+                    "courseNumber": "256L",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "F2011",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "dacf01cf-99cd-4a58-b0fe-04b01bc0d825",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171510,
+                "courseTitle": "Calculus I",
+                "courseNumber": "150A",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e551a23e-efad-4ddf-8cc9-e2bcee84f32c",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171498,
+                "courseTitle": "Introduction to Formal Logic",
+                "courseNumber": "230",
+                "prefix": "PHIL",
+                "prefixParentId": 5415,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10125,
+                "department": "Philosophy",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "53278550-52ee-4ae5-9117-50b7eef245f9",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "db899bcd-58eb-4e7c-fca0-08dbc4fd2609",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "COMP 110, COMP 110L",
+                "courses": [
+                  {
+                    "id": "82502ece-2b23-418e-8985-bed36585dee0",
+                    "position": 0,
+                    "courseIdentifierParentId": 330971,
+                    "courseTitle": "Introduction to Algorithms and Programming",
+                    "courseNumber": "110",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "15b56369-caba-4e9f-8b0d-1ea5a1c05b32",
+                    "position": 1,
+                    "courseIdentifierParentId": 171526,
+                    "courseTitle": "Introduction to Algorithms and Programming Laboratory",
+                    "courseNumber": "110L",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "af05af6e-25dd-44a2-032c-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "COMP 111A, COMP 111AL",
+                "courses": [
+                  {
+                    "id": "4d7ecbc6-bef5-4869-abd6-5d2a77ccfd95",
+                    "position": 0,
+                    "courseIdentifierParentId": 385668,
+                    "courseTitle": "Introduction to Algorithms and Programming A",
+                    "courseNumber": "111A",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "8ea6d9be-c4b0-4dec-9a12-d29e157ff866",
+                    "position": 1,
+                    "courseIdentifierParentId": 385669,
+                    "courseTitle": "Introduction To Algorithms And Programming A Lab",
+                    "courseNumber": "111AL",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "6eb0c99e-ae34-4f1e-032d-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "COMP 111B, COMP 111BL",
+                "courses": [
+                  {
+                    "id": "ed2e65a3-81db-430b-9789-239a09855566",
+                    "position": 0,
+                    "courseIdentifierParentId": 385670,
+                    "courseTitle": "Introduction to Algorithms and Programming B",
+                    "courseNumber": "111B",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "4fe80fb7-a9ec-4393-8f71-7c5dd6f9d059",
+                    "position": 1,
+                    "courseIdentifierParentId": 385671,
+                    "courseTitle": "Introduction to Algorithms and Programming B Lab",
+                    "courseNumber": "111BL",
+                    "prefix": "COMP",
+                    "prefixParentId": 499,
+                    "prefixDescription": "Computer Science",
+                    "departmentParentId": 3204,
+                    "department": "Computer Science",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "ef2ca760-45d6-45bb-032e-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "SCIENCE ELECTIVE WITH LAB": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "772d53fa-37bb-4189-58f0-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 106, BIOL 106L",
+                "courses": [
+                  {
+                    "id": "df660c1f-352a-4d2d-bfec-935f0953062b",
+                    "position": 0,
+                    "courseIdentifierParentId": 172121,
+                    "courseTitle": "Biological Principles I",
+                    "courseNumber": "106",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "364e1524-18a4-405c-b306-ed711d4d1ddc",
+                    "position": 1,
+                    "courseIdentifierParentId": 48479,
+                    "courseTitle": "Biology Laboratory I",
+                    "courseNumber": "106L",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "d51f45aa-5f50-49d6-4b5e-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 107, BIOL 107L",
+                "courses": [
+                  {
+                    "id": "de5de405-419c-4633-8601-2d1605414873",
+                    "position": 0,
+                    "courseIdentifierParentId": 330966,
+                    "courseTitle": "Biological Principles II",
+                    "courseNumber": "107",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "a9645239-a797-405d-ac10-629302847d31",
+                    "position": 1,
+                    "courseIdentifierParentId": 314575,
+                    "courseTitle": "Biology Laboratory II",
+                    "courseNumber": "107L",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "d9c51e99-76af-4012-4b5f-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "GEOL 110, GEOL 112",
+                "courses": [
+                  {
+                    "id": "3eacc2c2-be6c-43c5-b236-3291c0906085",
+                    "position": 0,
+                    "courseIdentifierParentId": 136936,
+                    "courseTitle": "The Fossil Record of Ancient Life on Earth",
+                    "courseNumber": "110",
+                    "prefix": "GEOL",
+                    "prefixParentId": 11263,
+                    "prefixDescription": "Geological Sciences",
+                    "departmentParentId": 6302,
+                    "department": "Geology",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "44391f6f-bb5a-40da-9196-b1ede89c5359",
+                    "position": 1,
+                    "courseIdentifierParentId": 207593,
+                    "courseTitle": "Earth and Life Through Time Lab",
+                    "courseNumber": "112",
+                    "prefix": "GEOL",
+                    "prefixParentId": 11263,
+                    "prefixDescription": "Geological Sciences",
+                    "departmentParentId": 6302,
+                    "department": "Geology",
+                    "begin": "F2009",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "6f98e025-3d04-4b1b-4b60-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NToNFromConjunction",
+          "conjunction": "Or",
+          "fromAmount": 4,
+          "toAmount": 5,
+          "unitType": "Unit",
+          "id": "f62a9517-9f3c-4c8e-58f1-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CHEM 101, CHEM 101L, CHEM 101D",
+                "courses": [
+                  {
+                    "id": "6ab68f86-d675-4210-a715-512f6fc5d634",
+                    "position": 0,
+                    "courseIdentifierParentId": 171515,
+                    "courseTitle": "General Chemistry I",
+                    "courseNumber": "101",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3782,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2298,
+                    "department": "Chemistry",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "990cc5c5-2701-422b-8e9c-092f68ffe058",
+                    "position": 1,
+                    "courseIdentifierParentId": 46122,
+                    "courseTitle": "General Chemistry I Laboratory",
+                    "courseNumber": "101L",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3782,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2298,
+                    "department": "Chemistry",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "f851cb82-daeb-4f70-8d4a-9b7b2ac84d04",
+                    "position": 2,
+                    "courseIdentifierParentId": 384185,
+                    "courseTitle": "Problem Solving in General Chemistry I",
+                    "courseNumber": "101D",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3782,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2298,
+                    "department": "Chemistry",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "9a2d80fe-d770-4218-038f-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "GEOG 101, GEOG 102",
+                "courses": [
+                  {
+                    "id": "9cea8913-cba1-4c3e-acb2-efd5b17b5441",
+                    "position": 0,
+                    "courseIdentifierParentId": 158778,
+                    "courseTitle": "The Physical Environment",
+                    "courseNumber": "101",
+                    "prefix": "GEOG",
+                    "prefixParentId": 10528,
+                    "prefixDescription": "Geography",
+                    "departmentParentId": 6157,
+                    "department": "Geography and Environmental Studies",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "991a272d-2ff4-41ff-bbc8-82c6f2b9d283",
+                    "position": 1,
+                    "courseIdentifierParentId": 136553,
+                    "courseTitle": "Physical Geography Laboratory",
+                    "courseNumber": "102",
+                    "prefix": "GEOG",
+                    "prefixParentId": 10528,
+                    "prefixDescription": "Geography",
+                    "departmentParentId": 6157,
+                    "department": "Geography and Environmental Studies",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "35c47649-268c-4e79-03a0-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "GEOG 103, GEOG 105",
+                "courses": [
+                  {
+                    "id": "ccb9e919-b7b7-42e0-b9e8-9b3227d09ca4",
+                    "position": 0,
+                    "courseIdentifierParentId": 158817,
+                    "courseTitle": "Weather",
+                    "courseNumber": "103",
+                    "prefix": "GEOG",
+                    "prefixParentId": 10528,
+                    "prefixDescription": "Geography",
+                    "departmentParentId": 6157,
+                    "department": "Geography and Environmental Studies",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "a373c8fc-abd7-400c-b807-f0fc5829d251",
+                    "position": 1,
+                    "courseIdentifierParentId": 46116,
+                    "courseTitle": "Weather Lab",
+                    "courseNumber": "105",
+                    "prefix": "GEOG",
+                    "prefixParentId": 10528,
+                    "prefixDescription": "Geography",
+                    "departmentParentId": 6157,
+                    "department": "Geography and Environmental Studies",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "1f723bdf-2a23-460f-03a1-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "GEOL 101, GEOL 102",
+                "courses": [
+                  {
+                    "id": "32d2d55a-1fd8-46e5-8aca-d8f324f6f6c8",
+                    "position": 0,
+                    "courseIdentifierParentId": 136920,
+                    "courseTitle": "Geology of Planet Earth",
+                    "courseNumber": "101",
+                    "prefix": "GEOL",
+                    "prefixParentId": 11263,
+                    "prefixDescription": "Geological Sciences",
+                    "departmentParentId": 6302,
+                    "department": "Geology",
+                    "begin": "S2004",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "4c54cb3b-ac4d-4ae9-adee-3f7c98449fad",
+                    "position": 1,
+                    "courseIdentifierParentId": 47923,
+                    "courseTitle": "Geology of Planet Earth Laboratory",
+                    "courseNumber": "102",
+                    "prefix": "GEOL",
+                    "prefixParentId": 11263,
+                    "prefixDescription": "Geological Sciences",
+                    "departmentParentId": 6302,
+                    "department": "Geology",
+                    "begin": "S2004",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "767b2d14-7e94-4975-03a2-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "GEOL 110, GEOL 112",
+                "courses": [
+                  {
+                    "id": "3eacc2c2-be6c-43c5-b236-3291c0906085",
+                    "position": 0,
+                    "courseIdentifierParentId": 136936,
+                    "courseTitle": "The Fossil Record of Ancient Life on Earth",
+                    "courseNumber": "110",
+                    "prefix": "GEOL",
+                    "prefixParentId": 11263,
+                    "prefixDescription": "Geological Sciences",
+                    "departmentParentId": 6302,
+                    "department": "Geology",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "44391f6f-bb5a-40da-9196-b1ede89c5359",
+                    "position": 1,
+                    "courseIdentifierParentId": 207593,
+                    "courseTitle": "Earth and Life Through Time Lab",
+                    "courseNumber": "112",
+                    "prefix": "GEOL",
+                    "prefixParentId": 11263,
+                    "prefixDescription": "Geological Sciences",
+                    "departmentParentId": 6302,
+                    "department": "Geology",
+                    "begin": "F2009",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "f8c9fe55-ceaa-441e-03a3-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PHYS 220A, PHYS 220AL",
+                "courses": [
+                  {
+                    "id": "9329596b-cd46-4a2f-b25f-b5335ef73123",
+                    "position": 0,
+                    "courseIdentifierParentId": 136878,
+                    "courseTitle": "Mechanics",
+                    "courseNumber": "220A",
+                    "prefix": "PHYS",
+                    "prefixParentId": 222,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10864,
+                    "department": "Physics & Astronomy",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "dd42ca26-73f2-4ff3-bf36-5b1667e3db15",
+                    "position": 1,
+                    "courseIdentifierParentId": 171494,
+                    "courseTitle": "Mechanics Laboratory",
+                    "courseNumber": "220AL",
+                    "prefix": "PHYS",
+                    "prefixParentId": 222,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10864,
+                    "department": "Physics & Astronomy",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "0c45372c-cd74-4be5-03a4-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

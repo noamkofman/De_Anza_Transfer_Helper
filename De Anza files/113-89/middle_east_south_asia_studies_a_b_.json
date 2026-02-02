@@ -1,0 +1,1266 @@
+{
+  "major": "Middle East/South Asia Studies A.B.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 89,
+    "code": "UCD     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Davis",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "PREPARATION COURSES FOR THE MAJOR": [],
+    "HISTORY": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "b80452f8-0db3-4d4b-f600-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 298417,
+                "courseTitle": "Introduction to the Middle East ",
+                "courseNumber": "006",
+                "prefix": "HIS",
+                "prefixParentId": 2987,
+                "prefixDescription": "History",
+                "departmentParentId": 7048,
+                "department": "History",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c1e4caff-c16a-4e2a-da83-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284783,
+                "courseTitle": "History of Indian Civilization ",
+                "courseNumber": "008",
+                "prefix": "HIS",
+                "prefixParentId": 2987,
+                "prefixDescription": "History",
+                "departmentParentId": 7048,
+                "department": "History",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cc77b136-87d6-40cf-da84-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "6ccf9db3-80e8-45e4-f5ff-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309051,
+                "courseTitle": "Intermediate Modern Hebrew I",
+                "courseNumber": "021",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0b84a5b8-6b01-4b12-da71-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 281954,
+                "courseTitle": "Elementary Hebrew ",
+                "courseNumber": "003",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dd3c89ee-0957-4411-da72-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359750,
+                "courseTitle": "Intermediate Modern Hebrew II",
+                "courseNumber": "022",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b6abab1c-ad71-4008-da73-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303228,
+                "courseTitle": "Elementary Hebrew ",
+                "courseNumber": "002",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a730c6b7-1b01-48f5-da74-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 285696,
+                "courseTitle": "Intermediate Modern Hebrew III",
+                "courseNumber": "023",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "caa225d6-e3b8-474b-da75-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 281923,
+                "courseTitle": "Elementary Hebrew ",
+                "courseNumber": "001",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "34a47bee-2098-4c74-da76-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359829,
+                "courseTitle": "Intermediate Hindi/Urdu I ",
+                "courseNumber": "021",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2b38f167-34c3-4ee6-da77-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286313,
+                "courseTitle": "Elementary Hindi/Urdu III ",
+                "courseNumber": "003",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dc1e6d20-bf2e-44ca-da78-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286314,
+                "courseTitle": "Intermediate Hindi/Urdu III ",
+                "courseNumber": "023",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3188bd85-674c-4020-da79-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304653,
+                "courseTitle": "Intermediate Hindi/Urdu II ",
+                "courseNumber": "022",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7ee8c709-3b12-4866-da7a-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309181,
+                "courseTitle": "Elementary Hindi/Urdu I ",
+                "courseNumber": "001",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9da4aaef-52a4-4d9f-da7b-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304652,
+                "courseTitle": "Elementary Hindi/Urdu II ",
+                "courseNumber": "002",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a3d9c341-9d27-4d89-da7c-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304651,
+                "courseTitle": "Intermediate Arabic 22",
+                "courseNumber": "022",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bf0f620d-2c1c-462f-da7d-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359828,
+                "courseTitle": "Elementary Arabic 3 ",
+                "courseNumber": "003",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3488e91d-415c-49b5-da7e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286312,
+                "courseTitle": "Intermediate Arabic 23",
+                "courseNumber": "023",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7c32a749-5703-425c-da7f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286330,
+                "courseTitle": "Elementary Arabic 1",
+                "courseNumber": "001",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e2db2041-500f-4e3b-da80-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309180,
+                "courseTitle": "Intermediate Arabic 21",
+                "courseNumber": "021",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "30486152-b49d-4817-da81-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286311,
+                "courseTitle": "Elementary Arabic 2",
+                "courseNumber": "002",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "baa4a66e-57bd-42d3-da82-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR ELECTIVES": [
+      {
+        "instruction": {
+          "type": "NToNFromConjunction",
+          "conjunction": "Or",
+          "fromAmount": 16,
+          "toAmount": 18,
+          "unitType": "Quarter",
+          "id": "ff36340c-d98a-4961-f601-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 281954,
+                "courseTitle": "Elementary Hebrew ",
+                "courseNumber": "003",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "a8ccf855-8941-4b6e-da85-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286313,
+                "courseTitle": "Elementary Hindi/Urdu III ",
+                "courseNumber": "003",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "0c9903d8-8704-42a7-da86-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 208782,
+                "courseTitle": "Literature of South Asia",
+                "courseNumber": "053B",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e38af632-88ed-4fc1-da87-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 299530,
+                "courseTitle": "Introduction to Hinduism ",
+                "courseNumber": "068",
+                "prefix": "RST",
+                "prefixParentId": 2143,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11679,
+                "department": "Religious Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "65f209be-2155-4970-da88-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304652,
+                "courseTitle": "Elementary Hindi/Urdu II ",
+                "courseNumber": "002",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "835b243a-72fb-42f8-da89-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303228,
+                "courseTitle": "Elementary Hebrew ",
+                "courseNumber": "002",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "1d618861-3a9d-48d3-da8a-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 285696,
+                "courseTitle": "Intermediate Modern Hebrew III",
+                "courseNumber": "023",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "de68a14c-ec8e-4409-da8b-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286330,
+                "courseTitle": "Elementary Arabic 1",
+                "courseNumber": "001",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "f02b8771-4a9c-4345-da8c-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354126,
+                "courseTitle": "Ancient Near East & Early Greece: 3000-500 B.C.E. ",
+                "courseNumber": "001",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1b38dc53-0cc8-4534-da8d-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286312,
+                "courseTitle": "Intermediate Arabic 23",
+                "courseNumber": "023",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "0caf0f74-8a33-41ff-da8e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286311,
+                "courseTitle": "Elementary Arabic 2",
+                "courseNumber": "002",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "1534962c-ca9f-4d0a-da8f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 356045,
+                "courseTitle": "The Qur'an and Its Interpretation",
+                "courseNumber": "065C",
+                "prefix": "RST",
+                "prefixParentId": 2143,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11679,
+                "department": "Religious Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "96885f18-c5bd-4cfa-da90-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359829,
+                "courseTitle": "Intermediate Hindi/Urdu I ",
+                "courseNumber": "021",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "afe068f6-9bdc-41dc-da91-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304653,
+                "courseTitle": "Intermediate Hindi/Urdu II ",
+                "courseNumber": "022",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "7256023f-24e3-48b5-da92-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359750,
+                "courseTitle": "Intermediate Modern Hebrew II",
+                "courseNumber": "022",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "1ee19686-b4d1-4177-da93-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257013,
+                "courseTitle": "Introduction to Judaism ",
+                "courseNumber": "023",
+                "prefix": "RST",
+                "prefixParentId": 2143,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11679,
+                "department": "Religious Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d7ba45d1-8a22-44f6-da94-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 245994,
+                "courseTitle": "Literatures of the Islamic World",
+                "courseNumber": "053C",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "04c5571e-7e96-4b10-da95-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286314,
+                "courseTitle": "Intermediate Hindi/Urdu III ",
+                "courseNumber": "023",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "8c87f590-30c9-4de3-da96-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256952,
+                "courseTitle": "The Bible & Its Interpreters ",
+                "courseNumber": "021",
+                "prefix": "RST",
+                "prefixParentId": 2143,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11679,
+                "department": "Religious Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b566a585-9b87-467e-da97-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309180,
+                "courseTitle": "Intermediate Arabic 21",
+                "courseNumber": "021",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "63555075-980b-4222-da98-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304651,
+                "courseTitle": "Intermediate Arabic 22",
+                "courseNumber": "022",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "b8ccda54-646f-47d8-da99-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 296663,
+                "courseTitle": "Islamic Art & Architecture",
+                "courseNumber": "001E",
+                "prefix": "AHI",
+                "prefixParentId": 8190,
+                "prefixDescription": "Art History",
+                "departmentParentId": 1207,
+                "department": "Art History",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "584784ba-761f-40d6-da9a-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309051,
+                "courseTitle": "Intermediate Modern Hebrew I",
+                "courseNumber": "021",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "79247092-8a3e-4903-da9b-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309181,
+                "courseTitle": "Elementary Hindi/Urdu I ",
+                "courseNumber": "001",
+                "prefix": "HIN",
+                "prefixParentId": 14453,
+                "prefixDescription": "Hindi/Urdu",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "afb02a93-4e5d-4834-da9c-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 281923,
+                "courseTitle": "Elementary Hebrew ",
+                "courseNumber": "001",
+                "prefix": "HEB",
+                "prefixParentId": 7595,
+                "prefixDescription": "Hebrew",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "22114297-18d6-4380-da9d-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256931,
+                "courseTitle": "Introduction to Islam",
+                "courseNumber": "060",
+                "prefix": "RST",
+                "prefixParentId": 2143,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11679,
+                "department": "Religious Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "67b70e2f-bc08-45c9-da9e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359828,
+                "courseTitle": "Elementary Arabic 3 ",
+                "courseNumber": "003",
+                "prefix": "ARB",
+                "prefixParentId": 14434,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 9294,
+                "department": "Middle East/South Asia Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "fb336a94-9973-40d1-da9f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "major": "Recreation, B.S.: Recreation Therapy Concentration ",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 21,
+    "code": "CSUHAY",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "California State University, Hayward",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      },
+      {
+        "name": "California State University, East Bay",
+        "hasDepartments": true,
+        "fromYear": 2005,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 2018
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 2005
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 359316,
+        "courseTitle": "GENERAL PSYCHOLOGY",
+        "courseNumber": "100",
+        "prefix": "PSYC",
+        "prefixParentId": 4610,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11228,
+        "department": "Psychology",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281450,
+              "courseTitle": "General Psychology",
+              "courseNumber": "1",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 296534,
+        "courseTitle": "Methods of Investigation in Psychology",
+        "courseNumber": "200",
+        "prefix": "PSYC",
+        "prefixParentId": 4610,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11228,
+        "department": "Psychology",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305479,
+              "courseTitle": "Research Methods in Psychology ",
+              "courseNumber": "2",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305476,
+              "courseTitle": "An Introduction to Cognitive Psychology",
+              "courseNumber": "3",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 281912,
+        "courseTitle": "HUMAN PHYSIOLOGY AND ANATOMY I",
+        "courseNumber": "270",
+        "prefix": "BIOL",
+        "prefixParentId": 9246,
+        "prefixDescription": "Biological Science",
+        "departmentParentId": 1620,
+        "department": "Biological Science",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION CORE": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "6cac7e8b-11af-4671-5a8a-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365262,
+                "courseTitle": "Professional Preparation ",
+                "courseNumber": "100",
+                "prefix": "HOS",
+                "prefixParentId": 14690,
+                "prefixDescription": "Hospitality and Tourism",
+                "departmentParentId": 7154,
+                "department": "Hospitality and Tourism",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cf17e617-82cd-4ac6-a1bb-452522fe11b3",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365377,
+                "courseTitle": "Special Events in Recreation ",
+                "courseNumber": "215",
+                "prefix": "REC",
+                "prefixParentId": 9281,
+                "prefixDescription": "Recreation",
+                "departmentParentId": 7154,
+                "department": "Hospitality and Tourism",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cc37f539-b56e-4ddc-91b6-c7cbda243d68",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365378,
+                "courseTitle": "Introduction to Youth Development ",
+                "courseNumber": "230",
+                "prefix": "REC",
+                "prefixParentId": 9281,
+                "prefixDescription": "Recreation",
+                "departmentParentId": 7154,
+                "department": "Hospitality and Tourism",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "73372cc8-d32d-4992-a52e-e8096f6038de",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256744,
+                "courseTitle": "Introduction to Hospitality, Recreation, Tourism and Recreation Therapy",
+                "courseNumber": "100",
+                "prefix": "REC",
+                "prefixParentId": 9281,
+                "prefixDescription": "Recreation",
+                "departmentParentId": 7154,
+                "department": "Hospitality and Tourism",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "54c32267-955f-44a2-917f-175fd9adbad5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365632,
+                "courseTitle": " Serving Diverse Populations in Hospitality, Recreation, Rec Therapy and Tourism",
+                "courseNumber": "200",
+                "prefix": "REC",
+                "prefixParentId": 9281,
+                "prefixDescription": "Recreation",
+                "departmentParentId": 7154,
+                "department": "Hospitality and Tourism",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b5c3e75c-97a5-45e9-8428-d55402dffdfa",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "CONCENTRATION REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359316,
+                "courseTitle": "GENERAL PSYCHOLOGY",
+                "courseNumber": "100",
+                "prefix": "PSYC",
+                "prefixParentId": 4610,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11228,
+                "department": "Psychology",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cd79ef10-0aa6-40e0-b29d-9386cc4e78e3",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 296534,
+                "courseTitle": "Methods of Investigation in Psychology",
+                "courseNumber": "200",
+                "prefix": "PSYC",
+                "prefixParentId": 4610,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11228,
+                "department": "Psychology",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "392ab961-3df4-4ad0-a1f2-b417a3d64d11",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 281912,
+                "courseTitle": "HUMAN PHYSIOLOGY AND ANATOMY I",
+                "courseNumber": "270",
+                "prefix": "BIOL",
+                "prefixParentId": 9246,
+                "prefixDescription": "Biological Science",
+                "departmentParentId": 1620,
+                "department": "Biological Science",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "05221a88-cfe5-45b7-af7d-b20d061a0ff5",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

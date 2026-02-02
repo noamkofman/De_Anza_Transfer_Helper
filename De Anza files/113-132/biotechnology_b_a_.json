@@ -1,0 +1,595 @@
+{
+  "major": "Biotechnology B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 132,
+    "code": "UCSC    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Cruz",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 284304,
+        "courseTitle": "Statistics",
+        "courseNumber": "5",
+        "prefix": "STAT",
+        "prefixParentId": 16616,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 13762,
+        "department": "Statistics",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "7ddf246f-258d-47a2-8276-efa4578a9755",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 283453,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 255009,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "4690bd97-729b-4826-9316-95fdb3c5a593",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 255009,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283453,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 304656,
+        "courseTitle": "Beginning Programming in Python",
+        "courseNumber": "20",
+        "prefix": "CSE",
+        "prefixParentId": 16614,
+        "prefixDescription": "Computer Science and Engineering",
+        "departmentParentId": 13760,
+        "department": "Computer Science and Engineering",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306397,
+              "courseTitle": "Introduction to Programming in Python",
+              "courseNumber": "40",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306398,
+              "courseTitle": "Python Programming",
+              "courseNumber": "41A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 358228,
+        "courseTitle": "Cell and Molecular Biology",
+        "courseNumber": "20A",
+        "prefix": "BIOL",
+        "prefixParentId": 4943,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1778,
+        "department": "Biology: Molecular, Cell, and Developmental",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290473,
+              "courseTitle": "Cell and Molecular Biology",
+              "courseNumber": "6B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR PREPARATION COURSES REQUIRED FOR TRANSFER": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "68c6bf11-8fb4-42ba-dbb0-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284304,
+                "courseTitle": "Statistics",
+                "courseNumber": "5",
+                "prefix": "STAT",
+                "prefixParentId": 16616,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 13762,
+                "department": "Statistics",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f6d742b9-e850-414c-bc35-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "STAT 7, STAT 7L",
+                "courses": [
+                  {
+                    "id": "a17b9d9b-3677-44c3-9171-217ee8ea2781",
+                    "position": 0,
+                    "courseIdentifierParentId": 277266,
+                    "courseTitle": "Statistical Methods for the Biological, Environmental, and Health Sciences",
+                    "courseNumber": "7",
+                    "prefix": "STAT",
+                    "prefixParentId": 16616,
+                    "prefixDescription": "Statistics",
+                    "departmentParentId": 13762,
+                    "department": "Statistics",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  },
+                  {
+                    "id": "fa6415d6-69c1-41a2-8d6d-8b8672e2878b",
+                    "position": 1,
+                    "courseIdentifierParentId": 128000,
+                    "courseTitle": "Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory",
+                    "courseNumber": "7L",
+                    "prefix": "STAT",
+                    "prefixParentId": 16616,
+                    "prefixDescription": "Statistics",
+                    "departmentParentId": 13762,
+                    "department": "Statistics",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "fbc7b21e-d89f-47c6-bc36-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304656,
+                "courseTitle": "Beginning Programming in Python",
+                "courseNumber": "20",
+                "prefix": "CSE",
+                "prefixParentId": 16614,
+                "prefixDescription": "Computer Science and Engineering",
+                "departmentParentId": 13760,
+                "department": "Computer Science and Engineering",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9f103928-bc96-4a16-8b3d-8d1576c8a561",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 358228,
+                "courseTitle": "Cell and Molecular Biology",
+                "courseNumber": "20A",
+                "prefix": "BIOL",
+                "prefixParentId": 4943,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1778,
+                "department": "Biology: Molecular, Cell, and Developmental",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b5e77de6-bd9b-4bd6-81b9-a1219dd84dce",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR PREPARATION COURSES": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "dd2818bb-71a6-4cf1-dbb1-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377552,
+                "courseTitle": "Scientific Principles of Life",
+                "courseNumber": "18",
+                "prefix": "BME",
+                "prefixParentId": 13419,
+                "prefixDescription": "Biomolecular Engineering",
+                "departmentParentId": 1786,
+                "department": "Biomolecular Engineering",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "238eacf9-e31c-4785-bc37-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303928,
+                "courseTitle": "Bioethics in the 21st Century: Science, Business, and Society",
+                "courseNumber": "80G",
+                "prefix": "BME",
+                "prefixParentId": 13419,
+                "prefixDescription": "Biomolecular Engineering",
+                "departmentParentId": 1786,
+                "department": "Biomolecular Engineering",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 303927,
+                    "courseTitle": "Bioethics in the 21st Century: Science, Business, and Society",
+                    "courseNumber": "80G",
+                    "prefix": "PHIL",
+                    "prefixParentId": 5507,
+                    "prefixDescription": "Philosophy",
+                    "departmentParentId": 10187,
+                    "department": "Philosophy",
+                    "begin": "F2006",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "258256af-bd1c-4efe-bc38-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304604,
+                "courseTitle": "The Human Genome",
+                "courseNumber": "80H",
+                "prefix": "BME",
+                "prefixParentId": 13419,
+                "prefixDescription": "Biomolecular Engineering",
+                "departmentParentId": 1786,
+                "department": "Biomolecular Engineering",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "535cdd48-fabb-487c-bc39-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377553,
+                "courseTitle": "Engineering Innovations for Medicine and Natural Sciences",
+                "courseNumber": "80B",
+                "prefix": "ECE",
+                "prefixParentId": 16615,
+                "prefixDescription": "Electrical and Computer Engineering",
+                "departmentParentId": 13761,
+                "department": "Electrical and Computer Engineering",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "34c55af4-a437-41d3-bc3a-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304477,
+                "courseTitle": "Introduction to Biotechnology",
+                "courseNumber": "5",
+                "prefix": "BME",
+                "prefixParentId": 13419,
+                "prefixDescription": "Biomolecular Engineering",
+                "departmentParentId": 1786,
+                "department": "Biomolecular Engineering",
+                "begin": "F2007",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d882eae9-af7b-4fd3-b97c-7674b52b1e61",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,5177 @@
+{
+  "major": "KINESIOLOGY, B.S. - Option in Dance",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 42,
+    "code": "CSUN    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Northridge",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 262468,
+        "courseTitle": "Introductory Statistics",
+        "courseNumber": "140",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 346357,
+        "courseTitle": "Foundations of Kinesiology",
+        "courseNumber": "200",
+        "prefix": "KIN",
+        "prefixParentId": 5993,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8063,
+        "department": "Kinesiology",
+        "begin": "S2007",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288530,
+              "courseTitle": "Introduction to Kinesiology",
+              "courseNumber": "45",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 136958,
+        "courseTitle": "Human Physiology",
+        "courseNumber": "281",
+        "prefix": "BIOL",
+        "prefixParentId": 4861,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1704,
+        "department": "Biology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "8e6431b9-6b98-42d8-899f-336a9c41607e",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 283453,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 255009,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "56cbc49c-657a-4325-be68-c8d5a157e54e",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 255009,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283453,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 62326,
+              "courseTitle": "Theory and Technique of Salsa Dance I",
+              "courseNumber": "25A",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60156,
+              "courseTitle": "Theory and Technique of Jazz Dance III",
+              "courseNumber": "37C",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2014",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 61988,
+              "courseTitle": "Theory and Technique of Contemporary (Modern) Dance I",
+              "courseNumber": "23A",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 65100,
+              "courseTitle": "Theory and Technique of Ballet III",
+              "courseNumber": "22M",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2014",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60410,
+              "courseTitle": "Theory and Technique of Ballet II",
+              "courseNumber": "22L",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60520,
+              "courseTitle": "Theory and Technique of Hip-Hop I (Popular American Dance)",
+              "courseNumber": "23L",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 62556,
+              "courseTitle": "Theory and Technique of Ballet I",
+              "courseNumber": "22K",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 65503,
+              "courseTitle": "Theory and Technique of Hip-Hop II (Popular American Dance II)",
+              "courseNumber": "23M",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60308,
+              "courseTitle": "Theory and Technique of Jazz Dance I",
+              "courseNumber": "37A",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60154,
+              "courseTitle": "Theory and Technique of Contemporary (Modern) Dance III",
+              "courseNumber": "23C",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2014",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60884,
+              "courseTitle": "Theory and Technique of Jazz Dance II",
+              "courseNumber": "37B",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 64361,
+              "courseTitle": "Theory and Technique of Salsa Dance II",
+              "courseNumber": "25B",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2014",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 70038,
+              "courseTitle": "Theory and Technique of Social Dance I",
+              "courseNumber": "24A",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 67505,
+              "courseTitle": "Theory and Technique of Social Dance II",
+              "courseNumber": "24B",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60270,
+              "courseTitle": "Theory and Technique of Contemporary (Modern) Dance II",
+              "courseNumber": "23B",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290473,
+              "courseTitle": "Cell and Molecular Biology",
+              "courseNumber": "6B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 309815,
+              "courseTitle": "Ecology and Evolution",
+              "courseNumber": "6C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290474,
+              "courseTitle": "Form and Function in the Biological World",
+              "courseNumber": "6A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290473,
+              "courseTitle": "Cell and Molecular Biology",
+              "courseNumber": "6B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 309815,
+              "courseTitle": "Ecology and Evolution",
+              "courseNumber": "6C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290474,
+              "courseTitle": "Form and Function in the Biological World",
+              "courseNumber": "6A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": []
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247121,
+              "courseTitle": "Human Biology",
+              "courseNumber": "11",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282638,
+              "courseTitle": "Introductory Biology",
+              "courseNumber": "10",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 7427,
+              "courseTitle": "Intermediate Badminton",
+              "courseNumber": "31B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 61230,
+              "courseTitle": "Team Sport - Basketball Level 1",
+              "courseNumber": "36AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59215,
+              "courseTitle": "Tai Chi",
+              "courseNumber": "12HX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 61180,
+              "courseTitle": "Intermediate Tai Chi",
+              "courseNumber": "12JX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6163,
+              "courseTitle": "Soccer Level 3",
+              "courseNumber": "37C",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8724,
+              "courseTitle": "Futsal: Level 3",
+              "courseNumber": "38C",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 283,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 64647,
+              "courseTitle": "Futsal: Level 3",
+              "courseNumber": "38CX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 283,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8719,
+              "courseTitle": "Soccer Level 2",
+              "courseNumber": "37B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363759,
+              "courseTitle": "Ultimate Frisbee 1",
+              "courseNumber": "41AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 271,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368037,
+              "courseTitle": "Flag Football 2",
+              "courseNumber": "40BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6222,
+              "courseTitle": "Beginning Tennis",
+              "courseNumber": "32A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6692,
+              "courseTitle": "Beginning Karate",
+              "courseNumber": "12D",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 78306,
+              "courseTitle": "Soccer",
+              "courseNumber": "37AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363758,
+              "courseTitle": "Ultimate Frisbee 1",
+              "courseNumber": "41A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 271,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363757,
+              "courseTitle": "Flag Football 1",
+              "courseNumber": "40AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 271,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 5646,
+              "courseTitle": "Fencing Level 1",
+              "courseNumber": "29A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 5659,
+              "courseTitle": "Advanced Beginning Tennis",
+              "courseNumber": "32B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6219,
+              "courseTitle": "Fencing Level 2",
+              "courseNumber": "29B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368036,
+              "courseTitle": "Flag Football 2",
+              "courseNumber": "40B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6212,
+              "courseTitle": "Intermediate Karate",
+              "courseNumber": "12E",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 61168,
+              "courseTitle": "Beginning Badminton",
+              "courseNumber": "31AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 58770,
+              "courseTitle": "Advanced Beginning Golf",
+              "courseNumber": "30BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59245,
+              "courseTitle": "Intermediate Tennis",
+              "courseNumber": "32CX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368035,
+              "courseTitle": "Intermediate Table Tennis",
+              "courseNumber": "32FX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8694,
+              "courseTitle": "Volleyball Level 1",
+              "courseNumber": "39A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6435,
+              "courseTitle": "Beginning Golf",
+              "courseNumber": "30A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59526,
+              "courseTitle": "Advanced Beginning Tennis",
+              "courseNumber": "32BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 61207,
+              "courseTitle": "Volleyball Level 1",
+              "courseNumber": "39AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59529,
+              "courseTitle": "Volleyball Level 2",
+              "courseNumber": "39BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 66232,
+              "courseTitle": "Futsal: Level 2",
+              "courseNumber": "38BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 283,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8853,
+              "courseTitle": "Soccer",
+              "courseNumber": "37A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 65305,
+              "courseTitle": "Soccer Level 2",
+              "courseNumber": "37BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363756,
+              "courseTitle": "Flag Football 1",
+              "courseNumber": "40A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 271,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6166,
+              "courseTitle": "Futsal: Level 1",
+              "courseNumber": "38A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 283,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 5662,
+              "courseTitle": "Intermediate Golf",
+              "courseNumber": "30C",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6521,
+              "courseTitle": "Beginning Badminton",
+              "courseNumber": "31A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 7408,
+              "courseTitle": "Team Sport - Basketball Level 1",
+              "courseNumber": "36A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368040,
+              "courseTitle": "Ultimate Frisbee 2",
+              "courseNumber": "41B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368032,
+              "courseTitle": "Beginning Table Tennis",
+              "courseNumber": "32E",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 5842,
+              "courseTitle": "Advanced Beginning Golf",
+              "courseNumber": "30B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 7436,
+              "courseTitle": "Tai Chi",
+              "courseNumber": "12H",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8409,
+              "courseTitle": "Intermediate Tai Chi",
+              "courseNumber": "12J",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8406,
+              "courseTitle": "Volleyball Level 2",
+              "courseNumber": "39B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 5643,
+              "courseTitle": "Intermediate Tennis",
+              "courseNumber": "32C",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368033,
+              "courseTitle": "Beginning Table Tennis",
+              "courseNumber": "32EX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8871,
+              "courseTitle": "Indoor Soccer",
+              "courseNumber": "37E",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368041,
+              "courseTitle": "Ultimate Frisbee 2",
+              "courseNumber": "41BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368034,
+              "courseTitle": "Intermediate Table Tennis",
+              "courseNumber": "32F",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6456,
+              "courseTitle": "Futsal: Level 2",
+              "courseNumber": "38B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": 283,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 65311,
+              "courseTitle": "Futsal: Level 1",
+              "courseNumber": "38AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": 283,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6431,
+              "courseTitle": "Total Fitness",
+              "courseNumber": "15C",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 62178,
+              "courseTitle": "Body Awareness and Conditioning for Dancers",
+              "courseNumber": "22",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 58337,
+              "courseTitle": "High Intensity Motor Training",
+              "courseNumber": "42CX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363753,
+              "courseTitle": "Strength Development 2",
+              "courseNumber": "19BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 65626,
+              "courseTitle": "Hatha Yoga",
+              "courseNumber": "22AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 7442,
+              "courseTitle": "Indoor Cycling",
+              "courseNumber": "5A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363739,
+              "courseTitle": "Interactive Cardiovascular Fitness and Activity Tracking 1",
+              "courseNumber": "9A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8710,
+              "courseTitle": "Intermediate Swimming",
+              "courseNumber": "1C",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 61233,
+              "courseTitle": "Basic Pilates Mat Exercise",
+              "courseNumber": "26AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8705,
+              "courseTitle": "Cross Training",
+              "courseNumber": "15A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363748,
+              "courseTitle": "High Intensity Interval Training - HIIT",
+              "courseNumber": "15F",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363750,
+              "courseTitle": "Plyometric Conditioning 1",
+              "courseNumber": "17A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59229,
+              "courseTitle": "Cardiovascular and Strength Training",
+              "courseNumber": "15EX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368031,
+              "courseTitle": "Cardio Kick 2",
+              "courseNumber": "11BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 58334,
+              "courseTitle": "Active Isolated Stretching",
+              "courseNumber": "25BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 64645,
+              "courseTitle": "Flow Yoga",
+              "courseNumber": "22DX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59554,
+              "courseTitle": "Fit Camp",
+              "courseNumber": "16AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 7371,
+              "courseTitle": "Active Isolated Stretching",
+              "courseNumber": "25B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59519,
+              "courseTitle": "Cardio Kick",
+              "courseNumber": "11AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363751,
+              "courseTitle": "Plyometric Conditioning 1",
+              "courseNumber": "17AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 5678,
+              "courseTitle": "Body Sculpting",
+              "courseNumber": "19E",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 5665,
+              "courseTitle": "Beginning Swimming",
+              "courseNumber": "1B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 7416,
+              "courseTitle": "Step Aerobics",
+              "courseNumber": "7A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 5833,
+              "courseTitle": "Yoga for Relaxation",
+              "courseNumber": "22B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8412,
+              "courseTitle": "Aerobic Power Walking",
+              "courseNumber": "6A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368030,
+              "courseTitle": "Cardio Kick 2",
+              "courseNumber": "11B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6160,
+              "courseTitle": "Yoga/Pilates Combo",
+              "courseNumber": "22E",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363752,
+              "courseTitle": "Strength Development 2",
+              "courseNumber": "19B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 7430,
+              "courseTitle": "Cardiovascular and Strength Training",
+              "courseNumber": "15E",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6742,
+              "courseTitle": "Fit Camp",
+              "courseNumber": "16A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 5668,
+              "courseTitle": "Stretching",
+              "courseNumber": "25A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59502,
+              "courseTitle": "Deep Water Running",
+              "courseNumber": "2BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59538,
+              "courseTitle": "Stretching",
+              "courseNumber": "25AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6438,
+              "courseTitle": "Novice Swimming",
+              "courseNumber": "1A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 5830,
+              "courseTitle": "Power Yoga",
+              "courseNumber": "22C",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8403,
+              "courseTitle": "Deep Water Running",
+              "courseNumber": "2B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 58343,
+              "courseTitle": "High Intensity Indoor Cycling",
+              "courseNumber": "5BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 61199,
+              "courseTitle": "Step Aerobics",
+              "courseNumber": "7AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 64633,
+              "courseTitle": "Yoga for Relaxation",
+              "courseNumber": "22BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363746,
+              "courseTitle": "Interactive Cardiovascular Fitness and Activity Tracking 1",
+              "courseNumber": "9AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363755,
+              "courseTitle": "Circuit Training 1",
+              "courseNumber": "20AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8426,
+              "courseTitle": "Basic Pilates Mat Exercise",
+              "courseNumber": "26A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363749,
+              "courseTitle": "High Intensity Interval Training - HIIT",
+              "courseNumber": "15FX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 7374,
+              "courseTitle": "High Intensity Motor Training",
+              "courseNumber": "42C",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 66230,
+              "courseTitle": "Resistance Training 1",
+              "courseNumber": "19DX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8317,
+              "courseTitle": "Flow Yoga",
+              "courseNumber": "22D",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 93308,
+              "courseTitle": "Fit Camp",
+              "courseNumber": "16AY",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1.5,
+              "maxUnits": 1.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59535,
+              "courseTitle": "Intermediate Swimming",
+              "courseNumber": "1CX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 5611,
+              "courseTitle": "Integrated Pilates Mat Exercise",
+              "courseNumber": "26B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 63242,
+              "courseTitle": "Yoga/Pilates Combo",
+              "courseNumber": "22EX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 66039,
+              "courseTitle": "Strength Development",
+              "courseNumber": "19AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 65636,
+              "courseTitle": "Body Sculpting",
+              "courseNumber": "19EX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8722,
+              "courseTitle": "Resistance Training 1",
+              "courseNumber": "19D",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363754,
+              "courseTitle": "Circuit Training 1",
+              "courseNumber": "20A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 7424,
+              "courseTitle": "Cardio Kick",
+              "courseNumber": "11A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 6752,
+              "courseTitle": "Hatha Yoga",
+              "courseNumber": "22A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 65456,
+              "courseTitle": "Aerobic Swimming",
+              "courseNumber": "2AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 94461,
+              "courseTitle": "Cardiovascular and Strength Training",
+              "courseNumber": "15EY",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1.5,
+              "maxUnits": 1.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363747,
+              "courseTitle": "Interactive Cardiovascular Fitness and Activity Tracking 2",
+              "courseNumber": "9BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 61174,
+              "courseTitle": "Cross Training",
+              "courseNumber": "15AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 68481,
+              "courseTitle": "Core Conditioning",
+              "courseNumber": "19GX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59192,
+              "courseTitle": "Total Fitness",
+              "courseNumber": "15CX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60148,
+              "courseTitle": "Integrated Pilates Mat Exercise",
+              "courseNumber": "26BX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 7405,
+              "courseTitle": "Strength Development",
+              "courseNumber": "19A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8423,
+              "courseTitle": "Core Conditioning",
+              "courseNumber": "19G",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 7400,
+              "courseTitle": "Aerobic Swimming",
+              "courseNumber": "2A",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 8285,
+              "courseTitle": "High Intensity Indoor Cycling",
+              "courseNumber": "5B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 65302,
+              "courseTitle": "Power Yoga",
+              "courseNumber": "22CX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59188,
+              "courseTitle": "Aerobic Power Walking",
+              "courseNumber": "6AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363740,
+              "courseTitle": "Interactive Cardiovascular Fitness and Activity Tracking 2",
+              "courseNumber": "9B",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 0.5,
+              "maxUnits": 0.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 61240,
+              "courseTitle": "Indoor Cycling",
+              "courseNumber": "5AX",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 346357,
+                "courseTitle": "Foundations of Kinesiology",
+                "courseNumber": "200",
+                "prefix": "KIN",
+                "prefixParentId": 5993,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8063,
+                "department": "Kinesiology",
+                "begin": "S2007",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f0bb81cb-2a84-48fe-b4e5-5267e286568c",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "a8021047-e601-4c1c-5920-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 262468,
+                "courseTitle": "Introductory Statistics",
+                "courseNumber": "140",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 375546,
+                    "courseTitle": "Introductory Statistics for Business",
+                    "courseNumber": "140BUS",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 375548,
+                    "courseTitle": "Introductory Statistics for STEM",
+                    "courseNumber": "140SCI",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 375552,
+                    "courseTitle": "Essentials of Statistics and Lab",
+                    "courseNumber": "141/L",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fa320a0f-29d7-4492-4b9c-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Other Acceptable Statistics"
+              },
+              "requirementAttributes": [],
+              "id": "038b5af9-0eb4-4b7f-4b9d-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "BIOLOGY REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136958,
+                "courseTitle": "Human Physiology",
+                "courseNumber": "281",
+                "prefix": "BIOL",
+                "prefixParentId": 4861,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1704,
+                "department": "Biology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "98610efb-fb4d-435c-94ae-32c7be9dbd46",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 211, BIOL 212",
+                "courses": [
+                  {
+                    "id": "556265c2-408c-4a7c-9148-999c0fda3930",
+                    "position": 0,
+                    "courseIdentifierParentId": 121280,
+                    "courseTitle": "Human Anatomy",
+                    "courseNumber": "211",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "084f78c3-7c50-4fc3-9b7b-48ea0ac204f1",
+                    "position": 1,
+                    "courseIdentifierParentId": 48182,
+                    "courseTitle": "Laboratory Studies in Human Anatomy",
+                    "courseNumber": "212",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "9426d3c7-9153-41d7-89a9-5e9e31f26665",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 101, BIOL 101L",
+                "courses": [
+                  {
+                    "id": "8b79b801-e54e-4b76-8c25-ecbc78baa2fa",
+                    "position": 0,
+                    "courseIdentifierParentId": 330993,
+                    "courseTitle": "General Biology",
+                    "courseNumber": "101",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "086c9fe0-6a62-4539-a13e-9b86ae228744",
+                    "position": 1,
+                    "courseIdentifierParentId": 47899,
+                    "courseTitle": "General Biology Laboratory",
+                    "courseNumber": "101L",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "4615cceb-ba21-4ebc-a343-dc4626a0b186",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ALTERNATE BIOLOGY PATHWAY - FOR STUDENTS INTERESTED IN PURSUING GRADUATE STUDY IN ALLIED HEALTH-RELATED PROGRAMS SUCH AS PHYSICAL THERAPY OR MEDICINE": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 107, BIOL 107L",
+                "courses": [
+                  {
+                    "id": "de5de405-419c-4633-8601-2d1605414873",
+                    "position": 0,
+                    "courseIdentifierParentId": 330966,
+                    "courseTitle": "Biological Principles II",
+                    "courseNumber": "107",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "a9645239-a797-405d-ac10-629302847d31",
+                    "position": 1,
+                    "courseIdentifierParentId": 314575,
+                    "courseTitle": "Biology Laboratory II",
+                    "courseNumber": "107L",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "cd23a7cd-a70d-4bfb-856a-acfdb326c0e0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 106, BIOL 106L",
+                "courses": [
+                  {
+                    "id": "df660c1f-352a-4d2d-bfec-935f0953062b",
+                    "position": 0,
+                    "courseIdentifierParentId": 172121,
+                    "courseTitle": "Biological Principles I",
+                    "courseNumber": "106",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "364e1524-18a4-405c-b306-ed711d4d1ddc",
+                    "position": 1,
+                    "courseIdentifierParentId": 48479,
+                    "courseTitle": "Biology Laboratory I",
+                    "courseNumber": "106L",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "cec3c8c9-5f57-4f7d-96b0-ac2dc86fd203",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 382, BIOL 382L, BIOL 383, BIOL 383L",
+                "courses": [
+                  {
+                    "id": "113f780a-ad0a-4342-a378-f09c48f23bba",
+                    "position": 0,
+                    "courseIdentifierParentId": 372905,
+                    "courseTitle": "Human Anatomy & Physiology I",
+                    "courseNumber": "382",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F2015",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "1182a56b-c9b4-4ba6-be81-51d1af838f5b",
+                    "position": 1,
+                    "courseIdentifierParentId": 372906,
+                    "courseTitle": "Human Anatomy & Physiology I Lab",
+                    "courseNumber": "382L",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F2015",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "dc24acb5-f76b-4243-9886-4457db01b442",
+                    "position": 2,
+                    "courseIdentifierParentId": 372904,
+                    "courseTitle": "Human Anatomy & Physiology II",
+                    "courseNumber": "383",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F2015",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "454371b2-34c2-4180-bd00-d038cef181d3",
+                    "position": 3,
+                    "courseIdentifierParentId": 372903,
+                    "courseTitle": "Human Anatomy & Physiology II Lab",
+                    "courseNumber": "383L",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F2015",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "a8fbed45-8d71-435a-9683-504e37b3b413",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "DANCE": [
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "f609b0e9-98ad-4d96-5923-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "KIN 137A, KIN 139A, KIN 139B, KIN 141A, KIN 141B, KIN 142A, KIN 142B, KIN 143A, KIN 143B, KIN 144A",
+                "courses": [
+                  {
+                    "id": "6e530a13-a720-4be7-9d13-368b7b7091d9",
+                    "position": 0,
+                    "courseIdentifierParentId": 27772,
+                    "courseTitle": "Dance, Ballroom I",
+                    "courseNumber": "137A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "e3da0ec9-76e0-487a-a845-0f5e94e6bb74",
+                    "position": 1,
+                    "courseIdentifierParentId": 311095,
+                    "courseTitle": "Ballet I",
+                    "courseNumber": "139A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "3ed0c23d-1ee6-4ddc-9403-5fffd754fa40",
+                    "position": 2,
+                    "courseIdentifierParentId": 29355,
+                    "courseTitle": "Ballet II",
+                    "courseNumber": "139B",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "ad013b22-f7fa-433b-bbc2-9fff6711cd0c",
+                    "position": 3,
+                    "courseIdentifierParentId": 27477,
+                    "courseTitle": "Jazz Dance I",
+                    "courseNumber": "141A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "e1f59e52-3d78-47e6-8883-efba543ede87",
+                    "position": 4,
+                    "courseIdentifierParentId": 316091,
+                    "courseTitle": "Jazz Dance II",
+                    "courseNumber": "141B",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "S2009",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "80a400f4-dfa8-48da-8490-941370008c81",
+                    "position": 5,
+                    "courseIdentifierParentId": 66008,
+                    "courseTitle": "Dance, Latin America I",
+                    "courseNumber": "142A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "9a1bafa5-e000-44d6-ad12-3ca9a66bf60c",
+                    "position": 6,
+                    "courseIdentifierParentId": 317261,
+                    "courseTitle": "Dance, Latin Dance II",
+                    "courseNumber": "142B",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "e04f759a-9e7e-46cd-af57-2f106f4f7f5a",
+                    "position": 7,
+                    "courseIdentifierParentId": 317262,
+                    "courseTitle": "Hip Hop Dance Culture I",
+                    "courseNumber": "143A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "222ddc89-b0a4-4a5f-a307-71577b91b247",
+                    "position": 8,
+                    "courseIdentifierParentId": 371333,
+                    "courseTitle": "Hip Hop Dance Culture II",
+                    "courseNumber": "143B",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "fb90fdc6-a570-4c8a-b4dc-2296ab381040",
+                    "position": 9,
+                    "courseIdentifierParentId": 45891,
+                    "courseTitle": "Dance, Modern I",
+                    "courseNumber": "144A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "37d7ea85-c190-4a1e-9906-13ccccbe68e2",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "FITNESS": [
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "373ed03c-70c9-4e39-5925-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "KIN 125A, KIN 126A, KIN 128, KIN 129A, KIN 135A, KIN 136A, KIN 147, KIN 148, KIN 149, KIN 177A, KIN 178A, KIN 179A",
+                "courses": [
+                  {
+                    "id": "1379362b-903b-4ed9-a16d-c33f78a3bd58",
+                    "position": 0,
+                    "courseIdentifierParentId": 65402,
+                    "courseTitle": "Fitness for Life",
+                    "courseNumber": "125A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "c0b89012-3590-4fb9-961b-5c74c54e92d1",
+                    "position": 1,
+                    "courseIdentifierParentId": 65403,
+                    "courseTitle": "Strength Training",
+                    "courseNumber": "126A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "83d0d0a8-4f92-4296-8b6d-e06339d628bc",
+                    "position": 2,
+                    "courseIdentifierParentId": 67567,
+                    "courseTitle": "Fitness Walking",
+                    "courseNumber": "128",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "5b8f4cb6-5240-41d5-bbab-2c5c750aac10",
+                    "position": 3,
+                    "courseIdentifierParentId": 317264,
+                    "courseTitle": "Running Conditioning I",
+                    "courseNumber": "129A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "8f0f6766-d917-4b6d-bfed-e0a7f89343f4",
+                    "position": 4,
+                    "courseIdentifierParentId": 65407,
+                    "courseTitle": "Aerobic Dance I",
+                    "courseNumber": "135A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "bc817623-1250-4701-aefa-8023926cbd0d",
+                    "position": 5,
+                    "courseIdentifierParentId": 65408,
+                    "courseTitle": "Aqua Aerobics",
+                    "courseNumber": "136A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "4edf8eb0-0960-4416-9beb-0a13c72c0f4b",
+                    "position": 6,
+                    "courseIdentifierParentId": 66010,
+                    "courseTitle": "Pilates",
+                    "courseNumber": "147",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "da861e0b-7e67-4847-a3e8-d5bc6b05307f",
+                    "position": 7,
+                    "courseIdentifierParentId": 67568,
+                    "courseTitle": "Dance Conditioning and Somatic Practices",
+                    "courseNumber": "148",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "e08376fc-a2e7-4d33-9422-53a96e0334dd",
+                    "position": 8,
+                    "courseIdentifierParentId": 317265,
+                    "courseTitle": "Yoga",
+                    "courseNumber": "149",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "d46566b0-a9d8-4d90-a94f-fbb94f034cf6",
+                    "position": 9,
+                    "courseIdentifierParentId": 317266,
+                    "courseTitle": "Swimming for Non-Swimmers",
+                    "courseNumber": "177A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "8d7b3b43-6852-4178-90fa-5c76f5a3151d",
+                    "position": 10,
+                    "courseIdentifierParentId": 27754,
+                    "courseTitle": "Swimming I",
+                    "courseNumber": "178A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "1cf0e77c-3b84-4e9a-ae9c-9e8a63370213",
+                    "position": 11,
+                    "courseIdentifierParentId": 66011,
+                    "courseTitle": "Swimming Conditioning",
+                    "courseNumber": "179A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "914899ef-ba13-4b8c-a523-72e29934e194",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "SPORT": [
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "92dab089-835c-48ec-5924-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "KIN 122A, KIN 123A, KIN 124A, KIN 130A, KIN 131A, KIN 132A, KIN 133A, KIN 134, KIN 152A, KIN 155A, KIN 164A, KIN 171A, KIN 172, KIN 185A, KIN 185B, KIN 191A, KIN 195A",
+                "courses": [
+                  {
+                    "id": "b81ee926-a515-4b98-b232-9d8dced2f160",
+                    "position": 0,
+                    "courseIdentifierParentId": 27767,
+                    "courseTitle": "Badminton I",
+                    "courseNumber": "122A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "7d63d2cf-c864-42ba-af19-2b7567793e0b",
+                    "position": 1,
+                    "courseIdentifierParentId": 371332,
+                    "courseTitle": "Archery",
+                    "courseNumber": "123A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "3deb95be-f381-4072-8d3d-41ec8fa3b35d",
+                    "position": 2,
+                    "courseIdentifierParentId": 27513,
+                    "courseTitle": "Basketball I",
+                    "courseNumber": "124A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "26418f17-3a60-4663-9cb0-9703ba1cc506",
+                    "position": 3,
+                    "courseIdentifierParentId": 45857,
+                    "courseTitle": "Karate I",
+                    "courseNumber": "130A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "0b270ac9-08ef-41cc-b5e6-110d0a752721",
+                    "position": 4,
+                    "courseIdentifierParentId": 170055,
+                    "courseTitle": "Taekwondo",
+                    "courseNumber": "131A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "4c488b5e-02e8-4edf-85ad-6a082ac4c0ca",
+                    "position": 5,
+                    "courseIdentifierParentId": 48163,
+                    "courseTitle": "Aikido",
+                    "courseNumber": "132A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "e965b836-7b3b-497a-bf3c-238263aa2bea",
+                    "position": 6,
+                    "courseIdentifierParentId": 47291,
+                    "courseTitle": "Tai Chi Ch'uan",
+                    "courseNumber": "133A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "3210cb11-369a-4416-95be-00e5d841b739",
+                    "position": 7,
+                    "courseIdentifierParentId": 52715,
+                    "courseTitle": "Shaolin Kung Fu",
+                    "courseNumber": "134",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F2008",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "d572f011-7fdb-4e91-9232-81c4cf75877c",
+                    "position": 8,
+                    "courseIdentifierParentId": 66012,
+                    "courseTitle": "Soccer I",
+                    "courseNumber": "152A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "8301d91b-b4e1-4784-ab35-db385e136cd9",
+                    "position": 9,
+                    "courseIdentifierParentId": 27478,
+                    "courseTitle": "Golf I",
+                    "courseNumber": "155A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "1b6a6f31-c6be-44b1-8cf2-964e711045b3",
+                    "position": 10,
+                    "courseIdentifierParentId": 67569,
+                    "courseTitle": "Handball I",
+                    "courseNumber": "164A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "0041001b-9177-4fa4-9cd2-b5ebab3bdab7",
+                    "position": 11,
+                    "courseIdentifierParentId": 27505,
+                    "courseTitle": "Softball I",
+                    "courseNumber": "171A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "bd882128-a9db-4478-98f0-6fec461e03b5",
+                    "position": 12,
+                    "courseIdentifierParentId": 66013,
+                    "courseTitle": "Ultimate Frisbee",
+                    "courseNumber": "172",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "Su2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "e6d20dc1-1429-4b27-a242-77efa98a8481",
+                    "position": 13,
+                    "courseIdentifierParentId": 27766,
+                    "courseTitle": "Tennis I",
+                    "courseNumber": "185A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "811e6422-99bb-4246-ae6b-92fda6814011",
+                    "position": 14,
+                    "courseIdentifierParentId": 27780,
+                    "courseTitle": "Tennis II",
+                    "courseNumber": "185B",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "78675c9f-aa83-432b-895a-f9c5615a5edd",
+                    "position": 15,
+                    "courseIdentifierParentId": 311103,
+                    "courseTitle": "Track and Field I",
+                    "courseNumber": "191A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "a46addb9-fae7-4b00-b7fa-cc7a899de2c4",
+                    "position": 16,
+                    "courseIdentifierParentId": 27775,
+                    "courseTitle": "Volleyball I",
+                    "courseNumber": "195A",
+                    "prefix": "KIN",
+                    "prefixParentId": 5993,
+                    "prefixDescription": "Kinesiology",
+                    "departmentParentId": 8063,
+                    "department": "Kinesiology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "8a5ea046-7266-499d-830f-40573278dce6",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

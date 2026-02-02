@@ -1,0 +1,1418 @@
+{
+  "major": "Electronics Engineering Technology",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 43224,
+        "courseTitle": "Introduction to Engineering Profession",
+        "courseNumber": "101",
+        "prefix": "ENGR",
+        "prefixParentId": 3545,
+        "prefixDescription": "Engineering",
+        "departmentParentId": 4786,
+        "department": "Engineering",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 260593,
+              "courseTitle": "Introduction to Engineering",
+              "courseNumber": "10",
+              "prefix": "ENGR",
+              "prefixParentId": 3570,
+              "prefixDescription": "Engineering",
+              "departmentParentId": 4803,
+              "department": "Engineering",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 197383,
+        "courseTitle": "Probability and Statistics for Technology",
+        "courseNumber": "202",
+        "prefix": "E T",
+        "prefixParentId": 10070,
+        "prefixDescription": "Engineering Technology",
+        "departmentParentId": 4864,
+        "department": "Engineering Technology",
+        "begin": "F2001",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "ba431548-e352-41a0-991f-f3146566dc45",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 283453,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 255009,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "609e8f19-3a9a-451a-9e30-1779f5a12b51",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 255009,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283453,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 43233,
+        "courseTitle": "Computer Systems and Programming Lab",
+        "courseNumber": "205L",
+        "prefix": "E T",
+        "prefixParentId": 10070,
+        "prefixDescription": "Engineering Technology",
+        "departmentParentId": 4864,
+        "department": "Engineering Technology",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275613,
+              "courseTitle": "Beginning Programming Methodologies in C++",
+              "courseNumber": "22A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 300746,
+              "courseTitle": "Introduction to Computer Programming Using Java",
+              "courseNumber": "36A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275526,
+              "courseTitle": "Java Programming",
+              "courseNumber": "35A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 235579,
+        "courseTitle": "Engineering Problems and Analysis",
+        "courseNumber": "203",
+        "prefix": "ENGR",
+        "prefixParentId": 3545,
+        "prefixDescription": "Engineering",
+        "departmentParentId": 4786,
+        "department": "Engineering",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 108946,
+        "courseTitle": "Circuit Analysis I",
+        "courseNumber": "250",
+        "prefix": "E T",
+        "prefixParentId": 10070,
+        "prefixDescription": "Engineering Technology",
+        "departmentParentId": 4864,
+        "department": "Engineering Technology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307940,
+              "courseTitle": "Introduction to Circuit Analysis",
+              "courseNumber": "37",
+              "prefix": "ENGR",
+              "prefixParentId": 3570,
+              "prefixDescription": "Engineering",
+              "departmentParentId": 4803,
+              "department": "Engineering",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 44236,
+        "courseTitle": "Introduction to Object-Oriented Programming Lab",
+        "courseNumber": "286L",
+        "prefix": "E T",
+        "prefixParentId": 10070,
+        "prefixDescription": "Engineering Technology",
+        "departmentParentId": 4864,
+        "department": "Engineering Technology",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275613,
+              "courseTitle": "Beginning Programming Methodologies in C++",
+              "courseNumber": "22A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 313933,
+        "courseTitle": "Computer Systems and Programming",
+        "courseNumber": "205",
+        "prefix": "E T",
+        "prefixParentId": 10070,
+        "prefixDescription": "Engineering Technology",
+        "departmentParentId": 4864,
+        "department": "Engineering Technology",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 300746,
+              "courseTitle": "Introduction to Computer Programming Using Java",
+              "courseNumber": "36A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275526,
+              "courseTitle": "Java Programming",
+              "courseNumber": "35A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275613,
+              "courseTitle": "Beginning Programming Methodologies in C++",
+              "courseNumber": "22A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 354320,
+        "courseTitle": "General Physics",
+        "courseNumber": "100A",
+        "prefix": "PHYS",
+        "prefixParentId": 263,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10794,
+        "department": "Physics",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277391,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2B",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277383,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2C",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 303424,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 174149,
+        "courseTitle": "Calculus I",
+        "courseNumber": "122",
+        "prefix": "MATH",
+        "prefixParentId": 9989,
+        "prefixDescription": "Mathematics and Statistics",
+        "departmentParentId": 9084,
+        "department": "Mathematics and Statistics",
+        "begin": "F2003",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 293300,
+        "courseTitle": "General Physics",
+        "courseNumber": "100B",
+        "prefix": "PHYS",
+        "prefixParentId": 263,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10794,
+        "department": "Physics",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277391,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2B",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 303424,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277383,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2C",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 107419,
+        "courseTitle": "Introduction to Object-Oriented Programming",
+        "courseNumber": "286",
+        "prefix": "E T",
+        "prefixParentId": 10070,
+        "prefixDescription": "Engineering Technology",
+        "departmentParentId": 4864,
+        "department": "Engineering Technology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275613,
+              "courseTitle": "Beginning Programming Methodologies in C++",
+              "courseNumber": "22A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "ff9cf70e-9376-4169-7986-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 49916,
+                "courseTitle": "Introduction to Engineering Technology",
+                "courseNumber": "101",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8fa743f4-eb7a-46e1-9b46-888f01b79c60",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 118597,
+                "courseTitle": "Circuits Analysis II",
+                "courseNumber": "252",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f9eac288-4024-454b-979b-35647e8fa2fb",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 43224,
+                "courseTitle": "Introduction to Engineering Profession",
+                "courseNumber": "101",
+                "prefix": "ENGR",
+                "prefixParentId": 3545,
+                "prefixDescription": "Engineering",
+                "departmentParentId": 4786,
+                "department": "Engineering",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 43227,
+                    "courseTitle": "Introduction to the Engineering Profession",
+                    "courseNumber": "101H",
+                    "prefix": "ENGR",
+                    "prefixParentId": 3545,
+                    "prefixDescription": "Engineering",
+                    "departmentParentId": 4786,
+                    "department": "Engineering",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "388ae344-774e-4031-8bb9-d183a56fce89",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 197383,
+                "courseTitle": "Probability and Statistics for Technology",
+                "courseNumber": "202",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F2001",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "011b5a05-c856-43fa-a64c-b3e21b750d41",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 43233,
+                "courseTitle": "Computer Systems and Programming Lab",
+                "courseNumber": "205L",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6a1a143e-d620-4f3a-8f87-9922b314d54f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 235579,
+                "courseTitle": "Engineering Problems and Analysis",
+                "courseNumber": "203",
+                "prefix": "ENGR",
+                "prefixParentId": 3545,
+                "prefixDescription": "Engineering",
+                "departmentParentId": 4786,
+                "department": "Engineering",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2053eace-6110-42c4-a355-94d881875166",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 108946,
+                "courseTitle": "Circuit Analysis I",
+                "courseNumber": "250",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8fac5cb8-9580-4e8b-bc10-e3f3f3afa8e4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 48968,
+                "courseTitle": "Probability and Statistics for Technology Laboratory",
+                "courseNumber": "202L",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F2001",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2e0ecd70-328f-4d6a-a93e-67488902ac03",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 42392,
+                "courseTitle": "Circuit Analysis I Lab",
+                "courseNumber": "250L",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2e29491e-f5ce-48e9-a5b5-42e54e3d3568",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 44236,
+                "courseTitle": "Introduction to Object-Oriented Programming Lab",
+                "courseNumber": "286L",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "52268f7d-fa21-40ca-a1b9-689d69849522",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 313933,
+                "courseTitle": "Computer Systems and Programming",
+                "courseNumber": "205",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4cdecf78-c2b8-4f6b-98d9-aff1480b3541",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 174263,
+                "courseTitle": "Solid State Electronics I Lab",
+                "courseNumber": "260L",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5c1b894f-1f0d-451e-9333-169c944cdb91",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354320,
+                "courseTitle": "General Physics",
+                "courseNumber": "100A",
+                "prefix": "PHYS",
+                "prefixParentId": 263,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10794,
+                "department": "Physics",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b2583911-1b45-48f2-b88c-9e63a1ebbd35",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 174149,
+                "courseTitle": "Calculus I",
+                "courseNumber": "122",
+                "prefix": "MATH",
+                "prefixParentId": 9989,
+                "prefixDescription": "Mathematics and Statistics",
+                "departmentParentId": 9084,
+                "department": "Mathematics and Statistics",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "050c01cf-804f-427c-bbee-588f93aa0230",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 293300,
+                "courseTitle": "General Physics",
+                "courseNumber": "100B",
+                "prefix": "PHYS",
+                "prefixParentId": 263,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10794,
+                "department": "Physics",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dece52ca-b41f-4e1b-9660-9fa9d5820ee6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 44492,
+                "courseTitle": "Introduction to Digital Electronics Laboratory",
+                "courseNumber": "255L",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6363fdf1-bec4-473d-9a2d-b51ba9f4d4e8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 107419,
+                "courseTitle": "Introduction to Object-Oriented Programming",
+                "courseNumber": "286",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9eab825e-e941-459c-b66d-8866227ee81d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 114555,
+                "courseTitle": "Solid State Electronics I",
+                "courseNumber": "260",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F2007",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f67edaf5-9ec9-42f7-be48-2a718c4f2b3b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 118598,
+                "courseTitle": "Introduction to Digitial Electronics",
+                "courseNumber": "255",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "93f281d1-1fd0-47a3-ab44-a3bf4eea7f08",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 51891,
+                "courseTitle": "Engineering Problems and Analysis Lab",
+                "courseNumber": "203L",
+                "prefix": "ENGR",
+                "prefixParentId": 3545,
+                "prefixDescription": "Engineering",
+                "departmentParentId": 4786,
+                "department": "Engineering",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "43739a4b-e8ef-4023-bf9d-e82c80b644b1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 313954,
+                "courseTitle": "Circuit Analysis II Laboratory",
+                "courseNumber": "252L",
+                "prefix": "E T",
+                "prefixParentId": 10070,
+                "prefixDescription": "Engineering Technology",
+                "departmentParentId": 4864,
+                "department": "Engineering Technology",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "21101e5f-d2f7-4e5f-9468-66cc6359c841",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 55100,
+                "courseTitle": "Academic Success Skills",
+                "courseNumber": "102",
+                "prefix": "ENGR",
+                "prefixParentId": 3545,
+                "prefixDescription": "Engineering",
+                "departmentParentId": 4786,
+                "department": "Engineering",
+                "begin": "S2007",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 55101,
+                    "courseTitle": "Academic Success Skills",
+                    "courseNumber": "102H",
+                    "prefix": "ENGR",
+                    "prefixParentId": 3545,
+                    "prefixDescription": "Engineering",
+                    "departmentParentId": 4786,
+                    "department": "Engineering",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d60fd594-1edd-4043-9af5-92bdefecb0de",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "0fc41833-6353-4363-dca9-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 366025,
+                "courseTitle": "Engineering Design Graphics - Solidworks",
+                "courseNumber": "172B",
+                "prefix": "MAE",
+                "prefixParentId": 4119,
+                "prefixDescription": "Mechanical and Aerospace Engineering",
+                "departmentParentId": 9093,
+                "department": "Mechanical and Aerospace Engineering",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "33e02b27-6cb9-4755-bf28-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 366026,
+                "courseTitle": "Engineering Design Graphics - CATIA",
+                "courseNumber": "172C",
+                "prefix": "MAE",
+                "prefixParentId": 4119,
+                "prefixDescription": "Mechanical and Aerospace Engineering",
+                "departmentParentId": 9093,
+                "department": "Mechanical and Aerospace Engineering",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d09c9649-db9a-49f8-bf29-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 366024,
+                "courseTitle": "Engineering Design Graphics - AutoCAD",
+                "courseNumber": "172A",
+                "prefix": "MAE",
+                "prefixParentId": 4119,
+                "prefixDescription": "Mechanical and Aerospace Engineering",
+                "departmentParentId": 9093,
+                "department": "Mechanical and Aerospace Engineering",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ab5ef320-61ea-4209-9990-d5be3320a699",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,923 @@
+{
+  "major": "Dance Minor",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 132,
+    "code": "UCSC    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Cruz",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 108988,
+        "courseTitle": "Fundamentals of Theater Production",
+        "courseNumber": "50",
+        "prefix": "THEA",
+        "prefixParentId": 2439,
+        "prefixDescription": "Theater Arts",
+        "departmentParentId": 12813,
+        "department": "Theater Arts",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 283742,
+        "courseTitle": "Introduction to Dance Theory and Technique",
+        "courseNumber": "30",
+        "prefix": "THEA",
+        "prefixParentId": 2439,
+        "prefixDescription": "Theater Arts",
+        "departmentParentId": 12813,
+        "department": "Theater Arts",
+        "begin": "F2010",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 62178,
+              "courseTitle": "Body Awareness and Conditioning for Dancers",
+              "courseNumber": "22",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 62556,
+              "courseTitle": "Theory and Technique of Ballet I",
+              "courseNumber": "22K",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 61988,
+              "courseTitle": "Theory and Technique of Contemporary (Modern) Dance I",
+              "courseNumber": "23A",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60156,
+              "courseTitle": "Theory and Technique of Jazz Dance III",
+              "courseNumber": "37C",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2014",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 70038,
+              "courseTitle": "Theory and Technique of Social Dance I",
+              "courseNumber": "24A",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60520,
+              "courseTitle": "Theory and Technique of Hip-Hop I (Popular American Dance)",
+              "courseNumber": "23L",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60410,
+              "courseTitle": "Theory and Technique of Ballet II",
+              "courseNumber": "22L",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59957,
+              "courseTitle": "Theory and Technique of Social Dance III",
+              "courseNumber": "24C",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 67505,
+              "courseTitle": "Theory and Technique of Social Dance II",
+              "courseNumber": "24B",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 119849,
+              "courseTitle": "Popular Dance (Jazz, Hip Hop) Workshop (Student Productions)",
+              "courseNumber": "27C",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60154,
+              "courseTitle": "Theory and Technique of Contemporary (Modern) Dance III",
+              "courseNumber": "23C",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2014",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60884,
+              "courseTitle": "Theory and Technique of Jazz Dance II",
+              "courseNumber": "37B",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60270,
+              "courseTitle": "Theory and Technique of Contemporary (Modern) Dance II",
+              "courseNumber": "23B",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 60308,
+              "courseTitle": "Theory and Technique of Jazz Dance I",
+              "courseNumber": "37A",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 59066,
+              "courseTitle": "Ballet Workshop (Student Productions)",
+              "courseNumber": "27A",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 65531,
+              "courseTitle": "Theory and Technique of Hip-Hop III (Popular American Dance III)",
+              "courseNumber": "23N",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 132995,
+              "courseTitle": "Contemporary Modern Dance Workshop (Student Productions)",
+              "courseNumber": "27B",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 62326,
+              "courseTitle": "Theory and Technique of Salsa Dance I",
+              "courseNumber": "25A",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 65100,
+              "courseTitle": "Theory and Technique of Ballet III",
+              "courseNumber": "22M",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2014",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 64361,
+              "courseTitle": "Theory and Technique of Salsa Dance II",
+              "courseNumber": "25B",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2014",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 65503,
+              "courseTitle": "Theory and Technique of Hip-Hop II (Popular American Dance II)",
+              "courseNumber": "23M",
+              "prefix": "DANC",
+              "prefixParentId": 10261,
+              "prefixDescription": "Dance",
+              "departmentParentId": 3719,
+              "department": "Dance",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MINOR": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "9e5e3db5-85ab-436f-dfd2-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305029,
+                "courseTitle": "African Dance",
+                "courseNumber": "37",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "83c84316-530e-4d75-9cf8-b8acb650d475",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 373837,
+                "courseTitle": "Dance Studio I: Contemporary Dance Theory and Technique",
+                "courseNumber": "31C",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3b4b6ea1-ae80-449a-a627-6cfc7a7a78d5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305030,
+                "courseTitle": "Indian Dance",
+                "courseNumber": "80Z",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f805a136-a0ab-45ce-8d41-171ab10c189c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 376818,
+                "courseTitle": "Dance Studio I: Ballet",
+                "courseNumber": "31B",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5579714f-148f-46c5-a84a-bbba81788add",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309325,
+                "courseTitle": "Indonesian Dance and Drama",
+                "courseNumber": "22",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ad0d2ad3-aa41-4f1c-aef6-5c27417f8b9d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 376820,
+                "courseTitle": "Everybody Dance Now!",
+                "courseNumber": "80U",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b20426f9-4a51-4730-ad6c-1e9058583574",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 376819,
+                "courseTitle": "Bollywood Dance and Culture in India and Indian Diaspora",
+                "courseNumber": "80R",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "91dae020-3033-4ef6-9bbe-c963ad0474c8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 376817,
+                "courseTitle": "Dance Studio I: Asian or Asian Diasporic Practice",
+                "courseNumber": "31A",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "55a76117-fb29-477f-9bcd-bb56ed2ae5eb",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Approved courses in cultural forms"
+              },
+              "requirementAttributes": [],
+              "id": "64f68c65-9a49-4c54-b63f-afcda5d6db6d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 108988,
+                "courseTitle": "Fundamentals of Theater Production",
+                "courseNumber": "50",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "49b482d9-667f-4ffe-8119-45f78cdb2963",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 373838,
+                "courseTitle": "Dance Studio I",
+                "courseNumber": "33C",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "be382b23-be07-449f-c88a-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304709,
+                "courseTitle": "Introduction to Dance Making",
+                "courseNumber": "36",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2c609a7e-ced1-43e3-9c86-fe6d029f7ddb",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Approved courses in dance foundations"
+              },
+              "requirementAttributes": [],
+              "id": "6ebefb93-cd79-42d4-9577-25816a81f87e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 283742,
+                "courseTitle": "Introduction to Dance Theory and Technique",
+                "courseNumber": "30",
+                "prefix": "THEA",
+                "prefixParentId": 2439,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12813,
+                "department": "Theater Arts",
+                "begin": "F2010",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d02d7406-c298-48da-8372-d49041017471",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

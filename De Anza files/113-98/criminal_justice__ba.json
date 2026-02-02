@@ -1,0 +1,357 @@
+{
+  "major": "Criminal Justice, BA",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 98,
+    "code": "CSUB    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Bakersfield",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 274978,
+        "courseTitle": "Criminal Investigation",
+        "courseNumber": "2500",
+        "prefix": "CRJU",
+        "prefixParentId": 5598,
+        "prefixDescription": "Criminal Justice",
+        "departmentParentId": 3584,
+        "department": "Criminal Justice",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282360,
+              "courseTitle": "Criminal Investigation",
+              "courseNumber": "61",
+              "prefix": "ADMJ",
+              "prefixParentId": 2523,
+              "prefixDescription": "Administration of Justice",
+              "departmentParentId": 173,
+              "department": "Administration of Justice",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 285291,
+        "courseTitle": "Introduction to Criminal Justice",
+        "courseNumber": "1108",
+        "prefix": "CRJU",
+        "prefixParentId": 5598,
+        "prefixDescription": "Criminal Justice",
+        "departmentParentId": 3584,
+        "department": "Criminal Justice",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290405,
+              "courseTitle": "Introduction to Administration of Justice",
+              "courseNumber": "1",
+              "prefix": "ADMJ",
+              "prefixParentId": 2523,
+              "prefixDescription": "Administration of Justice",
+              "departmentParentId": 173,
+              "department": "Administration of Justice",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "e583e7da-94ce-4af2-59ca-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 237692,
+                "courseTitle": "Issues, Values, and Ethics in Criminal Justice",
+                "courseNumber": "2210",
+                "prefix": "CRJU",
+                "prefixParentId": 5598,
+                "prefixDescription": "Criminal Justice",
+                "departmentParentId": 3584,
+                "department": "Criminal Justice",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4d7097aa-b141-403c-bceb-d8aaa1ee9741",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 264717,
+                "courseTitle": "Quantitative Analysis in Criminal Justice",
+                "courseNumber": "2100",
+                "prefix": "CRJU",
+                "prefixParentId": 5598,
+                "prefixDescription": "Criminal Justice",
+                "departmentParentId": 3584,
+                "department": "Criminal Justice",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0308db8d-7823-4b48-529c-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 285291,
+                "courseTitle": "Introduction to Criminal Justice",
+                "courseNumber": "1108",
+                "prefix": "CRJU",
+                "prefixParentId": 5598,
+                "prefixDescription": "Criminal Justice",
+                "departmentParentId": 3584,
+                "department": "Criminal Justice",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d8289f28-a66e-4418-b665-058fa9fbb6f3",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ELECTIVE COURSES": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "63227740-0f34-44f8-5ac5-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375196,
+                "courseTitle": "Comparative Criminal Justice",
+                "courseNumber": "2300",
+                "prefix": "CRJU",
+                "prefixParentId": 5598,
+                "prefixDescription": "Criminal Justice",
+                "departmentParentId": 3584,
+                "department": "Criminal Justice",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "09079e90-1a39-47b9-8bb3-306c9e52d9e1",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "995a34e3-f651-4740-5ac2-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375197,
+                "courseTitle": "Cybercrime",
+                "courseNumber": "2460",
+                "prefix": "CRJU",
+                "prefixParentId": 5598,
+                "prefixDescription": "Criminal Justice",
+                "departmentParentId": 3584,
+                "department": "Criminal Justice",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9a8738de-7243-47fc-529d-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "ddb3dfdb-669b-437e-5ac3-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 274978,
+                "courseTitle": "Criminal Investigation",
+                "courseNumber": "2500",
+                "prefix": "CRJU",
+                "prefixParentId": 5598,
+                "prefixDescription": "Criminal Justice",
+                "departmentParentId": 3584,
+                "department": "Criminal Justice",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c9f56a49-ef63-470c-529e-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "acec35c4-691f-49f5-5ac4-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 350370,
+                "courseTitle": "Crime and the Media",
+                "courseNumber": "2600",
+                "prefix": "CRJU",
+                "prefixParentId": 5598,
+                "prefixDescription": "Criminal Justice",
+                "departmentParentId": 3584,
+                "department": "Criminal Justice",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "edde37c6-04bb-47b2-529f-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

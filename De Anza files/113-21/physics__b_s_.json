@@ -1,0 +1,632 @@
+{
+  "major": "Physics, B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 21,
+    "code": "CSUHAY",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "California State University, Hayward",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      },
+      {
+        "name": "California State University, East Bay",
+        "hasDepartments": true,
+        "fromYear": 2005,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 2018
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 2005
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 384899,
+        "courseTitle": " INTRODUCTION TO LINEAR ALGEBRA",
+        "courseNumber": "215",
+        "prefix": "MATH",
+        "prefixParentId": 9927,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 14106,
+        "department": "Mathematics",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363589,
+              "courseTitle": "Linear Algebra - HONORS",
+              "courseNumber": "2BH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302590,
+              "courseTitle": "Linear Algebra",
+              "courseNumber": "2B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 384934,
+        "courseTitle": " INTRODUCTION TO DIFFERENTIAL EQUATIONS",
+        "courseNumber": "285",
+        "prefix": "MATH",
+        "prefixParentId": 9927,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 14106,
+        "department": "Mathematics",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281375,
+              "courseTitle": "Differential Equations",
+              "courseNumber": "2A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363588,
+              "courseTitle": "Differential Equations - HONORS",
+              "courseNumber": "2AH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 256819,
+        "courseTitle": "CALCULUS I",
+        "courseNumber": "130",
+        "prefix": "MATH",
+        "prefixParentId": 9927,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 14106,
+        "department": "Mathematics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "Or",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288768,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 303145,
+        "courseTitle": "Physics for Scientists and Engineers III",
+        "courseNumber": "137",
+        "prefix": "PHYS",
+        "prefixParentId": 201,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10760,
+        "department": "Physics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 284363,
+        "courseTitle": "CALCULUS II",
+        "courseNumber": "131",
+        "prefix": "MATH",
+        "prefixParentId": 9927,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 14106,
+        "department": "Mathematics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "Or",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288769,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 308313,
+        "courseTitle": "Physics for Scientists and Engineers II",
+        "courseNumber": "136",
+        "prefix": "PHYS",
+        "prefixParentId": 201,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10760,
+        "department": "Physics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 359307,
+        "courseTitle": "Physics for Scientists and Engineers I ",
+        "courseNumber": "135",
+        "prefix": "PHYS",
+        "prefixParentId": 201,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10760,
+        "department": "Physics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 256842,
+        "courseTitle": "CALCULUS III",
+        "courseNumber": "230",
+        "prefix": "MATH",
+        "prefixParentId": 9927,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 14106,
+        "department": "Mathematics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION CORE": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384899,
+                "courseTitle": " INTRODUCTION TO LINEAR ALGEBRA",
+                "courseNumber": "215",
+                "prefix": "MATH",
+                "prefixParentId": 9927,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 14106,
+                "department": "Mathematics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "eb1d9fbb-2fef-4841-5140-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384934,
+                "courseTitle": " INTRODUCTION TO DIFFERENTIAL EQUATIONS",
+                "courseNumber": "285",
+                "prefix": "MATH",
+                "prefixParentId": 9927,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 14106,
+                "department": "Mathematics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ac3f1166-74f1-4446-5141-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256819,
+                "courseTitle": "CALCULUS I",
+                "courseNumber": "130",
+                "prefix": "MATH",
+                "prefixParentId": 9927,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 14106,
+                "department": "Mathematics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2366d59e-d578-480a-a062-f6c012722ac2",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303145,
+                "courseTitle": "Physics for Scientists and Engineers III",
+                "courseNumber": "137",
+                "prefix": "PHYS",
+                "prefixParentId": 201,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10760,
+                "department": "Physics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "769a3ca8-e48c-4193-9b34-54e66002750e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284363,
+                "courseTitle": "CALCULUS II",
+                "courseNumber": "131",
+                "prefix": "MATH",
+                "prefixParentId": 9927,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 14106,
+                "department": "Mathematics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3b65469c-2b84-4532-aa3f-457fbdd2d98a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308313,
+                "courseTitle": "Physics for Scientists and Engineers II",
+                "courseNumber": "136",
+                "prefix": "PHYS",
+                "prefixParentId": 201,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10760,
+                "department": "Physics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "52e0823c-83ed-498d-9f25-bdefb4502598",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365319,
+                "courseTitle": "Physical Reasoning ",
+                "courseNumber": "230",
+                "prefix": "PHYS",
+                "prefixParentId": 201,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10760,
+                "department": "Physics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a8af8359-1eb1-41fc-ba1f-a032528a8d59",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359307,
+                "courseTitle": "Physics for Scientists and Engineers I ",
+                "courseNumber": "135",
+                "prefix": "PHYS",
+                "prefixParentId": 201,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10760,
+                "department": "Physics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3183ca8f-3c0d-46e5-9dc5-769477297420",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256842,
+                "courseTitle": "CALCULUS III",
+                "courseNumber": "230",
+                "prefix": "MATH",
+                "prefixParentId": 9927,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 14106,
+                "department": "Mathematics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "76a8cd7f-9bcd-483b-b7d4-17c5fb77ab45",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 364929,
+                "courseTitle": "General Chemistry Engineering ",
+                "courseNumber": "110",
+                "prefix": "CHEM",
+                "prefixParentId": 3762,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2282,
+                "department": "Chemistry",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "93b0d2e2-fab4-4a4e-a778-16a4dcfe45e3",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

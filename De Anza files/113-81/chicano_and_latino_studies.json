@@ -1,0 +1,280 @@
+{
+  "major": "Chicano and Latino Studies",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 210015,
+        "courseTitle": "Introduction to Chicano Literary Studies",
+        "courseNumber": "150",
+        "prefix": "CHLS",
+        "prefixParentId": 4303,
+        "prefixDescription": "Chicano-Latino Studies",
+        "departmentParentId": 2435,
+        "department": "Chicano-Latino Studies",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353512,
+              "courseTitle": "Chicano/a and Latino/a Literature",
+              "courseNumber": "35",
+              "prefix": "ICS",
+              "prefixParentId": 9360,
+              "prefixDescription": "Intercultural Studies",
+              "departmentParentId": 7565,
+              "department": "Intercultural Studies",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 178854,
+        "courseTitle": "Introduction to Chicano and Latino Studies",
+        "courseNumber": "100",
+        "prefix": "CHLS",
+        "prefixParentId": 4303,
+        "prefixDescription": "Chicano-Latino Studies",
+        "departmentParentId": 2435,
+        "department": "Chicano-Latino Studies",
+        "begin": "F2004",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283279,
+              "courseTitle": "Introduction to Chicanx and Latinx Studies",
+              "courseNumber": "10",
+              "prefix": "CHLX",
+              "prefixParentId": 16885,
+              "prefixDescription": "Chicanx/Latinx Studies",
+              "departmentParentId": 13990,
+              "department": "Chicanx/Latinx Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 2,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "91eb729c-e039-4dd6-dbaa-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 210015,
+                "courseTitle": "Introduction to Chicano Literary Studies",
+                "courseNumber": "150",
+                "prefix": "CHLS",
+                "prefixParentId": 4303,
+                "prefixDescription": "Chicano-Latino Studies",
+                "departmentParentId": 2435,
+                "department": "Chicano-Latino Studies",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "21b27ea6-72d8-49da-bfe9-4e8cf9aeb747",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 223202,
+                "courseTitle": "Latina/o Cultural Identity",
+                "courseNumber": "105",
+                "prefix": "CHLS",
+                "prefixParentId": 4303,
+                "prefixDescription": "Chicano-Latino Studies",
+                "departmentParentId": 2435,
+                "department": "Chicano-Latino Studies",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d736d07c-c283-4ab7-9dad-8424a1611a97",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 178854,
+                "courseTitle": "Introduction to Chicano and Latino Studies",
+                "courseNumber": "100",
+                "prefix": "CHLS",
+                "prefixParentId": 4303,
+                "prefixDescription": "Chicano-Latino Studies",
+                "departmentParentId": 2435,
+                "department": "Chicano-Latino Studies",
+                "begin": "F2004",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "95a3f9d0-86f5-4cdc-92ec-d00386118549",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341571,
+                "courseTitle": "Introduction to Chicano/a and Latino/a Life",
+                "courseNumber": "101",
+                "prefix": "CHLS",
+                "prefixParentId": 4303,
+                "prefixDescription": "Chicano-Latino Studies",
+                "departmentParentId": 2435,
+                "department": "Chicano-Latino Studies",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1d43603a-fad5-495c-af23-e274e8e3b4bc",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "508cd474-08a1-46f5-78f4-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305505,
+                "courseTitle": "Spanish for Bilinguals",
+                "courseNumber": "250",
+                "prefix": "SPAN",
+                "prefixParentId": 3170,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12265,
+                "department": "Spanish",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 6,
+                "maxUnits": 6
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7b6cf63e-999e-44d2-9fc0-5f140b080a80",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

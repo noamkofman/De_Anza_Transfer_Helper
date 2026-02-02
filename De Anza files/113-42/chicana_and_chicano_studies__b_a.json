@@ -1,0 +1,199 @@
+{
+  "major": "CHICANA AND CHICANO STUDIES, B.A",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 42,
+    "code": "CSUN    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Northridge",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 172022,
+        "courseTitle": "Chicana/o Culture",
+        "courseNumber": "100",
+        "prefix": "CH S",
+        "prefixParentId": 4227,
+        "prefixDescription": "Chicana/Chicano Studies",
+        "departmentParentId": 2406,
+        "department": "Chicana/Chicano Studies",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283279,
+              "courseTitle": "Introduction to Chicanx and Latinx Studies",
+              "courseNumber": "10",
+              "prefix": "CHLX",
+              "prefixParentId": 16885,
+              "prefixDescription": "Chicanx/Latinx Studies",
+              "departmentParentId": 13990,
+              "department": "Chicanx/Latinx Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171857,
+                "courseTitle": "Field Work in Barrio Studies",
+                "courseNumber": "270SOC",
+                "prefix": "CH S",
+                "prefixParentId": 4227,
+                "prefixDescription": "Chicana/Chicano Studies",
+                "departmentParentId": 2406,
+                "department": "Chicana/Chicano Studies",
+                "begin": "S2007",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "46af90c1-3598-4163-02ac-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 173913,
+                "courseTitle": "Contemporary Issues of the Chicana",
+                "courseNumber": "246",
+                "prefix": "CH S",
+                "prefixParentId": 4227,
+                "prefixDescription": "Chicana/Chicano Studies",
+                "departmentParentId": 2406,
+                "department": "Chicana/Chicano Studies",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "00949290-1fea-408d-83f3-4f176baf809d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 172103,
+                "courseTitle": "Survey of Mexican Literature in Translation",
+                "courseNumber": "201",
+                "prefix": "CH S",
+                "prefixParentId": 4227,
+                "prefixDescription": "Chicana/Chicano Studies",
+                "departmentParentId": 2406,
+                "department": "Chicana/Chicano Studies",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f5823c84-c29b-4e96-a77a-78885d0b9927",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 172022,
+                "courseTitle": "Chicana/o Culture",
+                "courseNumber": "100",
+                "prefix": "CH S",
+                "prefixParentId": 4227,
+                "prefixDescription": "Chicana/Chicano Studies",
+                "departmentParentId": 2406,
+                "department": "Chicana/Chicano Studies",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0591f0e6-8897-490f-9f12-c828d367fcad",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

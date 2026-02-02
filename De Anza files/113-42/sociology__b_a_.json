@@ -1,0 +1,354 @@
+{
+  "major": "SOCIOLOGY, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 42,
+    "code": "CSUN    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Northridge",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 172007,
+        "courseTitle": "Introductory Sociology",
+        "courseNumber": "150",
+        "prefix": "SOC",
+        "prefixParentId": 9015,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12061,
+        "department": "Sociology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254964,
+              "courseTitle": "Introduction to Sociology",
+              "courseNumber": "1",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 262468,
+        "courseTitle": "Introductory Statistics",
+        "courseNumber": "140",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "8e6431b9-6b98-42d8-899f-336a9c41607e",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 283453,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 255009,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "56cbc49c-657a-4325-be68-c8d5a157e54e",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 255009,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283453,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 172007,
+                "courseTitle": "Introductory Sociology",
+                "courseNumber": "150",
+                "prefix": "SOC",
+                "prefixParentId": 9015,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12061,
+                "department": "Sociology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9b7a1ab8-bbf5-4f2f-4c59-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "a53e218f-4e18-4864-596c-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Other Acceptable Statistics"
+              },
+              "requirementAttributes": [],
+              "id": "afef04fb-df1a-450e-4c5a-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 262468,
+                "courseTitle": "Introductory Statistics",
+                "courseNumber": "140",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 375546,
+                    "courseTitle": "Introductory Statistics for Business",
+                    "courseNumber": "140BUS",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 375548,
+                    "courseTitle": "Introductory Statistics for STEM",
+                    "courseNumber": "140SCI",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 375552,
+                    "courseTitle": "Essentials of Statistics and Lab",
+                    "courseNumber": "141/L",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "54a7412f-90d8-492f-a366-4b4f5e80a2fb",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

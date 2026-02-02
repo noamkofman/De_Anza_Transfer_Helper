@@ -1,0 +1,620 @@
+{
+  "major": "GEOLOGY, B.A. QUARTER COLLEGE",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 21,
+    "code": "CSUHAY",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "California State University, Hayward",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      },
+      {
+        "name": "California State University, East Bay",
+        "hasDepartments": true,
+        "fromYear": 2005,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 2018
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 2005
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 256828,
+        "courseTitle": "Precalculus",
+        "courseNumber": "120",
+        "prefix": "MATH",
+        "prefixParentId": 9927,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 14106,
+        "department": "Mathematics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368048,
+              "courseTitle": "Precalculus II",
+              "courseNumber": "32",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 359313,
+        "courseTitle": "Physical and Environmental Geology",
+        "courseNumber": "210",
+        "prefix": "GEOL",
+        "prefixParentId": 11242,
+        "prefixDescription": "Geology",
+        "departmentParentId": 4127,
+        "department": "Earth and Environmental Sciences",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 308128,
+              "courseTitle": "Introductory Geology",
+              "courseNumber": "10",
+              "prefix": "GEOL",
+              "prefixParentId": 11330,
+              "prefixDescription": "Geology",
+              "departmentParentId": 6352,
+              "department": "Geology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359228,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 163,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306955,
+              "courseTitle": "General Chemistry and Qualitative Analysis",
+              "courseNumber": "1C",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 163,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368024,
+              "courseTitle": "General Chemistry and Qualitative Analysis - HONORS",
+              "courseNumber": "1CH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368022,
+              "courseTitle": "General Chemistry - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368023,
+              "courseTitle": "General Chemistry - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277391,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2B",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 303424,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277383,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2C",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION CORE": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "169fadf3-b235-414f-d223-08dbfa6164b6",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CHEM 111, CHEM 111L, CHEM 112",
+                "courses": [
+                  {
+                    "id": "b5b0597f-7415-4373-8c38-89b692e391c2",
+                    "position": 0,
+                    "courseIdentifierParentId": 308342,
+                    "courseTitle": "GENERAL CHEMISTRY I",
+                    "courseNumber": "111",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3762,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2282,
+                    "department": "Chemistry",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "9fbcae86-07cc-40e3-d67f-08dbfa6036af",
+                    "position": 1,
+                    "courseIdentifierParentId": 384930,
+                    "courseTitle": "GENERAL CHEMISTRY LABORATORY I",
+                    "courseNumber": "111L",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3762,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2282,
+                    "department": "Chemistry",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "855c5ee1-1ccb-4ecd-b6e0-eabf5756571a",
+                    "position": 2,
+                    "courseIdentifierParentId": 281693,
+                    "courseTitle": "GENERAL CHEMISTRY II",
+                    "courseNumber": "112",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3762,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2282,
+                    "department": "Chemistry",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "71fd2725-8358-46c0-e896-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256828,
+                "courseTitle": "Precalculus",
+                "courseNumber": "120",
+                "prefix": "MATH",
+                "prefixParentId": 9927,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 14106,
+                "department": "Mathematics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5700f873-6a63-41f1-e897-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PHYS 125, PHYS 126",
+                "courses": [
+                  {
+                    "id": "f390ab3a-a4dc-4105-9140-449a6597aff2",
+                    "position": 0,
+                    "courseIdentifierParentId": 284429,
+                    "courseTitle": "Principles of Physics I",
+                    "courseNumber": "125",
+                    "prefix": "PHYS",
+                    "prefixParentId": 201,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10760,
+                    "department": "Physics",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "a25a7053-dfb6-40f5-851c-c92c4e638f6b",
+                    "position": 1,
+                    "courseIdentifierParentId": 256830,
+                    "courseTitle": "Principles of Physics II",
+                    "courseNumber": "126",
+                    "prefix": "PHYS",
+                    "prefixParentId": 201,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10760,
+                    "department": "Physics",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [
+                {
+                  "position": 0,
+                  "content": "Series for series only"
+                }
+              ],
+              "courseAttributes": [],
+              "id": "df885270-5006-410f-e898-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359313,
+                "courseTitle": "Physical and Environmental Geology",
+                "courseNumber": "210",
+                "prefix": "GEOL",
+                "prefixParentId": 11242,
+                "prefixDescription": "Geology",
+                "departmentParentId": 4127,
+                "department": "Earth and Environmental Sciences",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "77130a0b-7be3-42ae-e899-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 300149,
+                "courseTitle": "Historical Geology",
+                "courseNumber": "211",
+                "prefix": "GEOL",
+                "prefixParentId": 11242,
+                "prefixDescription": "Geology",
+                "departmentParentId": 4127,
+                "department": "Earth and Environmental Sciences",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9b770c06-d3b8-4d88-e89a-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 296859,
+                "courseTitle": "Introduction to GIS in Earth and Environmental Sciences ",
+                "courseNumber": "260",
+                "prefix": "GEOL",
+                "prefixParentId": 11242,
+                "prefixDescription": "Geology",
+                "departmentParentId": 4127,
+                "department": "Earth and Environmental Sciences",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 365247,
+                    "courseTitle": "Introduction to GIS in Earth and Environmental Sciences ",
+                    "courseNumber": "260",
+                    "prefix": "ENSC",
+                    "prefixParentId": 3950,
+                    "prefixDescription": "Environmental Science",
+                    "departmentParentId": 4127,
+                    "department": "Earth and Environmental Sciences",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bbd5b0b3-2075-4c68-e89b-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365246,
+                "courseTitle": "Introductory Field Experience ",
+                "courseNumber": "297",
+                "prefix": "GEOL",
+                "prefixParentId": 11242,
+                "prefixDescription": "Geology",
+                "departmentParentId": 4127,
+                "department": "Earth and Environmental Sciences",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4ab70a01-8150-4709-e89c-08dbf84e6f4b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

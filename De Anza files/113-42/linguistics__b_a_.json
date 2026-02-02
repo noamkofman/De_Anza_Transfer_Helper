@@ -1,0 +1,260 @@
+{
+  "major": "LINGUISTICS, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 42,
+    "code": "CSUN    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Northridge",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "d96e7aa2-add3-4da4-593e-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 254351,
+                "courseTitle": "Language(s) in California",
+                "courseNumber": "250",
+                "prefix": "LING",
+                "prefixParentId": 15015,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8623,
+                "department": "Linguistics",
+                "begin": "S2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e12c7c28-f3bd-4a61-078f-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375264,
+                "courseTitle": "Forbidden Language: Swearing and Taboo Language",
+                "courseNumber": "230",
+                "prefix": "LING",
+                "prefixParentId": 15015,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8623,
+                "department": "Linguistics",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9500e22a-e564-4f58-961f-bb671e39b4e7",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 254176,
+                "courseTitle": "How Language Matters",
+                "courseNumber": "200",
+                "prefix": "LING",
+                "prefixParentId": 15015,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8623,
+                "department": "Linguistics",
+                "begin": "F2010",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a382b68a-ea99-46f8-b90a-8e8a92bfd065",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR ELECTIVES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 254176,
+                "courseTitle": "How Language Matters",
+                "courseNumber": "200",
+                "prefix": "LING",
+                "prefixParentId": 15015,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8623,
+                "department": "Linguistics",
+                "begin": "F2010",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course is acceptable if not used previously"
+                }
+              ],
+              "id": "bbed6f12-843f-413a-0814-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375264,
+                "courseTitle": "Forbidden Language: Swearing and Taboo Language",
+                "courseNumber": "230",
+                "prefix": "LING",
+                "prefixParentId": 15015,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8623,
+                "department": "Linguistics",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course is acceptable if not used previously"
+                }
+              ],
+              "id": "5d4870a7-180c-4fd4-0815-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375265,
+                "courseTitle": "Language and Music",
+                "courseNumber": "240",
+                "prefix": "LING",
+                "prefixParentId": 15015,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8623,
+                "department": "Linguistics",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9f5a0f7f-788d-49e7-0816-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 254351,
+                "courseTitle": "Language(s) in California",
+                "courseNumber": "250",
+                "prefix": "LING",
+                "prefixParentId": 15015,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8623,
+                "department": "Linguistics",
+                "begin": "S2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course is acceptable if not used previously"
+                }
+              ],
+              "id": "68cf1fa3-b707-4bd8-0817-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

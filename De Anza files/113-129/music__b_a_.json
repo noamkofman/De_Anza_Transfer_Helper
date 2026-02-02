@@ -1,0 +1,436 @@
+{
+  "major": "Music, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 129,
+    "code": "CSUFULL ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Fullerton",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 338397,
+        "courseTitle": "American Government",
+        "courseNumber": "100",
+        "prefix": "POSC",
+        "prefixParentId": 2042,
+        "prefixDescription": "Political Science",
+        "departmentParentId": 11050,
+        "department": "Political Science",
+        "begin": "F1995",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282754,
+              "courseTitle": "American Government and Politics",
+              "courseNumber": "1",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "CORE REQUIREMENTS-MUSIC THEORY/MUSICIANSHIP": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 106400,
+                "courseTitle": "Diatonic Harmony",
+                "courseNumber": "111",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F1998",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d8ea34de-4319-454a-9ea5-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 116099,
+                "courseTitle": "Introduction to Chromatic Harmony",
+                "courseNumber": "112",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "07b595d7-1d72-49a7-9ea6-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 34373,
+                "courseTitle": "Musicianship I Diatonic",
+                "courseNumber": "121",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "93cdaab2-0a81-4cad-9ea7-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 324482,
+                "courseTitle": "Chromatic Harmony",
+                "courseNumber": "211",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F1995",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "45cdd5be-760f-4adf-9ea8-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 32523,
+                "courseTitle": "Musicianship III Chromatic",
+                "courseNumber": "221",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a5632b32-cb0a-4b01-9ea9-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 32486,
+                "courseTitle": "Musicianship II Diatonic",
+                "courseNumber": "122",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "982c8d98-59b0-4fb6-9eaa-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 106364,
+                "courseTitle": "Survey of Western Musical Literature",
+                "courseNumber": "151",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F1995",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "023f638c-7ffc-4ac8-9ea3-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "MUSIC EDUCATION CONCENTRATION-INSTRUMENTAL EMPHASIS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 367073,
+                "courseTitle": "Orchestral Instruments/Percussion Instruments",
+                "courseNumber": "281P",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "afe63004-a82e-4322-9e97-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 53994,
+                "courseTitle": "Orch Instruments: Brass",
+                "courseNumber": "281B",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "90f4d952-9c41-4332-9e98-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 367075,
+                "courseTitle": "Orchestral Instruments/Woodwind Instruments ",
+                "courseNumber": "281W",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "948e40d4-c99b-4b16-9e99-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 367074,
+                "courseTitle": "Orchestral Instruments/String Instruments",
+                "courseNumber": "281S",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "881de781-bec4-4df9-9e9a-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "MUSIC EDUCATION CONCENTRATION-CHORAL/GENERAL MUSIC EMPHASIS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 367086,
+                "courseTitle": "Instrument Class for Singers, Pianists, and Guitarists ",
+                "courseNumber": "284",
+                "prefix": "MUS",
+                "prefixParentId": 6641,
+                "prefixDescription": "Music",
+                "departmentParentId": 9516,
+                "department": "Music",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "291401c2-589b-489c-9e96-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "REQUIRED FOR GRADUATION": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 338397,
+                "courseTitle": "American Government",
+                "courseNumber": "100",
+                "prefix": "POSC",
+                "prefixParentId": 2042,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 11050,
+                "department": "Political Science",
+                "begin": "F1995",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d97defc7-3f8f-4e3f-9ea4-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

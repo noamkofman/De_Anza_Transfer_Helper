@@ -1,0 +1,874 @@
+{
+  "major": "Viticulture (B.S.)",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 29,
+    "code": "CSUFRES ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Fresno",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 329886,
+        "courseTitle": "Introductory Agricultural Economics",
+        "courseNumber": "1",
+        "prefix": "AGBS",
+        "prefixParentId": 10443,
+        "prefixDescription": "Agricultural Business",
+        "departmentParentId": 314,
+        "department": "Agricultural Business",
+        "begin": "F2011",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 134008,
+        "courseTitle": "Introductory General Chemistry",
+        "courseNumber": "3A",
+        "prefix": "CHEM",
+        "prefixParentId": 3769,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2289,
+        "department": "Chemistry",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359144,
+              "courseTitle": "Introduction to General, Organic, and Biochemistry I",
+              "courseNumber": "30A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2012",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 247,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358344,
+              "courseTitle": "Introduction to General, Organic, and Biochemistry II",
+              "courseNumber": "30B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2012",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 247,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 155272,
+        "courseTitle": "Elementary Statistics",
+        "courseNumber": "11",
+        "prefix": "MATH",
+        "prefixParentId": 9935,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8970,
+        "department": "Mathematics",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 249471,
+        "courseTitle": "Plant Biology",
+        "courseNumber": "11",
+        "prefix": "BIOL",
+        "prefixParentId": 4849,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1700,
+        "department": "Biology",
+        "begin": "F2008",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 134991,
+        "courseTitle": "American Government and Institutions",
+        "courseNumber": "2",
+        "prefix": "PLSI",
+        "prefixParentId": 1918,
+        "prefixDescription": "Political Science",
+        "departmentParentId": 10952,
+        "department": "Political Science",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363587,
+              "courseTitle": "American Government and Politics - HONORS",
+              "courseNumber": "1H",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 271,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282754,
+              "courseTitle": "American Government and Politics",
+              "courseNumber": "1",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 267,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 329890,
+        "courseTitle": "Introduction to Enology",
+        "courseNumber": "15",
+        "prefix": "ENOL",
+        "prefixParentId": 12208,
+        "prefixDescription": "Enology",
+        "departmentParentId": 13017,
+        "department": "Viticulture and Enology",
+        "begin": "F2001",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 135381,
+        "courseTitle": "Introduction to Biometrics",
+        "courseNumber": "99",
+        "prefix": "PLANT",
+        "prefixParentId": 11959,
+        "prefixDescription": "Plant Science",
+        "departmentParentId": 10927,
+        "department": "Plant Science",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 135046,
+        "courseTitle": "Elementary Organic Chemistry",
+        "courseNumber": "8",
+        "prefix": "CHEM",
+        "prefixParentId": 3769,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2289,
+        "department": "Chemistry",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 160837,
+        "courseTitle": "Introductory Organic and Biochemistry",
+        "courseNumber": "3B",
+        "prefix": "CHEM",
+        "prefixParentId": 3769,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2289,
+        "department": "Chemistry",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358344,
+              "courseTitle": "Introduction to General, Organic, and Biochemistry II",
+              "courseNumber": "30B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2012",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 247,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359144,
+              "courseTitle": "Introduction to General, Organic, and Biochemistry I",
+              "courseNumber": "30A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2012",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 247,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 153865,
+        "courseTitle": "Agricultural Tractors",
+        "courseNumber": "3",
+        "prefix": "MEAG",
+        "prefixParentId": 12156,
+        "prefixDescription": "Mechanized Agriculture",
+        "departmentParentId": 10927,
+        "department": "Plant Science",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 199120,
+        "courseTitle": "Agricultural Machinery and Equipment",
+        "courseNumber": "20",
+        "prefix": "MEAG",
+        "prefixParentId": 12156,
+        "prefixDescription": "Mechanized Agriculture",
+        "departmentParentId": 10927,
+        "department": "Plant Science",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 119007,
+        "courseTitle": "Wine Evaluation Techniques",
+        "courseNumber": "45",
+        "prefix": "ENOL",
+        "prefixParentId": 12208,
+        "prefixDescription": "Enology",
+        "departmentParentId": 13017,
+        "department": "Viticulture and Enology",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 244848,
+        "courseTitle": "Elementary Spanish",
+        "courseNumber": "1A",
+        "prefix": "SPAN",
+        "prefixParentId": 3115,
+        "prefixDescription": "Spanish",
+        "departmentParentId": 9322,
+        "department": "Modern and Classical Languages and Literatures",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302864,
+              "courseTitle": "Elementary Spanish (First Quarter)",
+              "courseNumber": "1",
+              "prefix": "SPAN",
+              "prefixParentId": 3206,
+              "prefixDescription": "Spanish",
+              "departmentParentId": 12290,
+              "department": "Spanish",
+              "begin": "F1997",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 187,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 303028,
+              "courseTitle": "Elementary Spanish (Second Quarter)",
+              "courseNumber": "2",
+              "prefix": "SPAN",
+              "prefixParentId": 3206,
+              "prefixDescription": "Spanish",
+              "departmentParentId": 12290,
+              "department": "Spanish",
+              "begin": "F1997",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 187,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "61703775-8852-4071-f418-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329890,
+                "courseTitle": "Introduction to Enology",
+                "courseNumber": "15",
+                "prefix": "ENOL",
+                "prefixParentId": 12208,
+                "prefixDescription": "Enology",
+                "departmentParentId": 13017,
+                "department": "Viticulture and Enology",
+                "begin": "F2001",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f78938d4-2c6f-4e96-d21e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 135381,
+                "courseTitle": "Introduction to Biometrics",
+                "courseNumber": "99",
+                "prefix": "PLANT",
+                "prefixParentId": 11959,
+                "prefixDescription": "Plant Science",
+                "departmentParentId": 10927,
+                "department": "Plant Science",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3fb72210-3d19-4736-d21f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384033,
+                "courseTitle": "Introduction to Viticulture",
+                "courseNumber": "15",
+                "prefix": "VIT",
+                "prefixParentId": 9206,
+                "prefixDescription": "Viticulture",
+                "departmentParentId": 13017,
+                "department": "Viticulture and Enology",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d59bed7f-eab3-4889-d220-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 135046,
+                "courseTitle": "Elementary Organic Chemistry",
+                "courseNumber": "8",
+                "prefix": "CHEM",
+                "prefixParentId": 3769,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2289,
+                "department": "Chemistry",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6256f11d-ff59-4ee5-d221-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 160837,
+                "courseTitle": "Introductory Organic and Biochemistry",
+                "courseNumber": "3B",
+                "prefix": "CHEM",
+                "prefixParentId": 3769,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2289,
+                "department": "Chemistry",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8ab3424a-9820-448f-d222-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 153865,
+                "courseTitle": "Agricultural Tractors",
+                "courseNumber": "3",
+                "prefix": "MEAG",
+                "prefixParentId": 12156,
+                "prefixDescription": "Mechanized Agriculture",
+                "departmentParentId": 10927,
+                "department": "Plant Science",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "69087475-8a9a-40fd-d223-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 199120,
+                "courseTitle": "Agricultural Machinery and Equipment",
+                "courseNumber": "20",
+                "prefix": "MEAG",
+                "prefixParentId": 12156,
+                "prefixDescription": "Mechanized Agriculture",
+                "departmentParentId": 10927,
+                "department": "Plant Science",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "95abc598-0e51-4862-d224-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 119007,
+                "courseTitle": "Wine Evaluation Techniques",
+                "courseNumber": "45",
+                "prefix": "ENOL",
+                "prefixParentId": 12208,
+                "prefixDescription": "Enology",
+                "departmentParentId": 13017,
+                "department": "Viticulture and Enology",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d457f1e5-3de9-4874-b813-f9d650438a30",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 244848,
+                "courseTitle": "Elementary Spanish",
+                "courseNumber": "1A",
+                "prefix": "SPAN",
+                "prefixParentId": 3115,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 9322,
+                "department": "Modern and Classical Languages and Literatures",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "997bc068-b6de-42a1-b244-dfa7912e9ea7",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "0fb29b81-6ab2-4264-f419-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329886,
+                "courseTitle": "Introductory Agricultural Economics",
+                "courseNumber": "1",
+                "prefix": "AGBS",
+                "prefixParentId": 10443,
+                "prefixDescription": "Agricultural Business",
+                "departmentParentId": 314,
+                "department": "Agricultural Business",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "18d9ab06-7999-43df-b595-72b567e23fc9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 134008,
+                "courseTitle": "Introductory General Chemistry",
+                "courseNumber": "3A",
+                "prefix": "CHEM",
+                "prefixParentId": 3769,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2289,
+                "department": "Chemistry",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c6e75408-bf3e-4c08-b241-2c6d040c6e94",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 155272,
+                "courseTitle": "Elementary Statistics",
+                "courseNumber": "11",
+                "prefix": "MATH",
+                "prefixParentId": 9935,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8970,
+                "department": "Mathematics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d81a83de-f30a-4200-acf8-1b14a82c51ca",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 249471,
+                "courseTitle": "Plant Biology",
+                "courseNumber": "11",
+                "prefix": "BIOL",
+                "prefixParentId": 4849,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1700,
+                "department": "Biology",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fba217d1-2a55-42ce-9886-d2729caa3f24",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "OTHER DEGREE REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 134991,
+                "courseTitle": "American Government and Institutions",
+                "courseNumber": "2",
+                "prefix": "PLSI",
+                "prefixParentId": 1918,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 10952,
+                "department": "Political Science",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "876bcf06-6c7d-422d-b569-b2c4395cde62",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

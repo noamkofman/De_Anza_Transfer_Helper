@@ -1,0 +1,1218 @@
+{
+  "major": "RADIOLOGIC SCIENCES, B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 42,
+    "code": "CSUN    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Northridge",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 330806,
+        "courseTitle": "Principles of Chemistry",
+        "courseNumber": "100",
+        "prefix": "CHEM",
+        "prefixParentId": 3782,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2298,
+        "department": "Chemistry",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309434,
+              "courseTitle": "Preparation Course for General Chemistry",
+              "courseNumber": "25",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 259,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Acceptable substitute"
+                }
+              ],
+              "courseIdentifierParentId": 359144,
+              "courseTitle": "Introduction to General, Organic, and Biochemistry I",
+              "courseNumber": "30A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2012",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 247,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 136958,
+        "courseTitle": "Human Physiology",
+        "courseNumber": "281",
+        "prefix": "BIOL",
+        "prefixParentId": 4861,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1704,
+        "department": "Biology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 172007,
+        "courseTitle": "Introductory Sociology",
+        "courseNumber": "150",
+        "prefix": "SOC",
+        "prefixParentId": 9015,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12061,
+        "department": "Sociology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254964,
+              "courseTitle": "Introduction to Sociology",
+              "courseNumber": "1",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 330999,
+        "courseTitle": "General Physics I",
+        "courseNumber": "100A",
+        "prefix": "PHYS",
+        "prefixParentId": 222,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10864,
+        "department": "Physics & Astronomy",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 303424,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277391,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2B",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 277383,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2C",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 171958,
+        "courseTitle": "Introduction to Psychology",
+        "courseNumber": "150",
+        "prefix": "PSY",
+        "prefixParentId": 4630,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11192,
+        "department": "Psychology",
+        "begin": "F2011",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281450,
+              "courseTitle": "General Psychology",
+              "courseNumber": "1",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158259,
+        "courseTitle": "Radiographic Anatomy and Positioning II",
+        "courseNumber": "286",
+        "prefix": "HSCI",
+        "prefixParentId": 7481,
+        "prefixDescription": "Health Sciences",
+        "departmentParentId": 6859,
+        "department": "Health Sciences",
+        "begin": "F2003",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247121,
+              "courseTitle": "Human Biology",
+              "courseNumber": "11",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282638,
+              "courseTitle": "Introductory Biology",
+              "courseNumber": "10",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 277383,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2C",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277391,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2B",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 303424,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 101, BIOL 101L",
+                "courses": [
+                  {
+                    "id": "8b79b801-e54e-4b76-8c25-ecbc78baa2fa",
+                    "position": 0,
+                    "courseIdentifierParentId": 330993,
+                    "courseTitle": "General Biology",
+                    "courseNumber": "101",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "086c9fe0-6a62-4539-a13e-9b86ae228744",
+                    "position": 1,
+                    "courseIdentifierParentId": 47899,
+                    "courseTitle": "General Biology Laboratory",
+                    "courseNumber": "101L",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "f9d5bcbf-a74a-4e39-b6b8-c33fc74124ea",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330806,
+                "courseTitle": "Principles of Chemistry",
+                "courseNumber": "100",
+                "prefix": "CHEM",
+                "prefixParentId": 3782,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2298,
+                "department": "Chemistry",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1f7f1036-8e5e-47c4-8aaf-3164c39c92d8",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 211, BIOL 212",
+                "courses": [
+                  {
+                    "id": "556265c2-408c-4a7c-9148-999c0fda3930",
+                    "position": 0,
+                    "courseIdentifierParentId": 121280,
+                    "courseTitle": "Human Anatomy",
+                    "courseNumber": "211",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "084f78c3-7c50-4fc3-9b7b-48ea0ac204f1",
+                    "position": 1,
+                    "courseIdentifierParentId": 48182,
+                    "courseTitle": "Laboratory Studies in Human Anatomy",
+                    "courseNumber": "212",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "e218b274-d2fb-4e35-89b6-e09615c85b94",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PHYS 100B, PHYS 100BL",
+                "courses": [
+                  {
+                    "id": "29e91e77-cefe-4293-bcda-4ba213a1d34c",
+                    "position": 0,
+                    "courseIdentifierParentId": 172128,
+                    "courseTitle": "General Physics II",
+                    "courseNumber": "100B",
+                    "prefix": "PHYS",
+                    "prefixParentId": 222,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10864,
+                    "department": "Physics & Astronomy",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "616b23d3-b1dd-4b9b-b9ed-3a6b119c1b12",
+                    "position": 1,
+                    "courseIdentifierParentId": 47902,
+                    "courseTitle": "General Physics II Laboratory",
+                    "courseNumber": "100BL",
+                    "prefix": "PHYS",
+                    "prefixParentId": 222,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10864,
+                    "department": "Physics & Astronomy",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "3052de8b-7ffd-4ced-93a8-8dfb250a04c9",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136958,
+                "courseTitle": "Human Physiology",
+                "courseNumber": "281",
+                "prefix": "BIOL",
+                "prefixParentId": 4861,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1704,
+                "department": "Biology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "39de79a7-ccac-4c79-b17f-14caceb6db47",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 172007,
+                "courseTitle": "Introductory Sociology",
+                "courseNumber": "150",
+                "prefix": "SOC",
+                "prefixParentId": 9015,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12061,
+                "department": "Sociology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ff5a9de9-2db7-4c84-ae1d-8ca2087850fd",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330999,
+                "courseTitle": "General Physics I",
+                "courseNumber": "100A",
+                "prefix": "PHYS",
+                "prefixParentId": 222,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10864,
+                "department": "Physics & Astronomy",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "112b6c53-9a4e-461e-89ad-995c8fc0145d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171958,
+                "courseTitle": "Introduction to Psychology",
+                "courseNumber": "150",
+                "prefix": "PSY",
+                "prefixParentId": 4630,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11192,
+                "department": "Psychology",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e09d4cb7-9bce-4ee1-8dde-bb9cbcfabd07",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "79190e9d-725d-4e6f-596a-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308608,
+                "courseTitle": "Mathematical Foundations for Non-Calculus Physics",
+                "courseNumber": "106",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "S2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4bce5ff8-58d7-458c-4c4d-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171503,
+                "courseTitle": "Pre-Calculus II",
+                "courseNumber": "105",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bce80f6c-e4e5-4e9d-4c4e-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 201784,
+                "courseTitle": "Pre-Calculus I",
+                "courseNumber": "102",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8a60bbf6-f337-4f18-4c4f-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 233004,
+                "courseTitle": "Trigonometry and Analytic Geometry",
+                "courseNumber": "104",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4c7d3b7d-3676-48fa-4c50-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "CLINICAL COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 46808,
+                "courseTitle": "Radiologic Technology: Clinical Education I",
+                "courseNumber": "280",
+                "prefix": "HSCI",
+                "prefixParentId": 7481,
+                "prefixDescription": "Health Sciences",
+                "departmentParentId": 6859,
+                "department": "Health Sciences",
+                "begin": "S2007",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "34577714-211c-4f8d-4c51-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 45217,
+                "courseTitle": "Radiologic Technology: Clinical Education II",
+                "courseNumber": "281",
+                "prefix": "HSCI",
+                "prefixParentId": 7481,
+                "prefixDescription": "Health Sciences",
+                "departmentParentId": 6859,
+                "department": "Health Sciences",
+                "begin": "S2007",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ae515003-d5eb-4493-4c52-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330959,
+                "courseTitle": "Radiologic Technology: Clinical Education III",
+                "courseNumber": "282",
+                "prefix": "HSCI",
+                "prefixParentId": 7481,
+                "prefixDescription": "Health Sciences",
+                "departmentParentId": 6859,
+                "department": "Health Sciences",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e1ac4ccd-ae5b-4b88-4c53-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 121518,
+                "courseTitle": "Radiologic Technology: Clinical Education IV",
+                "courseNumber": "283",
+                "prefix": "HSCI",
+                "prefixParentId": 7481,
+                "prefixDescription": "Health Sciences",
+                "departmentParentId": 6859,
+                "department": "Health Sciences",
+                "begin": "S2007",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6718938e-062d-4260-4c54-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171694,
+                "courseTitle": "Radiologic Technology: Clinical Education V",
+                "courseNumber": "284",
+                "prefix": "HSCI",
+                "prefixParentId": 7481,
+                "prefixDescription": "Health Sciences",
+                "departmentParentId": 6859,
+                "department": "Health Sciences",
+                "begin": "S2007",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6f3b9b5b-92cd-4685-4c55-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "PROFESSIONAL COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171533,
+                "courseTitle": "Medical Imaging Sciences I",
+                "courseNumber": "181",
+                "prefix": "HSCI",
+                "prefixParentId": 7481,
+                "prefixDescription": "Health Sciences",
+                "departmentParentId": 6859,
+                "department": "Health Sciences",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d6f50560-d7f6-412b-ad24-43cf289190d9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158259,
+                "courseTitle": "Radiographic Anatomy and Positioning II",
+                "courseNumber": "286",
+                "prefix": "HSCI",
+                "prefixParentId": 7481,
+                "prefixDescription": "Health Sciences",
+                "departmentParentId": 6859,
+                "department": "Health Sciences",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1e4dab2e-e983-4bac-a16b-9d687e655acd",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 282943,
+                "courseTitle": "Radiographic Anatomy and Positioning I",
+                "courseNumber": "285",
+                "prefix": "HSCI",
+                "prefixParentId": 7481,
+                "prefixDescription": "Health Sciences",
+                "departmentParentId": 6859,
+                "department": "Health Sciences",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7d4e6896-5358-4610-8c8a-345cf4a5901b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158505,
+                "courseTitle": "Medical Imaging Sciences II",
+                "courseNumber": "182",
+                "prefix": "HSCI",
+                "prefixParentId": 7481,
+                "prefixDescription": "Health Sciences",
+                "departmentParentId": 6859,
+                "department": "Health Sciences",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "68cdb0d0-9a7a-4319-8fb4-bb969b8519db",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

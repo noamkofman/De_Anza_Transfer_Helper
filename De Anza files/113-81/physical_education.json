@@ -1,0 +1,866 @@
+{
+  "major": "Physical Education",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 236132,
+        "courseTitle": "Introduction to Kinesiology",
+        "courseNumber": "201",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "F2015",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288530,
+              "courseTitle": "Introduction to Kinesiology",
+              "courseNumber": "45",
+              "prefix": "KNES",
+              "prefixParentId": 15926,
+              "prefixDescription": "Kinesiology",
+              "departmentParentId": 8134,
+              "department": "Kinesiology",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 313969,
+        "courseTitle": "Techniques of Softball",
+        "courseNumber": "255",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 44235,
+        "courseTitle": "Techniques of Badminton",
+        "courseNumber": "266",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 316088,
+        "courseTitle": "Techniques of Flag Football",
+        "courseNumber": "251",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "S2009",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 44210,
+        "courseTitle": "Techniques of Volleyball",
+        "courseNumber": "257",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 292429,
+        "courseTitle": "Human Anatomy",
+        "courseNumber": "208",
+        "prefix": "BIOL",
+        "prefixParentId": 4898,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1723,
+        "department": "Biology",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 110486,
+        "courseTitle": "Techniques and Analysis of Fundamental Rhythms",
+        "courseNumber": "261",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 314005,
+        "courseTitle": "Techniques of Basketball",
+        "courseNumber": "250",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 110484,
+        "courseTitle": "Techniques and Analysis of Aquatic Skills",
+        "courseNumber": "237",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 313983,
+        "courseTitle": "Techniques of Golf",
+        "courseNumber": "264",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 56138,
+        "courseTitle": "Techniques of Gymnastics",
+        "courseNumber": "265",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "S2009",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 313996,
+        "courseTitle": "Techniques of Tennis",
+        "courseNumber": "267",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 286211,
+        "courseTitle": "Human Physiology",
+        "courseNumber": "207",
+        "prefix": "BIOL",
+        "prefixParentId": 4898,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1723,
+        "department": "Biology",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 42171,
+        "courseTitle": "Techniques of Track and Field",
+        "courseNumber": "268",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 43212,
+        "courseTitle": "Techniques of Soccer",
+        "courseNumber": "253",
+        "prefix": "KIN",
+        "prefixParentId": 5115,
+        "prefixDescription": "Kinesiology",
+        "departmentParentId": 8163,
+        "department": "Kinesiology and Physical Education",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "41e4e22f-726c-42ec-7a8a-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 236132,
+                "courseTitle": "Introduction to Kinesiology",
+                "courseNumber": "201",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0fb9e044-a482-465d-bac7-abd4a4f771bc",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 313969,
+                "courseTitle": "Techniques of Softball",
+                "courseNumber": "255",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "158373b7-922a-413a-8ef5-a47d6a943c87",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 44235,
+                "courseTitle": "Techniques of Badminton",
+                "courseNumber": "266",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ab76727b-19c0-433c-8a63-8b0e8e145cbf",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 316088,
+                "courseTitle": "Techniques of Flag Football",
+                "courseNumber": "251",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "S2009",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "779021ca-7e90-4404-acc4-7b148cf47ab6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 44210,
+                "courseTitle": "Techniques of Volleyball",
+                "courseNumber": "257",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "02919560-6fdb-4762-92df-549595301bbe",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 42389,
+                "courseTitle": "Self Defense I",
+                "courseNumber": "149A",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ed33ae79-5e68-4fd6-8bb5-51fe3b28b468",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 292429,
+                "courseTitle": "Human Anatomy",
+                "courseNumber": "208",
+                "prefix": "BIOL",
+                "prefixParentId": 4898,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1723,
+                "department": "Biology",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7baa7eb3-c545-41f6-89bc-496d338106a4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 110486,
+                "courseTitle": "Techniques and Analysis of Fundamental Rhythms",
+                "courseNumber": "261",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6eddb7fb-374b-494e-be8c-4bcaf909163a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 314005,
+                "courseTitle": "Techniques of Basketball",
+                "courseNumber": "250",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "02a37681-5766-4994-9763-6af77e4be363",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 110484,
+                "courseTitle": "Techniques and Analysis of Aquatic Skills",
+                "courseNumber": "237",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5aa6aead-eb32-4fb0-9544-c367da5a5c57",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 313983,
+                "courseTitle": "Techniques of Golf",
+                "courseNumber": "264",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8b2a80c2-ee20-4e6c-ad8e-e6ea87bfb7aa",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 194196,
+                "courseTitle": "Professional Practices in Public School Physical Education",
+                "courseNumber": "270",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8c044a26-18e6-4ddb-8027-d75954b0b7be",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 56138,
+                "courseTitle": "Techniques of Gymnastics",
+                "courseNumber": "265",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "S2009",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a2aaf0e5-b574-4c29-876a-7f6683d2564b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 313996,
+                "courseTitle": "Techniques of Tennis",
+                "courseNumber": "267",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f033f429-b564-463b-bd6c-a21b77f32f3a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286211,
+                "courseTitle": "Human Physiology",
+                "courseNumber": "207",
+                "prefix": "BIOL",
+                "prefixParentId": 4898,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1723,
+                "department": "Biology",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "be850fc3-3827-4f7c-9e93-d703b776b6f7",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 42171,
+                "courseTitle": "Techniques of Track and Field",
+                "courseNumber": "268",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "af86e9ab-2a6a-4eb0-8b34-fa4f80ba0e23",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 43212,
+                "courseTitle": "Techniques of Soccer",
+                "courseNumber": "253",
+                "prefix": "KIN",
+                "prefixParentId": 5115,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8163,
+                "department": "Kinesiology and Physical Education",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "91f31e96-1b1f-4124-91ff-18de683b77a5",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

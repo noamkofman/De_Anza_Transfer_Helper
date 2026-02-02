@@ -1,0 +1,294 @@
+{
+  "major": "German B.A. ",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 141,
+    "code": "CSUC    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Chico",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 269370,
+        "courseTitle": "Intermediate German I",
+        "courseNumber": "201",
+        "prefix": "GERM",
+        "prefixParentId": 7904,
+        "prefixDescription": "German",
+        "departmentParentId": 14262,
+        "department": "Languages and Cultures",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 299309,
+        "courseTitle": "Intermediate German II",
+        "courseNumber": "202",
+        "prefix": "GERM",
+        "prefixParentId": 7904,
+        "prefixDescription": "German",
+        "departmentParentId": 14262,
+        "department": "Languages and Cultures",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 245905,
+        "courseTitle": "Beginning German II",
+        "courseNumber": "102",
+        "prefix": "GERM",
+        "prefixParentId": 7904,
+        "prefixDescription": "German",
+        "departmentParentId": 14262,
+        "department": "Languages and Cultures",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 279680,
+              "courseTitle": "Elementary German (Third Quarter)",
+              "courseNumber": "3",
+              "prefix": "GERM",
+              "prefixParentId": 7873,
+              "prefixDescription": "German",
+              "departmentParentId": 6461,
+              "department": "German",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 282477,
+        "courseTitle": "Beginning German I",
+        "courseNumber": "101",
+        "prefix": "GERM",
+        "prefixParentId": 7904,
+        "prefixDescription": "German",
+        "departmentParentId": 14262,
+        "department": "Languages and Cultures",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280600,
+              "courseTitle": "Elementary German (Second Quarter)",
+              "courseNumber": "2",
+              "prefix": "GERM",
+              "prefixParentId": 7873,
+              "prefixDescription": "German",
+              "departmentParentId": 6461,
+              "department": "German",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280827,
+              "courseTitle": "Elementary German (First Quarter)",
+              "courseNumber": "1",
+              "prefix": "GERM",
+              "prefixParentId": 7873,
+              "prefixDescription": "German",
+              "departmentParentId": 6461,
+              "department": "German",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LANGUAGE COMPETENCE PREREQUISITE": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "e317b5b9-ef89-4ead-dde1-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 269370,
+                "courseTitle": "Intermediate German I",
+                "courseNumber": "201",
+                "prefix": "GERM",
+                "prefixParentId": 7904,
+                "prefixDescription": "German",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d6ab1023-4e15-453f-9f46-51c30b5c512c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 299309,
+                "courseTitle": "Intermediate German II",
+                "courseNumber": "202",
+                "prefix": "GERM",
+                "prefixParentId": 7904,
+                "prefixDescription": "German",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5d399320-e13a-41eb-84eb-0bc5efccc0b2",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 245905,
+                "courseTitle": "Beginning German II",
+                "courseNumber": "102",
+                "prefix": "GERM",
+                "prefixParentId": 7904,
+                "prefixDescription": "German",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "711bc0cc-52fe-4da7-8688-e913e5c7ed12",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 282477,
+                "courseTitle": "Beginning German I",
+                "courseNumber": "101",
+                "prefix": "GERM",
+                "prefixParentId": 7904,
+                "prefixDescription": "German",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6e25c648-857c-4c75-bf5a-3a9bd0d67d04",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

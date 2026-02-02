@@ -1,0 +1,149 @@
+{
+  "major": "South and Southeast Asian Studies, Lower Division B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 79,
+    "code": "UCB     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "University of California, Berkeley",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "REQUIRED LOWER DIVISION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 355891,
+                "courseTitle": "Introduction to the Civilization of Southeast Asia (Mainland Southeast Asia)",
+                "courseNumber": "10A",
+                "prefix": "SEASIAN",
+                "prefixParentId": 79,
+                "prefixDescription": "Southeast Asian",
+                "departmentParentId": 12195,
+                "department": "Southeast Asian",
+                "begin": "F2001",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3b990b8e-932b-4e2e-96de-cf7e8d1b0333",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 296983,
+                "courseTitle": "Introduction to the Civilization of Southeast Asia (Insular Southeast Asia)",
+                "courseNumber": "10B",
+                "prefix": "SEASIAN",
+                "prefixParentId": 79,
+                "prefixDescription": "Southeast Asian",
+                "departmentParentId": 12195,
+                "department": "Southeast Asian",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f8091b64-6a89-474d-9c64-33c5969510e5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 271664,
+                "courseTitle": "Introduction to the Civilization of Medieval and Modern India",
+                "courseNumber": "1B",
+                "prefix": "S ASIAN",
+                "prefixParentId": 78,
+                "prefixDescription": "South Asian",
+                "departmentParentId": 12193,
+                "department": "South Asian",
+                "begin": "F2010",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "16f6a6c3-c89e-4df0-b9e1-6a6c3dba6fa0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 301700,
+                "courseTitle": "Introduction to the Civilization of Early India",
+                "courseNumber": "1A",
+                "prefix": "S ASIAN",
+                "prefixParentId": 78,
+                "prefixDescription": "South Asian",
+                "departmentParentId": 12193,
+                "department": "South Asian",
+                "begin": "F2010",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6765614f-258f-4895-a3c1-6e26d59b71cf",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

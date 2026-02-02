@@ -1,0 +1,1780 @@
+{
+  "major": "Liberal Studies, B.A. - General Studies Option",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 75,
+    "code": "CPP     ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "California Polytechnic University, Pomona",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 2018
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 351998,
+        "courseTitle": "World Civilizations to 1500",
+        "courseNumber": "1101",
+        "prefix": "HST",
+        "prefixParentId": 2973,
+        "prefixDescription": "History",
+        "departmentParentId": 7045,
+        "department": "History",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 274006,
+              "courseTitle": "World History from Prehistory to 750 CE - HONORS",
+              "courseNumber": "3AH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 357849,
+              "courseTitle": "World History from 750 to 1750 CE - HONORS",
+              "courseNumber": "3BH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 294888,
+              "courseTitle": "World History from Prehistory to 750 CE",
+              "courseNumber": "3A",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 294870,
+              "courseTitle": "World History from 750 to 1750 CE",
+              "courseNumber": "3B",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 282851,
+        "courseTitle": "World Civilizations from 1500",
+        "courseNumber": "1102",
+        "prefix": "HST",
+        "prefixParentId": 2973,
+        "prefixDescription": "History",
+        "departmentParentId": 7045,
+        "department": "History",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 357849,
+              "courseTitle": "World History from 750 to 1750 CE - HONORS",
+              "courseNumber": "3BH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305662,
+              "courseTitle": "World History from 1750 CE to the Present - Honors",
+              "courseNumber": "3CH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 294870,
+              "courseTitle": "World History from 750 to 1750 CE",
+              "courseNumber": "3B",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 289302,
+              "courseTitle": "World History from 1750 CE to the Present",
+              "courseNumber": "3C",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 297060,
+        "courseTitle": "Introduction to Liberal Studies: History, Purposes, and Critique of the Liberal Arts and Sciences",
+        "courseNumber": "2011",
+        "prefix": "LS",
+        "prefixParentId": 5359,
+        "prefixDescription": "Liberal Studies",
+        "departmentParentId": 8457,
+        "department": "Liberal Studies",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 351675,
+        "courseTitle": "Introduction to American Government",
+        "courseNumber": "2010",
+        "prefix": "PLS",
+        "prefixParentId": 1967,
+        "prefixDescription": "Political Science",
+        "departmentParentId": 10953,
+        "department": "Political Science",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363587,
+              "courseTitle": "American Government and Politics - HONORS",
+              "courseNumber": "1H",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282754,
+              "courseTitle": "American Government and Politics",
+              "courseNumber": "1",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 245380,
+        "courseTitle": "Introduction to Psychology",
+        "courseNumber": "2201",
+        "prefix": "PSY",
+        "prefixParentId": 4665,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 13522,
+        "department": "Psychology",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281450,
+              "courseTitle": "General Psychology",
+              "courseNumber": "1",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 283171,
+        "courseTitle": "Statistics with Applications",
+        "courseNumber": "1200",
+        "prefix": "STA",
+        "prefixParentId": 3364,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 9086,
+        "department": "Mathematics and Statistics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 275201,
+        "courseTitle": "The Legal Environment of Business and its Transactions",
+        "courseNumber": "2013",
+        "prefix": "FRL",
+        "prefixParentId": 9215,
+        "prefixDescription": "Finance, Real Estate and Law",
+        "departmentParentId": 5679,
+        "department": "Finance, Real Estate and Law",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280503,
+              "courseTitle": "Business Law I",
+              "courseNumber": "18",
+              "prefix": "BUS",
+              "prefixParentId": 8279,
+              "prefixDescription": "Business",
+              "departmentParentId": 1965,
+              "department": "Business",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 271300,
+        "courseTitle": "Introduction to Science, Technology and Society",
+        "courseNumber": "2010",
+        "prefix": "STS",
+        "prefixParentId": 14772,
+        "prefixDescription": "Science, Technology and Society",
+        "departmentParentId": 11840,
+        "department": "Science, Technology and Society",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 275189,
+        "courseTitle": "Mind, Brain, and Behavior: An Integrated View",
+        "courseNumber": "2210",
+        "prefix": "PSY",
+        "prefixParentId": 4665,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 13522,
+        "department": "Psychology",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254864,
+              "courseTitle": "Introduction to Psychobiology",
+              "courseNumber": "24",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 275183,
+        "courseTitle": "Human Geography",
+        "courseNumber": "1020",
+        "prefix": "GEO",
+        "prefixParentId": 10559,
+        "prefixDescription": "Geography",
+        "departmentParentId": 825,
+        "department": "Anthropology and Geography",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 298844,
+              "courseTitle": "Cultural Geography",
+              "courseNumber": "4",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F2004",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359228,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368022,
+              "courseTitle": "General Chemistry - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368023,
+              "courseTitle": "General Chemistry - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306955,
+              "courseTitle": "General Chemistry and Qualitative Analysis",
+              "courseNumber": "1C",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368023,
+              "courseTitle": "General Chemistry - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368024,
+              "courseTitle": "General Chemistry and Qualitative Analysis - HONORS",
+              "courseNumber": "1CH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290473,
+              "courseTitle": "Cell and Molecular Biology",
+              "courseNumber": "6B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR REQUIRED": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "275b73cd-5dd3-484d-1b4f-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 273078,
+                "courseTitle": "Water in a Changing World",
+                "courseNumber": "1100",
+                "prefix": "GSC",
+                "prefixParentId": 3469,
+                "prefixDescription": "Geological Sciences",
+                "departmentParentId": 6256,
+                "department": "Geological Sciences",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "**REFER TO TOP OF AGREEMENT**"
+                }
+              ],
+              "id": "2e8b4ee4-1dd1-4c15-c732-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "GSC 2120, GSC 2120L",
+                "courses": [
+                  {
+                    "id": "93ed4299-9076-4c34-ba36-32be040fbfab",
+                    "position": 0,
+                    "courseIdentifierParentId": 245873,
+                    "courseTitle": "Earth Science for Elementary Educators",
+                    "courseNumber": "2120",
+                    "prefix": "GSC",
+                    "prefixParentId": 3469,
+                    "prefixDescription": "Geological Sciences",
+                    "departmentParentId": 6256,
+                    "department": "Geological Sciences",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "1bc5317a-1707-4bcf-8bb6-a606945a0062",
+                    "position": 1,
+                    "courseIdentifierParentId": 28919,
+                    "courseTitle": "Earth Science for Elementary Educators Laboratory",
+                    "courseNumber": "2120L",
+                    "prefix": "GSC",
+                    "prefixParentId": 3469,
+                    "prefixDescription": "Geological Sciences",
+                    "departmentParentId": 6256,
+                    "department": "Geological Sciences",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [
+                {
+                  "position": 0,
+                  "content": "Preferred course"
+                }
+              ],
+              "courseAttributes": [
+                {
+                  "seriesCourseId": "1bc5317a-1707-4bcf-8bb6-a606945a0062",
+                  "position": 0,
+                  "content": "**REFER TO TOP OF AGREEMENT**"
+                }
+              ],
+              "id": "72f3e137-32ce-4967-9a08-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 351998,
+                "courseTitle": "World Civilizations to 1500",
+                "courseNumber": "1101",
+                "prefix": "HST",
+                "prefixParentId": 2973,
+                "prefixDescription": "History",
+                "departmentParentId": 7045,
+                "department": "History",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "537b8f36-39e8-4a92-9a03-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 282851,
+                "courseTitle": "World Civilizations from 1500",
+                "courseNumber": "1102",
+                "prefix": "HST",
+                "prefixParentId": 2973,
+                "prefixDescription": "History",
+                "departmentParentId": 7045,
+                "department": "History",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5bee458d-b123-4f53-9a04-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 129805,
+                "courseTitle": "Integrating Knowledge, Learning, and Engagement for Success",
+                "courseNumber": "1020",
+                "prefix": "LS",
+                "prefixParentId": 5359,
+                "prefixDescription": "Liberal Studies",
+                "departmentParentId": 8457,
+                "department": "Liberal Studies",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 129806,
+                    "courseTitle": "Integrating Knowledge, Learning, and Engagement for Success",
+                    "courseNumber": "1020",
+                    "prefix": "IGE",
+                    "prefixParentId": 15220,
+                    "prefixDescription": "Interdisciplinary General Education",
+                    "departmentParentId": 7572,
+                    "department": "Interdisciplinary General Education",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 364933,
+                    "courseTitle": "Integrating Knowledge, Learning, and Engagement for Success",
+                    "courseNumber": "1020",
+                    "prefix": "EWS",
+                    "prefixParentId": 8574,
+                    "prefixDescription": "Ethnic and Women's Studies",
+                    "departmentParentId": 5382,
+                    "department": "Ethnic and Women's Studies",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fad23c6b-21a2-443d-9a05-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 297060,
+                "courseTitle": "Introduction to Liberal Studies: History, Purposes, and Critique of the Liberal Arts and Sciences",
+                "courseNumber": "2011",
+                "prefix": "LS",
+                "prefixParentId": 5359,
+                "prefixDescription": "Liberal Studies",
+                "departmentParentId": 8457,
+                "department": "Liberal Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dce7dc98-9bf4-433e-9a06-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 351675,
+                "courseTitle": "Introduction to American Government",
+                "courseNumber": "2010",
+                "prefix": "PLS",
+                "prefixParentId": 1967,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 10953,
+                "department": "Political Science",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7e9bc342-2749-4072-9a07-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "OPTION REQUIRED ELECTIVES/EMPHASIS": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "5538bf26-0196-440e-1b49-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 245380,
+                "courseTitle": "Introduction to Psychology",
+                "courseNumber": "2201",
+                "prefix": "PSY",
+                "prefixParentId": 4665,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 13522,
+                "department": "Psychology",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0137f6d6-7c03-4d7b-99d5-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 283171,
+                "courseTitle": "Statistics with Applications",
+                "courseNumber": "1200",
+                "prefix": "STA",
+                "prefixParentId": 3364,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 9086,
+                "department": "Mathematics and Statistics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "eb22bd3f-be56-4555-99d6-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363943,
+                "courseTitle": "Human Biology",
+                "courseNumber": "1060",
+                "prefix": "BIO",
+                "prefixParentId": 4890,
+                "prefixDescription": "Biological Sciences",
+                "departmentParentId": 1633,
+                "department": "Biological Sciences",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e1894e23-3832-4c95-99d7-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CHM 1210, CHM 1210L",
+                "courses": [
+                  {
+                    "id": "9890fcc2-79e0-4ef3-b48d-b5d3ca2f5650",
+                    "position": 0,
+                    "courseIdentifierParentId": 209437,
+                    "courseTitle": "General Chemistry I",
+                    "courseNumber": "1210",
+                    "prefix": "CHM",
+                    "prefixParentId": 3814,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2399,
+                    "department": "Chemistry and Biochemistry",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "62d9623f-652d-4f12-936d-2190249012bb",
+                    "position": 1,
+                    "courseIdentifierParentId": 40967,
+                    "courseTitle": "General Chemistry Laboratory I",
+                    "courseNumber": "1210L",
+                    "prefix": "CHM",
+                    "prefixParentId": 3814,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2399,
+                    "department": "Chemistry and Biochemistry",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "0e49f1c1-4f8f-4f55-99d8-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CHM 1220, CHM 1220L",
+                "courses": [
+                  {
+                    "id": "be9f9d04-e143-4cfe-90d8-35ac7885d804",
+                    "position": 0,
+                    "courseIdentifierParentId": 219409,
+                    "courseTitle": "General Chemistry II",
+                    "courseNumber": "1220",
+                    "prefix": "CHM",
+                    "prefixParentId": 3814,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2399,
+                    "department": "Chemistry and Biochemistry",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "e0f146c2-16f9-42d4-b1c3-bf2ab69eb9cf",
+                    "position": 1,
+                    "courseIdentifierParentId": 40951,
+                    "courseTitle": "General Chemistry Laboratory II",
+                    "courseNumber": "1220L",
+                    "prefix": "CHM",
+                    "prefixParentId": 3814,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2399,
+                    "department": "Chemistry and Biochemistry",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "ec900ecc-fd62-4362-99d9-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CHM 2010, CHM 2010L",
+                "courses": [
+                  {
+                    "id": "fb647849-d34a-4fc5-aed0-b11835aeaf14",
+                    "position": 0,
+                    "courseIdentifierParentId": 156001,
+                    "courseTitle": "Elements of Organic Chemistry",
+                    "courseNumber": "2010",
+                    "prefix": "CHM",
+                    "prefixParentId": 3814,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2399,
+                    "department": "Chemistry and Biochemistry",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "02fcc3b4-5c3e-4268-96a4-cf6692415ab5",
+                    "position": 1,
+                    "courseIdentifierParentId": 311083,
+                    "courseTitle": "Elements of Organic Chemistry Laboratory",
+                    "courseNumber": "2010L",
+                    "prefix": "CHM",
+                    "prefixParentId": 3814,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2399,
+                    "department": "Chemistry and Biochemistry",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "76d5bd87-616b-40be-99da-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 275201,
+                "courseTitle": "The Legal Environment of Business and its Transactions",
+                "courseNumber": "2013",
+                "prefix": "FRL",
+                "prefixParentId": 9215,
+                "prefixDescription": "Finance, Real Estate and Law",
+                "departmentParentId": 5679,
+                "department": "Finance, Real Estate and Law",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ba01fb37-4a63-4afc-99db-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIO 2340, BIO 2340L",
+                "courses": [
+                  {
+                    "id": "09e1066f-33b7-4ed1-88fd-bb372477124b",
+                    "position": 0,
+                    "courseIdentifierParentId": 121559,
+                    "courseTitle": "Human Anatomy",
+                    "courseNumber": "2340",
+                    "prefix": "BIO",
+                    "prefixParentId": 4890,
+                    "prefixDescription": "Biological Sciences",
+                    "departmentParentId": 1633,
+                    "department": "Biological Sciences",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "77fa787a-68b8-4ee0-a12c-968a4dcef147",
+                    "position": 1,
+                    "courseIdentifierParentId": 99102,
+                    "courseTitle": "Human Anatomy Laboratory",
+                    "courseNumber": "2340L",
+                    "prefix": "BIO",
+                    "prefixParentId": 4890,
+                    "prefixDescription": "Biological Sciences",
+                    "departmentParentId": 1633,
+                    "department": "Biological Sciences",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "52c9b970-c498-484c-99dc-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIO 2350, BIO 2350L",
+                "courses": [
+                  {
+                    "id": "5c87305e-abf7-4112-9ec7-fcdceb89a98b",
+                    "position": 0,
+                    "courseIdentifierParentId": 276346,
+                    "courseTitle": "Human Physiology",
+                    "courseNumber": "2350",
+                    "prefix": "BIO",
+                    "prefixParentId": 4890,
+                    "prefixDescription": "Biological Sciences",
+                    "departmentParentId": 1633,
+                    "department": "Biological Sciences",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "1cf76979-6124-491c-a9fd-119466a5de52",
+                    "position": 1,
+                    "courseIdentifierParentId": 57492,
+                    "courseTitle": "Human Physiology Laboratory",
+                    "courseNumber": "2350L",
+                    "prefix": "BIO",
+                    "prefixParentId": 4890,
+                    "prefixDescription": "Biological Sciences",
+                    "departmentParentId": 1633,
+                    "department": "Biological Sciences",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "58c953f0-0ad1-4445-99dd-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIO 1210, BIO 1210L",
+                "courses": [
+                  {
+                    "id": "ef3aa51c-2c0a-4ad3-a2b3-e61fd7a2a619",
+                    "position": 0,
+                    "courseIdentifierParentId": 249246,
+                    "courseTitle": "Foundations of Biology: Energy, Matter, and Information",
+                    "courseNumber": "1210",
+                    "prefix": "BIO",
+                    "prefixParentId": 4890,
+                    "prefixDescription": "Biological Sciences",
+                    "departmentParentId": 1633,
+                    "department": "Biological Sciences",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "79565086-1f2d-4bf6-8f09-0889a61254a1",
+                    "position": 1,
+                    "courseIdentifierParentId": 113957,
+                    "courseTitle": "Foundations of Biology: Energy, Matter, and Information Laboratory",
+                    "courseNumber": "1210L",
+                    "prefix": "BIO",
+                    "prefixParentId": 4890,
+                    "prefixDescription": "Biological Sciences",
+                    "departmentParentId": 1633,
+                    "department": "Biological Sciences",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "d46d1b77-af76-4c5b-99de-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 271300,
+                "courseTitle": "Introduction to Science, Technology and Society",
+                "courseNumber": "2010",
+                "prefix": "STS",
+                "prefixParentId": 14772,
+                "prefixDescription": "Science, Technology and Society",
+                "departmentParentId": 11840,
+                "department": "Science, Technology and Society",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a8a1babc-de09-4920-99df-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 275189,
+                "courseTitle": "Mind, Brain, and Behavior: An Integrated View",
+                "courseNumber": "2210",
+                "prefix": "PSY",
+                "prefixParentId": 4665,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 13522,
+                "department": "Psychology",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e86ff5c9-feb6-41e9-9087-a855fa131f19",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 356392,
+                "courseTitle": "Contemporary Economic Issues",
+                "courseNumber": "1100",
+                "prefix": "EC",
+                "prefixParentId": 1249,
+                "prefixDescription": "Economics",
+                "departmentParentId": 4205,
+                "department": "Economics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "55fceae6-8510-4889-bfa6-426b43d6ac7e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 275183,
+                "courseTitle": "Human Geography",
+                "courseNumber": "1020",
+                "prefix": "GEO",
+                "prefixParentId": 10559,
+                "prefixDescription": "Geography",
+                "departmentParentId": 825,
+                "department": "Anthropology and Geography",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8ded1d90-b137-48e8-89f9-ade1d53a1b88",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 297426,
+                "courseTitle": "Media, Politics, Sex & Violence",
+                "courseNumber": "2270",
+                "prefix": "COM",
+                "prefixParentId": 12240,
+                "prefixDescription": "Communication",
+                "departmentParentId": 2760,
+                "department": "Communication",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f5ca8a2e-41ff-4a97-8f0b-01ba721ee280",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 123109,
+                "courseTitle": "World Cultures via the Internet",
+                "courseNumber": "1120",
+                "prefix": "ANT",
+                "prefixParentId": 10756,
+                "prefixDescription": "Anthropology",
+                "departmentParentId": 825,
+                "department": "Anthropology and Geography",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ed9aa63e-156f-431a-8af6-07e7af39f01d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

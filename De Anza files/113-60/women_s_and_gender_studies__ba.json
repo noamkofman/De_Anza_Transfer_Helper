@@ -1,0 +1,195 @@
+{
+  "major": "Women's and Gender Studies, BA",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 60,
+    "code": "CSUS    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Sacramento",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 384345,
+        "courseTitle": "Introduction to Disability Studies",
+        "courseNumber": "75",
+        "prefix": "WGS",
+        "prefixParentId": 15294,
+        "prefixDescription": "Women's and Gender Studies",
+        "departmentParentId": 14224,
+        "department": "Women's and Gender Studies",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 380385,
+        "courseTitle": "Introduction to Women's & Gender Studies",
+        "courseNumber": "85",
+        "prefix": "WGS",
+        "prefixParentId": 15294,
+        "prefixDescription": "Women's and Gender Studies",
+        "departmentParentId": 14224,
+        "department": "Women's and Gender Studies",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 255524,
+        "courseTitle": "Introduction to Gender & Sexuality",
+        "courseNumber": "50",
+        "prefix": "WGS",
+        "prefixParentId": 15294,
+        "prefixDescription": "Women's and Gender Studies",
+        "departmentParentId": 14224,
+        "department": "Women's and Gender Studies",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "cc4a73dc-b291-4e29-693b-08dbfdccbd2c",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 380385,
+                "courseTitle": "Introduction to Women's & Gender Studies",
+                "courseNumber": "85",
+                "prefix": "WGS",
+                "prefixParentId": 15294,
+                "prefixDescription": "Women's and Gender Studies",
+                "departmentParentId": 14224,
+                "department": "Women's and Gender Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fb1b6b16-0a0c-428a-b0b6-4aa82e300b7f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 255524,
+                "courseTitle": "Introduction to Gender & Sexuality",
+                "courseNumber": "50",
+                "prefix": "WGS",
+                "prefixParentId": 15294,
+                "prefixDescription": "Women's and Gender Studies",
+                "departmentParentId": 14224,
+                "department": "Women's and Gender Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "76712e24-3daa-4533-8ba3-c6fc458ab354",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ELECTIVES (LOWER DIVISION)": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "53d6b399-c4e1-4aaa-693c-08dbfdccbd2c",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384345,
+                "courseTitle": "Introduction to Disability Studies",
+                "courseNumber": "75",
+                "prefix": "WGS",
+                "prefixParentId": 15294,
+                "prefixDescription": "Women's and Gender Studies",
+                "departmentParentId": 14224,
+                "department": "Women's and Gender Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "eecd9c32-85a8-43e6-bf14-be727455b1b3",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "major": "Anthropology B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ]
+  },
+  "to": {
+    "id": 141,
+    "code": "CSUC    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Chico",
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "CULTURAL ANTHROPOLOGY": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 209598,
+                "courseTitle": "Cultures of Asia",
+                "courseNumber": "200",
+                "prefix": "ANTH",
+                "prefixDescription": "Anthropology",
+                "department": "Anthropology",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 209597,
+                    "courseTitle": "Cultures of Asia",
+                    "courseNumber": "200",
+                    "prefix": "ASST",
+                    "prefixDescription": "Asian Studies",
+                    "department": "Languages and Cultures",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "11e5d968-0997-4f4a-92b9-07f9973c3ffa",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 345702,
+                "courseTitle": "Peoples and Cultures of Native North America",
+                "courseNumber": "261",
+                "prefix": "ANTH",
+                "prefixDescription": "Anthropology",
+                "department": "Anthropology",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 345701,
+                    "courseTitle": "Peoples and Cultures of Native North America",
+                    "courseNumber": "261",
+                    "prefix": "AIST",
+                    "prefixDescription": "American Indian Studies",
+                    "department": "Multicultural and Gender Studies",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b6594e8e-a7af-49a7-979b-f2b89ee60298",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "major": "Mathematics Subject Matter Preparation Program",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 24,
+    "code": "CSUSTAN ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Stanislaus",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 276399,
+        "courseTitle": "Multivariate Calculus",
+        "courseNumber": "2410",
+        "prefix": "MATH",
+        "prefixParentId": 9930,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8965,
+        "department": "Mathematics",
+        "begin": "F1998",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359110,
+              "courseTitle": "Calculus",
+              "courseNumber": "1C",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302624,
+              "courseTitle": "Calculus",
+              "courseNumber": "1D",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 220937,
+        "courseTitle": "Linear Algebra",
+        "courseNumber": "2530",
+        "prefix": "MATH",
+        "prefixParentId": 9930,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8965,
+        "department": "Mathematics",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302590,
+              "courseTitle": "Linear Algebra",
+              "courseNumber": "2B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281375,
+              "courseTitle": "Differential Equations",
+              "courseNumber": "2A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION CORE COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 351926,
+                "courseTitle": "Calculus I",
+                "courseNumber": "1410",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1993",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c6a487bd-6d1f-412e-938d-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 276401,
+                "courseTitle": "Calculus II",
+                "courseNumber": "1420",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1993",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "660c4990-973a-4393-938e-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 276399,
+                "courseTitle": "Multivariate Calculus",
+                "courseNumber": "2410",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1998",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "364badaa-4c29-491a-8d2a-1af998c837c5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 220937,
+                "courseTitle": "Linear Algebra",
+                "courseNumber": "2530",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "08b80047-d179-4d5b-a282-35dbbd834a8a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 282493,
+                "courseTitle": "Probability and Statistics",
+                "courseNumber": "1620",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "344b5592-5718-4138-b6d1-375faf3b5bf6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 108531,
+                "courseTitle": "Intro to Differential Equation",
+                "courseNumber": "2460",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "783113a3-9986-46af-a3cd-a05f05ee85fd",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "BREADTH AND PERSPECTIVE": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "ba208916-45b0-40b2-1884-08dba898cc31",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330648,
+                "courseTitle": "Computer Programming I",
+                "courseNumber": "1500",
+                "prefix": "CS",
+                "prefixParentId": 486,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3224,
+                "department": "Computer Science",
+                "begin": "F1996",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7ffdf8aa-f4c8-4098-938f-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 44723,
+                "courseTitle": "Calculus I Laboratory",
+                "courseNumber": "1412",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1998",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9b04b9d6-01c8-4a25-9390-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 48167,
+                "courseTitle": "Calculus II Lab",
+                "courseNumber": "1422",
+                "prefix": "MATH",
+                "prefixParentId": 9930,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8965,
+                "department": "Mathematics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e2625b1f-15f1-44a2-9391-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

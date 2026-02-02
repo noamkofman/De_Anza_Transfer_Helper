@@ -1,0 +1,247 @@
+{
+  "major": "Latin/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "66dee9d3-ddd9-4135-f365-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305057,
+                "courseTitle": "Discovering Greeks",
+                "courseNumber": "10",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "13849316-d4e1-4359-85cd-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287045,
+                "courseTitle": "Discovering Romans",
+                "courseNumber": "20",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d9ce1b04-a79b-4032-85ce-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "25304924-bc2c-4112-f39b-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383922,
+                "courseTitle": "Elementary Latin",
+                "courseNumber": "1",
+                "prefix": "LATIN",
+                "prefixParentId": 15302,
+                "prefixDescription": "Latin",
+                "departmentParentId": 8310,
+                "department": "Latin",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "067d782d-8d94-494d-d04f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383923,
+                "courseTitle": "Elementary Latin",
+                "courseNumber": "2",
+                "prefix": "LATIN",
+                "prefixParentId": 15302,
+                "prefixDescription": "Latin",
+                "departmentParentId": 8310,
+                "department": "Latin",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7cb32b9f-0cf6-4487-d050-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287047,
+                "courseTitle": "Elementary Latin",
+                "courseNumber": "3",
+                "prefix": "LATIN",
+                "prefixParentId": 15302,
+                "prefixDescription": "Latin",
+                "departmentParentId": 8310,
+                "department": "Latin",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5c8c2f30-3899-46a3-d051-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 306771,
+                "courseTitle": "Intensive First-Year Latin",
+                "courseNumber": "16",
+                "prefix": "LATIN",
+                "prefixParentId": 15302,
+                "prefixDescription": "Latin",
+                "departmentParentId": 8310,
+                "department": "Latin",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 12,
+                "maxUnits": 12
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b260d62e-00ca-4336-d052-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "ab9e96ff-1f8c-4c1c-f366-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383924,
+                "courseTitle": "Elementary Latin: Comprehensive Review",
+                "courseNumber": "20",
+                "prefix": "LATIN",
+                "prefixParentId": 15302,
+                "prefixDescription": "Latin",
+                "departmentParentId": 8310,
+                "department": "Latin",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "41fadac7-ec85-4465-b4d3-8076d5d3f93d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

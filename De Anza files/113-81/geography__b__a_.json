@@ -1,0 +1,399 @@
+{
+  "major": "Geography, B. A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 178875,
+        "courseTitle": "Introduction to Physical Geography",
+        "courseNumber": "140",
+        "prefix": "GEOG",
+        "prefixParentId": 10567,
+        "prefixDescription": "Geography",
+        "departmentParentId": 6188,
+        "department": "Geography",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283033,
+              "courseTitle": "Physical Geography",
+              "courseNumber": "1",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 194193,
+        "courseTitle": "Race, Place and Culture",
+        "courseNumber": "120",
+        "prefix": "GEOG",
+        "prefixParentId": 10567,
+        "prefixDescription": "Geography",
+        "departmentParentId": 6188,
+        "department": "Geography",
+        "begin": "F2021",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 298844,
+              "courseTitle": "Cultural Geography",
+              "courseNumber": "4",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F2004",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 178509,
+        "courseTitle": "World Regional Geography",
+        "courseNumber": "100",
+        "prefix": "GEOG",
+        "prefixParentId": 10567,
+        "prefixDescription": "Geography",
+        "departmentParentId": 6188,
+        "department": "Geography",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288590,
+              "courseTitle": "World Regional Geography",
+              "courseNumber": "10",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F2003",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "cfdcb2fd-7477-477b-debd-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 178875,
+                "courseTitle": "Introduction to Physical Geography",
+                "courseNumber": "140",
+                "prefix": "GEOG",
+                "prefixParentId": 10567,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6188,
+                "department": "Geography",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c505689b-36f7-4741-c418-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 357151,
+                "courseTitle": "Geography of Weather and Climate",
+                "courseNumber": "130",
+                "prefix": "GEOG",
+                "prefixParentId": 10567,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6188,
+                "department": "Geography",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c86d5ae7-1ae8-426f-a069-f16abe30f3a3",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "862c17fe-7a74-4ed0-debf-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 194193,
+                "courseTitle": "Race, Place and Culture",
+                "courseNumber": "120",
+                "prefix": "GEOG",
+                "prefixParentId": 10567,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6188,
+                "department": "Geography",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "17064d03-cdd8-4820-c421-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 385911,
+                "courseTitle": "My Neighborhood, Our City",
+                "courseNumber": "175",
+                "prefix": "GEOG",
+                "prefixParentId": 10567,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6188,
+                "department": "Geography",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 385913,
+                    "courseTitle": "My Neighborhood, Our City",
+                    "courseNumber": "175",
+                    "prefix": "PSY",
+                    "prefixParentId": 4673,
+                    "prefixDescription": "Psychology",
+                    "departmentParentId": 11201,
+                    "department": "Psychology",
+                    "begin": "F2023",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2da93ccf-070a-49ed-c422-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 178509,
+                "courseTitle": "World Regional Geography",
+                "courseNumber": "100",
+                "prefix": "GEOG",
+                "prefixParentId": 10567,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6188,
+                "department": "Geography",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8795f3ad-8dca-44e7-be11-d15e63137adc",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "c90ea25a-3e09-4a6b-dec0-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341649,
+                "courseTitle": "Introduction to Research Methods for Geographers",
+                "courseNumber": "200",
+                "prefix": "GEOG",
+                "prefixParentId": 10567,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6188,
+                "department": "Geography",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7793a314-64b8-46c7-94b5-1808c0db312d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 249242,
+                "courseTitle": "Introduction to Geospatial Techniques",
+                "courseNumber": "280",
+                "prefix": "GEOG",
+                "prefixParentId": 10567,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6188,
+                "department": "Geography",
+                "begin": "F2004",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "aa43d8f9-cf98-4562-bab0-a2e6d5f5ef38",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

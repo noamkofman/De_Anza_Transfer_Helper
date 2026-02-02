@@ -1,0 +1,259 @@
+{
+  "major": "Languages and Literatures/Germanic Studies, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 46,
+    "code": "UCR     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Riverside",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 297977,
+        "courseTitle": "Intermediate German",
+        "courseNumber": "4",
+        "prefix": "GER",
+        "prefixParentId": 7808,
+        "prefixDescription": "German",
+        "departmentParentId": 6405,
+        "department": "German",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280600,
+              "courseTitle": "Elementary German (Second Quarter)",
+              "courseNumber": "2",
+              "prefix": "GERM",
+              "prefixParentId": 7873,
+              "prefixDescription": "German",
+              "departmentParentId": 6461,
+              "department": "German",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 279680,
+              "courseTitle": "Elementary German (Third Quarter)",
+              "courseNumber": "3",
+              "prefix": "GERM",
+              "prefixParentId": 7873,
+              "prefixDescription": "German",
+              "departmentParentId": 6461,
+              "department": "German",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280827,
+              "courseTitle": "Elementary German (First Quarter)",
+              "courseNumber": "1",
+              "prefix": "GERM",
+              "prefixParentId": 7873,
+              "prefixDescription": "German",
+              "departmentParentId": 6461,
+              "department": "German",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "STRONGLY RECOMMENDED COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 297977,
+                "courseTitle": "Intermediate German",
+                "courseNumber": "4",
+                "prefix": "GER",
+                "prefixParentId": 7808,
+                "prefixDescription": "German",
+                "departmentParentId": 6405,
+                "department": "German",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Or equivalent"
+                }
+              ],
+              "id": "04be57a9-1075-44e4-8ef0-c78c677121ab",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 302208,
+                "courseTitle": "Intro to Close Reading",
+                "courseNumber": "1",
+                "prefix": "CPLT",
+                "prefixParentId": 5959,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2942,
+                "department": "Comparative Literature",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4cdad27a-3d01-42b6-b2c4-0282441e814d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "GER 1, GER 2, GER 3",
+                "courses": [
+                  {
+                    "id": "604427d3-4a23-4f13-98b7-9e975897d801",
+                    "position": 0,
+                    "courseIdentifierParentId": 353757,
+                    "courseTitle": "Elementary German",
+                    "courseNumber": "1",
+                    "prefix": "GER",
+                    "prefixParentId": 7808,
+                    "prefixDescription": "German",
+                    "departmentParentId": 6405,
+                    "department": "German",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "5673af0a-8971-46e9-9de9-321f65c5fd21",
+                    "position": 1,
+                    "courseIdentifierParentId": 353831,
+                    "courseTitle": "Elementary German",
+                    "courseNumber": "2",
+                    "prefix": "GER",
+                    "prefixParentId": 7808,
+                    "prefixDescription": "German",
+                    "departmentParentId": 6405,
+                    "department": "German",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "e6fc6508-024d-47d6-90cd-699d03b1b082",
+                    "position": 2,
+                    "courseIdentifierParentId": 353812,
+                    "courseTitle": "Elementary German",
+                    "courseNumber": "3",
+                    "prefix": "GER",
+                    "prefixParentId": 7808,
+                    "prefixDescription": "German",
+                    "departmentParentId": 6405,
+                    "department": "German",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "c65ad052-4822-4841-9f51-625503153233",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

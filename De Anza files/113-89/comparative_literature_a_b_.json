@@ -1,0 +1,995 @@
+{
+  "major": "Comparative Literature A.B.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 89,
+    "code": "UCD     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Davis",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 256872,
+        "courseTitle": "Myths & Legends",
+        "courseNumber": "006",
+        "prefix": "COM",
+        "prefixParentId": 6671,
+        "prefixDescription": "Comparative Literature",
+        "departmentParentId": 2941,
+        "department": "Comparative Literature",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290175,
+              "courseTitle": "Mythology and Folklore",
+              "courseNumber": "22",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 174015,
+        "courseTitle": "Introduction to Poetry",
+        "courseNumber": "014",
+        "prefix": "COM",
+        "prefixParentId": 6671,
+        "prefixDescription": "Comparative Literature",
+        "departmentParentId": 2941,
+        "department": "Comparative Literature",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 290796,
+              "courseTitle": "Introduction to Poetry",
+              "courseNumber": "11",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 354077,
+        "courseTitle": "Major Works of the Contemporary World ",
+        "courseNumber": "004",
+        "prefix": "COM",
+        "prefixParentId": 6671,
+        "prefixDescription": "Comparative Literature",
+        "departmentParentId": 2941,
+        "department": "Comparative Literature",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353667,
+              "courseTitle": "Contemporary Literature",
+              "courseNumber": "39",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 292117,
+        "courseTitle": "Introduction to Women Writers",
+        "courseNumber": "012",
+        "prefix": "COM",
+        "prefixParentId": 6671,
+        "prefixDescription": "Comparative Literature",
+        "departmentParentId": 2941,
+        "department": "Comparative Literature",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "e9ad648c-d6fa-480d-bb76-3e681cdd0df9",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 254084,
+                  "courseTitle": "Women in Literature",
+                  "courseNumber": "21",
+                  "prefix": "WMST",
+                  "prefixParentId": 11816,
+                  "prefixDescription": "Women's Studies",
+                  "departmentParentId": 13150,
+                  "department": "Women's Studies",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254083,
+              "courseTitle": "Women in Literature",
+              "courseNumber": "21",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "f6359146-5904-40b7-8eeb-e53112f05584",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 254083,
+                  "courseTitle": "Women in Literature",
+                  "courseNumber": "21",
+                  "prefix": "ELIT",
+                  "prefixParentId": 4816,
+                  "prefixDescription": "English (Literature)",
+                  "departmentParentId": 5069,
+                  "department": "English (Literature)",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254084,
+              "courseTitle": "Women in Literature",
+              "courseNumber": "21",
+              "prefix": "WMST",
+              "prefixParentId": 11816,
+              "prefixDescription": "Women's Studies",
+              "departmentParentId": 13150,
+              "department": "Women's Studies",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 209449,
+        "courseTitle": "Dramatic Literature",
+        "courseNumber": "013",
+        "prefix": "COM",
+        "prefixParentId": 6671,
+        "prefixDescription": "Comparative Literature",
+        "departmentParentId": 2941,
+        "department": "Comparative Literature",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course is articulated in more than one agreement but credit can only apply to one"
+                }
+              ],
+              "courseIdentifierParentId": 352940,
+              "courseTitle": "Introduction to Dramatic Literature",
+              "courseNumber": "12",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 195,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 354077,
+        "courseTitle": "Major Works of the Contemporary World ",
+        "courseNumber": "004",
+        "prefix": "COM",
+        "prefixParentId": 6671,
+        "prefixDescription": "Comparative Literature",
+        "departmentParentId": 2941,
+        "department": "Comparative Literature",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353667,
+              "courseTitle": "Contemporary Literature",
+              "courseNumber": "39",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION COURSES FOR THE MAJOR": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "3f9d31d9-34d8-46c7-f570-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354105,
+                "courseTitle": "Major Works of the Modern World",
+                "courseNumber": "003",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "10fc96c5-ab93-4a23-d82f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354077,
+                "courseTitle": "Major Works of the Contemporary World ",
+                "courseNumber": "004",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "f2e7817f-0b51-4127-d830-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354142,
+                "courseTitle": "Major Works of the Medieval & Early Modern World",
+                "courseNumber": "002",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "842bd3b1-6d87-4484-d831-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284817,
+                "courseTitle": "Major Works of the Ancient World",
+                "courseNumber": "001",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "534c1252-45b4-4fb8-d832-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 2,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "9ee72f82-564f-4ad6-f56f-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256872,
+                "courseTitle": "Myths & Legends",
+                "courseNumber": "006",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e521c1e0-cdfe-43fb-d81c-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256928,
+                "courseTitle": "Utopias & Their Transformations ",
+                "courseNumber": "008",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f1a9ab59-cf31-49ed-d81d-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 174015,
+                "courseTitle": "Introduction to Poetry",
+                "courseNumber": "014",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "43c075d4-e77b-4445-d81e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354077,
+                "courseTitle": "Major Works of the Contemporary World ",
+                "courseNumber": "004",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "7885b22e-f798-4e86-d81f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354146,
+                "courseTitle": "Humans & Natural World",
+                "courseNumber": "020",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c72216bc-c763-4d56-d820-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257021,
+                "courseTitle": "Ethnic Minority Writers in World Literature",
+                "courseNumber": "025",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "298eb710-37a4-408b-d821-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 245994,
+                "courseTitle": "Literatures of the Islamic World",
+                "courseNumber": "053C",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "23b2efcd-4269-4d05-d822-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354142,
+                "courseTitle": "Major Works of the Medieval & Early Modern World",
+                "courseNumber": "002",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "ccd20a68-9cdc-440d-d823-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 292117,
+                "courseTitle": "Introduction to Women Writers",
+                "courseNumber": "012",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "62d91cab-1742-43dd-d824-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284817,
+                "courseTitle": "Major Works of the Ancient World",
+                "courseNumber": "001",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "07a58125-98c0-44f8-d825-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284852,
+                "courseTitle": "Fairy Tales, Fables, & Parables ",
+                "courseNumber": "005",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "11c1e73f-af5c-4624-d826-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 172630,
+                "courseTitle": "Literature of East Asia",
+                "courseNumber": "053A",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "764b2593-3a4f-4ce0-d827-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354105,
+                "courseTitle": "Major Works of the Modern World",
+                "courseNumber": "003",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "dfe6023e-ef34-4751-d828-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 208782,
+                "courseTitle": "Literature of South Asia",
+                "courseNumber": "053B",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f7c98a0d-be31-4bd2-d829-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 357879,
+                "courseTitle": "Travel & the Modern World",
+                "courseNumber": "011",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 357880,
+                    "courseTitle": "Travel & the Modern World",
+                    "courseNumber": "011",
+                    "prefix": "GER",
+                    "prefixParentId": 7847,
+                    "prefixDescription": "German",
+                    "departmentParentId": 6482,
+                    "department": "German",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0823cdc8-ab0b-4949-d82a-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354088,
+                "courseTitle": "Literature of Fantasy & the Supernatural ",
+                "courseNumber": "007",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d2ceb09d-9f43-4485-d82b-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 302679,
+                "courseTitle": "Animals in Literature",
+                "courseNumber": "024",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "57a2e704-3665-4dcc-d82c-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 209449,
+                "courseTitle": "Dramatic Literature",
+                "courseNumber": "013",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9a0280d2-f737-45c8-d82d-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 292132,
+                "courseTitle": "The Short Story & Novella ",
+                "courseNumber": "009",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "726c83bd-64ca-4a3e-d82e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

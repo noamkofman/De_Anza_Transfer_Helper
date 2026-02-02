@@ -1,0 +1,172 @@
+{
+  "major": "Linguistics, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 128,
+    "code": "UCSB    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Barbara",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 268975,
+        "courseTitle": "Language and Linguistics",
+        "courseNumber": "20",
+        "prefix": "LING",
+        "prefixParentId": 12508,
+        "prefixDescription": "Linguistics",
+        "departmentParentId": 8642,
+        "department": "Linguistics",
+        "begin": "F2009",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290833,
+              "courseTitle": "Introduction to Linguistics",
+              "courseNumber": "1",
+              "prefix": "LING",
+              "prefixParentId": 2581,
+              "prefixDescription": "Linguistics",
+              "departmentParentId": 8639,
+              "department": "Linguistics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "90af86bb-a4db-4ad3-16b0-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 268975,
+                "courseTitle": "Language and Linguistics",
+                "courseNumber": "20",
+                "prefix": "LING",
+                "prefixParentId": 12508,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8642,
+                "department": "Linguistics",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "06e17db1-964f-42d8-8f5a-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "42504a3e-4825-4b9c-16b1-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Completion of the third quarter or second semester (or equivalent) of a foreign language"
+              },
+              "requirementAttributes": [
+                {
+                  "position": 0,
+                  "content": "**REFER TO TOP OF AGREEMENT**"
+                }
+              ],
+              "id": "ab54a438-aca6-4a86-918d-3a123a4a46f8",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Completion of the sixth quarter or fourth semester (or equivalent) of a foreign language"
+              },
+              "requirementAttributes": [
+                {
+                  "position": 0,
+                  "content": "**REFER TO TOP OF AGREEMENT**"
+                }
+              ],
+              "id": "c984aefc-1063-4b01-bd55-b3a037e777c3",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

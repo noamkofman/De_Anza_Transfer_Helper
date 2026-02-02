@@ -1,0 +1,103 @@
+{
+  "major": "Languages and Literatures/Languages, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 46,
+    "code": "UCR     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Riverside",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "STRONGLY RECOMMENDED COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 302208,
+                "courseTitle": "Intro to Close Reading",
+                "courseNumber": "1",
+                "prefix": "CPLT",
+                "prefixParentId": 5959,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2942,
+                "department": "Comparative Literature",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f4370216-3063-4b9d-98c6-893dee09ebd0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 283335,
+                "courseTitle": "Language and Linguistics",
+                "courseNumber": "20",
+                "prefix": "LING",
+                "prefixParentId": 8771,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8626,
+                "department": "Linguistics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0c92cc80-31c0-485e-a208-e7ad5d47c65f",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

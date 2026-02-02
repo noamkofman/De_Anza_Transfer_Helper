@@ -1,0 +1,454 @@
+{
+  "major": "Recreation",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 178825,
+        "courseTitle": "General Psychology",
+        "courseNumber": "100",
+        "prefix": "PSY",
+        "prefixParentId": 4673,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11201,
+        "department": "Psychology",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281450,
+              "courseTitle": "General Psychology",
+              "courseNumber": "1",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 341614,
+        "courseTitle": "Principles of Sociology",
+        "courseNumber": "100",
+        "prefix": "SOC",
+        "prefixParentId": 9057,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12086,
+        "department": "Sociology",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254964,
+              "courseTitle": "Introduction to Sociology",
+              "courseNumber": "1",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 178193,
+        "courseTitle": "Introduction to Cultural Anthropology",
+        "courseNumber": "120",
+        "prefix": "ANTH",
+        "prefixParentId": 10764,
+        "prefixDescription": "Anthropology",
+        "departmentParentId": 729,
+        "department": "Anthropology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282442,
+              "courseTitle": "Cultural Anthropology",
+              "courseNumber": "2",
+              "prefix": "ANTH",
+              "prefixParentId": 10801,
+              "prefixDescription": "Anthropology",
+              "departmentParentId": 749,
+              "department": "Anthropology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "15e32028-59b7-4983-7a9a-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 238567,
+                "courseTitle": "Teamwork and Group Dynamics",
+                "courseNumber": "201",
+                "prefix": "REC",
+                "prefixParentId": 6501,
+                "prefixDescription": "Recreation and Leisure Studies",
+                "departmentParentId": 11629,
+                "department": "Recreation and Leisure Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cb05c907-7434-40bb-89c9-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383397,
+                "courseTitle": "Health and Wellness in Parks, Recreation, and Tourism",
+                "courseNumber": "210",
+                "prefix": "REC",
+                "prefixParentId": 6501,
+                "prefixDescription": "Recreation and Leisure Studies",
+                "departmentParentId": 11629,
+                "department": "Recreation and Leisure Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a056ca67-3972-477f-89ca-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 194122,
+                "courseTitle": "Introduction to Leisure Services",
+                "courseNumber": "141",
+                "prefix": "REC",
+                "prefixParentId": 6501,
+                "prefixDescription": "Recreation and Leisure Studies",
+                "departmentParentId": 11629,
+                "department": "Recreation and Leisure Studies",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "206f7d59-0255-452d-a37b-8e0a8b5f8a82",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 220820,
+                "courseTitle": "Programming Recreation Activities",
+                "courseNumber": "225",
+                "prefix": "REC",
+                "prefixParentId": 6501,
+                "prefixDescription": "Recreation and Leisure Studies",
+                "departmentParentId": 11629,
+                "department": "Recreation and Leisure Studies",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ceed5557-78e0-480a-aba7-c3f6e194f7f0",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "f39fddde-3dac-4647-153a-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 212172,
+                "courseTitle": "Principles and Practices of Teaching Young Children",
+                "courseNumber": "211",
+                "prefix": "CDFS",
+                "prefixParentId": 13978,
+                "prefixDescription": "Child Development and Family Studies",
+                "departmentParentId": 2531,
+                "department": "Child Development and Family Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8a3744b8-c7a6-4f40-89ce-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 246644,
+                "courseTitle": "Lifespan Human Development",
+                "courseNumber": "180",
+                "prefix": "HDEV",
+                "prefixParentId": 2266,
+                "prefixDescription": "Human Development",
+                "departmentParentId": 7208,
+                "department": "Human Development",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7492576d-1c59-4c15-89cf-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 178825,
+                "courseTitle": "General Psychology",
+                "courseNumber": "100",
+                "prefix": "PSY",
+                "prefixParentId": 4673,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11201,
+                "department": "Psychology",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2a7151c0-691a-4aaa-89d0-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341614,
+                "courseTitle": "Principles of Sociology",
+                "courseNumber": "100",
+                "prefix": "SOC",
+                "prefixParentId": 9057,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12086,
+                "department": "Sociology",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "10b7f2a6-0f10-48e6-89d1-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 178193,
+                "courseTitle": "Introduction to Cultural Anthropology",
+                "courseNumber": "120",
+                "prefix": "ANTH",
+                "prefixParentId": 10764,
+                "prefixDescription": "Anthropology",
+                "departmentParentId": 729,
+                "department": "Anthropology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8991c074-a08f-4111-8ac2-7801c9c31e1c",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "CONCENTRATION REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "70f27dc0-25aa-44f0-1540-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 369261,
+                "courseTitle": "Introduction to Travel and Tourism",
+                "courseNumber": "168",
+                "prefix": "REC",
+                "prefixParentId": 6501,
+                "prefixDescription": "Recreation and Leisure Studies",
+                "departmentParentId": 11629,
+                "department": "Recreation and Leisure Studies",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "30f1e2a9-eee4-4673-89ef-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

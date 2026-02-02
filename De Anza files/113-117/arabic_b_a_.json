@@ -1,0 +1,325 @@
+{
+  "major": "Arabic/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "5ad2bc57-adc9-409a-1a5f-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 376622,
+                "courseTitle": "Introduction to Islam",
+                "courseNumber": "M20",
+                "prefix": "ISLM ST",
+                "prefixParentId": 16725,
+                "prefixDescription": "Islamic Studies",
+                "departmentParentId": 13848,
+                "department": "Islamic Studies",
+                "begin": "S2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5bacc2cb-5c93-409e-1fdb-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 376628,
+                "courseTitle": "Global Time Travel",
+                "courseNumber": "65",
+                "prefix": "NR EAST",
+                "prefixParentId": 14374,
+                "prefixDescription": "Near Eastern Languages",
+                "departmentParentId": 9634,
+                "department": "Near Eastern Languages",
+                "begin": "S2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "478a2490-962e-45ba-1fdc-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 376623,
+                "courseTitle": "Visible Language: Study of Writing",
+                "courseNumber": "M20",
+                "prefix": "NR EAST",
+                "prefixParentId": 14374,
+                "prefixDescription": "Near Eastern Languages",
+                "departmentParentId": 9634,
+                "department": "Near Eastern Languages",
+                "begin": "S2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 376624,
+                    "courseTitle": "Visible Language: Study of Writing",
+                    "courseNumber": "M20",
+                    "prefix": "ASIAN",
+                    "prefixParentId": 14422,
+                    "prefixDescription": "Asian",
+                    "departmentParentId": 1249,
+                    "department": "Asian",
+                    "begin": "S2020",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 376625,
+                    "courseTitle": "Visible Language: Study of Writing",
+                    "courseNumber": "M20",
+                    "prefix": "IE STD",
+                    "prefixParentId": 16727,
+                    "prefixDescription": "Indo-European Studies ",
+                    "departmentParentId": 13850,
+                    "department": "Indo-European Studies",
+                    "begin": "S2020",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 376626,
+                    "courseTitle": "Visible Language: Study of Writing",
+                    "courseNumber": "M20",
+                    "prefix": "SLAVC",
+                    "prefixParentId": 15598,
+                    "prefixDescription": "SLAVIC",
+                    "departmentParentId": 11921,
+                    "department": "Slavic",
+                    "begin": "S2020",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 376627,
+                    "courseTitle": "Visible Language: Study of Writing",
+                    "courseNumber": "M20",
+                    "prefix": "SEASIAN",
+                    "prefixParentId": 14378,
+                    "prefixDescription": "Southeast Asian",
+                    "departmentParentId": 12196,
+                    "department": "Southeast Asian",
+                    "begin": "S2020",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "18af2651-9724-4fdd-1fde-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287868,
+                "courseTitle": "Elementary Standard Arabic",
+                "courseNumber": "1A",
+                "prefix": "ARABIC",
+                "prefixParentId": 15661,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 924,
+                "department": "Arabic",
+                "begin": "S2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7d4ba414-558c-4030-96ad-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305154,
+                "courseTitle": "Elementary Standard Arabic",
+                "courseNumber": "1B",
+                "prefix": "ARABIC",
+                "prefixParentId": 15661,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 924,
+                "department": "Arabic",
+                "begin": "Su2014",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c844d80f-fe0e-4f77-96ae-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305155,
+                "courseTitle": "Elementary Standard Arabic",
+                "courseNumber": "1C",
+                "prefix": "ARABIC",
+                "prefixParentId": 15661,
+                "prefixDescription": "Arabic",
+                "departmentParentId": 924,
+                "department": "Arabic",
+                "begin": "Su2014",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c77771d0-160a-4843-96af-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "ea8bd48f-ba5b-4aeb-15f0-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304101,
+                "courseTitle": "Introduction to Asian Civilizations: History of Middle East",
+                "courseNumber": "9D",
+                "prefix": "HIST",
+                "prefixParentId": 3017,
+                "prefixDescription": "History",
+                "departmentParentId": 7013,
+                "department": "History",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2b81d2bf-e856-4f5e-7ab2-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 360002,
+                "courseTitle": "Making and Studying Modern Middle East",
+                "courseNumber": "50CW",
+                "prefix": "M E STD",
+                "prefixParentId": 15431,
+                "prefixDescription": "Middle Eastern Studies",
+                "departmentParentId": 9296,
+                "department": "Middle Eastern Studies",
+                "begin": "S2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "719511e9-e163-460e-9306-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

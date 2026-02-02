@@ -1,0 +1,272 @@
+{
+  "major": "French, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 128,
+    "code": "UCSB    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Barbara",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307848,
+              "courseTitle": "Elementary French (Second Quarter)",
+              "courseNumber": "2",
+              "prefix": "FREN",
+              "prefixParentId": 6833,
+              "prefixDescription": "French",
+              "departmentParentId": 5962,
+              "department": "French",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302109,
+              "courseTitle": "Elementary French (Third Quarter)",
+              "courseNumber": "3",
+              "prefix": "FREN",
+              "prefixParentId": 6833,
+              "prefixDescription": "French",
+              "departmentParentId": 5962,
+              "department": "French",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280529,
+              "courseTitle": "Elementary French (First Quarter)",
+              "courseNumber": "1",
+              "prefix": "FREN",
+              "prefixParentId": 6833,
+              "prefixDescription": "French",
+              "departmentParentId": 5962,
+              "department": "French",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": []
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "FR 1, FR 2, FR 3",
+                "courses": [
+                  {
+                    "id": "64a05723-40ed-4f5e-8c62-8f43ad260c66",
+                    "position": 0,
+                    "courseIdentifierParentId": 257599,
+                    "courseTitle": "Elementary French",
+                    "courseNumber": "1",
+                    "prefix": "FR",
+                    "prefixParentId": 6851,
+                    "prefixDescription": "French",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  },
+                  {
+                    "id": "863c06f0-3073-459d-a446-696db610552a",
+                    "position": 1,
+                    "courseIdentifierParentId": 257602,
+                    "courseTitle": "Elementary French",
+                    "courseNumber": "2",
+                    "prefix": "FR",
+                    "prefixParentId": 6851,
+                    "prefixDescription": "French",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  },
+                  {
+                    "id": "a5dc7088-693c-4996-b93c-ee3dd2373048",
+                    "position": 2,
+                    "courseIdentifierParentId": 286366,
+                    "courseTitle": "Elementary French",
+                    "courseNumber": "3",
+                    "prefix": "FR",
+                    "prefixParentId": 6851,
+                    "prefixDescription": "French",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [
+                {
+                  "seriesCourseId": "a5dc7088-693c-4996-b93c-ee3dd2373048",
+                  "position": 0,
+                  "content": "Or equivalent"
+                }
+              ],
+              "id": "66407a02-1c26-4706-837d-869f4d71367e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "FR 4, FR 5, FR 6",
+                "courses": [
+                  {
+                    "id": "6e44ddc8-df5c-42cf-9d72-193d95f17062",
+                    "position": 0,
+                    "courseIdentifierParentId": 286375,
+                    "courseTitle": "Intermediate French",
+                    "courseNumber": "4",
+                    "prefix": "FR",
+                    "prefixParentId": 6851,
+                    "prefixDescription": "French",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  },
+                  {
+                    "id": "39d5a78c-73a9-45dc-a7c1-03860ed8afbb",
+                    "position": 1,
+                    "courseIdentifierParentId": 257593,
+                    "courseTitle": "Intermediate French",
+                    "courseNumber": "5",
+                    "prefix": "FR",
+                    "prefixParentId": 6851,
+                    "prefixDescription": "French",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  },
+                  {
+                    "id": "0e3b4b2a-83d6-4984-b2c1-3f55539dc029",
+                    "position": 2,
+                    "courseIdentifierParentId": 293002,
+                    "courseTitle": "Intermediate French",
+                    "courseNumber": "6",
+                    "prefix": "FR",
+                    "prefixParentId": 6851,
+                    "prefixDescription": "French",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [
+                {
+                  "seriesCourseId": "0e3b4b2a-83d6-4984-b2c1-3f55539dc029",
+                  "position": 0,
+                  "content": "Or equivalent"
+                }
+              ],
+              "id": "4de8e1ed-4f0c-4b2b-a400-85d80869a3fd",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

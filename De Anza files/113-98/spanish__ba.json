@@ -1,0 +1,331 @@
+{
+  "major": "Spanish, BA",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 98,
+    "code": "CSUB    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Bakersfield",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 358905,
+              "courseTitle": "Intermediate Spanish (Third Quarter)",
+              "courseNumber": "6",
+              "prefix": "SPAN",
+              "prefixParentId": 3206,
+              "prefixDescription": "Spanish",
+              "departmentParentId": 12290,
+              "department": "Spanish",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280845,
+              "courseTitle": "Intermediate Spanish (Second Quarter)",
+              "courseNumber": "5",
+              "prefix": "SPAN",
+              "prefixParentId": 3206,
+              "prefixDescription": "Spanish",
+              "departmentParentId": 12290,
+              "department": "Spanish",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307801,
+              "courseTitle": "Intermediate Spanish (First Quarter)",
+              "courseNumber": "4",
+              "prefix": "SPAN",
+              "prefixParentId": 3206,
+              "prefixDescription": "Spanish",
+              "departmentParentId": 12290,
+              "department": "Spanish",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 280845,
+              "courseTitle": "Intermediate Spanish (Second Quarter)",
+              "courseNumber": "5",
+              "prefix": "SPAN",
+              "prefixParentId": 3206,
+              "prefixDescription": "Spanish",
+              "departmentParentId": 12290,
+              "department": "Spanish",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "72a9bbd3-43df-42d8-5ab7-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "SPAN 2000, SPAN 2001",
+                "courses": [
+                  {
+                    "id": "e448d38a-cb22-4686-bbfd-c5933bfb0750",
+                    "position": 0,
+                    "courseIdentifierParentId": 350254,
+                    "courseTitle": "Spanish III",
+                    "courseNumber": "2000",
+                    "prefix": "SPAN",
+                    "prefixParentId": 3191,
+                    "prefixDescription": "Spanish",
+                    "departmentParentId": 12276,
+                    "department": "Spanish",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "915f4bd5-79c8-44d2-9996-de4dc53dabd0",
+                    "position": 1,
+                    "courseIdentifierParentId": 69194,
+                    "courseTitle": "Spanish III Lab",
+                    "courseNumber": "2001",
+                    "prefix": "SPAN",
+                    "prefixParentId": 3191,
+                    "prefixDescription": "Spanish",
+                    "departmentParentId": 12276,
+                    "department": "Spanish",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseAttributes": [],
+              "id": "5ca81828-2975-407e-bce4-04a1f1ded3a2",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "e7aa7441-a04e-4305-5ab6-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "SPAN 2010, SPAN 2011",
+                "courses": [
+                  {
+                    "id": "9b638ede-1e95-40ac-95bc-b0dfa7c68517",
+                    "position": 0,
+                    "courseIdentifierParentId": 264846,
+                    "courseTitle": "Spanish IV",
+                    "courseNumber": "2010",
+                    "prefix": "SPAN",
+                    "prefixParentId": 3191,
+                    "prefixDescription": "Spanish",
+                    "departmentParentId": 12276,
+                    "department": "Spanish",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "1856025c-83b8-4669-ac5d-5398149b6d0c",
+                    "position": 1,
+                    "courseIdentifierParentId": 317301,
+                    "courseTitle": "Spanish IV Lab",
+                    "courseNumber": "2011",
+                    "prefix": "SPAN",
+                    "prefixParentId": 3191,
+                    "prefixDescription": "Spanish",
+                    "departmentParentId": 12276,
+                    "department": "Spanish",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "4a9af6e0-8d9e-4073-525f-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 277453,
+                "courseTitle": "Spanish I for Fluent Speakers",
+                "courseNumber": "2020",
+                "prefix": "SPAN",
+                "prefixParentId": 3191,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12276,
+                "department": "Spanish",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "08cd521a-95e6-4a2a-5260-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 265423,
+                "courseTitle": "Spanish II for Fluent Speakers",
+                "courseNumber": "2030",
+                "prefix": "SPAN",
+                "prefixParentId": 3191,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12276,
+                "department": "Spanish",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2f72fd0f-29e8-4d94-5261-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

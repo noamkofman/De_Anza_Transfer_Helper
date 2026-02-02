@@ -1,0 +1,103 @@
+{
+  "major": "Languages and Literatures/Comparative Literature, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 46,
+    "code": "UCR     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Riverside",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "STRONGLY RECOMMENDED COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 255850,
+                "courseTitle": "Masterworks of World Literature",
+                "courseNumber": "17C",
+                "prefix": "CPLT",
+                "prefixParentId": 5959,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2942,
+                "department": "Comparative Literature",
+                "begin": "F2004",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "eb3a808a-d9cb-414f-8451-f9fb50d8c7fe",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 302208,
+                "courseTitle": "Intro to Close Reading",
+                "courseNumber": "1",
+                "prefix": "CPLT",
+                "prefixParentId": 5959,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2942,
+                "department": "Comparative Literature",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a9bd380d-ef27-402b-9dfc-da90da6494cd",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

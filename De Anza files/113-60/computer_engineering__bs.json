@@ -1,0 +1,919 @@
+{
+  "major": "Computer Engineering, BS",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 60,
+    "code": "CSUS    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Sacramento",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 330493,
+        "courseTitle": "Introduction to Environmental Science",
+        "courseNumber": "10",
+        "prefix": "ENVS",
+        "prefixParentId": 10916,
+        "prefixDescription": "Environmental Studies",
+        "departmentParentId": 5329,
+        "department": "Environmental Studies",
+        "begin": "F2017",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 351394,
+        "courseTitle": "Calculus I",
+        "courseNumber": "30",
+        "prefix": "MATH",
+        "prefixParentId": 9967,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 280190,
+        "courseTitle": "Calculus II",
+        "courseNumber": "31",
+        "prefix": "MATH",
+        "prefixParentId": 9967,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158129,
+        "courseTitle": "Differential Equations for Science and Engineering",
+        "courseNumber": "45",
+        "prefix": "MATH",
+        "prefixParentId": 9967,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281375,
+              "courseTitle": "Differential Equations",
+              "courseNumber": "2A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 282200,
+        "courseTitle": "General Physics: Mechanics",
+        "courseNumber": "11A",
+        "prefix": "PHYS",
+        "prefixParentId": 239,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10782,
+        "department": "Physics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305519,
+              "courseTitle": "Physics for Scientists and Engineers: Mechanics",
+              "courseNumber": "4A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 282196,
+        "courseTitle": "General Physics: Electricity and Magnetism",
+        "courseNumber": "11C",
+        "prefix": "PHYS",
+        "prefixParentId": 239,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10782,
+        "department": "Physics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 276901,
+              "courseTitle": "Physics for Scientists and Engineers: Electricity and Magnetism",
+              "courseNumber": "4B",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 157305,
+        "courseTitle": "Programming Concepts and Methodology I",
+        "courseNumber": "15",
+        "prefix": "CSC",
+        "prefixParentId": 509,
+        "prefixDescription": "Computer Science",
+        "departmentParentId": 3250,
+        "department": "Computer Science",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275526,
+              "courseTitle": "Java Programming",
+              "courseNumber": "35A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 276201,
+        "courseTitle": "Introduction to Logic Design",
+        "courseNumber": "64",
+        "prefix": "CPE",
+        "prefixParentId": 2886,
+        "prefixDescription": "Computer Engineering",
+        "departmentParentId": 3045,
+        "department": "Computer Engineering",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 193837,
+        "courseTitle": "Discrete Structures for Computer Science",
+        "courseNumber": "28",
+        "prefix": "CSC",
+        "prefixParentId": 509,
+        "prefixDescription": "Computer Science",
+        "departmentParentId": 3250,
+        "department": "Computer Science",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 151375,
+        "courseTitle": "Introductory Circuit Analysis",
+        "courseNumber": "17",
+        "prefix": "ENGR",
+        "prefixParentId": 3525,
+        "prefixDescription": "Engineering",
+        "departmentParentId": 4774,
+        "department": "Engineering",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307940,
+              "courseTitle": "Introduction to Circuit Analysis",
+              "courseNumber": "37",
+              "prefix": "ENGR",
+              "prefixParentId": 3570,
+              "prefixDescription": "Engineering",
+              "departmentParentId": 4803,
+              "department": "Engineering",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 136096,
+        "courseTitle": "Introduction to Systems Programming in UNIX",
+        "courseNumber": "60",
+        "prefix": "CSC",
+        "prefixParentId": 509,
+        "prefixDescription": "Computer Science",
+        "departmentParentId": 3250,
+        "department": "Computer Science",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275537,
+              "courseTitle": "Advanced Unix/Linux",
+              "courseNumber": "18B",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275532,
+              "courseTitle": "Introduction to Unix/Linux",
+              "courseNumber": "18A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 170589,
+        "courseTitle": "Introduction to Computer Architecture",
+        "courseNumber": "35",
+        "prefix": "CSC",
+        "prefixParentId": 509,
+        "prefixDescription": "Computer Science",
+        "departmentParentId": 3250,
+        "department": "Computer Science",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 279901,
+              "courseTitle": "Introduction to x86 Processor Assembly Language and Computer Architecture",
+              "courseNumber": "21JA",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 157306,
+        "courseTitle": "Programming Concepts and Methodology II",
+        "courseNumber": "20",
+        "prefix": "CSC",
+        "prefixParentId": 509,
+        "prefixDescription": "Computer Science",
+        "departmentParentId": 3250,
+        "department": "Computer Science",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 263578,
+              "courseTitle": "Advanced Java Programming",
+              "courseNumber": "35B",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2009",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 57706,
+        "courseTitle": "Introduction To Engineering",
+        "courseNumber": "1",
+        "prefix": "ENGR",
+        "prefixParentId": 3525,
+        "prefixDescription": "Engineering",
+        "departmentParentId": 4774,
+        "department": "Engineering",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "1fc3348f-e25b-4def-f746-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330493,
+                "courseTitle": "Introduction to Environmental Science",
+                "courseNumber": "10",
+                "prefix": "ENVS",
+                "prefixParentId": 10916,
+                "prefixDescription": "Environmental Studies",
+                "departmentParentId": 5329,
+                "department": "Environmental Studies",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "89ccd06f-7f8c-4399-e06d-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 351394,
+                "courseTitle": "Calculus I",
+                "courseNumber": "30",
+                "prefix": "MATH",
+                "prefixParentId": 9967,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "81cd5c8a-5514-465c-e06e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 280190,
+                "courseTitle": "Calculus II",
+                "courseNumber": "31",
+                "prefix": "MATH",
+                "prefixParentId": 9967,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "91ce1d0d-a9b7-45ba-e06f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158129,
+                "courseTitle": "Differential Equations for Science and Engineering",
+                "courseNumber": "45",
+                "prefix": "MATH",
+                "prefixParentId": 9967,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "025bacce-eb60-4e24-e070-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 282200,
+                "courseTitle": "General Physics: Mechanics",
+                "courseNumber": "11A",
+                "prefix": "PHYS",
+                "prefixParentId": 239,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10782,
+                "department": "Physics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6b8a9bc0-153d-4ef5-e071-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 282196,
+                "courseTitle": "General Physics: Electricity and Magnetism",
+                "courseNumber": "11C",
+                "prefix": "PHYS",
+                "prefixParentId": 239,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10782,
+                "department": "Physics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "014c29a2-4cd1-47b8-e072-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157305,
+                "courseTitle": "Programming Concepts and Methodology I",
+                "courseNumber": "15",
+                "prefix": "CSC",
+                "prefixParentId": 509,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3250,
+                "department": "Computer Science",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "62f21440-d27b-4b98-85f5-3e21e1ba3f6c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 276201,
+                "courseTitle": "Introduction to Logic Design",
+                "courseNumber": "64",
+                "prefix": "CPE",
+                "prefixParentId": 2886,
+                "prefixDescription": "Computer Engineering",
+                "departmentParentId": 3045,
+                "department": "Computer Engineering",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 296610,
+                    "courseTitle": "Introduction to Logic Design",
+                    "courseNumber": "64",
+                    "prefix": "EEE",
+                    "prefixParentId": 3674,
+                    "prefixDescription": "Electrical and Electronic Engineering",
+                    "departmentParentId": 4510,
+                    "department": "Electrical and Electronic Engineering",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1ad55614-d3c6-4539-bef2-903d50a93912",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 193837,
+                "courseTitle": "Discrete Structures for Computer Science",
+                "courseNumber": "28",
+                "prefix": "CSC",
+                "prefixParentId": 509,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3250,
+                "department": "Computer Science",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ffc55d15-3bf0-4c66-8435-d4d3fe817e12",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 151375,
+                "courseTitle": "Introductory Circuit Analysis",
+                "courseNumber": "17",
+                "prefix": "ENGR",
+                "prefixParentId": 3525,
+                "prefixDescription": "Engineering",
+                "departmentParentId": 4774,
+                "department": "Engineering",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3edb138e-bd23-40ff-8cab-348e270f38f7",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136096,
+                "courseTitle": "Introduction to Systems Programming in UNIX",
+                "courseNumber": "60",
+                "prefix": "CSC",
+                "prefixParentId": 509,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3250,
+                "department": "Computer Science",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5bfad9cf-99ab-4526-a406-fea97eee7e1e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 170589,
+                "courseTitle": "Introduction to Computer Architecture",
+                "courseNumber": "35",
+                "prefix": "CSC",
+                "prefixParentId": 509,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3250,
+                "department": "Computer Science",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2b0a82ec-51ba-484b-9f1c-be3db5bd92e6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157306,
+                "courseTitle": "Programming Concepts and Methodology II",
+                "courseNumber": "20",
+                "prefix": "CSC",
+                "prefixParentId": 509,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3250,
+                "department": "Computer Science",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a56c0149-d610-46d9-b463-2393974610b5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 57706,
+                "courseTitle": "Introduction To Engineering",
+                "courseNumber": "1",
+                "prefix": "ENGR",
+                "prefixParentId": 3525,
+                "prefixDescription": "Engineering",
+                "departmentParentId": 4774,
+                "department": "Engineering",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a28f8e33-1f0f-4b8b-bc72-b27ab8b78a85",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

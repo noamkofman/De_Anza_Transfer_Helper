@@ -1,0 +1,383 @@
+{
+  "major": "Theatre, BA",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 98,
+    "code": "CSUB    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Bakersfield",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "CORE REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "62a91034-c37e-4ae4-5ab9-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 350262,
+                "courseTitle": "Stagecraft",
+                "courseNumber": "2200",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "48d3e9aa-9813-4141-bea6-8eb37ae39b2f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 285002,
+                "courseTitle": "Script Analysis",
+                "courseNumber": "2100",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fd842798-d79e-4087-bfb9-a6ea520a1a4e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 264826,
+                "courseTitle": "Beginning Acting",
+                "courseNumber": "1008",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "af216dc8-2415-48d3-9f56-c2ed50e45b8f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 237293,
+                "courseTitle": "Principles of Design",
+                "courseNumber": "2210",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "acafdf51-cbd7-4c2d-aebb-6dc93f7a87b9",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ELECTIVE COURSES": [
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 1,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "593a00d2-84df-4295-5ab8-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 350249,
+                "courseTitle": "Intermediate Acting: Foundations",
+                "courseNumber": "2000",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b39304af-4ec3-4c84-5262-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 264698,
+                "courseTitle": "Intermediate Acting: Techniques",
+                "courseNumber": "2010",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "688a832a-042e-4ce0-5263-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 48071,
+                "courseTitle": "Theatre Company",
+                "courseNumber": "1400",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d2e6f906-da8f-4aaa-5264-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 65426,
+                "courseTitle": "Theatre Company",
+                "courseNumber": "2400",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b1cdab31-413e-4566-5265-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 98157,
+                "courseTitle": "Rehearsal and Performance",
+                "courseNumber": "2410",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dfce4eac-e87c-40ea-5266-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 66021,
+                "courseTitle": "Young Audiences Touring Play",
+                "courseNumber": "2420",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7bbb2706-aaac-4a79-5267-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 311072,
+                "courseTitle": "Technical Theatre Laboratory",
+                "courseNumber": "2460",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1ed28b86-c527-4772-5268-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 43996,
+                "courseTitle": "Run of Show",
+                "courseNumber": "2470",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9bcb57ce-73df-4199-5269-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 66312,
+                "courseTitle": "Stage Management Practicum",
+                "courseNumber": "2480",
+                "prefix": "THTR",
+                "prefixParentId": 612,
+                "prefixDescription": "Theater",
+                "departmentParentId": 12757,
+                "department": "Theater",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "276e82d7-5383-47eb-526a-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

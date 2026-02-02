@@ -1,0 +1,283 @@
+{
+  "major": "Kinesiology B.A. - Outdoor Education Option",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ]
+  },
+  "to": {
+    "id": 141,
+    "code": "CSUC    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Chico",
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 299307,
+        "courseTitle": "Human Physiology",
+        "courseNumber": "104",
+        "prefix": "BIOL",
+        "prefixDescription": "Biological Sciences",
+        "department": "Biological Sciences",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixDescription": "Biology",
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixDescription": "Biology",
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixDescription": "Biology",
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION CORE REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "cc22440c-51c7-4150-dde5-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 299307,
+                "courseTitle": "Human Physiology",
+                "courseNumber": "104",
+                "prefix": "BIOL",
+                "prefixDescription": "Biological Sciences",
+                "department": "Biological Sciences",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "317d52a9-045f-4c9b-bdaa-36f6218e8130",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "LOWER DIVISION OPTION REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "0865a040-8cab-4220-df3a-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 235072,
+                "courseTitle": "Methods of Teaching Wilderness Living",
+                "courseNumber": "226",
+                "prefix": "KINE",
+                "prefixDescription": "Kinesiology",
+                "department": "Kinesiology and Exercise Physiology",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9490435b-cb34-41cc-8903-93e134ed9019",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 241046,
+                "courseTitle": "Outdoor Recreation Systems",
+                "courseNumber": "240",
+                "prefix": "RHPM",
+                "prefixDescription": "Recreation, Hospitality, and Parks Management",
+                "department": "Recreation, Hospitality, and Parks Management",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a3f78649-fac4-49ac-9d9b-dd0b7f29ac4b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 204306,
+                "courseTitle": "Methods of Teaching Canoeing and Kayaking",
+                "courseNumber": "228",
+                "prefix": "KINE",
+                "prefixDescription": "Kinesiology",
+                "department": "Kinesiology and Exercise Physiology",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dea4b708-bac5-44b4-af97-4c0fb2b2d473",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 241076,
+                "courseTitle": "Methods of Teaching Rock Climbing",
+                "courseNumber": "224",
+                "prefix": "KINE",
+                "prefixDescription": "Kinesiology",
+                "department": "Kinesiology and Exercise Physiology",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2337096c-5fea-4d5d-a39b-13c0dffa8b3f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 347433,
+                "courseTitle": "Challenge Quest",
+                "courseNumber": "222",
+                "prefix": "KINE",
+                "prefixDescription": "Kinesiology",
+                "department": "Kinesiology and Exercise Physiology",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "11fd4ca5-a735-4b35-8d49-f9897b6e3bd7",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 296113,
+                "courseTitle": "Winter and the Mountain",
+                "courseNumber": "227",
+                "prefix": "KINE",
+                "prefixDescription": "Kinesiology",
+                "department": "Kinesiology and Exercise Physiology",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "83646508-eb7a-4427-80f5-777c9b283fb5",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

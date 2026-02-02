@@ -1,0 +1,706 @@
+{
+  "major": "Mathematics, BA",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 60,
+    "code": "CSUS    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Sacramento",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 329111,
+        "courseTitle": "Introduction to Statistics",
+        "courseNumber": "1",
+        "prefix": "STAT",
+        "prefixParentId": 3361,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 351392,
+        "courseTitle": "Calculus III",
+        "courseNumber": "32",
+        "prefix": "MATH",
+        "prefixParentId": 9967,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302624,
+              "courseTitle": "Calculus",
+              "courseNumber": "1D",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359110,
+              "courseTitle": "Calculus",
+              "courseNumber": "1C",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158129,
+        "courseTitle": "Differential Equations for Science and Engineering",
+        "courseNumber": "45",
+        "prefix": "MATH",
+        "prefixParentId": 9967,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281375,
+              "courseTitle": "Differential Equations",
+              "courseNumber": "2A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 280190,
+        "courseTitle": "Calculus II",
+        "courseNumber": "31",
+        "prefix": "MATH",
+        "prefixParentId": 9967,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 329117,
+        "courseTitle": "Introduction to Linear Algebra",
+        "courseNumber": "35",
+        "prefix": "MATH",
+        "prefixParentId": 9967,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302590,
+              "courseTitle": "Linear Algebra",
+              "courseNumber": "2B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 351394,
+        "courseTitle": "Calculus I",
+        "courseNumber": "30",
+        "prefix": "MATH",
+        "prefixParentId": 9967,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 343546,
+        "courseTitle": "Introduction to Programming Logic",
+        "courseNumber": "10",
+        "prefix": "CSC",
+        "prefixParentId": 509,
+        "prefixDescription": "Computer Science",
+        "departmentParentId": 3250,
+        "department": "Computer Science",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 157305,
+        "courseTitle": "Programming Concepts and Methodology I",
+        "courseNumber": "15",
+        "prefix": "CSC",
+        "prefixParentId": 509,
+        "prefixDescription": "Computer Science",
+        "departmentParentId": 3250,
+        "department": "Computer Science",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275526,
+              "courseTitle": "Java Programming",
+              "courseNumber": "35A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 330496,
+        "courseTitle": "Introduction to C Programming",
+        "courseNumber": "25",
+        "prefix": "CSC",
+        "prefixParentId": 509,
+        "prefixDescription": "Computer Science",
+        "departmentParentId": 3250,
+        "department": "Computer Science",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 104202,
+        "courseTitle": "Visual Programming in BASIC",
+        "courseNumber": "22",
+        "prefix": "CSC",
+        "prefixParentId": 509,
+        "prefixDescription": "Computer Science",
+        "departmentParentId": 3250,
+        "department": "Computer Science",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247997,
+              "courseTitle": "Visual Basic.NET Programming I",
+              "courseNumber": "14A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2009",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "aa216c77-1211-439f-cf0e-08dbfa6164b6",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 351392,
+                "courseTitle": "Calculus III",
+                "courseNumber": "32",
+                "prefix": "MATH",
+                "prefixParentId": 9967,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "034fc477-c174-4529-b9ed-99b31be75727",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158129,
+                "courseTitle": "Differential Equations for Science and Engineering",
+                "courseNumber": "45",
+                "prefix": "MATH",
+                "prefixParentId": 9967,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "de234a1b-b36c-418e-8884-5eb3253e3ff2",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 280190,
+                "courseTitle": "Calculus II",
+                "courseNumber": "31",
+                "prefix": "MATH",
+                "prefixParentId": 9967,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4a40fd6f-8130-4643-b256-4ba387153b54",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329117,
+                "courseTitle": "Introduction to Linear Algebra",
+                "courseNumber": "35",
+                "prefix": "MATH",
+                "prefixParentId": 9967,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1ceb6c46-4e0e-4f47-b722-8a1f429377f2",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 351394,
+                "courseTitle": "Calculus I",
+                "courseNumber": "30",
+                "prefix": "MATH",
+                "prefixParentId": 9967,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "48cdcc71-260c-4a2b-83be-0de9766af05a",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 343546,
+                "courseTitle": "Introduction to Programming Logic",
+                "courseNumber": "10",
+                "prefix": "CSC",
+                "prefixParentId": 509,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3250,
+                "department": "Computer Science",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1527c307-2dc8-49fb-baff-0095e573ba0b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157305,
+                "courseTitle": "Programming Concepts and Methodology I",
+                "courseNumber": "15",
+                "prefix": "CSC",
+                "prefixParentId": 509,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3250,
+                "department": "Computer Science",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9c46ed32-fe1b-480a-bf9e-0bdd8f5a374a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330496,
+                "courseTitle": "Introduction to C Programming",
+                "courseNumber": "25",
+                "prefix": "CSC",
+                "prefixParentId": 509,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3250,
+                "department": "Computer Science",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fb139653-f451-43de-a192-550e939d03c1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 104202,
+                "courseTitle": "Visual Programming in BASIC",
+                "courseNumber": "22",
+                "prefix": "CSC",
+                "prefixParentId": 509,
+                "prefixDescription": "Computer Science",
+                "departmentParentId": 3250,
+                "department": "Computer Science",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d489a782-c50d-4cc9-aefb-c68d5c3ee33c",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL LOWER DIVISION COURSES": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "5716737c-4175-4d76-cf0d-08dbfa6164b6",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329111,
+                "courseTitle": "Introduction to Statistics",
+                "courseNumber": "1",
+                "prefix": "STAT",
+                "prefixParentId": 3361,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "18863d7a-e61b-4bae-9a65-bfca569cd7d5",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "major": "Business Administration, BS - Management Information Systems",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 60,
+    "code": "CSUS    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Sacramento",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 133870,
+        "courseTitle": "Accounting Fundamentals",
+        "courseNumber": "1",
+        "prefix": "ACCY",
+        "prefixParentId": 5734,
+        "prefixDescription": "Accounting",
+        "departmentParentId": 1938,
+        "department": "Business Administration",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309246,
+              "courseTitle": "Financial Accounting I",
+              "courseNumber": "1A",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280415,
+              "courseTitle": "Financial Accounting II",
+              "courseNumber": "1B",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 329121,
+        "courseTitle": "Managerial Accounting",
+        "courseNumber": "2",
+        "prefix": "ACCY",
+        "prefixParentId": 5734,
+        "prefixDescription": "Accounting",
+        "departmentParentId": 1938,
+        "department": "Business Administration",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 304827,
+              "courseTitle": "Managerial Accounting",
+              "courseNumber": "1C",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 329901,
+        "courseTitle": "Introduction to Macroeconomic Analysis",
+        "courseNumber": "1A",
+        "prefix": "ECON",
+        "prefixParentId": 1235,
+        "prefixDescription": "Economics",
+        "departmentParentId": 4265,
+        "department": "Economics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253845,
+              "courseTitle": "Principles of Macroeconomics",
+              "courseNumber": "1",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 329867,
+        "courseTitle": "Introduction to Microeconomic Analysis",
+        "courseNumber": "1B",
+        "prefix": "ECON",
+        "prefixParentId": 1235,
+        "prefixDescription": "Economics",
+        "departmentParentId": 4265,
+        "department": "Economics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290810,
+              "courseTitle": "Principles of Microeconomics",
+              "courseNumber": "2",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 342233,
+        "courseTitle": "Modern Business Mathematics",
+        "courseNumber": "24",
+        "prefix": "MATH",
+        "prefixParentId": 9967,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359048,
+              "courseTitle": "Introductory Calculus for Business and Social Science",
+              "courseNumber": "12",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 348763,
+        "courseTitle": "Introduction to Business Law",
+        "courseNumber": "10",
+        "prefix": "MGMT",
+        "prefixParentId": 1341,
+        "prefixDescription": "Management",
+        "departmentParentId": 1938,
+        "department": "Business Administration",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280503,
+              "courseTitle": "Business Law I",
+              "courseNumber": "18",
+              "prefix": "BUS",
+              "prefixParentId": 8279,
+              "prefixDescription": "Business",
+              "departmentParentId": 1965,
+              "department": "Business",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 329111,
+        "courseTitle": "Introduction to Statistics",
+        "courseNumber": "1",
+        "prefix": "STAT",
+        "prefixParentId": 3361,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 229679,
+        "courseTitle": "Introduction to Business Programming",
+        "courseNumber": "15",
+        "prefix": "MIS",
+        "prefixParentId": 4145,
+        "prefixDescription": "Management Information Systems",
+        "departmentParentId": 1938,
+        "department": "Business Administration",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247997,
+              "courseTitle": "Visual Basic.NET Programming I",
+              "courseNumber": "14A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2009",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PROGRAM ADMISSION PREREQUISITES": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "51902772-f304-4111-f421-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133870,
+                "courseTitle": "Accounting Fundamentals",
+                "courseNumber": "1",
+                "prefix": "ACCY",
+                "prefixParentId": 5734,
+                "prefixDescription": "Accounting",
+                "departmentParentId": 1938,
+                "department": "Business Administration",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "be536b89-125d-4c14-d23e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329121,
+                "courseTitle": "Managerial Accounting",
+                "courseNumber": "2",
+                "prefix": "ACCY",
+                "prefixParentId": 5734,
+                "prefixDescription": "Accounting",
+                "departmentParentId": 1938,
+                "department": "Business Administration",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2e5a20d5-4d87-4e73-d23f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329901,
+                "courseTitle": "Introduction to Macroeconomic Analysis",
+                "courseNumber": "1A",
+                "prefix": "ECON",
+                "prefixParentId": 1235,
+                "prefixDescription": "Economics",
+                "departmentParentId": 4265,
+                "department": "Economics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d2c24701-de24-4f44-d240-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329867,
+                "courseTitle": "Introduction to Microeconomic Analysis",
+                "courseNumber": "1B",
+                "prefix": "ECON",
+                "prefixParentId": 1235,
+                "prefixDescription": "Economics",
+                "departmentParentId": 4265,
+                "department": "Economics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7c5dd000-5bf3-42df-d241-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 342233,
+                "courseTitle": "Modern Business Mathematics",
+                "courseNumber": "24",
+                "prefix": "MATH",
+                "prefixParentId": 9967,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Minimum grade required: C or better"
+                }
+              ],
+              "id": "82407863-38a0-41ba-d242-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 348763,
+                "courseTitle": "Introduction to Business Law",
+                "courseNumber": "10",
+                "prefix": "MGMT",
+                "prefixParentId": 1341,
+                "prefixDescription": "Management",
+                "departmentParentId": 1938,
+                "department": "Business Administration",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8cec5bf2-4dc3-4076-d243-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329111,
+                "courseTitle": "Introduction to Statistics",
+                "courseNumber": "1",
+                "prefix": "STAT",
+                "prefixParentId": 3361,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ee1ceebe-e82f-409f-d244-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 373438,
+                "courseTitle": "Business Applications",
+                "courseNumber": "10",
+                "prefix": "MIS",
+                "prefixParentId": 4145,
+                "prefixDescription": "Management Information Systems",
+                "departmentParentId": 1938,
+                "department": "Business Administration",
+                "begin": "S2020",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f3fd581a-1d10-41e4-d24f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "REQUIRED FOR CONCENTRATION IN MANAGEMENT INFORMATION SYSTEMS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "f338b052-1666-42f3-f426-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 229679,
+                "courseTitle": "Introduction to Business Programming",
+                "courseNumber": "15",
+                "prefix": "MIS",
+                "prefixParentId": 4145,
+                "prefixDescription": "Management Information Systems",
+                "departmentParentId": 1938,
+                "department": "Business Administration",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fd58ae64-7f64-40db-d268-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

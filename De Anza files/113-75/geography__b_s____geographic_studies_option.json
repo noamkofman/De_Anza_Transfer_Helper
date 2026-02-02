@@ -1,0 +1,265 @@
+{
+  "major": "Geography, B.S. - Geographic Studies Option",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 75,
+    "code": "CPP     ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "California Polytechnic University, Pomona",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 2018
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 275183,
+        "courseTitle": "Human Geography",
+        "courseNumber": "1020",
+        "prefix": "GEO",
+        "prefixParentId": 10559,
+        "prefixDescription": "Geography",
+        "departmentParentId": 825,
+        "department": "Anthropology and Geography",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 298844,
+              "courseTitle": "Cultural Geography",
+              "courseNumber": "4",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F2004",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 275196,
+        "courseTitle": "Physical Geography",
+        "courseNumber": "1010",
+        "prefix": "GEO",
+        "prefixParentId": 10559,
+        "prefixDescription": "Geography",
+        "departmentParentId": 825,
+        "department": "Anthropology and Geography",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283033,
+              "courseTitle": "Physical Geography",
+              "courseNumber": "1",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR REQUIRED": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 275183,
+                "courseTitle": "Human Geography",
+                "courseNumber": "1020",
+                "prefix": "GEO",
+                "prefixParentId": 10559,
+                "prefixDescription": "Geography",
+                "departmentParentId": 825,
+                "department": "Anthropology and Geography",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d9c76ac1-bdd2-4146-97a4-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "GEO 2400, GEO 2400L",
+                "courses": [
+                  {
+                    "id": "64cdc77f-7b55-4853-87d3-fc1d31df243c",
+                    "position": 0,
+                    "courseIdentifierParentId": 343024,
+                    "courseTitle": "Geographic Information Systems",
+                    "courseNumber": "2400",
+                    "prefix": "GEO",
+                    "prefixParentId": 10559,
+                    "prefixDescription": "Geography",
+                    "departmentParentId": 825,
+                    "department": "Anthropology and Geography",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "1840e68d-771c-4391-8f2f-69ab808fdaad",
+                    "position": 1,
+                    "courseIdentifierParentId": 48501,
+                    "courseTitle": "Geographic Information Systems Laboratory",
+                    "courseNumber": "2400L",
+                    "prefix": "GEO",
+                    "prefixParentId": 10559,
+                    "prefixDescription": "Geography",
+                    "departmentParentId": 825,
+                    "department": "Anthropology and Geography",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "e43e4773-b8ac-45d5-97a5-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 275196,
+                "courseTitle": "Physical Geography",
+                "courseNumber": "1010",
+                "prefix": "GEO",
+                "prefixParentId": 10559,
+                "prefixDescription": "Geography",
+                "departmentParentId": 825,
+                "department": "Anthropology and Geography",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5d04838f-3b19-4a2c-9671-6dfc150bb165",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 364656,
+                "courseTitle": "Physical Geography Laboratory",
+                "courseNumber": "1010L",
+                "prefix": "GEO",
+                "prefixParentId": 10559,
+                "prefixDescription": "Geography",
+                "departmentParentId": 825,
+                "department": "Anthropology and Geography",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4761de7f-1709-46e2-987d-522a56279b26",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

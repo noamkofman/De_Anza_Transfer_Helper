@@ -1,0 +1,1186 @@
+{
+  "major": "Industrial Technology (B.S.)",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 29,
+    "code": "CSUFRES ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Fresno",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 155239,
+        "courseTitle": "Quantitative Analysis",
+        "courseNumber": "71",
+        "prefix": "DS",
+        "prefixParentId": 2866,
+        "prefixDescription": "Decision Sciences",
+        "departmentParentId": 2041,
+        "department": "Business Administration",
+        "begin": "F2003",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307941,
+              "courseTitle": "Finite Mathematics",
+              "courseNumber": "11",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 372722,
+              "courseTitle": "Finite Mathematics - HONORS",
+              "courseNumber": "11H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 279,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 244850,
+        "courseTitle": "Calculus I",
+        "courseNumber": "75",
+        "prefix": "MATH",
+        "prefixParentId": 9935,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8970,
+        "department": "Mathematics",
+        "begin": "F2008",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288769,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288768,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 274537,
+        "courseTitle": "General Physics",
+        "courseNumber": "2A",
+        "prefix": "PHYS",
+        "prefixParentId": 208,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10766,
+        "department": "Physics",
+        "begin": "F1987",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 303424,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 191,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277383,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2C",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 191,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277391,
+              "courseTitle": "General Introductory Physics",
+              "courseNumber": "2B",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 191,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 155242,
+        "courseTitle": "Statistical Analysis I",
+        "courseNumber": "73",
+        "prefix": "DS",
+        "prefixParentId": 2866,
+        "prefixDescription": "Decision Sciences",
+        "departmentParentId": 2041,
+        "department": "Business Administration",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 155272,
+        "courseTitle": "Elementary Statistics",
+        "courseNumber": "11",
+        "prefix": "MATH",
+        "prefixParentId": 9935,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8970,
+        "department": "Mathematics",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 135431,
+        "courseTitle": "Electricity and Electronics",
+        "courseNumber": "53",
+        "prefix": "MEAG",
+        "prefixParentId": 12156,
+        "prefixDescription": "Mechanized Agriculture",
+        "departmentParentId": 10927,
+        "department": "Plant Science",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 134022,
+        "courseTitle": "Manufacturing Processes",
+        "courseNumber": "74",
+        "prefix": "IT",
+        "prefixParentId": 5034,
+        "prefixDescription": "Industrial Technology",
+        "departmentParentId": 7464,
+        "department": "Industrial Technology",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 98748,
+        "courseTitle": "Safety Management",
+        "courseNumber": "92",
+        "prefix": "IT",
+        "prefixParentId": 5034,
+        "prefixDescription": "Industrial Technology",
+        "departmentParentId": 7464,
+        "department": "Industrial Technology",
+        "begin": "F2007",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 134008,
+        "courseTitle": "Introductory General Chemistry",
+        "courseNumber": "3A",
+        "prefix": "CHEM",
+        "prefixParentId": 3769,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2289,
+        "department": "Chemistry",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359144,
+              "courseTitle": "Introduction to General, Organic, and Biochemistry I",
+              "courseNumber": "30A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2012",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 247,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358344,
+              "courseTitle": "Introduction to General, Organic, and Biochemistry II",
+              "courseNumber": "30B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2012",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 247,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 133993,
+        "courseTitle": "Metallurgical Processes",
+        "courseNumber": "71",
+        "prefix": "IT",
+        "prefixParentId": 5034,
+        "prefixDescription": "Industrial Technology",
+        "departmentParentId": 7464,
+        "department": "Industrial Technology",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 135327,
+        "courseTitle": "Wood Technology",
+        "courseNumber": "80",
+        "prefix": "IT",
+        "prefixParentId": 5034,
+        "prefixDescription": "Industrial Technology",
+        "departmentParentId": 7464,
+        "department": "Industrial Technology",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 236236,
+        "courseTitle": "Applied Computer Networking II",
+        "courseNumber": "63",
+        "prefix": "IT",
+        "prefixParentId": 5034,
+        "prefixDescription": "Industrial Technology",
+        "departmentParentId": 7464,
+        "department": "Industrial Technology",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 134491,
+        "courseTitle": "Applied Computer Networking I",
+        "courseNumber": "58",
+        "prefix": "IT",
+        "prefixParentId": 5034,
+        "prefixDescription": "Industrial Technology",
+        "departmentParentId": 7464,
+        "department": "Industrial Technology",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 155876,
+        "courseTitle": "Industrial Design Graphics",
+        "courseNumber": "41",
+        "prefix": "IT",
+        "prefixParentId": 5034,
+        "prefixDescription": "Industrial Technology",
+        "departmentParentId": 7464,
+        "department": "Industrial Technology",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 135356,
+        "courseTitle": "Basic Vehicle Systems",
+        "courseNumber": "12",
+        "prefix": "IT",
+        "prefixParentId": 5034,
+        "prefixDescription": "Industrial Technology",
+        "departmentParentId": 7464,
+        "department": "Industrial Technology",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 134991,
+        "courseTitle": "American Government and Institutions",
+        "courseNumber": "2",
+        "prefix": "PLSI",
+        "prefixParentId": 1918,
+        "prefixDescription": "Political Science",
+        "departmentParentId": 10952,
+        "department": "Political Science",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363587,
+              "courseTitle": "American Government and Politics - HONORS",
+              "courseNumber": "1H",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 271,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282754,
+              "courseTitle": "American Government and Politics",
+              "courseNumber": "1",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 267,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 155242,
+                "courseTitle": "Statistical Analysis I",
+                "courseNumber": "73",
+                "prefix": "DS",
+                "prefixParentId": 2866,
+                "prefixDescription": "Decision Sciences",
+                "departmentParentId": 2041,
+                "department": "Business Administration",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [
+                {
+                  "type": "PreRequisite",
+                  "course": {
+                    "courseIdentifierParentId": 155239,
+                    "courseTitle": "Quantitative Analysis",
+                    "courseNumber": "71",
+                    "prefix": "DS",
+                    "prefixParentId": 2866,
+                    "prefixDescription": "Decision Sciences",
+                    "departmentParentId": 2041,
+                    "department": "Business Administration",
+                    "begin": "F2003",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "courseAttributes": [],
+              "id": "d01fb8aa-c1cf-45b2-cf98-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 155272,
+                "courseTitle": "Elementary Statistics",
+                "courseNumber": "11",
+                "prefix": "MATH",
+                "prefixParentId": 9935,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8970,
+                "department": "Mathematics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "59ae223d-171c-4e2f-cf99-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 135431,
+                "courseTitle": "Electricity and Electronics",
+                "courseNumber": "53",
+                "prefix": "MEAG",
+                "prefixParentId": 12156,
+                "prefixDescription": "Mechanized Agriculture",
+                "departmentParentId": 10927,
+                "department": "Plant Science",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 135294,
+                    "courseTitle": "Electricity and Electronics",
+                    "courseNumber": "52",
+                    "prefix": "IT",
+                    "prefixParentId": 5034,
+                    "prefixDescription": "Industrial Technology",
+                    "departmentParentId": 7464,
+                    "department": "Industrial Technology",
+                    "begin": "F2006",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7d7344fe-63ad-4c75-cf9a-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 134022,
+                "courseTitle": "Manufacturing Processes",
+                "courseNumber": "74",
+                "prefix": "IT",
+                "prefixParentId": 5034,
+                "prefixDescription": "Industrial Technology",
+                "departmentParentId": 7464,
+                "department": "Industrial Technology",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a5ed5c8c-9cca-450c-cf9b-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 98748,
+                "courseTitle": "Safety Management",
+                "courseNumber": "92",
+                "prefix": "IT",
+                "prefixParentId": 5034,
+                "prefixDescription": "Industrial Technology",
+                "departmentParentId": 7464,
+                "department": "Industrial Technology",
+                "begin": "F2007",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d9b92510-8073-45c1-9134-0fa14669abe3",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 134008,
+                "courseTitle": "Introductory General Chemistry",
+                "courseNumber": "3A",
+                "prefix": "CHEM",
+                "prefixParentId": 3769,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2289,
+                "department": "Chemistry",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e3788037-a88f-45ff-ab14-0edd12978aec",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133993,
+                "courseTitle": "Metallurgical Processes",
+                "courseNumber": "71",
+                "prefix": "IT",
+                "prefixParentId": 5034,
+                "prefixDescription": "Industrial Technology",
+                "departmentParentId": 7464,
+                "department": "Industrial Technology",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 152774,
+                    "courseTitle": "Metallurgical Processes",
+                    "courseNumber": "50",
+                    "prefix": "MEAG",
+                    "prefixParentId": 12156,
+                    "prefixDescription": "Mechanized Agriculture",
+                    "departmentParentId": 10927,
+                    "department": "Plant Science",
+                    "begin": "F2006",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1efd5eb3-c3ec-4c0c-cf9c-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 135327,
+                "courseTitle": "Wood Technology",
+                "courseNumber": "80",
+                "prefix": "IT",
+                "prefixParentId": 5034,
+                "prefixDescription": "Industrial Technology",
+                "departmentParentId": 7464,
+                "department": "Industrial Technology",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f3087d00-9f14-4c30-cf9d-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 236236,
+                "courseTitle": "Applied Computer Networking II",
+                "courseNumber": "63",
+                "prefix": "IT",
+                "prefixParentId": 5034,
+                "prefixDescription": "Industrial Technology",
+                "departmentParentId": 7464,
+                "department": "Industrial Technology",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1e70e142-5a04-4f25-bfd6-74fcb102ae3c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 134491,
+                "courseTitle": "Applied Computer Networking I",
+                "courseNumber": "58",
+                "prefix": "IT",
+                "prefixParentId": 5034,
+                "prefixDescription": "Industrial Technology",
+                "departmentParentId": 7464,
+                "department": "Industrial Technology",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3cbfa6fc-65b9-4a8d-9c39-55966d070235",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 155876,
+                "courseTitle": "Industrial Design Graphics",
+                "courseNumber": "41",
+                "prefix": "IT",
+                "prefixParentId": 5034,
+                "prefixDescription": "Industrial Technology",
+                "departmentParentId": 7464,
+                "department": "Industrial Technology",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "93ac0d48-dc1f-4156-9f07-d40dd009234f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 135356,
+                "courseTitle": "Basic Vehicle Systems",
+                "courseNumber": "12",
+                "prefix": "IT",
+                "prefixParentId": 5034,
+                "prefixDescription": "Industrial Technology",
+                "departmentParentId": 7464,
+                "department": "Industrial Technology",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "55b46ba4-a945-4f07-a95b-99e7005b1669",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "f831db07-226b-4330-f38e-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 155239,
+                "courseTitle": "Quantitative Analysis",
+                "courseNumber": "71",
+                "prefix": "DS",
+                "prefixParentId": 2866,
+                "prefixDescription": "Decision Sciences",
+                "departmentParentId": 2041,
+                "department": "Business Administration",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bd64c028-adc9-442d-cf96-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 244850,
+                "courseTitle": "Calculus I",
+                "courseNumber": "75",
+                "prefix": "MATH",
+                "prefixParentId": 9935,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8970,
+                "department": "Mathematics",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "47c3e62f-ff7e-410e-cf97-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 274537,
+                "courseTitle": "General Physics",
+                "courseNumber": "2A",
+                "prefix": "PHYS",
+                "prefixParentId": 208,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10766,
+                "department": "Physics",
+                "begin": "F1987",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3069ff4b-48a1-48db-9052-281114710786",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "OTHER DEGREE REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 134991,
+                "courseTitle": "American Government and Institutions",
+                "courseNumber": "2",
+                "prefix": "PLSI",
+                "prefixParentId": 1918,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 10952,
+                "department": "Political Science",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "16e11a74-5fcd-447d-87ad-06a46effbf60",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

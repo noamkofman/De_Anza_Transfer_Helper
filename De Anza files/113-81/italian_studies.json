@@ -1,0 +1,135 @@
+{
+  "major": "Italian Studies",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "1eb1171a-d2aa-437d-df75-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309916,
+                "courseTitle": "Intermediate Italian",
+                "courseNumber": "201",
+                "prefix": "ITAL",
+                "prefixParentId": 1732,
+                "prefixDescription": "Italian",
+                "departmentParentId": 7782,
+                "department": "Italian",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 6,
+                "maxUnits": 6
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b5529c02-3e8d-474b-c6cf-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257818,
+                "courseTitle": "Intermediate Italian",
+                "courseNumber": "201B",
+                "prefix": "ITAL",
+                "prefixParentId": 1732,
+                "prefixDescription": "Italian",
+                "departmentParentId": 7782,
+                "department": "Italian",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "62456637-6075-49bd-c6d0-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305775,
+                "courseTitle": "Intermediate Italian for Spanish Speakers",
+                "courseNumber": "200",
+                "prefix": "ITAL",
+                "prefixParentId": 1732,
+                "prefixDescription": "Italian",
+                "departmentParentId": 7782,
+                "department": "Italian",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 6,
+                "maxUnits": 6
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7a01763d-da36-457f-b3ea-9e4dd4b75178",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,514 @@
+{
+  "major": "Asian Religions/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 359998,
+        "courseTitle": "Asian American Literature and Culture",
+        "courseNumber": "30",
+        "prefix": "ASIA AM",
+        "prefixParentId": 14994,
+        "prefixDescription": "Asian American Studies",
+        "departmentParentId": 1264,
+        "department": "Asian American Studies",
+        "begin": "F2013",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "350cb8b8-504c-4e72-b7c6-0a761ea9894c",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 269407,
+                  "courseTitle": "Asian Pacific American Literature",
+                  "courseNumber": "24",
+                  "prefix": "ELIT",
+                  "prefixParentId": 4816,
+                  "prefixDescription": "English (Literature)",
+                  "departmentParentId": 5069,
+                  "department": "English (Literature)",
+                  "begin": "F2014",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 269408,
+              "courseTitle": "Asian Pacific American Literature",
+              "courseNumber": "20",
+              "prefix": "ASAM",
+              "prefixParentId": 16555,
+              "prefixDescription": "Asian American and Asian Studies",
+              "departmentParentId": 13706,
+              "department": "Asian American and Asian Studies",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "fb30cc98-0740-420f-93d3-3d7133512a8a",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 269408,
+                  "courseTitle": "Asian Pacific American Literature",
+                  "courseNumber": "20",
+                  "prefix": "ASAM",
+                  "prefixParentId": 16555,
+                  "prefixDescription": "Asian American and Asian Studies",
+                  "departmentParentId": 13706,
+                  "department": "Asian American and Asian Studies",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 269407,
+              "courseTitle": "Asian Pacific American Literature",
+              "courseNumber": "24",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F2014",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "3db99573-0a5f-46db-f3a2-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "The Equivalent of Intermediate level in an Asian language, i.e. Chinese, Japanese, Korean, Hindi-Urdu, Filipino, Indonesian and Vietnamese or placement exam"
+              },
+              "requirementAttributes": [],
+              "id": "fecb6427-948c-4d35-7aca-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "AtLeast",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "fcfd3e24-d4bc-4937-16ee-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359998,
+                "courseTitle": "Asian American Literature and Culture",
+                "courseNumber": "30",
+                "prefix": "ASIA AM",
+                "prefixParentId": 14994,
+                "prefixDescription": "Asian American Studies",
+                "departmentParentId": 1264,
+                "department": "Asian American Studies",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "74295f70-b41c-41b3-bc79-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387374,
+                "courseTitle": "Introduction to Buddhism",
+                "courseNumber": "M60",
+                "prefix": "ASIAN",
+                "prefixParentId": 14422,
+                "prefixDescription": "Asian",
+                "departmentParentId": 1249,
+                "department": "Asian",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ca9cd4b2-bf13-4355-bc7a-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 288653,
+                "courseTitle": "Introduction to Chinese Religions",
+                "courseNumber": "M60W",
+                "prefix": "CHIN",
+                "prefixParentId": 15735,
+                "prefixDescription": "Chinese",
+                "departmentParentId": 2597,
+                "department": "Chinese",
+                "begin": "S2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 288652,
+                    "courseTitle": "Introduction to Chinese Religions",
+                    "courseNumber": "M61W",
+                    "prefix": "RELIGN",
+                    "prefixParentId": 15691,
+                    "prefixDescription": "Religion, Study of",
+                    "departmentParentId": 11670,
+                    "department": "Religion, Study of",
+                    "begin": "Su2015",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2029f320-0eb6-4c25-bc7b-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309494,
+                "courseTitle": "Introduction to Korean Religions",
+                "courseNumber": "M60",
+                "prefix": "KOREA",
+                "prefixParentId": 15690,
+                "prefixDescription": "Korean",
+                "departmentParentId": 8225,
+                "department": "Korean",
+                "begin": "S2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 309493,
+                    "courseTitle": "Introduction to Korean Religions",
+                    "courseNumber": "M60C",
+                    "prefix": "RELIGN",
+                    "prefixParentId": 15691,
+                    "prefixDescription": "Religion, Study of",
+                    "departmentParentId": 11670,
+                    "department": "Religion, Study of",
+                    "begin": "Su2015",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d3cdd4f1-7129-4c10-ae1b-45eef8283236",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305215,
+                "courseTitle": "Introduction to Chinese Religions",
+                "courseNumber": "M60",
+                "prefix": "CHIN",
+                "prefixParentId": 15735,
+                "prefixDescription": "Chinese",
+                "departmentParentId": 2597,
+                "department": "Chinese",
+                "begin": "S2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 305214,
+                    "courseTitle": "Introduction to Chinese Religions",
+                    "courseNumber": "M60B",
+                    "prefix": "RELIGN",
+                    "prefixParentId": 15691,
+                    "prefixDescription": "Religion, Study of",
+                    "departmentParentId": 11670,
+                    "department": "Religion, Study of",
+                    "begin": "Su2015",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "20ff9835-ef98-4b16-953b-1a817f5e15d8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 288641,
+                "courseTitle": "Introduction to Buddhism",
+                "courseNumber": "M60W",
+                "prefix": "ASIAN",
+                "prefixParentId": 14422,
+                "prefixDescription": "Asian",
+                "departmentParentId": 1249,
+                "department": "Asian",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 309490,
+                    "courseTitle": "Introduction to Buddhism",
+                    "courseNumber": "M60A",
+                    "prefix": "RELIGN",
+                    "prefixParentId": 15691,
+                    "prefixDescription": "Religion, Study of",
+                    "departmentParentId": 11670,
+                    "department": "Religion, Study of",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 360058,
+                    "courseTitle": "Introduction to Buddhism",
+                    "courseNumber": "M60W",
+                    "prefix": "RELIGN",
+                    "prefixParentId": 15691,
+                    "prefixDescription": "Religion, Study of",
+                    "departmentParentId": 11670,
+                    "department": "Religion, Study of",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d161ef88-96e9-4f15-83fd-aa7033e59683",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 360062,
+                "courseTitle": "Religion in Classical India: Introduction",
+                "courseNumber": "M60",
+                "prefix": "S ASIAN",
+                "prefixParentId": 15857,
+                "prefixDescription": "South Asian",
+                "departmentParentId": 12194,
+                "department": "South Asian",
+                "begin": "S2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 360061,
+                    "courseTitle": "Religion in Classical India: Introduction",
+                    "courseNumber": "M60D",
+                    "prefix": "RELIGN",
+                    "prefixParentId": 15691,
+                    "prefixDescription": "Religion, Study of",
+                    "departmentParentId": 11670,
+                    "department": "Religion, Study of",
+                    "begin": "Su2015",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6515afa7-dad9-4bbb-82a0-000789152882",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383389,
+                "courseTitle": "Introduction to Zen Buddhism",
+                "courseNumber": "M61",
+                "prefix": "ASIAN",
+                "prefixParentId": 14422,
+                "prefixDescription": "Asian",
+                "departmentParentId": 1249,
+                "department": "Asian",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b6e07181-0f4d-4452-aa0e-9dfa9c5630a3",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304688,
+                "courseTitle": "Religious Traditions in Southeast Asia",
+                "courseNumber": "M60",
+                "prefix": "SEASIAN",
+                "prefixParentId": 14378,
+                "prefixDescription": "Southeast Asian",
+                "departmentParentId": 12196,
+                "department": "Southeast Asian",
+                "begin": "S2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 304687,
+                    "courseTitle": "Religious Traditions in Southeast Asia",
+                    "courseNumber": "M60E",
+                    "prefix": "RELIGN",
+                    "prefixParentId": 15691,
+                    "prefixDescription": "Religion, Study of",
+                    "departmentParentId": 11670,
+                    "department": "Religion, Study of",
+                    "begin": "Su2015",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7286b10a-2d8c-4971-a0c0-e7b5f8ee3fb5",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

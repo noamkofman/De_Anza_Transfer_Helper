@@ -1,0 +1,640 @@
+{
+  "major": "Musical Theatre B.F.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ]
+  },
+  "to": {
+    "id": 141,
+    "code": "CSUC    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Chico",
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 54348,
+        "courseTitle": "Beginning Voice",
+        "courseNumber": "217",
+        "prefix": "MUSC",
+        "prefixDescription": "Music",
+        "department": "Music and Theatre",
+        "begin": "F2013",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 95220,
+              "courseTitle": "Beginning Singing I",
+              "courseNumber": "13A",
+              "prefix": "MUSI",
+              "prefixDescription": "Music",
+              "department": "Music",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 1.5,
+              "maxUnits": 1.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 250243,
+        "courseTitle": "Foundations of Acting",
+        "courseNumber": "160",
+        "prefix": "THEA",
+        "prefixDescription": "Theatre",
+        "department": "Music and Theatre",
+        "begin": "F2013",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Maximum credit, one course"
+                },
+                {
+                  "position": 0,
+                  "content": "Course articulates with more than one university course"
+                }
+              ],
+              "courseIdentifierParentId": 239984,
+              "courseTitle": "Theory and Technique of Acting (Modern Period)",
+              "courseNumber": "20B",
+              "prefix": "THEA",
+              "prefixDescription": "Theater Arts",
+              "department": "Theater Arts",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 259,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Maximum credit, one course"
+                },
+                {
+                  "position": 0,
+                  "content": "Course articulates with more than one university course"
+                }
+              ],
+              "courseIdentifierParentId": 240330,
+              "courseTitle": "Theory and Technique of Acting (Introduction)",
+              "courseNumber": "20A",
+              "prefix": "THEA",
+              "prefixDescription": "Theater Arts",
+              "department": "Theater Arts",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 259,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 329090,
+        "courseTitle": "Fundamentals of Music",
+        "courseNumber": "219",
+        "prefix": "MUSC",
+        "prefixDescription": "Music",
+        "department": "Music and Theatre",
+        "begin": "F2013",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION FOUNDATION": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "b15540e5-5a08-40b9-de1c-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383036,
+                "courseTitle": "Social Justice in Theatre",
+                "courseNumber": "180",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9991eefc-44e9-4c3b-c678-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 241326,
+                "courseTitle": "Foundations of Drama",
+                "courseNumber": "150",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8175a86e-73cd-4447-8a85-08ef0d5e0c04",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 97608,
+                "courseTitle": "Movement for Actors",
+                "courseNumber": "230",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2696bafe-64da-4db0-a3d2-2cc777e61354",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 241042,
+                "courseTitle": "Textual Analysis for Production",
+                "courseNumber": "250",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d33f6e7d-5208-4b4b-bd84-5fbaf8ac7c6a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 241327,
+                "courseTitle": "Intermediate Acting",
+                "courseNumber": "260",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5986bdbb-e766-4840-90d0-b29fcdcc6e70",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 102988,
+                "courseTitle": "Make-Up for Theatre and Film",
+                "courseNumber": "223",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ac74f8d1-0f51-4aab-8484-ecf34783c0d2",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 345721,
+                "courseTitle": "Foundations of Design",
+                "courseNumber": "170",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ac376ce9-f135-4650-8531-47e3217fb45e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 96622,
+                "courseTitle": "Voice for Performance",
+                "courseNumber": "240",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "97c8a48d-e5ab-4916-9522-be17ab3752b9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250243,
+                "courseTitle": "Foundations of Acting",
+                "courseNumber": "160",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "11304834-5e64-491f-a88b-a1eb25771851",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329090,
+                "courseTitle": "Fundamentals of Music",
+                "courseNumber": "219",
+                "prefix": "MUSC",
+                "prefixDescription": "Music",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c35b5fe7-c3da-44c8-93a5-1a7b1cd111a8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 114158,
+                "courseTitle": "Musical Theatre Dance",
+                "courseNumber": "135",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6fe9274f-be62-49d5-8e47-cc5d62348d45",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 54359,
+                "courseTitle": "Scene/Light Practice I",
+                "courseNumber": "205",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1328aa0c-1b9c-4d80-a0b8-add214e0090b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 315670,
+                "courseTitle": "Costume Practice I",
+                "courseNumber": "204",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "73e77053-4aff-490b-b778-75975b8406bc",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 54360,
+                "courseTitle": "Production Assistant I",
+                "courseNumber": "206",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "33624580-152b-43c8-a2e5-b7ab366db04a",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 53985,
+                "courseTitle": "Theatre Rehearsal I",
+                "courseNumber": "201",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4b686e0f-b5f4-40d4-935d-87f2326fd5e7",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "DANCE ELECTIVES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 108037,
+                "courseTitle": "Beginning Jazz Dance",
+                "courseNumber": "233",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "41e5fe82-d613-467b-8a66-a3b88e0857d5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 114155,
+                "courseTitle": "Beginning Ballet",
+                "courseNumber": "231",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9f824f91-f8cc-4527-858d-4b09bd641c8d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 108042,
+                "courseTitle": "Beginning Tap Dance",
+                "courseNumber": "232",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "49e708b6-057b-41a6-9bf7-0a8dfad6ee10",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 127452,
+                "courseTitle": "Beginning Modern Dance",
+                "courseNumber": "234",
+                "prefix": "THEA",
+                "prefixDescription": "Theatre",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0f812b21-77be-4a02-a9dc-ff98120417aa",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "VOCAL MUSIC ELECTIVES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 47140,
+                "courseTitle": "Studio Instruction in Applied Music: Voice",
+                "courseNumber": "110F",
+                "prefix": "MUSC",
+                "prefixDescription": "Music",
+                "department": "Music and Theatre",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3e15164e-1dd7-44e5-88d5-90607f2c2e7a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 54348,
+                "courseTitle": "Beginning Voice",
+                "courseNumber": "217",
+                "prefix": "MUSC",
+                "prefixDescription": "Music",
+                "department": "Music and Theatre",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "51b1629f-8775-4a2a-8d15-6dd3b5607151",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

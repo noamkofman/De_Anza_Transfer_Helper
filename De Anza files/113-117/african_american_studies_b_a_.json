@@ -1,0 +1,231 @@
+{
+  "major": "African American Studies/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "8982421e-d1b8-4e51-1a4e-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 372920,
+                "courseTitle": "Introduction to Black Studies",
+                "courseNumber": "1",
+                "prefix": "AF AMER",
+                "prefixParentId": 14991,
+                "prefixDescription": "African American Studies",
+                "departmentParentId": 259,
+                "department": "African American Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cfad836b-35b9-4bb7-8d3c-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "21bcecef-20ab-4735-15e3-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379895,
+                "courseTitle": "Africa and Middle East",
+                "courseNumber": "2A",
+                "prefix": "AF AMER",
+                "prefixParentId": 14991,
+                "prefixDescription": "African American Studies",
+                "departmentParentId": 259,
+                "department": "African American Studies",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3c48130d-4c4b-46c5-9889-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379896,
+                "courseTitle": "Race and US Military Intervention in Africa",
+                "courseNumber": "2B",
+                "prefix": "AF AMER",
+                "prefixParentId": 14991,
+                "prefixDescription": "African American Studies",
+                "departmentParentId": 259,
+                "department": "African American Studies",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "28a04ea9-0d25-46d3-988a-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379897,
+                "courseTitle": "Black Folks Kung Fu Fightin': Black America,  Martial Arts, and Popular Culture ",
+                "courseNumber": "2C",
+                "prefix": "AF AMER",
+                "prefixParentId": 14991,
+                "prefixDescription": "African American Studies",
+                "departmentParentId": 259,
+                "department": "African American Studies",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0f45c249-541f-4dc5-988b-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286834,
+                "courseTitle": "Social Organization of Black Communities",
+                "courseNumber": "M5",
+                "prefix": "AF AMER",
+                "prefixParentId": 14991,
+                "prefixDescription": "African American Studies",
+                "departmentParentId": 259,
+                "department": "African American Studies",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 286874,
+                    "courseTitle": "Social Organization of Black Communities",
+                    "courseNumber": "M5",
+                    "prefix": "SOCIOL",
+                    "prefixParentId": 9099,
+                    "prefixDescription": "Sociology",
+                    "departmentParentId": 12165,
+                    "department": "Sociology",
+                    "begin": "S2016",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "eeeaec31-4543-4fa7-988c-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287861,
+                "courseTitle": "Trends in Black Intellectual Thought",
+                "courseNumber": "6",
+                "prefix": "AF AMER",
+                "prefixParentId": 14991,
+                "prefixDescription": "African American Studies",
+                "departmentParentId": 259,
+                "department": "African American Studies",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3b0c493e-6fad-4b60-988d-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

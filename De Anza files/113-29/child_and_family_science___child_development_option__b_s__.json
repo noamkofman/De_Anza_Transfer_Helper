@@ -1,0 +1,707 @@
+{
+  "major": "Child and Family Science - Child Development Option (B.S.)",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 29,
+    "code": "CSUFRES ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Fresno",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 329875,
+        "courseTitle": "Intimate Relationships",
+        "courseNumber": "32",
+        "prefix": "CFS",
+        "prefixParentId": 9797,
+        "prefixDescription": "Child and Family Science",
+        "departmentParentId": 13539,
+        "department": "Child and Family Science",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 155103,
+        "courseTitle": "Introductory Child Development Practicum",
+        "courseNumber": "37",
+        "prefix": "CFS",
+        "prefixParentId": 9797,
+        "prefixDescription": "Child and Family Science",
+        "departmentParentId": 13539,
+        "department": "Child and Family Science",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309396,
+              "courseTitle": "Basic Student Teaching Practicum",
+              "courseNumber": "51A",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 251,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 135037,
+        "courseTitle": "Life Span Development",
+        "courseNumber": "38",
+        "prefix": "CFS",
+        "prefixParentId": 9797,
+        "prefixDescription": "Child and Family Science",
+        "departmentParentId": 13539,
+        "department": "Child and Family Science",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353509,
+              "courseTitle": "Developmental Aspects of Psychology",
+              "courseNumber": "14",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2012",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 247,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 206408,
+        "courseTitle": "Journey of Adulthood: Planning a Meaningful Life",
+        "courseNumber": "10S",
+        "prefix": "GERON",
+        "prefixParentId": 8844,
+        "prefixDescription": "Gerontology",
+        "departmentParentId": 6538,
+        "department": "Gerontology Program",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 244328,
+        "courseTitle": "Introductory to Statistics and Data Analysis",
+        "courseNumber": "42",
+        "prefix": "PSYCH",
+        "prefixParentId": 4617,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11272,
+        "department": "Psychology",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "af6f5c37-ef17-4099-7ec4-08dbdbce1091",
+                  "publishedCourseIdentifierYearTermId": 279,
+                  "courseIdentifierParentId": 283453,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 255009,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 279,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 134991,
+        "courseTitle": "American Government and Institutions",
+        "courseNumber": "2",
+        "prefix": "PLSI",
+        "prefixParentId": 1918,
+        "prefixDescription": "Political Science",
+        "departmentParentId": 10952,
+        "department": "Political Science",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363587,
+              "courseTitle": "American Government and Politics - HONORS",
+              "courseNumber": "1H",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 271,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282754,
+              "courseTitle": "American Government and Politics",
+              "courseNumber": "1",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 267,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 135027,
+        "courseTitle": "Introductory Child Development",
+        "courseNumber": "39",
+        "prefix": "CFS",
+        "prefixParentId": 9797,
+        "prefixDescription": "Child and Family Science",
+        "departmentParentId": 13539,
+        "department": "Child and Family Science",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "4bcafc0c-be8e-4a5e-b659-87821cafd318",
+                  "publishedCourseIdentifierYearTermId": 191,
+                  "courseIdentifierParentId": 284398,
+                  "courseTitle": "Child Development (The Early Years)",
+                  "courseNumber": "10G",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F1998",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284399,
+              "courseTitle": "Child Development (The Early Years)",
+              "courseNumber": "10G",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 195,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "e3e16b91-9b41-4ada-b259-043784a521ea",
+                  "publishedCourseIdentifierYearTermId": 263,
+                  "courseIdentifierParentId": 284725,
+                  "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+                  "courseNumber": "10H",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2016",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284726,
+              "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+              "courseNumber": "10H",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 231314,
+        "courseTitle": "Introduction to Family Science",
+        "courseNumber": "31",
+        "prefix": "CFS",
+        "prefixParentId": 9797,
+        "prefixDescription": "Child and Family Science",
+        "departmentParentId": 13539,
+        "department": "Child and Family Science",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 293348,
+              "courseTitle": "Marriage, Family and Intimate Relationships",
+              "courseNumber": "35",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 219,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "CHILD AND FAMILY SCIENCES PRE-MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 135027,
+                "courseTitle": "Introductory Child Development",
+                "courseNumber": "39",
+                "prefix": "CFS",
+                "prefixParentId": 9797,
+                "prefixDescription": "Child and Family Science",
+                "departmentParentId": 13539,
+                "department": "Child and Family Science",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "34775834-b509-433f-a09f-e2e9760cb999",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 231314,
+                "courseTitle": "Introduction to Family Science",
+                "courseNumber": "31",
+                "prefix": "CFS",
+                "prefixParentId": 9797,
+                "prefixDescription": "Child and Family Science",
+                "departmentParentId": 13539,
+                "department": "Child and Family Science",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "22a63861-13d8-427e-a241-7c2b5119a7e1",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329875,
+                "courseTitle": "Intimate Relationships",
+                "courseNumber": "32",
+                "prefix": "CFS",
+                "prefixParentId": 9797,
+                "prefixDescription": "Child and Family Science",
+                "departmentParentId": 13539,
+                "department": "Child and Family Science",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bd7d9a66-58ec-4cf3-9a4f-51b759c6d5bd",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 155103,
+                "courseTitle": "Introductory Child Development Practicum",
+                "courseNumber": "37",
+                "prefix": "CFS",
+                "prefixParentId": 9797,
+                "prefixDescription": "Child and Family Science",
+                "departmentParentId": 13539,
+                "department": "Child and Family Science",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a0dea5c1-fdb5-457f-ae9f-da1a4da7af13",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ELECTIVES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 135037,
+                "courseTitle": "Life Span Development",
+                "courseNumber": "38",
+                "prefix": "CFS",
+                "prefixParentId": 9797,
+                "prefixDescription": "Child and Family Science",
+                "departmentParentId": 13539,
+                "department": "Child and Family Science",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bb69e8f9-c9e6-4c5a-b4a4-242922c5a9d9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 206408,
+                "courseTitle": "Journey of Adulthood: Planning a Meaningful Life",
+                "courseNumber": "10S",
+                "prefix": "GERON",
+                "prefixParentId": 8844,
+                "prefixDescription": "Gerontology",
+                "departmentParentId": 6538,
+                "department": "Gerontology Program",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "03cc4b6b-74a1-47b6-8749-9d8e952afbec",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 244328,
+                "courseTitle": "Introductory to Statistics and Data Analysis",
+                "courseNumber": "42",
+                "prefix": "PSYCH",
+                "prefixParentId": 4617,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11272,
+                "department": "Psychology",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8246c826-11b7-42d3-af17-671c73861aa3",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "OTHER DEGREE REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 134991,
+                "courseTitle": "American Government and Institutions",
+                "courseNumber": "2",
+                "prefix": "PLSI",
+                "prefixParentId": 1918,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 10952,
+                "department": "Political Science",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "97d67662-8da2-4118-be9d-23abf8fea053",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

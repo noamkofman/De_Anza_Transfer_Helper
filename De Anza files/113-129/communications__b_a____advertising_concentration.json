@@ -1,0 +1,204 @@
+{
+  "major": "Communications, B.A. - Advertising Concentration",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 129,
+    "code": "CSUFULL ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Fullerton",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 155848,
+        "courseTitle": "Mass Communication in Modern Society",
+        "courseNumber": "233",
+        "prefix": "COMM",
+        "prefixParentId": 12263,
+        "prefixDescription": "Communications",
+        "departmentParentId": 2893,
+        "department": "Communications",
+        "begin": "F2017",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 263343,
+              "courseTitle": "Media and Its Impact on Society",
+              "courseNumber": "2",
+              "prefix": "JOUR",
+              "prefixParentId": 1559,
+              "prefixDescription": "Journalism",
+              "departmentParentId": 7978,
+              "department": "Journalism",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 338397,
+        "courseTitle": "American Government",
+        "courseNumber": "100",
+        "prefix": "POSC",
+        "prefixParentId": 2042,
+        "prefixDescription": "Political Science",
+        "departmentParentId": 11050,
+        "department": "Political Science",
+        "begin": "F1995",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282754,
+              "courseTitle": "American Government and Politics",
+              "courseNumber": "1",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "COMMUNICATIONS CORE": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 155848,
+                "courseTitle": "Mass Communication in Modern Society",
+                "courseNumber": "233",
+                "prefix": "COMM",
+                "prefixParentId": 12263,
+                "prefixDescription": "Communications",
+                "departmentParentId": 2893,
+                "department": "Communications",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Only lower division courses listed"
+                }
+              ],
+              "id": "255b3c91-4496-4aa6-8227-68be7ea2f3d6",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "REQUIRED FOR GRADUATION": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 338397,
+                "courseTitle": "American Government",
+                "courseNumber": "100",
+                "prefix": "POSC",
+                "prefixParentId": 2042,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 11050,
+                "department": "Political Science",
+                "begin": "F1995",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "15f8d5d1-aea0-4fef-990f-3ca578c0d116",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

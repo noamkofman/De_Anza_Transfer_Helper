@@ -1,0 +1,1263 @@
+{
+  "major": "AGRICULTURAL COMMUNICATION, B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 11,
+    "code": "CPSLO   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "California Polytechnic University, San Luis Obispo",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 289955,
+        "courseTitle": "General Biology",
+        "courseNumber": "111",
+        "prefix": "BIO",
+        "prefixParentId": 4835,
+        "prefixDescription": "Biology",
+        "departmentParentId": 13319,
+        "department": "Biological Sciences",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282638,
+              "courseTitle": "Introductory Biology",
+              "courseNumber": "10",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 245922,
+        "courseTitle": "Introduction to Statistical Concepts and Methods",
+        "courseNumber": "217",
+        "prefix": "STAT",
+        "prefixParentId": 3349,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 12535,
+        "department": "Statistics",
+        "begin": "F2001",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "a69bfdd5-267a-4fe5-ac85-d1c48c503a60",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 255009,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283453,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "68025d68-d65a-4eae-bc76-8f7dfc6da71c",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 283453,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 255009,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281385,
+              "courseTitle": "Engineering Statistics",
+              "courseNumber": "23",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 286562,
+        "courseTitle": "Applied Statistics for the Life Sciences",
+        "courseNumber": "218",
+        "prefix": "STAT",
+        "prefixParentId": 3349,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 12535,
+        "department": "Statistics",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281385,
+              "courseTitle": "Engineering Statistics",
+              "courseNumber": "23",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "0688befd-6944-4c0f-be92-6adeca6bb2f0",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 255009,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283453,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "1f2aca19-e16d-4829-b631-b6971ff2eb74",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 283453,
+                  "courseTitle": "Statistics and Research Methods in Social Science",
+                  "courseNumber": "15",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2020",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 255009,
+              "courseTitle": "Statistics and Research Methods in Social Science",
+              "courseNumber": "15",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 282147,
+        "courseTitle": "Macroeconomics",
+        "courseNumber": "222",
+        "prefix": "ECON",
+        "prefixParentId": 1191,
+        "prefixDescription": "Economics",
+        "departmentParentId": 1913,
+        "department": "Business",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253845,
+              "courseTitle": "Principles of Macroeconomics",
+              "courseNumber": "1",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 289305,
+        "courseTitle": "World of Chemistry",
+        "courseNumber": "110",
+        "prefix": "CHEM",
+        "prefixParentId": 3754,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2273,
+        "department": "Chemistry and Biochemistry",
+        "begin": "F2001",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359144,
+              "courseTitle": "Introduction to General, Organic, and Biochemistry I",
+              "courseNumber": "30A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2012",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359076,
+              "courseTitle": "Introductory Chemistry",
+              "courseNumber": "10",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 246141,
+        "courseTitle": "News Reporting and Writing",
+        "courseNumber": "203",
+        "prefix": "JOUR",
+        "prefixParentId": 1477,
+        "prefixDescription": "Journalism",
+        "departmentParentId": 7952,
+        "department": "Journalism",
+        "begin": "F2009",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 193358,
+              "courseTitle": "News Writing and Reporting",
+              "courseNumber": "21A",
+              "prefix": "JOUR",
+              "prefixParentId": 1559,
+              "prefixDescription": "Journalism",
+              "departmentParentId": 7978,
+              "department": "Journalism",
+              "begin": "F2004",
+              "end": "",
+              "minUnits": 3,
+              "maxUnits": 3,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 289955,
+                "courseTitle": "General Biology",
+                "courseNumber": "111",
+                "prefix": "BIO",
+                "prefixParentId": 4835,
+                "prefixDescription": "Biology",
+                "departmentParentId": 13319,
+                "department": "Biological Sciences",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0544a2a1-cf8a-4ba4-9137-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 269266,
+                "courseTitle": "Introduction to Cell and Molecular Biology",
+                "courseNumber": "161",
+                "prefix": "BIO",
+                "prefixParentId": 4835,
+                "prefixDescription": "Biology",
+                "departmentParentId": 13319,
+                "department": "Biological Sciences",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8d6487c8-cc63-4768-9138-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 322359,
+                "courseTitle": "Agricultural Mechanics",
+                "courseNumber": "121",
+                "prefix": "BRAE",
+                "prefixParentId": 12123,
+                "prefixDescription": "Bioresource and Agricultural Engineering",
+                "departmentParentId": 1787,
+                "department": "Bioresource and Agricultural Engineering",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "be238888-24db-4c5d-9139-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 170762,
+                "courseTitle": "Agricultural Machinery Safety",
+                "courseNumber": "141",
+                "prefix": "BRAE",
+                "prefixParentId": 12123,
+                "prefixDescription": "Bioresource and Agricultural Engineering",
+                "departmentParentId": 1787,
+                "department": "Bioresource and Agricultural Engineering",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c4b01f34-79c4-4a6a-913a-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 275917,
+                "courseTitle": "Pre-Calculus Algebra",
+                "courseNumber": "118",
+                "prefix": "MATH",
+                "prefixParentId": 9918,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8956,
+                "department": "Mathematics",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c2304ddf-03e0-4508-913b-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "MATH 116, MATH 117",
+                "courses": [
+                  {
+                    "id": "df60812f-feb2-4707-9f49-4cc6cfc66d21",
+                    "position": 0,
+                    "courseIdentifierParentId": 234774,
+                    "courseTitle": "Pre-Calculus Algebra I",
+                    "courseNumber": "116",
+                    "prefix": "MATH",
+                    "prefixParentId": 9918,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8956,
+                    "department": "Mathematics",
+                    "begin": "F2000",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "b5d530a5-61e0-4989-a48b-227d29eebf04",
+                    "position": 1,
+                    "courseIdentifierParentId": 135694,
+                    "courseTitle": "Pre-Calculus Algebra II",
+                    "courseNumber": "117",
+                    "prefix": "MATH",
+                    "prefixParentId": 9918,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8956,
+                    "department": "Mathematics",
+                    "begin": "F2001",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "c0a18d02-7318-4d33-913c-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 281905,
+                "courseTitle": "Introductory Soil Science",
+                "courseNumber": "120",
+                "prefix": "SS",
+                "prefixParentId": 5138,
+                "prefixDescription": "Soil Science",
+                "departmentParentId": 9598,
+                "department": "Natural Resources Management and Environmental Sciences",
+                "begin": "Su2019",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "33d9b8d0-4d69-4a2a-913d-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 298476,
+                "courseTitle": "Soils in Environmental and Agricultural Systems",
+                "courseNumber": "130",
+                "prefix": "SS",
+                "prefixParentId": 5138,
+                "prefixDescription": "Soil Science",
+                "departmentParentId": 9598,
+                "department": "Natural Resources Management and Environmental Sciences",
+                "begin": "Su2019",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "056ca222-4202-49df-913e-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 245922,
+                "courseTitle": "Introduction to Statistical Concepts and Methods",
+                "courseNumber": "217",
+                "prefix": "STAT",
+                "prefixParentId": 3349,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 12535,
+                "department": "Statistics",
+                "begin": "F2001",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "18357637-acb7-401b-913f-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286562,
+                "courseTitle": "Applied Statistics for the Life Sciences",
+                "courseNumber": "218",
+                "prefix": "STAT",
+                "prefixParentId": 3349,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 12535,
+                "department": "Statistics",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d5b8f8da-8a0e-44e5-9140-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136487,
+                "courseTitle": "Introduction to Poultry Management",
+                "courseNumber": "225",
+                "prefix": "ASCI",
+                "prefixParentId": 2334,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 671,
+                "department": "Animal Science",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a3b74e1f-2e55-4371-96aa-9daca08656e7",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 276634,
+                "courseTitle": "General Dairy Husbandry",
+                "courseNumber": "230",
+                "prefix": "DSCI",
+                "prefixParentId": 9367,
+                "prefixDescription": "Dairy Science",
+                "departmentParentId": 671,
+                "department": "Animal Science",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cdc25cdd-f57b-45a1-bd3c-626ccf17b568",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 266283,
+                "courseTitle": "Systems of Small Ruminant Management",
+                "courseNumber": "223",
+                "prefix": "ASCI",
+                "prefixParentId": 2334,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 671,
+                "department": "Animal Science",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0e324a89-0e6d-48a0-93eb-e4d987ffd467",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 356312,
+                "courseTitle": "Equine Science",
+                "courseNumber": "224",
+                "prefix": "ASCI",
+                "prefixParentId": 2334,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 671,
+                "department": "Animal Science",
+                "begin": "Su2003",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "62526003-c731-4733-bc29-b1265d9a5181",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 266280,
+                "courseTitle": "Introduction to Beef Production",
+                "courseNumber": "221",
+                "prefix": "ASCI",
+                "prefixParentId": 2334,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 671,
+                "department": "Animal Science",
+                "begin": "Su2003",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "328891ff-d8b5-46fd-9841-9c9db8bfa484",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 356311,
+                "courseTitle": "Systems of Swine Production",
+                "courseNumber": "222",
+                "prefix": "ASCI",
+                "prefixParentId": 2334,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 671,
+                "department": "Animal Science",
+                "begin": "Su2003",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "acb18c7b-a494-4fe7-88db-5d399a34bff7",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 282147,
+                "courseTitle": "Macroeconomics",
+                "courseNumber": "222",
+                "prefix": "ECON",
+                "prefixParentId": 1191,
+                "prefixDescription": "Economics",
+                "departmentParentId": 1913,
+                "department": "Business",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1736e8b0-93d6-408b-988c-40c4911928fc",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 326527,
+                "courseTitle": "Orientation to Agricultural Communication & Agricultural Science",
+                "courseNumber": "102",
+                "prefix": "AGC",
+                "prefixParentId": 14,
+                "prefixDescription": "Agricultural Communication",
+                "departmentParentId": 320,
+                "department": "Agricultural Education and Communication",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a1db415f-8e09-4d97-9656-8e1a47c604bd",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329365,
+                "courseTitle": "Agricultural Commmunications",
+                "courseNumber": "205",
+                "prefix": "AGC",
+                "prefixParentId": 14,
+                "prefixDescription": "Agricultural Communication",
+                "departmentParentId": 320,
+                "department": "Agricultural Education and Communication",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "41067f48-bd3c-434b-a460-4eb8f858475d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 356056,
+                "courseTitle": "Elements of Food Safety",
+                "courseNumber": "275",
+                "prefix": "FSN",
+                "prefixParentId": 955,
+                "prefixDescription": "Food Science and Nutrition",
+                "departmentParentId": 5798,
+                "department": "Food Science and Nutrition",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ffa7ba65-2132-433c-a0dd-78e6b679b1c7",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 289305,
+                "courseTitle": "World of Chemistry",
+                "courseNumber": "110",
+                "prefix": "CHEM",
+                "prefixParentId": 3754,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2273,
+                "department": "Chemistry and Biochemistry",
+                "begin": "F2001",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "381ef745-7aa3-4dbb-90bd-db8a136acd6b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 364427,
+                "courseTitle": "Software Applications for Agricultural Publications",
+                "courseNumber": "207",
+                "prefix": "AGC",
+                "prefixParentId": 14,
+                "prefixDescription": "Agricultural Communication",
+                "departmentParentId": 320,
+                "department": "Agricultural Education and Communication",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "69dc6310-1409-4c37-a4f8-81dbae362681",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 246141,
+                "courseTitle": "News Reporting and Writing",
+                "courseNumber": "203",
+                "prefix": "JOUR",
+                "prefixParentId": 1477,
+                "prefixDescription": "Journalism",
+                "departmentParentId": 7952,
+                "department": "Journalism",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9022eb6b-573a-4174-8389-e14ab1cd122f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 351791,
+                "courseTitle": "Elements of Food Processing",
+                "courseNumber": "230",
+                "prefix": "FSN",
+                "prefixParentId": 955,
+                "prefixDescription": "Food Science and Nutrition",
+                "departmentParentId": 5798,
+                "department": "Food Science and Nutrition",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "856f5550-17a6-4dbe-ad14-022e8b0b4877",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 302249,
+                "courseTitle": "Agribusiness Data Literacy",
+                "courseNumber": "260",
+                "prefix": "AGB",
+                "prefixParentId": 9351,
+                "prefixDescription": "Agribusiness",
+                "departmentParentId": 304,
+                "department": "Agribusiness",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "de63eb53-5119-4fa1-ab66-11907a00cf35",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 298079,
+                "courseTitle": "Principles of Animal Science",
+                "courseNumber": "112",
+                "prefix": "ASCI",
+                "prefixParentId": 2334,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 671,
+                "department": "Animal Science",
+                "begin": "Su2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "17c56d1e-a3d9-47ca-937a-1b845339f634",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 259854,
+                "courseTitle": "Agricultural Economics",
+                "courseNumber": "212",
+                "prefix": "AGB",
+                "prefixParentId": 9351,
+                "prefixDescription": "Agribusiness",
+                "departmentParentId": 304,
+                "department": "Agribusiness",
+                "begin": "S2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4e8d23ed-9475-442b-8d1b-8d8f2948b35c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 269226,
+                "courseTitle": "Principles of Horticulture and Crop Science",
+                "courseNumber": "120",
+                "prefix": "PLSC",
+                "prefixParentId": 15712,
+                "prefixDescription": "Plant Sciences",
+                "departmentParentId": 14223,
+                "department": "Plant Sciences",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ed8549f1-edba-47db-8d0d-1f991f609ce9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379251,
+                "courseTitle": "Digital Communication in Agriculture and Science",
+                "courseNumber": "225",
+                "prefix": "AGC",
+                "prefixParentId": 14,
+                "prefixDescription": "Agricultural Communication",
+                "departmentParentId": 320,
+                "department": "Agricultural Education and Communication",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c0763e68-3f14-431b-acd0-b07b914b1b2a",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

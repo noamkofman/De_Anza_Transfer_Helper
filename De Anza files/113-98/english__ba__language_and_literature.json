@@ -1,0 +1,588 @@
+{
+  "major": "English, BA, Language and Literature",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 98,
+    "code": "CSUB    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Bakersfield",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 274219,
+        "courseTitle": "Introduction to Literature",
+        "courseNumber": "1208",
+        "prefix": "ENGL",
+        "prefixParentId": 2721,
+        "prefixDescription": "English",
+        "departmentParentId": 5014,
+        "department": "English",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302735,
+              "courseTitle": "Literature and Composition",
+              "courseNumber": "1C",
+              "prefix": "EWRT",
+              "prefixParentId": 1402,
+              "prefixDescription": "English (Writing)",
+              "departmentParentId": 5070,
+              "department": "English (Writing)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 287406,
+        "courseTitle": "American Literature Survey I",
+        "courseNumber": "2208",
+        "prefix": "ENGL",
+        "prefixParentId": 2721,
+        "prefixDescription": "English",
+        "departmentParentId": 5014,
+        "department": "English",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353683,
+              "courseTitle": "Major American Writers (Colonial and Romantic, 1620-1865)",
+              "courseNumber": "48A",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353308,
+              "courseTitle": "Major American Writers (The Advent of Realism, 1865-1914)",
+              "courseNumber": "48B",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 274209,
+        "courseTitle": "American Literature Survey II",
+        "courseNumber": "2210",
+        "prefix": "ENGL",
+        "prefixParentId": 2721,
+        "prefixDescription": "English",
+        "departmentParentId": 5014,
+        "department": "English",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353308,
+              "courseTitle": "Major American Writers (The Advent of Realism, 1865-1914)",
+              "courseNumber": "48B",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254997,
+              "courseTitle": "Major American Writers (The Modern Age, 1914 - The Present)",
+              "courseNumber": "48C",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 237590,
+        "courseTitle": "British Literature Survey I",
+        "courseNumber": "2308",
+        "prefix": "ENGL",
+        "prefixParentId": 2721,
+        "prefixDescription": "English",
+        "departmentParentId": 5014,
+        "department": "English",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 289056,
+              "courseTitle": "Major British Writers (Neo-Classical and Romantic)",
+              "courseNumber": "46B",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353362,
+              "courseTitle": "Major British Writers (Medieval and Renaissance)",
+              "courseNumber": "46A",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 237949,
+        "courseTitle": "British Literature Survey II",
+        "courseNumber": "2310",
+        "prefix": "ENGL",
+        "prefixParentId": 2721,
+        "prefixDescription": "English",
+        "departmentParentId": 5014,
+        "department": "English",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 289056,
+              "courseTitle": "Major British Writers (Neo-Classical and Romantic)",
+              "courseNumber": "46B",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253834,
+              "courseTitle": "Major British Writers (Victorian and Modern)",
+              "courseNumber": "46C",
+              "prefix": "ELIT",
+              "prefixParentId": 4816,
+              "prefixDescription": "English (Literature)",
+              "departmentParentId": 5069,
+              "department": "English (Literature)",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "b897e189-1a66-434e-5a08-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 277198,
+                "courseTitle": "Writing and Research",
+                "courseNumber": "1109",
+                "prefix": "ENGL",
+                "prefixParentId": 2721,
+                "prefixDescription": "English",
+                "departmentParentId": 5014,
+                "department": "English",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4c4bb7bf-8d60-4fb0-4fa1-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 274219,
+                "courseTitle": "Introduction to Literature",
+                "courseNumber": "1208",
+                "prefix": "ENGL",
+                "prefixParentId": 2721,
+                "prefixDescription": "English",
+                "departmentParentId": 5014,
+                "department": "English",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "db544352-ff33-46f2-4fa2-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 45565,
+                "courseTitle": "The English Major and Career Opportunities",
+                "courseNumber": "2000",
+                "prefix": "ENGL",
+                "prefixParentId": 2721,
+                "prefixDescription": "English",
+                "departmentParentId": 5014,
+                "department": "English",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "eb67b131-6e76-403f-4fa3-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287406,
+                "courseTitle": "American Literature Survey I",
+                "courseNumber": "2208",
+                "prefix": "ENGL",
+                "prefixParentId": 2721,
+                "prefixDescription": "English",
+                "departmentParentId": 5014,
+                "department": "English",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "25e78671-f760-4294-4fa4-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 274209,
+                "courseTitle": "American Literature Survey II",
+                "courseNumber": "2210",
+                "prefix": "ENGL",
+                "prefixParentId": 2721,
+                "prefixDescription": "English",
+                "departmentParentId": 5014,
+                "department": "English",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c13e696e-c0db-4d69-4fa5-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 237149,
+                "courseTitle": "Ethnic-Minority American Literature",
+                "courseNumber": "2220",
+                "prefix": "ENGL",
+                "prefixParentId": 2721,
+                "prefixDescription": "English",
+                "departmentParentId": 5014,
+                "department": "English",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "00c248fe-00bd-491e-4fa6-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 237590,
+                "courseTitle": "British Literature Survey I",
+                "courseNumber": "2308",
+                "prefix": "ENGL",
+                "prefixParentId": 2721,
+                "prefixDescription": "English",
+                "departmentParentId": 5014,
+                "department": "English",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d9da983b-95f8-4529-4fa7-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 237949,
+                "courseTitle": "British Literature Survey II",
+                "courseNumber": "2310",
+                "prefix": "ENGL",
+                "prefixParentId": 2721,
+                "prefixDescription": "English",
+                "departmentParentId": 5014,
+                "department": "English",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3abe52b9-f59c-4e05-4fa8-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308626,
+                "courseTitle": "Introduction to World Literature",
+                "courseNumber": "2408",
+                "prefix": "ENGL",
+                "prefixParentId": 2721,
+                "prefixDescription": "English",
+                "departmentParentId": 5014,
+                "department": "English",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a3d2a484-1c74-4413-4fa9-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

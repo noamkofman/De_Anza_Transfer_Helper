@@ -1,0 +1,462 @@
+{
+  "major": "Recreation Therapy",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 42654,
+        "courseTitle": "Medical Terminology",
+        "courseNumber": "150",
+        "prefix": "H SC",
+        "prefixParentId": 7492,
+        "prefixDescription": "Health Sciences",
+        "departmentParentId": 6852,
+        "department": "Health Sciences",
+        "begin": "F2021",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 116024,
+              "courseTitle": "Advanced Medical Terminology I",
+              "courseNumber": "60G",
+              "prefix": "HTEC",
+              "prefixParentId": 11220,
+              "prefixDescription": "Health Technologies",
+              "departmentParentId": 6862,
+              "department": "Health Technologies",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 213783,
+              "courseTitle": "Basic Medical Terminology",
+              "courseNumber": "60A",
+              "prefix": "HTEC",
+              "prefixParentId": 11220,
+              "prefixDescription": "Health Technologies",
+              "departmentParentId": 6862,
+              "department": "Health Technologies",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 3,
+              "maxUnits": 3,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 286211,
+        "courseTitle": "Human Physiology",
+        "courseNumber": "207",
+        "prefix": "BIOL",
+        "prefixParentId": 4898,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1723,
+        "department": "Biology",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 292429,
+        "courseTitle": "Human Anatomy",
+        "courseNumber": "208",
+        "prefix": "BIOL",
+        "prefixParentId": 4898,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1723,
+        "department": "Biology",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 178825,
+        "courseTitle": "General Psychology",
+        "courseNumber": "100",
+        "prefix": "PSY",
+        "prefixParentId": 4673,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11201,
+        "department": "Psychology",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281450,
+              "courseTitle": "General Psychology",
+              "courseNumber": "1",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION CONCENTRATION REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "75704429-dfe4-4411-7a9b-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 42654,
+                "courseTitle": "Medical Terminology",
+                "courseNumber": "150",
+                "prefix": "H SC",
+                "prefixParentId": 7492,
+                "prefixDescription": "Health Sciences",
+                "departmentParentId": 6852,
+                "department": "Health Sciences",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2b720810-7f91-4fb3-966f-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286211,
+                "courseTitle": "Human Physiology",
+                "courseNumber": "207",
+                "prefix": "BIOL",
+                "prefixParentId": 4898,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1723,
+                "department": "Biology",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8999bdce-6868-473a-9670-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 292429,
+                "courseTitle": "Human Anatomy",
+                "courseNumber": "208",
+                "prefix": "BIOL",
+                "prefixParentId": 4898,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1723,
+                "department": "Biology",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b0f8a98c-23cd-49a4-9671-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 178825,
+                "courseTitle": "General Psychology",
+                "courseNumber": "100",
+                "prefix": "PSY",
+                "prefixParentId": 4673,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11201,
+                "department": "Psychology",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2373e2fb-788f-4729-8a16-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL CONCENTRATION REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "22a9da70-fd01-487d-1547-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 194122,
+                "courseTitle": "Introduction to Leisure Services",
+                "courseNumber": "141",
+                "prefix": "REC",
+                "prefixParentId": 6501,
+                "prefixDescription": "Recreation and Leisure Studies",
+                "departmentParentId": 11629,
+                "department": "Recreation and Leisure Studies",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "92e07e79-0e30-4510-9675-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

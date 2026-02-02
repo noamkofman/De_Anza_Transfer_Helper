@@ -1,0 +1,244 @@
+{
+  "major": "Music and Culture, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 46,
+    "code": "UCR     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Riverside",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 353771,
+        "courseTitle": "Intro to World Music",
+        "courseNumber": "6",
+        "prefix": "MUS",
+        "prefixParentId": 6553,
+        "prefixDescription": "Music",
+        "departmentParentId": 9407,
+        "department": "Music",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 260574,
+              "courseTitle": "Music Appreciation: World Music in America",
+              "courseNumber": "1C",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 270028,
+        "courseTitle": "Popular Musics of the World",
+        "courseNumber": "14",
+        "prefix": "MUS",
+        "prefixParentId": 6553,
+        "prefixDescription": "Music",
+        "departmentParentId": 9407,
+        "department": "Music",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "STRONGLY RECOMMENDED COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 366815,
+                "courseTitle": "Introduction to Music and Culture",
+                "courseNumber": "12",
+                "prefix": "MUS",
+                "prefixParentId": 6553,
+                "prefixDescription": "Music",
+                "departmentParentId": 9407,
+                "department": "Music",
+                "begin": "S2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "874e3c4c-d0a7-41e0-dab3-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286642,
+                "courseTitle": "Popular Music Cultures of the United States",
+                "courseNumber": "8",
+                "prefix": "MUS",
+                "prefixParentId": 6553,
+                "prefixDescription": "Music",
+                "departmentParentId": 9407,
+                "department": "Music",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c0d3a13a-0137-4bd9-9502-413315c6523e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 353771,
+                "courseTitle": "Intro to World Music",
+                "courseNumber": "6",
+                "prefix": "MUS",
+                "prefixParentId": 6553,
+                "prefixDescription": "Music",
+                "departmentParentId": 9407,
+                "department": "Music",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 353773,
+                    "courseTitle": "Intro to World Music",
+                    "courseNumber": "6",
+                    "prefix": "ANTH",
+                    "prefixParentId": 10725,
+                    "prefixDescription": "Anthropology",
+                    "departmentParentId": 714,
+                    "department": "Anthropology",
+                    "begin": "F2006",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "93a46dd9-33d5-4fa4-8c91-b5d78b47293e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 270028,
+                "courseTitle": "Popular Musics of the World",
+                "courseNumber": "14",
+                "prefix": "MUS",
+                "prefixParentId": 6553,
+                "prefixDescription": "Music",
+                "departmentParentId": 9407,
+                "department": "Music",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 270027,
+                    "courseTitle": "Popular Musics of the World",
+                    "courseNumber": "14",
+                    "prefix": "ETST",
+                    "prefixParentId": 4003,
+                    "prefixDescription": "Ethnic Studies",
+                    "departmentParentId": 5427,
+                    "department": "Ethnic Studies",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e4e66d6f-292a-4b2f-a92f-554b66dfbedb",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

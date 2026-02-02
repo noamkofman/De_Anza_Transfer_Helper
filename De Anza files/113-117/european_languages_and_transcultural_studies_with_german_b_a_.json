@@ -1,0 +1,833 @@
+{
+  "major": "European Languages and Transcultural Studies with German/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "965c19a9-08cf-4fcf-1bee-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383852,
+                "courseTitle": "Intermediate German",
+                "courseNumber": "6",
+                "prefix": "GERMAN",
+                "prefixParentId": 17094,
+                "prefixDescription": "Great Works of German Literature in Translation: Romanticism to Present",
+                "departmentParentId": 14203,
+                "department": "German",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bb0f3989-d5d5-48ed-8994-ec531c27b96c",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "AtLeast",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "01c7d51f-1b52-495a-1727-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 285974,
+                "courseTitle": "Introduction to French Culture and Civilization in English",
+                "courseNumber": "14W",
+                "prefix": "FRNCH",
+                "prefixParentId": 14384,
+                "prefixDescription": "French",
+                "departmentParentId": 5998,
+                "department": "French",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8e0b0a00-8309-4fbf-9f9b-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383853,
+                "courseTitle": "Figures Who Changed World: Cosmopolitanisms within a Global Context",
+                "courseNumber": "56",
+                "prefix": "GERMAN",
+                "prefixParentId": 17094,
+                "prefixDescription": "Great Works of German Literature in Translation: Romanticism to Present",
+                "departmentParentId": 14203,
+                "department": "German",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cc39e3d8-f350-404d-9f9c-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383139,
+                "courseTitle": "Holocaust in Film and Literature ",
+                "courseNumber": "59",
+                "prefix": "GERMAN",
+                "prefixParentId": 17094,
+                "prefixDescription": "Great Works of German Literature in Translation: Romanticism to Present",
+                "departmentParentId": 14203,
+                "department": "German",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a08b9c4d-072b-4a9e-9f9d-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383848,
+                "courseTitle": "Heroic Journey in Northern Myth, Legend, and Epic",
+                "courseNumber": "40",
+                "prefix": "SCAND",
+                "prefixParentId": 16943,
+                "prefixDescription": "Scandinavian",
+                "departmentParentId": 14042,
+                "department": "Scandinavian",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "695c6b7a-f6c1-4693-9f9e-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387761,
+                "courseTitle": "Introduction to Scandinavian Literatures and Cultures",
+                "courseNumber": "50W",
+                "prefix": "SCAND",
+                "prefixParentId": 16943,
+                "prefixDescription": "Scandinavian",
+                "departmentParentId": 14042,
+                "department": "Scandinavian",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "627ceff8-3cca-48e9-6e5d-08dbdbbe1f5f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387762,
+                "courseTitle": "Heroic Journey in Northern Myth, Legend, and Epic",
+                "courseNumber": "40W",
+                "prefix": "SCAND",
+                "prefixParentId": 16943,
+                "prefixDescription": "Scandinavian",
+                "departmentParentId": 14042,
+                "department": "Scandinavian",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "59d5d108-0ded-42c7-6e65-08dbdbbe1f5f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387763,
+                "courseTitle": "Introduction to Nordic Cinema",
+                "courseNumber": "60W",
+                "prefix": "SCAND",
+                "prefixParentId": 16943,
+                "prefixDescription": "Scandinavian",
+                "departmentParentId": 14042,
+                "department": "Scandinavian",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "770c2e14-f941-471a-6e66-08dbdbbe1f5f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383138,
+                "courseTitle": "Great Works of German Literature in Translation: Romanticism to Present",
+                "courseNumber": "50B",
+                "prefix": "GERMAN",
+                "prefixParentId": 17094,
+                "prefixDescription": "Great Works of German Literature in Translation: Romanticism to Present",
+                "departmentParentId": 14203,
+                "department": "German",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0fa2c0ff-a1d7-46f7-8cda-d5cc98e65fe5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383136,
+                "courseTitle": "French Cinema and Culture",
+                "courseNumber": "41",
+                "prefix": "FRNCH",
+                "prefixParentId": 14384,
+                "prefixDescription": "French",
+                "departmentParentId": 5998,
+                "department": "French",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4c45b5bb-7d8e-41a2-9231-467e999324b4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383147,
+                "courseTitle": "Introduction to Scandinavian Literatures and Cultures",
+                "courseNumber": "50",
+                "prefix": "SCAND",
+                "prefixParentId": 16943,
+                "prefixDescription": "Scandinavian",
+                "departmentParentId": 14042,
+                "department": "Scandinavian",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9f669206-f5c8-4319-ae4b-d853e97ff17e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383137,
+                "courseTitle": "French and Francophone Novel",
+                "courseNumber": "60",
+                "prefix": "FRNCH",
+                "prefixParentId": 14384,
+                "prefixDescription": "French",
+                "departmentParentId": 5998,
+                "department": "French",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "863a7e53-0dc4-4515-8a30-8f8a08d2d545",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359804,
+                "courseTitle": "Italy through Ages in English: Saints and Sinners in Early Modern Italy",
+                "courseNumber": "42A",
+                "prefix": "ITALIAN",
+                "prefixParentId": 14373,
+                "prefixDescription": "Italian",
+                "departmentParentId": 7817,
+                "department": "Italian",
+                "begin": "Su2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e0462de3-cbee-4201-8d2b-aa73e3660081",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309179,
+                "courseTitle": "Introduction to French Culture and Civilization in English",
+                "courseNumber": "14",
+                "prefix": "FRNCH",
+                "prefixParentId": 14384,
+                "prefixDescription": "French",
+                "departmentParentId": 5998,
+                "department": "French",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ea62a831-0ff9-4926-92ae-db24f47c23c0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304599,
+                "courseTitle": "Italy through Ages in English: Modern and Contemporary Italy",
+                "courseNumber": "42B",
+                "prefix": "ITALIAN",
+                "prefixParentId": 14373,
+                "prefixDescription": "Italian",
+                "departmentParentId": 7817,
+                "department": "Italian",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a0d1bed4-b54c-4458-872c-1cbfa0632ef8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383142,
+                "courseTitle": "Masterpieces of Italian Literature in English: Enlightenment to Postmodernity",
+                "courseNumber": "50B",
+                "prefix": "ITALIAN",
+                "prefixParentId": 14373,
+                "prefixDescription": "Italian",
+                "departmentParentId": 7817,
+                "department": "Italian",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1f72b0f4-23ed-4362-a502-340a07f461a6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383857,
+                "courseTitle": "Italy Through the Ages in English: Food and Literature in Italy",
+                "courseNumber": "42C",
+                "prefix": "ITALIAN",
+                "prefixParentId": 14373,
+                "prefixDescription": "Italian",
+                "departmentParentId": 7817,
+                "department": "Italian",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9442fa31-4da3-4803-878f-9d7928c69d2b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383858,
+                "courseTitle": "Masterpieces of Italian Literature in English: Middle Ages to Baroque",
+                "courseNumber": "50A",
+                "prefix": "ITALIAN",
+                "prefixParentId": 14373,
+                "prefixDescription": "Italian",
+                "departmentParentId": 7817,
+                "department": "Italian",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "39c9408b-f2d8-4e28-823e-8c363f7b7a74",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379204,
+                "courseTitle": "Introduction to French and Francophone Literature",
+                "courseNumber": "12",
+                "prefix": "FRNCH",
+                "prefixParentId": 14384,
+                "prefixDescription": "French",
+                "departmentParentId": 5998,
+                "department": "French",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f4a4e5e7-f897-4b33-b4de-4a87b43fb59d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 370220,
+                "courseTitle": "Italian Cinema and Culture in English ",
+                "courseNumber": "46",
+                "prefix": "ITALIAN",
+                "prefixParentId": 14373,
+                "prefixDescription": "Italian",
+                "departmentParentId": 7817,
+                "department": "Italian",
+                "begin": "S2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "84271210-fb42-4c8a-ab67-4ce4167f5917",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383847,
+                "courseTitle": "Society And Self in Early Modern France",
+                "courseNumber": "16",
+                "prefix": "FRNCH",
+                "prefixParentId": 14384,
+                "prefixDescription": "French",
+                "departmentParentId": 5998,
+                "department": "French",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "971ca3c1-0f79-42e2-98c2-06d73fcd0543",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "284a9f47-988e-4d1b-1bed-08dba898cc31",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 380109,
+                "courseTitle": "Environmental Literature and Culture",
+                "courseNumber": "M30",
+                "prefix": "ENGL",
+                "prefixParentId": 2740,
+                "prefixDescription": "English",
+                "departmentParentId": 5027,
+                "department": "English",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "99e1a598-564a-482d-9f92-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 376636,
+                "courseTitle": "Medicine, Magic, and Science in Ancient Times",
+                "courseNumber": "14W",
+                "prefix": "AN N E A",
+                "prefixParentId": 15432,
+                "prefixDescription": "Ancient Near East",
+                "departmentParentId": 647,
+                "department": "Ancient Near East",
+                "begin": "S2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ed12e3d1-6efd-49dc-9f93-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383844,
+                "courseTitle": "Evolution for Everyone",
+                "courseNumber": "17",
+                "prefix": "EE BIOL",
+                "prefixParentId": 17122,
+                "prefixDescription": "Ecology and Evolutionary Biology",
+                "departmentParentId": 14230,
+                "department": "Ecology and Evolutionary Biology",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a2361274-9c8c-4bde-9f94-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359622,
+                "courseTitle": "History of Modern Medicine",
+                "courseNumber": "3D",
+                "prefix": "HIST",
+                "prefixParentId": 3017,
+                "prefixDescription": "History",
+                "departmentParentId": 7013,
+                "department": "History",
+                "begin": "W2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d452e1a3-b53d-443a-9f95-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383845,
+                "courseTitle": "Plague Culture",
+                "courseNumber": "1",
+                "prefix": "HNRS",
+                "prefixParentId": 15164,
+                "prefixDescription": "Honors Collegium",
+                "departmentParentId": 7110,
+                "department": "Honors Collegium",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "266f057a-0f6d-4edc-9f96-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383846,
+                "courseTitle": "Representing Medicine: Art, Literature, and Film",
+                "courseNumber": "26",
+                "prefix": "HNRS",
+                "prefixParentId": 15164,
+                "prefixDescription": "Honors Collegium",
+                "departmentParentId": 7110,
+                "department": "Honors Collegium",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6a7756b2-850c-45ea-9f97-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309318,
+                "courseTitle": "Biomedical Ethics",
+                "courseNumber": "60",
+                "prefix": "MCD BIO",
+                "prefixParentId": 15161,
+                "prefixDescription": "Molecular, Cell, and Developmental Biology",
+                "departmentParentId": 9335,
+                "department": "Molecular, Cell, and Developmental Biology",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e0af166f-8226-4902-9f98-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383851,
+                "courseTitle": "Spirit of Medicine",
+                "courseNumber": "55",
+                "prefix": "RELIGN",
+                "prefixParentId": 15691,
+                "prefixDescription": "Religion, Study of",
+                "departmentParentId": 11670,
+                "department": "Religion, Study of",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "66d9af54-9bd0-4ad5-9f99-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383140,
+                "courseTitle": "Modern Metropolis: Berlin",
+                "courseNumber": "61A",
+                "prefix": "GERMAN",
+                "prefixParentId": 17094,
+                "prefixDescription": "Great Works of German Literature in Translation: Romanticism to Present",
+                "departmentParentId": 14203,
+                "department": "German",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0065caca-cbb3-48d6-9f9a-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383849,
+                "courseTitle": "Social Media and Storytelling: Comparing Cultures",
+                "courseNumber": "1E",
+                "prefix": "COM LIT",
+                "prefixParentId": 14379,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2939,
+                "department": "Comparative Literature",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bbd5ecd4-6283-465a-b816-4f246d0ca84a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383850,
+                "courseTitle": " Los Angeles Tech City: Digital Technologies and Spatial Justice",
+                "courseNumber": "30",
+                "prefix": "DGT HUM",
+                "prefixParentId": 17123,
+                "prefixDescription": "Digital Humanities",
+                "departmentParentId": 14231,
+                "department": "Digital Humanities",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e717e652-0995-4aab-80a0-2af6291fc5ab",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "major": "Physics, B.A. or B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 46,
+    "code": "UCR     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Riverside",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 283347,
+        "courseTitle": "First-Year Calculus",
+        "courseNumber": "9C",
+        "prefix": "MATH",
+        "prefixParentId": 9953,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8983,
+        "department": "Mathematics",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359110,
+              "courseTitle": "Calculus",
+              "courseNumber": "1C",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 365120,
+        "courseTitle": "Calculus for Life Sciences",
+        "courseNumber": "7A",
+        "prefix": "MATH",
+        "prefixParentId": 9953,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8983,
+        "department": "Mathematics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 365121,
+        "courseTitle": "Calculus for Life Sciences",
+        "courseNumber": "7B",
+        "prefix": "MATH",
+        "prefixParentId": 9953,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8983,
+        "department": "Mathematics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359110,
+              "courseTitle": "Calculus",
+              "courseNumber": "1C",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290250,
+              "courseTitle": "Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics",
+              "courseNumber": "4C",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 276901,
+              "courseTitle": "Physics for Scientists and Engineers: Electricity and Magnetism",
+              "courseNumber": "4B",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305519,
+              "courseTitle": "Physics for Scientists and Engineers: Mechanics",
+              "courseNumber": "4A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "MATH 9A, MATH 9B, MATH 9C",
+                "courses": [
+                  {
+                    "id": "dc6f3f45-e271-4435-88d7-b08d94931b13",
+                    "position": 0,
+                    "courseIdentifierParentId": 255903,
+                    "courseTitle": "First-Year Calculus",
+                    "courseNumber": "9A",
+                    "prefix": "MATH",
+                    "prefixParentId": 9953,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8983,
+                    "department": "Mathematics",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "1d36e714-276a-486e-843f-962369dee688",
+                    "position": 1,
+                    "courseIdentifierParentId": 283360,
+                    "courseTitle": "First-Year Calculus",
+                    "courseNumber": "9B",
+                    "prefix": "MATH",
+                    "prefixParentId": 9953,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8983,
+                    "department": "Mathematics",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "bc805e77-d20e-4320-ac0b-63d09c1a36b6",
+                    "position": 2,
+                    "courseIdentifierParentId": 283347,
+                    "courseTitle": "First-Year Calculus",
+                    "courseNumber": "9C",
+                    "prefix": "MATH",
+                    "prefixParentId": 9953,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8983,
+                    "department": "Mathematics",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [
+                {
+                  "position": 0,
+                  "content": "An AP exam may be used to satisfy this course requirement"
+                }
+              ],
+              "courseAttributes": [],
+              "id": "324d18a1-991c-4034-9c0b-5b660ba6c90a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 283347,
+                "courseTitle": "First-Year Calculus",
+                "courseNumber": "9C",
+                "prefix": "MATH",
+                "prefixParentId": 9953,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8983,
+                "department": "Mathematics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f2e62288-1f04-483d-b087-d54be7d3a547",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365120,
+                "courseTitle": "Calculus for Life Sciences",
+                "courseNumber": "7A",
+                "prefix": "MATH",
+                "prefixParentId": 9953,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8983,
+                "department": "Mathematics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "An AP exam may be used to satisfy this course requirement"
+                }
+              ],
+              "id": "cbf0c43e-038b-4296-83b3-4a79935fbe3e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365121,
+                "courseTitle": "Calculus for Life Sciences",
+                "courseNumber": "7B",
+                "prefix": "MATH",
+                "prefixParentId": 9953,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8983,
+                "department": "Mathematics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "An AP exam may be used to satisfy this course requirement"
+                }
+              ],
+              "id": "dec92a89-6721-4b00-a332-7392986eecb6",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PHYS 40A, PHYS 40B, PHYS 40C",
+                "courses": [
+                  {
+                    "id": "3164eb18-3a21-4e02-b2e5-deab668345fe",
+                    "position": 0,
+                    "courseIdentifierParentId": 281598,
+                    "courseTitle": "General Physics",
+                    "courseNumber": "40A",
+                    "prefix": "PHYS",
+                    "prefixParentId": 226,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10772,
+                    "department": "Physics",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  },
+                  {
+                    "id": "102d494a-ab0c-4944-812b-6aa2864f2fd1",
+                    "position": 1,
+                    "courseIdentifierParentId": 359266,
+                    "courseTitle": "General Physics",
+                    "courseNumber": "40B",
+                    "prefix": "PHYS",
+                    "prefixParentId": 226,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10772,
+                    "department": "Physics",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  },
+                  {
+                    "id": "e6eea90b-ecb4-4847-934f-b19e99a6c3fa",
+                    "position": 2,
+                    "courseIdentifierParentId": 359264,
+                    "courseTitle": "General Physics",
+                    "courseNumber": "40C",
+                    "prefix": "PHYS",
+                    "prefixParentId": 226,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10772,
+                    "department": "Physics",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "0450f7a7-1d9a-405d-8c64-fb36e269a7ff",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

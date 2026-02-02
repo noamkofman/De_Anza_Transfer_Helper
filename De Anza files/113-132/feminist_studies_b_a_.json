@@ -1,0 +1,470 @@
+{
+  "major": "Feminist Studies B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 132,
+    "code": "UCSC    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Cruz",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 285685,
+        "courseTitle": "Feminist Studies: An Introduction",
+        "courseNumber": "1",
+        "prefix": "FMST",
+        "prefixParentId": 11831,
+        "prefixDescription": "Feminist Studies",
+        "departmentParentId": 5579,
+        "department": "Feminist Studies",
+        "begin": "F2010",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284392,
+              "courseTitle": "Introduction to Women's Studies",
+              "courseNumber": "1",
+              "prefix": "WMST",
+              "prefixParentId": 11816,
+              "prefixDescription": "Women's Studies",
+              "departmentParentId": 13150,
+              "department": "Women's Studies",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "4de7446d-f4ac-4f60-df25-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387517,
+                "courseTitle": "Podcasting: Feminist Files",
+                "courseNumber": "12",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fac93386-efb9-4dab-8f74-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377495,
+                "courseTitle": "Feminism and Science",
+                "courseNumber": "30",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "928d3a6d-05b9-4e85-aad6-3aa9c1d8b894",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377492,
+                "courseTitle": "Media Histories--News and New Media",
+                "courseNumber": "16",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bec4f448-4b2e-40ae-9ed3-d605bf216e11",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377491,
+                "courseTitle": "Popular Culture in South Asia",
+                "courseNumber": "14",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f78cd924-fdf8-42ce-8d46-159450648df8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377559,
+                "courseTitle": "Disability Studies",
+                "courseNumber": "31",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d4357037-bd1e-4aaf-a486-c5cf948cb5b9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384574,
+                "courseTitle": "Black Feminist Ethnographies",
+                "courseNumber": "18",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cff374ea-ac2a-4290-be06-be0d30a2022a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377490,
+                "courseTitle": "Feminisms of/and the Global South",
+                "courseNumber": "10",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b3adc493-c846-46f9-9e83-a38a988aaf0b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377494,
+                "courseTitle": "Religion in American Politics and Culture",
+                "courseNumber": "21",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "89a0f139-829f-45f4-a62a-5cdb9f98c43b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377493,
+                "courseTitle": "Feminism and Social Justice",
+                "courseNumber": "20",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "58c69f71-80bb-448f-835b-52713737fe4f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377496,
+                "courseTitle": "Sexuality and Globalization",
+                "courseNumber": "40",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2a006087-eed4-4d60-b96a-d59dd832045a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384575,
+                "courseTitle": "Black Feminisms: An Introduction",
+                "courseNumber": "19",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6e628933-4bc0-4579-9aa1-e9845d804904",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377497,
+                "courseTitle": "Trans Gender Bodies",
+                "courseNumber": "41",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3ca2ae73-7605-494a-9e8a-a299f2f77566",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 381298,
+                "courseTitle": "Gender, Sexuality, and Transnational Migration Across the Americas",
+                "courseNumber": "15",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "56a1e182-0aaf-4b13-b981-15d2cb98df60",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 381295,
+                "courseTitle": "California Indian History",
+                "courseNumber": "13",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 381307,
+                    "courseTitle": "California Indian History",
+                    "courseNumber": "13",
+                    "prefix": "CRES",
+                    "prefixParentId": 15662,
+                    "prefixDescription": "Critical Race and Ethnic Studies",
+                    "departmentParentId": 3620,
+                    "department": "Critical Race and Ethnic Studies",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "51810f75-ad03-4638-a19e-c7582a50414a",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 285685,
+                "courseTitle": "Feminist Studies: An Introduction",
+                "courseNumber": "1",
+                "prefix": "FMST",
+                "prefixParentId": 11831,
+                "prefixDescription": "Feminist Studies",
+                "departmentParentId": 5579,
+                "department": "Feminist Studies",
+                "begin": "F2010",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1cff6994-afbc-43d8-b902-c1347e8c0e1f",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

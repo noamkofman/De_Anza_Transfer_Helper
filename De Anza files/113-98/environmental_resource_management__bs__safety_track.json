@@ -1,0 +1,828 @@
+{
+  "major": "Environmental Resource Management, BS, Safety Track",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 98,
+    "code": "CSUB    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Bakersfield",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 274977,
+        "courseTitle": "Foundations of Chemistry",
+        "courseNumber": "1000",
+        "prefix": "CHEM",
+        "prefixParentId": 3839,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2345,
+        "department": "Chemistry",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "courseIdentifierParentId": 359228,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "courseIdentifierParentId": 368022,
+              "courseTitle": "General Chemistry - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 133030,
+        "courseTitle": "Foundations of Chemistry Laboratory",
+        "courseNumber": "1001",
+        "prefix": "CHEM",
+        "prefixParentId": 3839,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2345,
+        "department": "Chemistry",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 133029,
+        "courseTitle": "Foundations of Analytical Chemistry",
+        "courseNumber": "1100",
+        "prefix": "CHEM",
+        "prefixParentId": 3839,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2345,
+        "department": "Chemistry",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "courseIdentifierParentId": 368024,
+              "courseTitle": "General Chemistry and Qualitative Analysis - HONORS",
+              "courseNumber": "1CH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "courseIdentifierParentId": 306955,
+              "courseTitle": "General Chemistry and Qualitative Analysis",
+              "courseNumber": "1C",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 120010,
+        "courseTitle": "Foundations of Organic Chemistry",
+        "courseNumber": "2300",
+        "prefix": "CHEM",
+        "prefixParentId": 3839,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2345,
+        "department": "Chemistry",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358347,
+              "courseTitle": "Organic Chemistry",
+              "courseNumber": "12A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 300086,
+        "courseTitle": "Physical Geology",
+        "courseNumber": "2010",
+        "prefix": "GEOL",
+        "prefixParentId": 11315,
+        "prefixDescription": "Geology",
+        "departmentParentId": 6260,
+        "department": "Geological Sciences",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 308128,
+              "courseTitle": "Introductory Geology",
+              "courseNumber": "10",
+              "prefix": "GEOL",
+              "prefixParentId": 11330,
+              "prefixDescription": "Geology",
+              "departmentParentId": 6352,
+              "department": "Geology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 264872,
+        "courseTitle": "Essentials of Micro-Economics",
+        "courseNumber": "2018",
+        "prefix": "ECON",
+        "prefixParentId": 1274,
+        "prefixDescription": "Economics",
+        "departmentParentId": 4298,
+        "department": "Economics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 304874,
+              "courseTitle": "Principles of Microeconomics - HONORS",
+              "courseNumber": "2H",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290810,
+              "courseTitle": "Principles of Microeconomics",
+              "courseNumber": "2",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 306984,
+        "courseTitle": "Human Anatomy",
+        "courseNumber": "2210",
+        "prefix": "BIOL",
+        "prefixParentId": 4912,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1669,
+        "department": "Biology",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 301252,
+        "courseTitle": "Human Physiology",
+        "courseNumber": "2220",
+        "prefix": "BIOL",
+        "prefixParentId": 4912,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1669,
+        "department": "Biology",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "462d4e8d-a75a-4d68-6494-08dc1e958960",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 274202,
+                "courseTitle": "Statistics in the Modern World",
+                "courseNumber": "1209",
+                "prefix": "MATH",
+                "prefixParentId": 10010,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 9026,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a5f6bc30-c951-4e02-cc50-08dc1e958960",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "1f27d465-b741-45b1-6495-08dc1e958960",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 2210, BIOL 2220",
+                "courses": [
+                  {
+                    "id": "74ec547c-1a7f-463e-81ba-51401ebb1676",
+                    "position": 0,
+                    "courseIdentifierParentId": 306984,
+                    "courseTitle": "Human Anatomy",
+                    "courseNumber": "2210",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4912,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1669,
+                    "department": "Biology",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "b180c184-f52f-4dd0-b0be-2844ae0b0752",
+                    "position": 1,
+                    "courseIdentifierParentId": 301252,
+                    "courseTitle": "Human Physiology",
+                    "courseNumber": "2220",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4912,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1669,
+                    "department": "Biology",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "e6baff80-0655-4f74-cc51-08dc1e958960",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 306984,
+                "courseTitle": "Human Anatomy",
+                "courseNumber": "2210",
+                "prefix": "BIOL",
+                "prefixParentId": 4912,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1669,
+                "department": "Biology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9cbdc434-5e1c-4adb-cc52-08dc1e958960",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 301252,
+                "courseTitle": "Human Physiology",
+                "courseNumber": "2220",
+                "prefix": "BIOL",
+                "prefixParentId": 4912,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1669,
+                "department": "Biology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "26d2820c-be22-4433-cc53-08dc1e958960",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "37db9078-3fea-4c22-5a0d-08dbf14722d9",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 274977,
+                "courseTitle": "Foundations of Chemistry",
+                "courseNumber": "1000",
+                "prefix": "CHEM",
+                "prefixParentId": 3839,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2345,
+                "department": "Chemistry",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "95a65c25-3c25-4d3d-4fc1-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133030,
+                "courseTitle": "Foundations of Chemistry Laboratory",
+                "courseNumber": "1001",
+                "prefix": "CHEM",
+                "prefixParentId": 3839,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2345,
+                "department": "Chemistry",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c05ad497-a292-45f1-4fc2-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133029,
+                "courseTitle": "Foundations of Analytical Chemistry",
+                "courseNumber": "1100",
+                "prefix": "CHEM",
+                "prefixParentId": 3839,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2345,
+                "department": "Chemistry",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "198829a2-1420-485d-4fc3-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 132739,
+                "courseTitle": "Foundations of Inorganic Chemistry",
+                "courseNumber": "2200",
+                "prefix": "CHEM",
+                "prefixParentId": 3839,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2345,
+                "department": "Chemistry",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2df47886-e7f1-4441-4fc4-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 120010,
+                "courseTitle": "Foundations of Organic Chemistry",
+                "courseNumber": "2300",
+                "prefix": "CHEM",
+                "prefixParentId": 3839,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2345,
+                "department": "Chemistry",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fc117349-399c-40aa-4fc5-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 300086,
+                "courseTitle": "Physical Geology",
+                "courseNumber": "2010",
+                "prefix": "GEOL",
+                "prefixParentId": 11315,
+                "prefixDescription": "Geology",
+                "departmentParentId": 6260,
+                "department": "Geological Sciences",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1d59b502-5bc4-474a-4fc6-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 264872,
+                "courseTitle": "Essentials of Micro-Economics",
+                "courseNumber": "2018",
+                "prefix": "ECON",
+                "prefixParentId": 1274,
+                "prefixDescription": "Economics",
+                "departmentParentId": 4298,
+                "department": "Economics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3e48c8ef-92a1-47b1-4fc7-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 327373,
+                "courseTitle": "Introduction to Occupational Safety and Health",
+                "courseNumber": "2900",
+                "prefix": "ERM",
+                "prefixParentId": 15889,
+                "prefixDescription": "Environmental Resource Management",
+                "departmentParentId": 5245,
+                "department": "Environmental Resource Management",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e3206559-6bda-4ab4-4fc8-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

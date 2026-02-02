@@ -1,0 +1,1209 @@
+{
+  "major": "Computer Science",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 230207,
+        "courseTitle": "Data Structures",
+        "courseNumber": "274",
+        "prefix": "CECS",
+        "prefixParentId": 1109,
+        "prefixDescription": "Computer Engineering Computer Science",
+        "departmentParentId": 3046,
+        "department": "Computer Engineering Computer Science",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306384,
+              "courseTitle": "Data Abstraction and Structures",
+              "courseNumber": "22C",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 300758,
+              "courseTitle": "Intermediate Programming Methodologies in C++",
+              "courseNumber": "22B",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 214333,
+        "courseTitle": "Discrete Structures with Computing Applications",
+        "courseNumber": "228",
+        "prefix": "CECS",
+        "prefixParentId": 1109,
+        "prefixDescription": "Computer Engineering Computer Science",
+        "departmentParentId": 3046,
+        "department": "Computer Engineering Computer Science",
+        "begin": "F2009",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359214,
+              "courseTitle": "Discrete Mathematics",
+              "courseNumber": "22",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 43224,
+        "courseTitle": "Introduction to Engineering Profession",
+        "courseNumber": "101",
+        "prefix": "ENGR",
+        "prefixParentId": 3545,
+        "prefixDescription": "Engineering",
+        "departmentParentId": 4786,
+        "department": "Engineering",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 260593,
+              "courseTitle": "Introduction to Engineering",
+              "courseNumber": "10",
+              "prefix": "ENGR",
+              "prefixParentId": 3570,
+              "prefixDescription": "Engineering",
+              "departmentParentId": 4803,
+              "department": "Engineering",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 205250,
+        "courseTitle": "Object Oriented Application Development",
+        "courseNumber": "277",
+        "prefix": "CECS",
+        "prefixParentId": 1109,
+        "prefixDescription": "Computer Engineering Computer Science",
+        "departmentParentId": 3046,
+        "department": "Computer Engineering Computer Science",
+        "begin": "F2009",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302489,
+              "courseTitle": "Object Oriented Analysis and Design",
+              "courseNumber": "28",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 293340,
+        "courseTitle": "Calculus II",
+        "courseNumber": "123",
+        "prefix": "MATH",
+        "prefixParentId": 9989,
+        "prefixDescription": "Mathematics and Statistics",
+        "departmentParentId": 9084,
+        "department": "Mathematics and Statistics",
+        "begin": "F2003",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359110,
+              "courseTitle": "Calculus",
+              "courseNumber": "1C",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 174149,
+        "courseTitle": "Calculus I",
+        "courseNumber": "122",
+        "prefix": "MATH",
+        "prefixParentId": 9989,
+        "prefixDescription": "Mathematics and Statistics",
+        "departmentParentId": 9084,
+        "department": "Mathematics and Statistics",
+        "begin": "F2003",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 354337,
+        "courseTitle": "General Biology",
+        "courseNumber": "200",
+        "prefix": "BIOL",
+        "prefixParentId": 4898,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1723,
+        "department": "Biology",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282638,
+              "courseTitle": "Introductory Biology",
+              "courseNumber": "10",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 289759,
+        "courseTitle": "Human Biology",
+        "courseNumber": "205",
+        "prefix": "BIOL",
+        "prefixParentId": 4898,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1723,
+        "department": "Biology",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247121,
+              "courseTitle": "Human Biology",
+              "courseNumber": "11",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 286211,
+        "courseTitle": "Human Physiology",
+        "courseNumber": "207",
+        "prefix": "BIOL",
+        "prefixParentId": 4898,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1723,
+        "department": "Biology",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 303295,
+        "courseTitle": "General Chemistry",
+        "courseNumber": "111A",
+        "prefix": "CHEM",
+        "prefixParentId": 10657,
+        "prefixDescription": "Chemistry and Biochemistry",
+        "departmentParentId": 2394,
+        "department": "Chemistry and Biochemistry",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359228,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306955,
+              "courseTitle": "General Chemistry and Qualitative Analysis",
+              "courseNumber": "1C",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 257780,
+        "courseTitle": "Mechanics and Heat",
+        "courseNumber": "151",
+        "prefix": "PHYS",
+        "prefixParentId": 263,
+        "prefixDescription": "Physics",
+        "departmentParentId": 10794,
+        "department": "Physics",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305519,
+              "courseTitle": "Physics for Scientists and Engineers: Mechanics",
+              "courseNumber": "4A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 341666,
+        "courseTitle": "Introduction to Programming and Problem Solving",
+        "courseNumber": "174",
+        "prefix": "CECS",
+        "prefixParentId": 1109,
+        "prefixDescription": "Computer Engineering Computer Science",
+        "departmentParentId": 3046,
+        "department": "Computer Engineering Computer Science",
+        "begin": "F2009",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306397,
+              "courseTitle": "Introduction to Programming in Python",
+              "courseNumber": "40",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 300746,
+              "courseTitle": "Introduction to Computer Programming Using Java",
+              "courseNumber": "36A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275613,
+              "courseTitle": "Beginning Programming Methodologies in C++",
+              "courseNumber": "22A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275526,
+              "courseTitle": "Java Programming",
+              "courseNumber": "35A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "f5cf8ed6-5b0c-4f05-7908-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 55100,
+                "courseTitle": "Academic Success Skills",
+                "courseNumber": "102",
+                "prefix": "ENGR",
+                "prefixParentId": 3545,
+                "prefixDescription": "Engineering",
+                "departmentParentId": 4786,
+                "department": "Engineering",
+                "begin": "S2007",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 55101,
+                    "courseTitle": "Academic Success Skills",
+                    "courseNumber": "102H",
+                    "prefix": "ENGR",
+                    "prefixParentId": 3545,
+                    "prefixDescription": "Engineering",
+                    "departmentParentId": 4786,
+                    "department": "Engineering",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9056140c-933b-4c3a-8846-0891d5f9ffdf",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341666,
+                "courseTitle": "Introduction to Programming and Problem Solving",
+                "courseNumber": "174",
+                "prefix": "CECS",
+                "prefixParentId": 1109,
+                "prefixDescription": "Computer Engineering Computer Science",
+                "departmentParentId": 3046,
+                "department": "Computer Engineering Computer Science",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a7612568-2bef-42fb-a3ff-c97445792a3e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 230207,
+                "courseTitle": "Data Structures",
+                "courseNumber": "274",
+                "prefix": "CECS",
+                "prefixParentId": 1109,
+                "prefixDescription": "Computer Engineering Computer Science",
+                "departmentParentId": 3046,
+                "department": "Computer Engineering Computer Science",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "729d6601-2853-4b4e-b448-945e6b2636d8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 349878,
+                "courseTitle": "Discrete Structures with Computing Applications II",
+                "courseNumber": "229",
+                "prefix": "CECS",
+                "prefixParentId": 1109,
+                "prefixDescription": "Computer Engineering Computer Science",
+                "departmentParentId": 3046,
+                "department": "Computer Engineering Computer Science",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "adcbb9c7-6983-4563-9cd9-13d456a6c807",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 214333,
+                "courseTitle": "Discrete Structures with Computing Applications",
+                "courseNumber": "228",
+                "prefix": "CECS",
+                "prefixParentId": 1109,
+                "prefixDescription": "Computer Engineering Computer Science",
+                "departmentParentId": 3046,
+                "department": "Computer Engineering Computer Science",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a814dc2c-49cf-4781-a96f-4bd38bfc1e7d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 266176,
+                "courseTitle": "Digital Logic and Assembly Programming",
+                "courseNumber": "225",
+                "prefix": "CECS",
+                "prefixParentId": 1109,
+                "prefixDescription": "Computer Engineering Computer Science",
+                "departmentParentId": 3046,
+                "department": "Computer Engineering Computer Science",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "53a1367a-4028-4602-b30f-9436b6f5a585",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 43224,
+                "courseTitle": "Introduction to Engineering Profession",
+                "courseNumber": "101",
+                "prefix": "ENGR",
+                "prefixParentId": 3545,
+                "prefixDescription": "Engineering",
+                "departmentParentId": 4786,
+                "department": "Engineering",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 43227,
+                    "courseTitle": "Introduction to the Engineering Profession",
+                    "courseNumber": "101H",
+                    "prefix": "ENGR",
+                    "prefixParentId": 3545,
+                    "prefixDescription": "Engineering",
+                    "departmentParentId": 4786,
+                    "department": "Engineering",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0b40c9f0-7861-4625-be83-7dc111f65311",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 205250,
+                "courseTitle": "Object Oriented Application Development",
+                "courseNumber": "277",
+                "prefix": "CECS",
+                "prefixParentId": 1109,
+                "prefixDescription": "Computer Engineering Computer Science",
+                "departmentParentId": 3046,
+                "department": "Computer Engineering Computer Science",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6f2d970d-2d01-4329-9f38-740a2a09e9bc",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 54559,
+                "courseTitle": "Introduction to Computer Engineering and Computer Science",
+                "courseNumber": "105",
+                "prefix": "CECS",
+                "prefixParentId": 1109,
+                "prefixDescription": "Computer Engineering Computer Science",
+                "departmentParentId": 3046,
+                "department": "Computer Engineering Computer Science",
+                "begin": "S2007",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5ae90961-34fe-422b-ae2a-cedb2881f945",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 293340,
+                "courseTitle": "Calculus II",
+                "courseNumber": "123",
+                "prefix": "MATH",
+                "prefixParentId": 9989,
+                "prefixDescription": "Mathematics and Statistics",
+                "departmentParentId": 9084,
+                "department": "Mathematics and Statistics",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "79cb512e-14d8-4527-a508-71e4d6dec57c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 174149,
+                "courseTitle": "Calculus I",
+                "courseNumber": "122",
+                "prefix": "MATH",
+                "prefixParentId": 9989,
+                "prefixDescription": "Mathematics and Statistics",
+                "departmentParentId": 9084,
+                "department": "Mathematics and Statistics",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "72588b0c-9884-43ce-9257-6ad1e7aa7bfd",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "SCIENCE ELECTIVES": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "7b9a0854-fa27-407e-790a-08db8f7b48fa",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303295,
+                "courseTitle": "General Chemistry",
+                "courseNumber": "111A",
+                "prefix": "CHEM",
+                "prefixParentId": 10657,
+                "prefixDescription": "Chemistry and Biochemistry",
+                "departmentParentId": 2394,
+                "department": "Chemistry and Biochemistry",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "93083d9b-e1fb-4e3f-9329-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257780,
+                "courseTitle": "Mechanics and Heat",
+                "courseNumber": "151",
+                "prefix": "PHYS",
+                "prefixParentId": 263,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10794,
+                "department": "Physics",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fb350d88-fa1c-493d-b34f-3dc9897285fb",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL SCIENCE SUPPORT ELECTIVES": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "c7fd4822-bd86-4097-db49-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354337,
+                "courseTitle": "General Biology",
+                "courseNumber": "200",
+                "prefix": "BIOL",
+                "prefixParentId": 4898,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1723,
+                "department": "Biology",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a9106f94-55a6-473a-ab56-6ad27754f9d4",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 289759,
+                "courseTitle": "Human Biology",
+                "courseNumber": "205",
+                "prefix": "BIOL",
+                "prefixParentId": 4898,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1723,
+                "department": "Biology",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "30401675-257e-4d53-b988-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286211,
+                "courseTitle": "Human Physiology",
+                "courseNumber": "207",
+                "prefix": "BIOL",
+                "prefixParentId": 4898,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1723,
+                "department": "Biology",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "63d97133-2859-47a3-b989-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

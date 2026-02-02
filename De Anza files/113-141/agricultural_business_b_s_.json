@@ -1,0 +1,1101 @@
+{
+  "major": "Agricultural Business B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 141,
+    "code": "CSUC    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Chico",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 313810,
+        "courseTitle": "The University Experience",
+        "courseNumber": "180",
+        "prefix": "AGRI",
+        "prefixParentId": 1865,
+        "prefixDescription": "Agriculture",
+        "departmentParentId": 371,
+        "department": "Agriculture",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 365583,
+        "courseTitle": "Introduction to Business Law",
+        "courseNumber": "203",
+        "prefix": "BLAW",
+        "prefixParentId": 16234,
+        "prefixDescription": "Business Law",
+        "departmentParentId": 1982,
+        "department": "Business",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280503,
+              "courseTitle": "Business Law I",
+              "courseNumber": "18",
+              "prefix": "BUS",
+              "prefixParentId": 8279,
+              "prefixDescription": "Business",
+              "departmentParentId": 1965,
+              "department": "Business",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 269364,
+        "courseTitle": "General Chemistry for Applied Sciences",
+        "courseNumber": "107",
+        "prefix": "CHEM",
+        "prefixParentId": 3882,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2401,
+        "department": "Chemistry and Biochemistry",
+        "begin": "F2009",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course articulates with more than one university course"
+                },
+                {
+                  "position": 1,
+                  "content": "Maximum credit, one university course"
+                }
+              ],
+              "courseIdentifierParentId": 359228,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Course articulates with more than one university course"
+                },
+                {
+                  "position": 1,
+                  "content": "Maximum credit, one university course"
+                }
+              ],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 163,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158106,
+        "courseTitle": "Principles of Macroeconomic Analysis",
+        "courseNumber": "102",
+        "prefix": "ECON",
+        "prefixParentId": 1320,
+        "prefixDescription": "Economics",
+        "departmentParentId": 4338,
+        "department": "Economics",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 357742,
+              "courseTitle": "Principles of Macroeconomics - HONORS",
+              "courseNumber": "1H",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253845,
+              "courseTitle": "Principles of Macroeconomics",
+              "courseNumber": "1",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 250160,
+        "courseTitle": "Introduction to Statistics",
+        "courseNumber": "105",
+        "prefix": "MATH",
+        "prefixParentId": 10054,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 9067,
+        "department": "Mathematics",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281385,
+              "courseTitle": "Engineering Statistics",
+              "courseNumber": "23",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "b3919e8d-32be-4e81-1040-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 156317,
+                "courseTitle": "Introduction to Animal Science",
+                "courseNumber": "101",
+                "prefix": "ANSC",
+                "prefixParentId": 2350,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dea5aa07-3dc3-4adb-aec4-1a4be8fbb390",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 151324,
+                "courseTitle": "Introduction to Plant Science",
+                "courseNumber": "101",
+                "prefix": "PSSC",
+                "prefixParentId": 11750,
+                "prefixDescription": "Plant and Soil Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a5e5947e-7fa6-47b4-9eee-e27897f00984",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133832,
+                "courseTitle": "Introduction to Soil Science",
+                "courseNumber": "250",
+                "prefix": "PSSC",
+                "prefixParentId": 11750,
+                "prefixDescription": "Plant and Soil Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ac21e7fa-1b70-43f9-87ff-4953927b07dd",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 348319,
+                "courseTitle": "Computer Applications in Agriculture",
+                "courseNumber": "231",
+                "prefix": "ABUS",
+                "prefixParentId": 7930,
+                "prefixDescription": "Agricultural Business",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "199a82ca-3f39-4642-bb6a-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133846,
+                "courseTitle": "Farm Accounting",
+                "courseNumber": "261",
+                "prefix": "ABUS",
+                "prefixParentId": 7930,
+                "prefixDescription": "Agricultural Business",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c679a42e-1bff-45a9-bb6c-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 237536,
+                "courseTitle": "Management Accounting for Agriculture",
+                "courseNumber": "262",
+                "prefix": "ABUS",
+                "prefixParentId": 7930,
+                "prefixDescription": "Agricultural Business",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dce8eb58-e871-4e71-bb6d-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 313810,
+                "courseTitle": "The University Experience",
+                "courseNumber": "180",
+                "prefix": "AGRI",
+                "prefixParentId": 1865,
+                "prefixDescription": "Agriculture",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course must be taken at receiving institution"
+                }
+              ],
+              "id": "a8bcca8e-58bc-475d-bb6f-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365583,
+                "courseTitle": "Introduction to Business Law",
+                "courseNumber": "203",
+                "prefix": "BLAW",
+                "prefixParentId": 16234,
+                "prefixDescription": "Business Law",
+                "departmentParentId": 1982,
+                "department": "Business",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b4224739-4068-4cd1-c737-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 269364,
+                "courseTitle": "General Chemistry for Applied Sciences",
+                "courseNumber": "107",
+                "prefix": "CHEM",
+                "prefixParentId": 3882,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2401,
+                "department": "Chemistry and Biochemistry",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d2c6e840-9226-4c30-c738-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158106,
+                "courseTitle": "Principles of Macroeconomic Analysis",
+                "courseNumber": "102",
+                "prefix": "ECON",
+                "prefixParentId": 1320,
+                "prefixDescription": "Economics",
+                "departmentParentId": 4338,
+                "department": "Economics",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dc2825c1-36f6-4522-c739-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250160,
+                "courseTitle": "Introduction to Statistics",
+                "courseNumber": "105",
+                "prefix": "MATH",
+                "prefixParentId": 10054,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 9067,
+                "department": "Mathematics",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e74beeb7-fd33-47bd-c73a-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 151326,
+                "courseTitle": "Introduction to Agricultural Business and Economics",
+                "courseNumber": "101",
+                "prefix": "ABUS",
+                "prefixParentId": 7930,
+                "prefixDescription": "Agricultural Business",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2be6bd92-9fc3-4ded-b25d-9cf8fe9d15d6",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 226207,
+                "courseTitle": "Principles of Dairy Production",
+                "courseNumber": "274",
+                "prefix": "ANSC",
+                "prefixParentId": 2350,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d3603cca-5718-4aac-8e05-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 348320,
+                "courseTitle": "Principles of Beef Cattle Production",
+                "courseNumber": "271",
+                "prefix": "ANSC",
+                "prefixParentId": 2350,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "54ac6236-d663-45bf-98e2-682825dec366",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365200,
+                "courseTitle": "Principles of Meat Science",
+                "courseNumber": "276",
+                "prefix": "ANSC",
+                "prefixParentId": 2350,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a726db80-ecf8-43e3-95da-d181c56ab951",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 209595,
+                "courseTitle": "Agricultural Selling and Consulting",
+                "courseNumber": "211",
+                "prefix": "ABUS",
+                "prefixParentId": 7930,
+                "prefixDescription": "Agricultural Business",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "170dc3fa-846f-45be-a487-dd846144b127",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 192252,
+                "courseTitle": "Live Animal and Carcass Evaluation",
+                "courseNumber": "250",
+                "prefix": "ANSC",
+                "prefixParentId": 2350,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "00e17f9a-c910-4223-b5e8-179b17bd0d3c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 208879,
+                "courseTitle": "Animal Feeds and Nutrition",
+                "courseNumber": "230",
+                "prefix": "ANSC",
+                "prefixParentId": 2350,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e85f6c06-8cbd-4996-8a0d-e2d7255d7ab7",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 117393,
+                "courseTitle": "Veterinary Practices",
+                "courseNumber": "160",
+                "prefix": "ANSC",
+                "prefixParentId": 2350,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "07ebde12-543d-4820-b5ef-00fa38916bbb",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 372929,
+                "courseTitle": "Principles of Rangeland Livestock Management",
+                "courseNumber": "294",
+                "prefix": "ANSC",
+                "prefixParentId": 2350,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5636577d-d180-448a-a055-80df0515fc2b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 119549,
+                "courseTitle": "Agricultural Mechanics Project Development",
+                "courseNumber": "220",
+                "prefix": "AGET",
+                "prefixParentId": 5988,
+                "prefixDescription": "Agricultural Engineering Technology",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "909d071b-5a7f-48bf-9882-5919cc2cf59f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 151324,
+                "courseTitle": "Introduction to Plant Science",
+                "courseNumber": "101",
+                "prefix": "PSSC",
+                "prefixParentId": 11750,
+                "prefixDescription": "Plant and Soil Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course is acceptable if not used previously"
+                }
+              ],
+              "id": "3a2df235-3e9e-4e1e-9572-8d33b0f01857",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375106,
+                "courseTitle": "Introduction to Livestock Evaluation",
+                "courseNumber": "220",
+                "prefix": "ANSC",
+                "prefixParentId": 2350,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7aa809c1-f67c-4f70-87fb-3172151724c1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133832,
+                "courseTitle": "Introduction to Soil Science",
+                "courseNumber": "250",
+                "prefix": "PSSC",
+                "prefixParentId": 11750,
+                "prefixDescription": "Plant and Soil Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course is acceptable if not used previously"
+                }
+              ],
+              "id": "f4d0d96f-546f-49b3-96b6-4457eac34e49",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 151341,
+                "courseTitle": "Livestock Skills",
+                "courseNumber": "120",
+                "prefix": "ANSC",
+                "prefixParentId": 2350,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9aef10ca-ebe8-41ef-a644-d07d2a325b49",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329096,
+                "courseTitle": "Introduction to Agricultural Mechanics",
+                "courseNumber": "120",
+                "prefix": "AGET",
+                "prefixParentId": 5988,
+                "prefixDescription": "Agricultural Engineering Technology",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5afbff44-07bb-4a8a-8502-e5f60343204b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 241322,
+                "courseTitle": "Greenhouse Management",
+                "courseNumber": "274",
+                "prefix": "PSSC",
+                "prefixParentId": 11750,
+                "prefixDescription": "Plant and Soil Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "665fac63-249b-48fd-975b-c8a97b475f09",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 254631,
+                "courseTitle": "California Orchard Production and Management",
+                "courseNumber": "266",
+                "prefix": "PSSC",
+                "prefixParentId": 11750,
+                "prefixDescription": "Plant and Soil Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "87b306fb-e599-496e-8a21-c6d9b6624123",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 50520,
+                "courseTitle": "West Coast Crop Production",
+                "courseNumber": "160",
+                "prefix": "PSSC",
+                "prefixParentId": 11750,
+                "prefixDescription": "Plant and Soil Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9dcb5534-89ce-476d-9e02-cd27db9b702a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 192469,
+                "courseTitle": "Agricultural Machine Systems",
+                "courseNumber": "150",
+                "prefix": "AGET",
+                "prefixParentId": 5988,
+                "prefixDescription": "Agricultural Engineering Technology",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "630c2507-78d5-4b21-8f16-9818c6d126c3",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 156317,
+                "courseTitle": "Introduction to Animal Science",
+                "courseNumber": "101",
+                "prefix": "ANSC",
+                "prefixParentId": 2350,
+                "prefixDescription": "Animal Science",
+                "departmentParentId": 371,
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course is acceptable if not used previously"
+                }
+              ],
+              "id": "8373f1c9-3b15-469e-9d5c-fb37d87cec7b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

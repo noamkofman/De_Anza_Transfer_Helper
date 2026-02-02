@@ -1,0 +1,442 @@
+{
+  "major": "Interdisciplinary Studies, BA, Ethnic and Area Studies Concentration",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 98,
+    "code": "CSUB    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Bakersfield",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 350375,
+        "courseTitle": "Race and Ethnic Relations",
+        "courseNumber": "2300",
+        "prefix": "SOC",
+        "prefixParentId": 9079,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12145,
+        "department": "Sociology",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283309,
+              "courseTitle": "Race, Ethnicity, and Inequality",
+              "courseNumber": "10",
+              "prefix": "CETH",
+              "prefixParentId": 16886,
+              "prefixDescription": "Comparative Ethnic Studies",
+              "departmentParentId": 13991,
+              "department": "Comparative Ethnic Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 300395,
+              "courseTitle": "Sociology of Structural Racism in the United States",
+              "courseNumber": "29",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "52e86338-1279-4867-ceec-08dbfa6164b6",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384262,
+                "courseTitle": "Introduction to Asian American and  Pacific Islander Studies",
+                "courseNumber": "1308",
+                "prefix": "ETHS",
+                "prefixParentId": 16684,
+                "prefixDescription": "Ethnic Studies ",
+                "departmentParentId": 7606,
+                "department": "Interdisciplinary Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6cc8cab3-b416-43c4-5012-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384263,
+                "courseTitle": "Introduction to Chicana/o/x Studies",
+                "courseNumber": "1508",
+                "prefix": "ETHS",
+                "prefixParentId": 16684,
+                "prefixDescription": "Ethnic Studies ",
+                "departmentParentId": 7606,
+                "department": "Interdisciplinary Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a98ef2ad-e075-489f-5013-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379634,
+                "courseTitle": "Introduction to Ethnic Studies",
+                "courseNumber": "1208",
+                "prefix": "ETHS",
+                "prefixParentId": 16684,
+                "prefixDescription": "Ethnic Studies ",
+                "departmentParentId": 7606,
+                "department": "Interdisciplinary Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "93f203cb-3de0-46e0-a191-264ce78d96de",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 265068,
+                "courseTitle": "American English Pronunciation ",
+                "courseNumber": "1200",
+                "prefix": "MODL",
+                "prefixParentId": 12723,
+                "prefixDescription": "Modern Language and Literatures",
+                "departmentParentId": 9326,
+                "department": "Modern Language and Literatures",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "47dd9dce-7f06-4865-5014-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 350379,
+                "courseTitle": "World Cultures",
+                "courseNumber": "2300",
+                "prefix": "MODL",
+                "prefixParentId": 12723,
+                "prefixDescription": "Modern Language and Literatures",
+                "departmentParentId": 9326,
+                "department": "Modern Language and Literatures",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e27083c8-d626-4e0f-5015-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 237644,
+                "courseTitle": "Jazz Appreciation",
+                "courseNumber": "1039",
+                "prefix": "MUS",
+                "prefixParentId": 6609,
+                "prefixDescription": "Music",
+                "departmentParentId": 9506,
+                "department": "Music",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1794593c-e525-4454-5016-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 238310,
+                "courseTitle": "Music from a Global Perspective",
+                "courseNumber": "1049",
+                "prefix": "MUS",
+                "prefixParentId": 6609,
+                "prefixDescription": "Music",
+                "departmentParentId": 9506,
+                "department": "Music",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2090ea87-879e-43b9-5017-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 264707,
+                "courseTitle": "Religions of Asia",
+                "courseNumber": "1138",
+                "prefix": "RS",
+                "prefixParentId": 2145,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11673,
+                "department": "Religious Studies",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "60da17c7-9e97-400a-5018-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 237149,
+                "courseTitle": "Ethnic-Minority American Literature",
+                "courseNumber": "2220",
+                "prefix": "ENGL",
+                "prefixParentId": 2721,
+                "prefixDescription": "English",
+                "departmentParentId": 5014,
+                "department": "English",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ae3adea2-5ffc-47ac-9e84-fc67a6a14fa9",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "290994f3-0709-46f0-ceeb-08dbfa6164b6",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 350613,
+                "courseTitle": "Prehistory of the New World",
+                "courseNumber": "2128",
+                "prefix": "ANTH",
+                "prefixParentId": 10784,
+                "prefixDescription": "Anthropology",
+                "departmentParentId": 740,
+                "department": "Anthropology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "62b66da4-62bf-41f8-500e-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 264702,
+                "courseTitle": "Native Peoples of North America",
+                "courseNumber": "2308",
+                "prefix": "ANTH",
+                "prefixParentId": 10784,
+                "prefixDescription": "Anthropology",
+                "departmentParentId": 740,
+                "department": "Anthropology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "68e09505-2f8f-4a13-500f-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 265412,
+                "courseTitle": "Peoples and Cultures of South Asia",
+                "courseNumber": "2310",
+                "prefix": "ANTH",
+                "prefixParentId": 10784,
+                "prefixDescription": "Anthropology",
+                "departmentParentId": 740,
+                "department": "Anthropology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cbd1c2a4-eac7-4dcb-5010-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 350375,
+                "courseTitle": "Race and Ethnic Relations",
+                "courseNumber": "2300",
+                "prefix": "SOC",
+                "prefixParentId": 9079,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12145,
+                "department": "Sociology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "08018f82-345a-4019-5011-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

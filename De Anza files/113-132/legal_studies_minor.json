@@ -1,0 +1,102 @@
+{
+  "major": "Legal Studies Minor",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 132,
+    "code": "UCSC    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Cruz",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 359575,
+        "courseTitle": "Introduction to Legal Process",
+        "courseNumber": "10",
+        "prefix": "LGST",
+        "prefixParentId": 6147,
+        "prefixDescription": "Legal Studies",
+        "departmentParentId": 8439,
+        "department": "Legal Studies",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MINOR": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "aae6074c-b938-4a98-10c6-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359575,
+                "courseTitle": "Introduction to Legal Process",
+                "courseNumber": "10",
+                "prefix": "LGST",
+                "prefixParentId": 6147,
+                "prefixDescription": "Legal Studies",
+                "departmentParentId": 8439,
+                "department": "Legal Studies",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "93fa4820-7845-417c-a58f-08e7ddbbd5ce",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

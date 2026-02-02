@@ -1,0 +1,438 @@
+{
+  "major": "Interior Design",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 123454,
+        "courseTitle": "Design Materials and Tools",
+        "courseNumber": "151",
+        "prefix": "DESN",
+        "prefixParentId": 12300,
+        "prefixDescription": "Design",
+        "departmentParentId": 3866,
+        "department": "Design",
+        "begin": "F2014",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 194192,
+        "courseTitle": "Fundamentals of Design",
+        "courseNumber": "120A",
+        "prefix": "DESN",
+        "prefixParentId": 12300,
+        "prefixDescription": "Design",
+        "departmentParentId": 3866,
+        "department": "Design",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 201648,
+              "courseTitle": "Two-Dimensional Design",
+              "courseNumber": "8",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 341484,
+        "courseTitle": "Fundamentals of Design",
+        "courseNumber": "120B",
+        "prefix": "DESN",
+        "prefixParentId": 12300,
+        "prefixDescription": "Design",
+        "departmentParentId": 3866,
+        "department": "Design",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 191151,
+              "courseTitle": "Design and Color",
+              "courseNumber": "12",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 240234,
+              "courseTitle": "Three-Dimensional Design",
+              "courseNumber": "10A",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "f3b9a176-13df-4435-79ea-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 189098,
+                "courseTitle": "Building Systems for Interior Architecture",
+                "courseNumber": "245",
+                "prefix": "DESN",
+                "prefixParentId": 12300,
+                "prefixDescription": "Design",
+                "departmentParentId": 3866,
+                "department": "Design",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cf500006-f36d-4694-9533-7d40bcae7e41",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 123454,
+                "courseTitle": "Design Materials and Tools",
+                "courseNumber": "151",
+                "prefix": "DESN",
+                "prefixParentId": 12300,
+                "prefixDescription": "Design",
+                "departmentParentId": 3866,
+                "department": "Design",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9ea8b22f-0606-46b3-b00f-6c524d6cff2c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341410,
+                "courseTitle": "Interior Architectural Drafting",
+                "courseNumber": "141",
+                "prefix": "DESN",
+                "prefixParentId": 12300,
+                "prefixDescription": "Design",
+                "departmentParentId": 3866,
+                "department": "Design",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "773f9bff-1099-46a7-a07d-6b112bfc4348",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 212751,
+                "courseTitle": "Materials of Interiors",
+                "courseNumber": "143",
+                "prefix": "DESN",
+                "prefixParentId": 12300,
+                "prefixDescription": "Design",
+                "departmentParentId": 3866,
+                "department": "Design",
+                "begin": "F2010",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2291e832-7958-4fe1-acb1-0e319d11e8bd",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 213422,
+                "courseTitle": "Lighting Design for Interior Architecture",
+                "courseNumber": "244",
+                "prefix": "DESN",
+                "prefixParentId": 12300,
+                "prefixDescription": "Design",
+                "departmentParentId": 3866,
+                "department": "Design",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "208b24f6-ede1-4d4c-be7c-1de6df9026da",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 233357,
+                "courseTitle": "Computer-Aided Drafting",
+                "courseNumber": "246",
+                "prefix": "DESN",
+                "prefixParentId": 12300,
+                "prefixDescription": "Design",
+                "departmentParentId": 3866,
+                "department": "Design",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1f59ca2a-0c47-466e-9f3f-3821edef00b4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341484,
+                "courseTitle": "Fundamentals of Design",
+                "courseNumber": "120B",
+                "prefix": "DESN",
+                "prefixParentId": 12300,
+                "prefixDescription": "Design",
+                "departmentParentId": 3866,
+                "department": "Design",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f68fcd50-d4b5-47d2-b4bd-f81ac2f70607",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 366010,
+                "courseTitle": "Visualization for Interior Architecture",
+                "courseNumber": "230",
+                "prefix": "DESN",
+                "prefixParentId": 12300,
+                "prefixDescription": "Design",
+                "departmentParentId": 3866,
+                "department": "Design",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fffbf7af-8180-49ab-98ba-437ee3092f41",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 366009,
+                "courseTitle": "Perspective and Rendering for Interiors",
+                "courseNumber": "130",
+                "prefix": "DESN",
+                "prefixParentId": 12300,
+                "prefixDescription": "Design",
+                "departmentParentId": 3866,
+                "department": "Design",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "972cc786-30e7-4d79-8c7c-45a89a3e6c8a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 194192,
+                "courseTitle": "Fundamentals of Design",
+                "courseNumber": "120A",
+                "prefix": "DESN",
+                "prefixParentId": 12300,
+                "prefixDescription": "Design",
+                "departmentParentId": 3866,
+                "department": "Design",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1cd3f2af-e5da-4cbf-b125-9d1aa8b4057e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 214579,
+                "courseTitle": "Beginning Space Planning",
+                "courseNumber": "142",
+                "prefix": "DESN",
+                "prefixParentId": 12300,
+                "prefixDescription": "Design",
+                "departmentParentId": 3866,
+                "department": "Design",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f113e23b-ceeb-4b72-a376-746d333686a7",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

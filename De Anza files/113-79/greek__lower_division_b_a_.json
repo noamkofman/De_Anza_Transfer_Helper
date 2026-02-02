@@ -1,0 +1,193 @@
+{
+  "major": "Greek, Lower Division B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 79,
+    "code": "UCB     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "University of California, Berkeley",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 245398,
+        "courseTitle": "Introduction to Ancient Greece",
+        "courseNumber": "10A",
+        "prefix": "AGRS",
+        "prefixParentId": 3084,
+        "prefixDescription": "Ancient Greek & Roman Studies",
+        "departmentParentId": 14116,
+        "department": "Ancient Greek & Roman Studies",
+        "begin": "F2021",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353628,
+              "courseTitle": "The Greek Achievement",
+              "courseNumber": "20",
+              "prefix": "HUMI",
+              "prefixParentId": 6457,
+              "prefixDescription": "Humanities",
+              "departmentParentId": 7405,
+              "department": "Humanities",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 351702,
+                "courseTitle": "Elementary Greek",
+                "courseNumber": "1",
+                "prefix": "GREEK",
+                "prefixParentId": 9753,
+                "prefixDescription": "Greek",
+                "departmentParentId": 14116,
+                "department": "Ancient Greek & Roman Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ba969e4e-841e-4200-ab72-b716b10d2057",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 281307,
+                "courseTitle": "Elementary Greek",
+                "courseNumber": "2",
+                "prefix": "GREEK",
+                "prefixParentId": 9753,
+                "prefixDescription": "Greek",
+                "departmentParentId": 14116,
+                "department": "Ancient Greek & Roman Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6c24f4ee-5541-4ea4-86ea-fcdac74162e5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 245398,
+                "courseTitle": "Introduction to Ancient Greece",
+                "courseNumber": "10A",
+                "prefix": "AGRS",
+                "prefixParentId": 3084,
+                "prefixDescription": "Ancient Greek & Roman Studies",
+                "departmentParentId": 14116,
+                "department": "Ancient Greek & Roman Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e96128d6-1abf-4ef5-958e-314f16d50420",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 275226,
+                "courseTitle": "Introduction to Ancient Rome",
+                "courseNumber": "10B",
+                "prefix": "AGRS",
+                "prefixParentId": 3084,
+                "prefixDescription": "Ancient Greek & Roman Studies",
+                "departmentParentId": 14116,
+                "department": "Ancient Greek & Roman Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "20b8eb74-c3ba-4fdb-9cb8-ed192d184304",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

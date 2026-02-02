@@ -1,0 +1,423 @@
+{
+  "major": "Family Studies and Human Development, BS",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 60,
+    "code": "CSUS    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Sacramento",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 329119,
+        "courseTitle": "Sense and Nonsense in Social Issues and Research",
+        "courseNumber": "8",
+        "prefix": "SOC",
+        "prefixParentId": 9034,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12072,
+        "department": "Sociology",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 329111,
+        "courseTitle": "Introduction to Statistics",
+        "courseNumber": "1",
+        "prefix": "STAT",
+        "prefixParentId": 3361,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 8995,
+        "department": "Mathematics",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 222802,
+        "courseTitle": "The Family and Social Issues",
+        "courseNumber": "50",
+        "prefix": "FSHD",
+        "prefixParentId": 16706,
+        "prefixDescription": "Family Studies Human Development",
+        "departmentParentId": 5475,
+        "department": "Family and Consumer Sciences",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 293348,
+              "courseTitle": "Marriage, Family and Intimate Relationships",
+              "courseNumber": "35",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 219,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 213989,
+        "courseTitle": "The Child in the Family",
+        "courseNumber": "52",
+        "prefix": "FSHD",
+        "prefixParentId": 16706,
+        "prefixDescription": "Family Studies Human Development",
+        "departmentParentId": 5475,
+        "department": "Family and Consumer Sciences",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "31d665f6-0e00-4247-ad9e-d290903e5fb8",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 284725,
+                  "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+                  "courseNumber": "10H",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2016",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284726,
+              "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+              "courseNumber": "10H",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "6e08eb6c-a1ff-4b40-ad3f-420c9455d66c",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 284398,
+                  "courseTitle": "Child Development (The Early Years)",
+                  "courseNumber": "10G",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F1998",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284399,
+              "courseTitle": "Child Development (The Early Years)",
+              "courseNumber": "10G",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 341634,
+        "courseTitle": "Nutrition and Wellness",
+        "courseNumber": "10",
+        "prefix": "NUFD",
+        "prefixParentId": 16650,
+        "prefixDescription": "Nutrition and Food",
+        "departmentParentId": 5475,
+        "department": "Family and Consumer Sciences",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353646,
+              "courseTitle": "Contemporary Nutrition",
+              "courseNumber": "10",
+              "prefix": "NUTR",
+              "prefixParentId": 7969,
+              "prefixDescription": "Nutrition",
+              "departmentParentId": 9790,
+              "department": "Nutrition",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "9c41854a-dd96-4e12-8d97-08dbef767191",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329119,
+                "courseTitle": "Sense and Nonsense in Social Issues and Research",
+                "courseNumber": "8",
+                "prefix": "SOC",
+                "prefixParentId": 9034,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12072,
+                "department": "Sociology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2df348ab-24f2-4c0c-8f9b-08dbef75aa67",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329111,
+                "courseTitle": "Introduction to Statistics",
+                "courseNumber": "1",
+                "prefix": "STAT",
+                "prefixParentId": 3361,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 8995,
+                "department": "Mathematics",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4951867b-aaf7-44f2-8f9c-08dbef75aa67",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 222802,
+                "courseTitle": "The Family and Social Issues",
+                "courseNumber": "50",
+                "prefix": "FSHD",
+                "prefixParentId": 16706,
+                "prefixDescription": "Family Studies Human Development",
+                "departmentParentId": 5475,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "335b84b6-3d53-4f58-8aeb-2c9b27c6ec59",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 213989,
+                "courseTitle": "The Child in the Family",
+                "courseNumber": "52",
+                "prefix": "FSHD",
+                "prefixParentId": 16706,
+                "prefixDescription": "Family Studies Human Development",
+                "departmentParentId": 5475,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4de6b5e4-10d2-424a-84ab-b6416c213495",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341634,
+                "courseTitle": "Nutrition and Wellness",
+                "courseNumber": "10",
+                "prefix": "NUFD",
+                "prefixParentId": 16650,
+                "prefixDescription": "Nutrition and Food",
+                "departmentParentId": 5475,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0710cbf2-826e-4680-a9c8-4defa63dab40",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

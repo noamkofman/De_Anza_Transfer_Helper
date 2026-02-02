@@ -1,0 +1,317 @@
+{
+  "major": "Finance Minor: Rady School of Management",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 7,
+    "code": "UCSD    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, San Diego",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 294912,
+        "courseTitle": "Financial Accounting",
+        "courseNumber": "4",
+        "prefix": "MGT",
+        "prefixParentId": 14777,
+        "prefixDescription": "Management",
+        "departmentParentId": 11449,
+        "department": "Rady School of Management",
+        "begin": "F2012",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305222,
+              "courseTitle": "Financial Accounting I - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309246,
+              "courseTitle": "Financial Accounting I",
+              "courseNumber": "1A",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 357143,
+        "courseTitle": "Managerial Accounting",
+        "courseNumber": "5",
+        "prefix": "MGT",
+        "prefixParentId": 14777,
+        "prefixDescription": "Management",
+        "departmentParentId": 11449,
+        "department": "Rady School of Management",
+        "begin": "F2012",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 304827,
+              "courseTitle": "Managerial Accounting",
+              "courseNumber": "1C",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 360065,
+              "courseTitle": "Managerial Accounting - HONORS",
+              "courseNumber": "1CH",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MINOR": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "11dd705a-fb93-4acb-1bcf-08dba898cc31",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 302694,
+                "courseTitle": "Principles of Accounting",
+                "courseNumber": "45",
+                "prefix": "MGT",
+                "prefixParentId": 14777,
+                "prefixDescription": "Management",
+                "departmentParentId": 11449,
+                "department": "Rady School of Management",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3660c753-0f28-40c3-9d22-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 294912,
+                "courseTitle": "Financial Accounting",
+                "courseNumber": "4",
+                "prefix": "MGT",
+                "prefixParentId": 14777,
+                "prefixDescription": "Management",
+                "departmentParentId": 11449,
+                "department": "Rady School of Management",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 294910,
+                    "courseTitle": "Financial Accounting",
+                    "courseNumber": "4",
+                    "prefix": "ECON",
+                    "prefixParentId": 1187,
+                    "prefixDescription": "Economics",
+                    "departmentParentId": 4221,
+                    "department": "Economics",
+                    "begin": "F2009",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a2b8d958-883e-49dc-9d23-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 357143,
+                "courseTitle": "Managerial Accounting",
+                "courseNumber": "5",
+                "prefix": "MGT",
+                "prefixParentId": 14777,
+                "prefixDescription": "Management",
+                "departmentParentId": 11449,
+                "department": "Rady School of Management",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6838ff92-1154-45d9-9d24-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 298987,
+                "courseTitle": "Personal Financial Management",
+                "courseNumber": "12",
+                "prefix": "MGT",
+                "prefixParentId": 14777,
+                "prefixDescription": "Management",
+                "departmentParentId": 11449,
+                "department": "Rady School of Management",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4a278eb9-89a9-4c94-8fbf-e1a55b1fd2e1",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

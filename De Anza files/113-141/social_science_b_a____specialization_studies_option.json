@@ -1,0 +1,3306 @@
+{
+  "major": "Social Science B.A. - Specialization Studies Option",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 141,
+    "code": "CSUC    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Chico",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 158095,
+        "courseTitle": "California Cultural Landscapes",
+        "courseNumber": "105",
+        "prefix": "GEOG",
+        "prefixParentId": 10629,
+        "prefixDescription": "Geography",
+        "departmentParentId": 6253,
+        "department": "Geography and Planning",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 271450,
+              "courseTitle": "A Geography of California",
+              "courseNumber": "5",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 99081,
+        "courseTitle": "Observational Techniques",
+        "courseNumber": "251",
+        "prefix": "CHLD",
+        "prefixParentId": 7267,
+        "prefixDescription": "Child Development",
+        "departmentParentId": 2449,
+        "department": "Child Development",
+        "begin": "F2007",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 154343,
+              "courseTitle": "Observation and Assessment of Children",
+              "courseNumber": "52",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 208894,
+        "courseTitle": "Child Development",
+        "courseNumber": "252",
+        "prefix": "CHLD",
+        "prefixParentId": 7267,
+        "prefixDescription": "Child Development",
+        "departmentParentId": 2449,
+        "department": "Child Development",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "Or",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "f64303b9-c08b-40d2-e3fd-08dbc4ea3341",
+                  "publishedCourseIdentifierYearTermId": 195,
+                  "courseIdentifierParentId": 284399,
+                  "courseTitle": "Child Development (The Early Years)",
+                  "courseNumber": "10G",
+                  "prefix": "C D",
+                  "prefixParentId": 7251,
+                  "prefixDescription": "Child Development",
+                  "departmentParentId": 2448,
+                  "department": "Child Development",
+                  "begin": "F1999",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284398,
+              "courseTitle": "Child Development (The Early Years)",
+              "courseNumber": "10G",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 191,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "f3c9cf69-fbe0-4e70-bddc-fcc05d59af2e",
+                  "publishedCourseIdentifierYearTermId": 191,
+                  "courseIdentifierParentId": 284398,
+                  "courseTitle": "Child Development (The Early Years)",
+                  "courseNumber": "10G",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F1998",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284399,
+              "courseTitle": "Child Development (The Early Years)",
+              "courseNumber": "10G",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 195,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "Or",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "0fcabd95-3da2-42e4-e3fe-08dbc4ea3341",
+                  "publishedCourseIdentifierYearTermId": 263,
+                  "courseIdentifierParentId": 284725,
+                  "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+                  "courseNumber": "10H",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2016",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284726,
+              "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+              "courseNumber": "10H",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "f5638326-fa83-4be4-9593-00db08d41560",
+                  "publishedCourseIdentifierYearTermId": 263,
+                  "courseIdentifierParentId": 284726,
+                  "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+                  "courseNumber": "10H",
+                  "prefix": "C D",
+                  "prefixParentId": 7251,
+                  "prefixDescription": "Child Development",
+                  "departmentParentId": 2448,
+                  "department": "Child Development",
+                  "begin": "F2016",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284725,
+              "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+              "courseNumber": "10H",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 330573,
+        "courseTitle": "Marriage and Family Relationships",
+        "courseNumber": "255",
+        "prefix": "CHLD",
+        "prefixParentId": 7267,
+        "prefixDescription": "Child Development",
+        "departmentParentId": 2449,
+        "department": "Child Development",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247734,
+              "courseTitle": "Child, Family and Community Interrelationships",
+              "courseNumber": "12",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 293348,
+              "courseTitle": "Marriage, Family and Intimate Relationships",
+              "courseNumber": "35",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 265942,
+        "courseTitle": "Children in a Changing World",
+        "courseNumber": "272",
+        "prefix": "CHLD",
+        "prefixParentId": 7267,
+        "prefixDescription": "Child Development",
+        "departmentParentId": 2449,
+        "department": "Child Development",
+        "begin": "F2012",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 241080,
+        "courseTitle": "Juvenile Justice Process",
+        "courseNumber": "257",
+        "prefix": "CRIM",
+        "prefixParentId": 17248,
+        "prefixDescription": "Criminal Justice",
+        "departmentParentId": 11094,
+        "department": "Political Science and Criminal Justice",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "fa01d877-1a49-4376-ad0b-6a6cb13f241c",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 253841,
+                  "courseTitle": "Youth and the Law",
+                  "courseNumber": "54",
+                  "prefix": "ADMJ",
+                  "prefixParentId": 2523,
+                  "prefixDescription": "Administration of Justice",
+                  "departmentParentId": 173,
+                  "department": "Administration of Justice",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                },
+                {
+                  "id": "01adde73-0ba9-47d2-888d-9606afca3022",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 361158,
+                  "courseTitle": "Youth and the Law",
+                  "courseNumber": "54",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 361154,
+              "courseTitle": "Youth and the Law",
+              "courseNumber": "54",
+              "prefix": "PARA",
+              "prefixParentId": 7126,
+              "prefixDescription": "Paralegal Studies",
+              "departmentParentId": 9993,
+              "department": "Paralegal Studies",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "4adaef99-87ca-4582-a1ce-d07fd8f4658c",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 253841,
+                  "courseTitle": "Youth and the Law",
+                  "courseNumber": "54",
+                  "prefix": "ADMJ",
+                  "prefixParentId": 2523,
+                  "prefixDescription": "Administration of Justice",
+                  "departmentParentId": 173,
+                  "department": "Administration of Justice",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                },
+                {
+                  "id": "ebdae977-5d18-4062-bace-9c6d1ddca89f",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 361154,
+                  "courseTitle": "Youth and the Law",
+                  "courseNumber": "54",
+                  "prefix": "PARA",
+                  "prefixParentId": 7126,
+                  "prefixDescription": "Paralegal Studies",
+                  "departmentParentId": 9993,
+                  "department": "Paralegal Studies",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 361158,
+              "courseTitle": "Youth and the Law",
+              "courseNumber": "54",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "88bfd9bc-2b09-4964-9808-f92a58d3d50a",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 361154,
+                  "courseTitle": "Youth and the Law",
+                  "courseNumber": "54",
+                  "prefix": "PARA",
+                  "prefixParentId": 7126,
+                  "prefixDescription": "Paralegal Studies",
+                  "departmentParentId": 9993,
+                  "department": "Paralegal Studies",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                },
+                {
+                  "id": "28a4463a-21fb-4ff9-abd3-c07aa80fbc20",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 361158,
+                  "courseTitle": "Youth and the Law",
+                  "courseNumber": "54",
+                  "prefix": "SOC",
+                  "prefixParentId": 9095,
+                  "prefixDescription": "Sociology",
+                  "departmentParentId": 12108,
+                  "department": "Sociology",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253841,
+              "courseTitle": "Youth and the Law",
+              "courseNumber": "54",
+              "prefix": "ADMJ",
+              "prefixParentId": 2523,
+              "prefixDescription": "Administration of Justice",
+              "departmentParentId": 173,
+              "department": "Administration of Justice",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158106,
+        "courseTitle": "Principles of Macroeconomic Analysis",
+        "courseNumber": "102",
+        "prefix": "ECON",
+        "prefixParentId": 1320,
+        "prefixDescription": "Economics",
+        "departmentParentId": 4338,
+        "department": "Economics",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 357742,
+              "courseTitle": "Principles of Macroeconomics - HONORS",
+              "courseNumber": "1H",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253845,
+              "courseTitle": "Principles of Macroeconomics",
+              "courseNumber": "1",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158072,
+        "courseTitle": "Principles of Microeconomic Analysis",
+        "courseNumber": "103",
+        "prefix": "ECON",
+        "prefixParentId": 1320,
+        "prefixDescription": "Economics",
+        "departmentParentId": 4338,
+        "department": "Economics",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290810,
+              "courseTitle": "Principles of Microeconomics",
+              "courseNumber": "2",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 304874,
+              "courseTitle": "Principles of Microeconomics - HONORS",
+              "courseNumber": "2H",
+              "prefix": "ECON",
+              "prefixParentId": 1291,
+              "prefixDescription": "Economics",
+              "departmentParentId": 4312,
+              "department": "Economics",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 208894,
+        "courseTitle": "Child Development",
+        "courseNumber": "252",
+        "prefix": "CHLD",
+        "prefixParentId": 7267,
+        "prefixDescription": "Child Development",
+        "departmentParentId": 2449,
+        "department": "Child Development",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "Or",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "f64303b9-c08b-40d2-e3fd-08dbc4ea3341",
+                  "publishedCourseIdentifierYearTermId": 195,
+                  "courseIdentifierParentId": 284399,
+                  "courseTitle": "Child Development (The Early Years)",
+                  "courseNumber": "10G",
+                  "prefix": "C D",
+                  "prefixParentId": 7251,
+                  "prefixDescription": "Child Development",
+                  "departmentParentId": 2448,
+                  "department": "Child Development",
+                  "begin": "F1999",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284398,
+              "courseTitle": "Child Development (The Early Years)",
+              "courseNumber": "10G",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 191,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "f3c9cf69-fbe0-4e70-bddc-fcc05d59af2e",
+                  "publishedCourseIdentifierYearTermId": 191,
+                  "courseIdentifierParentId": 284398,
+                  "courseTitle": "Child Development (The Early Years)",
+                  "courseNumber": "10G",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F1998",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284399,
+              "courseTitle": "Child Development (The Early Years)",
+              "courseNumber": "10G",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 195,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "Or",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "0fcabd95-3da2-42e4-e3fe-08dbc4ea3341",
+                  "publishedCourseIdentifierYearTermId": 263,
+                  "courseIdentifierParentId": 284725,
+                  "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+                  "courseNumber": "10H",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2016",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284726,
+              "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+              "courseNumber": "10H",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "f5638326-fa83-4be4-9593-00db08d41560",
+                  "publishedCourseIdentifierYearTermId": 263,
+                  "courseIdentifierParentId": 284726,
+                  "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+                  "courseNumber": "10H",
+                  "prefix": "C D",
+                  "prefixParentId": 7251,
+                  "prefixDescription": "Child Development",
+                  "departmentParentId": 2448,
+                  "department": "Child Development",
+                  "begin": "F2016",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284725,
+              "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+              "courseNumber": "10H",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 330573,
+        "courseTitle": "Marriage and Family Relationships",
+        "courseNumber": "255",
+        "prefix": "CHLD",
+        "prefixParentId": 7267,
+        "prefixDescription": "Child Development",
+        "departmentParentId": 2449,
+        "department": "Child Development",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247734,
+              "courseTitle": "Child, Family and Community Interrelationships",
+              "courseNumber": "12",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 293348,
+              "courseTitle": "Marriage, Family and Intimate Relationships",
+              "courseNumber": "35",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158118,
+        "courseTitle": "Sociology of Sexuality",
+        "courseNumber": "133",
+        "prefix": "SOCI",
+        "prefixParentId": 9127,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12150,
+        "department": "Sociology",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353345,
+              "courseTitle": "Human Sexuality",
+              "courseNumber": "10",
+              "prefix": "HUMA",
+              "prefixParentId": 2275,
+              "prefixDescription": "Human Development",
+              "departmentParentId": 7228,
+              "department": "Human Development",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 134536,
+        "courseTitle": "Earth Systems and Physical Geography",
+        "courseNumber": "101",
+        "prefix": "GEOG",
+        "prefixParentId": 10629,
+        "prefixDescription": "Geography",
+        "departmentParentId": 6253,
+        "department": "Geography and Planning",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 157435,
+        "courseTitle": "Peoples, Places, and Environments",
+        "courseNumber": "102",
+        "prefix": "GEOG",
+        "prefixParentId": 10629,
+        "prefixDescription": "Geography",
+        "departmentParentId": 6253,
+        "department": "Geography and Planning",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 298844,
+              "courseTitle": "Cultural Geography",
+              "courseNumber": "4",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F2004",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158095,
+        "courseTitle": "California Cultural Landscapes",
+        "courseNumber": "105",
+        "prefix": "GEOG",
+        "prefixParentId": 10629,
+        "prefixDescription": "Geography",
+        "departmentParentId": 6253,
+        "department": "Geography and Planning",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 271450,
+              "courseTitle": "A Geography of California",
+              "courseNumber": "5",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 365599,
+        "courseTitle": "Introduction to International Relations",
+        "courseNumber": "141",
+        "prefix": "INTR",
+        "prefixParentId": 17250,
+        "prefixDescription": "International Relations",
+        "departmentParentId": 11094,
+        "department": "Political Science and Criminal Justice",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254897,
+              "courseTitle": "International Relations",
+              "courseNumber": "3",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 365600,
+        "courseTitle": "Introduction to Comparative Politics",
+        "courseNumber": "142",
+        "prefix": "INTR",
+        "prefixParentId": 17250,
+        "prefixDescription": "International Relations",
+        "departmentParentId": 11094,
+        "department": "Political Science and Criminal Justice",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290158,
+              "courseTitle": "Comparative Politics",
+              "courseNumber": "2",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 154131,
+        "courseTitle": "Introduction to the Asian American Experience",
+        "courseNumber": "152",
+        "prefix": "AAST",
+        "prefixParentId": 3337,
+        "prefixDescription": "Asian American Studies",
+        "departmentParentId": 9346,
+        "department": "Multicultural and Gender Studies",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281717,
+              "courseTitle": "Asian American Experience Past and Present",
+              "courseNumber": "1",
+              "prefix": "ASAM",
+              "prefixParentId": 16555,
+              "prefixDescription": "Asian American and Asian Studies",
+              "departmentParentId": 13706,
+              "department": "Asian American and Asian Studies",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 151288,
+        "courseTitle": "Introduction to Black/African American Studies",
+        "courseNumber": "170",
+        "prefix": "AFAM",
+        "prefixParentId": 5918,
+        "prefixDescription": "African American Studies",
+        "departmentParentId": 9346,
+        "department": "Multicultural and Gender Studies",
+        "begin": "F2021",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 255023,
+              "courseTitle": "An Introduction to African American Studies",
+              "courseNumber": "10",
+              "prefix": "AFAM",
+              "prefixParentId": 16884,
+              "prefixDescription": "African American Studies",
+              "departmentParentId": 13989,
+              "department": "African American Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 151296,
+        "courseTitle": "Introduction to American Indian Studies/US Native American Studies",
+        "courseNumber": "170",
+        "prefix": "AIST",
+        "prefixParentId": 3987,
+        "prefixDescription": "American Indian Studies",
+        "departmentParentId": 9346,
+        "department": "Multicultural and Gender Studies",
+        "begin": "F2021",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353299,
+              "courseTitle": "Native American Contemporary Society",
+              "courseNumber": "11",
+              "prefix": "NAIS",
+              "prefixParentId": 16887,
+              "prefixDescription": "Native American and Indigenous Studies",
+              "departmentParentId": 13992,
+              "department": "Native American and Indigenous Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 151291,
+        "courseTitle": "Introduction to Latinx",
+        "courseNumber": "157",
+        "prefix": "CHLX",
+        "prefixParentId": 4256,
+        "prefixDescription": "Chicanx/Latinx Studies",
+        "departmentParentId": 9346,
+        "department": "Multicultural and Gender Studies",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283279,
+              "courseTitle": "Introduction to Chicanx and Latinx Studies",
+              "courseNumber": "10",
+              "prefix": "CHLX",
+              "prefixParentId": 16885,
+              "prefixDescription": "Chicanx/Latinx Studies",
+              "departmentParentId": 13990,
+              "department": "Chicanx/Latinx Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 133765,
+        "courseTitle": "Introduction to Women's Studies",
+        "courseNumber": "170",
+        "prefix": "WMST",
+        "prefixParentId": 11836,
+        "prefixDescription": "Women's Studies",
+        "departmentParentId": 9346,
+        "department": "Multicultural and Gender Studies",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284392,
+              "courseTitle": "Introduction to Women's Studies",
+              "courseNumber": "1",
+              "prefix": "WMST",
+              "prefixParentId": 11816,
+              "prefixDescription": "Women's Studies",
+              "departmentParentId": 13150,
+              "department": "Women's Studies",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 365599,
+        "courseTitle": "Introduction to International Relations",
+        "courseNumber": "141",
+        "prefix": "INTR",
+        "prefixParentId": 17250,
+        "prefixDescription": "International Relations",
+        "departmentParentId": 11094,
+        "department": "Political Science and Criminal Justice",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254897,
+              "courseTitle": "International Relations",
+              "courseNumber": "3",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 365600,
+        "courseTitle": "Introduction to Comparative Politics",
+        "courseNumber": "142",
+        "prefix": "INTR",
+        "prefixParentId": 17250,
+        "prefixDescription": "International Relations",
+        "departmentParentId": 11094,
+        "department": "Political Science and Criminal Justice",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290158,
+              "courseTitle": "Comparative Politics",
+              "courseNumber": "2",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 133830,
+        "courseTitle": "Principles of Psychology",
+        "courseNumber": "101",
+        "prefix": "PSYC",
+        "prefixParentId": 4749,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11215,
+        "department": "Psychology",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281450,
+              "courseTitle": "General Psychology",
+              "courseNumber": "1",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 241078,
+        "courseTitle": "Introduction to Criminal Justice",
+        "courseNumber": "250",
+        "prefix": "CRIM",
+        "prefixParentId": 17248,
+        "prefixDescription": "Criminal Justice",
+        "departmentParentId": 11094,
+        "department": "Political Science and Criminal Justice",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290405,
+              "courseTitle": "Introduction to Administration of Justice",
+              "courseNumber": "1",
+              "prefix": "ADMJ",
+              "prefixParentId": 2523,
+              "prefixDescription": "Administration of Justice",
+              "departmentParentId": 173,
+              "department": "Administration of Justice",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 267,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283642,
+              "courseTitle": "Introduction to Administration of Justice",
+              "courseNumber": "10",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 267,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 209189,
+        "courseTitle": "Human Cultural Diversity",
+        "courseNumber": "113",
+        "prefix": "ANTH",
+        "prefixParentId": 10831,
+        "prefixDescription": "Anthropology",
+        "departmentParentId": 766,
+        "department": "Anthropology",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 274005,
+              "courseTitle": "Cultural Anthropology - HONORS",
+              "courseNumber": "2H",
+              "prefix": "ANTH",
+              "prefixParentId": 10801,
+              "prefixDescription": "Anthropology",
+              "departmentParentId": 749,
+              "department": "Anthropology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282442,
+              "courseTitle": "Cultural Anthropology",
+              "courseNumber": "2",
+              "prefix": "ANTH",
+              "prefixParentId": 10801,
+              "prefixDescription": "Anthropology",
+              "departmentParentId": 749,
+              "department": "Anthropology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION CORE REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "57c45822-e6d6-4101-de3d-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 260012,
+                "courseTitle": "Data Interpretation and Communication for the Social Sciences",
+                "courseNumber": "210",
+                "prefix": "SOSC",
+                "prefixParentId": 11947,
+                "prefixDescription": "Social Science",
+                "departmentParentId": 11993,
+                "department": "Social Science",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4f05d916-2529-459e-8e62-ab78d1759c95",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "CONCENTRATION REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 9,
+          "amountQuantifier": "UpTo",
+          "amountUnitType": "Unit",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "0af66888-d4eb-43ae-df7d-08db99b6efac",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 255496,
+                "courseTitle": "Introduction to Asian Studies",
+                "courseNumber": "110W",
+                "prefix": "ASST",
+                "prefixParentId": 8671,
+                "prefixDescription": "Asian Studies",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 255495,
+                    "courseTitle": "Introduction to Asian Studies",
+                    "courseNumber": "110W",
+                    "prefix": "AAST",
+                    "prefixParentId": 3337,
+                    "prefixDescription": "Asian American Studies",
+                    "departmentParentId": 9346,
+                    "department": "Multicultural and Gender Studies",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "41f6052d-2673-4d62-c6e4-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 209597,
+                "courseTitle": "Cultures of Asia",
+                "courseNumber": "200",
+                "prefix": "ASST",
+                "prefixParentId": 8671,
+                "prefixDescription": "Asian Studies",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 209598,
+                    "courseTitle": "Cultures of Asia",
+                    "courseNumber": "200",
+                    "prefix": "ANTH",
+                    "prefixParentId": 10831,
+                    "prefixDescription": "Anthropology",
+                    "departmentParentId": 766,
+                    "department": "Anthropology",
+                    "begin": "F2005",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "86def2da-c4dd-4d08-c6e5-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250170,
+                "courseTitle": "Introduction to Spiritual Traditions of Asia",
+                "courseNumber": "110",
+                "prefix": "RELS",
+                "prefixParentId": 2161,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 2944,
+                "department": "Comparative Religion and Humanities",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fa5f97a7-1d1a-4f54-c6e6-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133804,
+                "courseTitle": "American West Decolonized",
+                "courseNumber": "106",
+                "prefix": "GEOG",
+                "prefixParentId": 10629,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6253,
+                "department": "Geography and Planning",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "89105406-bdd8-41de-c6e7-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 209602,
+                "courseTitle": "American Ethnic and Regional Writers",
+                "courseNumber": "264W",
+                "prefix": "ENGL",
+                "prefixParentId": 2766,
+                "prefixDescription": "English",
+                "departmentParentId": 5046,
+                "department": "English",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "949b9911-7854-4499-c6e8-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158095,
+                "courseTitle": "California Cultural Landscapes",
+                "courseNumber": "105",
+                "prefix": "GEOG",
+                "prefixParentId": 10629,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6253,
+                "department": "Geography and Planning",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "27a21dbe-f5ba-4488-c6e9-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157450,
+                "courseTitle": "Introduction to Spirituality and Religion in California",
+                "courseNumber": "180",
+                "prefix": "RELS",
+                "prefixParentId": 2161,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 2944,
+                "department": "Comparative Religion and Humanities",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "797f6a71-234b-4c84-c6ea-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250241,
+                "courseTitle": "Diversity and Social Justice",
+                "courseNumber": "200",
+                "prefix": "SWRK",
+                "prefixParentId": 6015,
+                "prefixDescription": "Social Work",
+                "departmentParentId": 12029,
+                "department": "Social Work",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c6c61ea0-ce74-41dd-c6ed-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 266136,
+                "courseTitle": "Human Behavior Across the Lifespan",
+                "courseNumber": "202",
+                "prefix": "SWRK",
+                "prefixParentId": 6015,
+                "prefixDescription": "Social Work",
+                "departmentParentId": 12029,
+                "department": "Social Work",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "47a2894a-94a1-47bd-c6ee-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383035,
+                "courseTitle": "Introduction to Public Administration",
+                "courseNumber": "260",
+                "prefix": "PADM",
+                "prefixParentId": 17251,
+                "prefixDescription": "Public Administration",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3f27aba8-e0b2-42b8-c6ef-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 99081,
+                "courseTitle": "Observational Techniques",
+                "courseNumber": "251",
+                "prefix": "CHLD",
+                "prefixParentId": 7267,
+                "prefixDescription": "Child Development",
+                "departmentParentId": 2449,
+                "department": "Child Development",
+                "begin": "F2007",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4f265496-c570-4e57-c6f0-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 208894,
+                "courseTitle": "Child Development",
+                "courseNumber": "252",
+                "prefix": "CHLD",
+                "prefixParentId": 7267,
+                "prefixDescription": "Child Development",
+                "departmentParentId": 2449,
+                "department": "Child Development",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "69d515e4-92c1-4d8f-c6f1-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330573,
+                "courseTitle": "Marriage and Family Relationships",
+                "courseNumber": "255",
+                "prefix": "CHLD",
+                "prefixParentId": 7267,
+                "prefixDescription": "Child Development",
+                "departmentParentId": 2449,
+                "department": "Child Development",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b40cad7e-3c70-453e-c6f2-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 265942,
+                "courseTitle": "Children in a Changing World",
+                "courseNumber": "272",
+                "prefix": "CHLD",
+                "prefixParentId": 7267,
+                "prefixDescription": "Child Development",
+                "departmentParentId": 2449,
+                "department": "Child Development",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fcf6a194-0221-4cd5-c6f3-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 241080,
+                "courseTitle": "Juvenile Justice Process",
+                "courseNumber": "257",
+                "prefix": "CRIM",
+                "prefixParentId": 17248,
+                "prefixDescription": "Criminal Justice",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b7bc47d6-ee4e-4ee3-c6f4-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158106,
+                "courseTitle": "Principles of Macroeconomic Analysis",
+                "courseNumber": "102",
+                "prefix": "ECON",
+                "prefixParentId": 1320,
+                "prefixDescription": "Economics",
+                "departmentParentId": 4338,
+                "department": "Economics",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1d653d3f-c3b0-42c7-c6f5-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158072,
+                "courseTitle": "Principles of Microeconomic Analysis",
+                "courseNumber": "103",
+                "prefix": "ECON",
+                "prefixParentId": 1320,
+                "prefixDescription": "Economics",
+                "departmentParentId": 4338,
+                "department": "Economics",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f7782625-20ea-4bb2-c6f6-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133853,
+                "courseTitle": "Introduction to Economics",
+                "courseNumber": "101",
+                "prefix": "ECON",
+                "prefixParentId": 1320,
+                "prefixDescription": "Economics",
+                "departmentParentId": 4338,
+                "department": "Economics",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3ab747d5-9907-4f02-c6f7-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 241310,
+                "courseTitle": "Introduction to Geographic Methods",
+                "courseNumber": "219",
+                "prefix": "GEOG",
+                "prefixParentId": 10629,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6253,
+                "department": "Geography and Planning",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ab984d39-0e0d-4d0b-c6fc-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 208894,
+                "courseTitle": "Child Development",
+                "courseNumber": "252",
+                "prefix": "CHLD",
+                "prefixParentId": 7267,
+                "prefixDescription": "Child Development",
+                "departmentParentId": 2449,
+                "department": "Child Development",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "567c63b9-bdcf-47e5-c6fd-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 266136,
+                "courseTitle": "Human Behavior Across the Lifespan",
+                "courseNumber": "202",
+                "prefix": "SWRK",
+                "prefixParentId": 6015,
+                "prefixDescription": "Social Work",
+                "departmentParentId": 12029,
+                "department": "Social Work",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f1bf425a-5918-41c5-9233-08dbef75aa67",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330573,
+                "courseTitle": "Marriage and Family Relationships",
+                "courseNumber": "255",
+                "prefix": "CHLD",
+                "prefixParentId": 7267,
+                "prefixDescription": "Child Development",
+                "departmentParentId": 2449,
+                "department": "Child Development",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4f32a006-40bd-41c2-c6fe-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250220,
+                "courseTitle": "Human Sexuality",
+                "courseNumber": "265",
+                "prefix": "PHHA",
+                "prefixParentId": 7762,
+                "prefixDescription": "Public Health and Health Services Administration",
+                "departmentParentId": 13601,
+                "department": "Public Health and Health Services Administration",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8e5e599b-52f3-4579-c6ff-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158118,
+                "courseTitle": "Sociology of Sexuality",
+                "courseNumber": "133",
+                "prefix": "SOCI",
+                "prefixParentId": 9127,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12150,
+                "department": "Sociology",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9d3cea0a-9a4c-45eb-c700-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 209617,
+                "courseTitle": "Women in Contemporary Societies",
+                "courseNumber": "230",
+                "prefix": "SOCI",
+                "prefixParentId": 9127,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12150,
+                "department": "Sociology",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 209618,
+                    "courseTitle": "Women in Contemporary Societies",
+                    "courseNumber": "230",
+                    "prefix": "WMST",
+                    "prefixParentId": 11836,
+                    "prefixDescription": "Women's Studies",
+                    "departmentParentId": 9346,
+                    "department": "Multicultural and Gender Studies",
+                    "begin": "F2005",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "50309afc-73cc-4875-c701-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 134536,
+                "courseTitle": "Earth Systems and Physical Geography",
+                "courseNumber": "101",
+                "prefix": "GEOG",
+                "prefixParentId": 10629,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6253,
+                "department": "Geography and Planning",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "925c2a27-2884-4e53-c702-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157435,
+                "courseTitle": "Peoples, Places, and Environments",
+                "courseNumber": "102",
+                "prefix": "GEOG",
+                "prefixParentId": 10629,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6253,
+                "department": "Geography and Planning",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f94ee305-0fb5-4a01-c703-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158095,
+                "courseTitle": "California Cultural Landscapes",
+                "courseNumber": "105",
+                "prefix": "GEOG",
+                "prefixParentId": 10629,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6253,
+                "department": "Geography and Planning",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2575961d-aead-4773-c704-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133804,
+                "courseTitle": "American West Decolonized",
+                "courseNumber": "106",
+                "prefix": "GEOG",
+                "prefixParentId": 10629,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6253,
+                "department": "Geography and Planning",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8a62d410-9a7e-4c34-c705-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 55622,
+                "courseTitle": "Introductory ArcGIS",
+                "courseNumber": "119A",
+                "prefix": "GEOG",
+                "prefixParentId": 10629,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6253,
+                "department": "Geography and Planning",
+                "begin": "F2007",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c92a36af-9ccf-4d60-c706-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 268016,
+                "courseTitle": "Introduction to Geographical Information Systems",
+                "courseNumber": "211",
+                "prefix": "GEOG",
+                "prefixParentId": 10629,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6253,
+                "department": "Geography and Planning",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dd1f9072-ecd5-4152-c707-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 241310,
+                "courseTitle": "Introduction to Geographic Methods",
+                "courseNumber": "219",
+                "prefix": "GEOG",
+                "prefixParentId": 10629,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6253,
+                "department": "Geography and Planning",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "086db1d1-5ffe-488d-c708-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383033,
+                "courseTitle": "Visualizing Local Landscapes",
+                "courseNumber": "139",
+                "prefix": "GEOG",
+                "prefixParentId": 10629,
+                "prefixDescription": "Geography",
+                "departmentParentId": 6253,
+                "department": "Geography and Planning",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "600fddc9-a3cb-4fba-9234-08dbef75aa67",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 208336,
+                "courseTitle": "Physical Activity and Wellness: A Way of Life",
+                "courseNumber": "110",
+                "prefix": "KINE",
+                "prefixParentId": 13809,
+                "prefixDescription": "Kinesiology",
+                "departmentParentId": 8155,
+                "department": "Kinesiology and Exercise Physiology",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "096562f2-d1e6-46ad-c709-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250238,
+                "courseTitle": "Dying, Death, and Afterlife",
+                "courseNumber": "264",
+                "prefix": "RELS",
+                "prefixParentId": 2161,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 2944,
+                "department": "Comparative Religion and Humanities",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1d8f4c38-da01-4ae2-c70a-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250220,
+                "courseTitle": "Human Sexuality",
+                "courseNumber": "265",
+                "prefix": "PHHA",
+                "prefixParentId": 7762,
+                "prefixDescription": "Public Health and Health Services Administration",
+                "departmentParentId": 13601,
+                "department": "Public Health and Health Services Administration",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "aa237004-a742-422e-c70b-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365599,
+                "courseTitle": "Introduction to International Relations",
+                "courseNumber": "141",
+                "prefix": "INTR",
+                "prefixParentId": 17250,
+                "prefixDescription": "International Relations",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "912ef746-91f9-4590-c70c-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365600,
+                "courseTitle": "Introduction to Comparative Politics",
+                "courseNumber": "142",
+                "prefix": "INTR",
+                "prefixParentId": 17250,
+                "prefixDescription": "International Relations",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b91cd87b-4583-44fd-c70d-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158103,
+                "courseTitle": "Politics of the Developing World",
+                "courseNumber": "102",
+                "prefix": "INTR",
+                "prefixParentId": 17250,
+                "prefixDescription": "International Relations",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e9447dd3-edf6-4dc4-c70e-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 255496,
+                "courseTitle": "Introduction to Asian Studies",
+                "courseNumber": "110W",
+                "prefix": "ASST",
+                "prefixParentId": 8671,
+                "prefixDescription": "Asian Studies",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 255495,
+                    "courseTitle": "Introduction to Asian Studies",
+                    "courseNumber": "110W",
+                    "prefix": "AAST",
+                    "prefixParentId": 3337,
+                    "prefixDescription": "Asian American Studies",
+                    "departmentParentId": 9346,
+                    "department": "Multicultural and Gender Studies",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3b3cb489-693f-4d31-c70f-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133806,
+                "courseTitle": "Latin America Today",
+                "courseNumber": "110",
+                "prefix": "LAST",
+                "prefixParentId": 9788,
+                "prefixDescription": "Latin American Studies",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4dee458d-a357-445e-c710-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 154131,
+                "courseTitle": "Introduction to the Asian American Experience",
+                "courseNumber": "152",
+                "prefix": "AAST",
+                "prefixParentId": 3337,
+                "prefixDescription": "Asian American Studies",
+                "departmentParentId": 9346,
+                "department": "Multicultural and Gender Studies",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "94cea692-f2e9-4b09-c711-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 151288,
+                "courseTitle": "Introduction to Black/African American Studies",
+                "courseNumber": "170",
+                "prefix": "AFAM",
+                "prefixParentId": 5918,
+                "prefixDescription": "African American Studies",
+                "departmentParentId": 9346,
+                "department": "Multicultural and Gender Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "acc3370d-628f-4978-c712-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 151296,
+                "courseTitle": "Introduction to American Indian Studies/US Native American Studies",
+                "courseNumber": "170",
+                "prefix": "AIST",
+                "prefixParentId": 3987,
+                "prefixDescription": "American Indian Studies",
+                "departmentParentId": 9346,
+                "department": "Multicultural and Gender Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "901b7801-a49d-45ad-c713-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 151291,
+                "courseTitle": "Introduction to Latinx",
+                "courseNumber": "157",
+                "prefix": "CHLX",
+                "prefixParentId": 4256,
+                "prefixDescription": "Chicanx/Latinx Studies",
+                "departmentParentId": 9346,
+                "department": "Multicultural and Gender Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ae58a901-5c0a-49bb-c714-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136181,
+                "courseTitle": "Introduction to Multicultural and Gender Studies",
+                "courseNumber": "155",
+                "prefix": "MCGS",
+                "prefixParentId": 4299,
+                "prefixDescription": "Multicultural and Gender Studies",
+                "departmentParentId": 9346,
+                "department": "Multicultural and Gender Studies",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bcca6a10-4715-4223-c715-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133765,
+                "courseTitle": "Introduction to Women's Studies",
+                "courseNumber": "170",
+                "prefix": "WMST",
+                "prefixParentId": 11836,
+                "prefixDescription": "Women's Studies",
+                "departmentParentId": 9346,
+                "department": "Multicultural and Gender Studies",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b05aaba2-ae3c-4749-c716-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 227689,
+                "courseTitle": "Women Internationally",
+                "courseNumber": "233",
+                "prefix": "WMST",
+                "prefixParentId": 11836,
+                "prefixDescription": "Women's Studies",
+                "departmentParentId": 9346,
+                "department": "Multicultural and Gender Studies",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9de80aa1-ba8a-4fc9-c717-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158103,
+                "courseTitle": "Politics of the Developing World",
+                "courseNumber": "102",
+                "prefix": "INTR",
+                "prefixParentId": 17250,
+                "prefixDescription": "International Relations",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "481b20aa-5fc4-43a1-c718-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365599,
+                "courseTitle": "Introduction to International Relations",
+                "courseNumber": "141",
+                "prefix": "INTR",
+                "prefixParentId": 17250,
+                "prefixDescription": "International Relations",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "37ab9f7b-5630-44a2-c719-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 365600,
+                "courseTitle": "Introduction to Comparative Politics",
+                "courseNumber": "142",
+                "prefix": "INTR",
+                "prefixParentId": 17250,
+                "prefixDescription": "International Relations",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8c246af4-2699-47f4-c71a-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158120,
+                "courseTitle": "Law, Politics, and Justice",
+                "courseNumber": "112",
+                "prefix": "LEGL",
+                "prefixParentId": 17249,
+                "prefixDescription": "Legal Studies",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c35b515f-a401-4752-c71b-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383035,
+                "courseTitle": "Introduction to Public Administration",
+                "courseNumber": "260",
+                "prefix": "PADM",
+                "prefixParentId": 17251,
+                "prefixDescription": "Public Administration",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "59bd1cb1-6ea1-404a-c71c-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 151369,
+                "courseTitle": "Vital Political Problems",
+                "courseNumber": "101",
+                "prefix": "POLS",
+                "prefixParentId": 2055,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "61421282-1d4f-4f5e-c71d-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133830,
+                "courseTitle": "Principles of Psychology",
+                "courseNumber": "101",
+                "prefix": "PSYC",
+                "prefixParentId": 4749,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11215,
+                "department": "Psychology",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d4b069f2-a1e6-4744-c71e-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 265949,
+                "courseTitle": "Developmental Wellness",
+                "courseNumber": "152",
+                "prefix": "PSYC",
+                "prefixParentId": 4749,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11215,
+                "department": "Psychology",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "14b8bae2-5424-4f1e-c71f-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383035,
+                "courseTitle": "Introduction to Public Administration",
+                "courseNumber": "260",
+                "prefix": "PADM",
+                "prefixParentId": 17251,
+                "prefixDescription": "Public Administration",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "915b750b-c396-42df-c720-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 241078,
+                "courseTitle": "Introduction to Criminal Justice",
+                "courseNumber": "250",
+                "prefix": "CRIM",
+                "prefixParentId": 17248,
+                "prefixDescription": "Criminal Justice",
+                "departmentParentId": 11094,
+                "department": "Political Science and Criminal Justice",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "83d7c234-7aa4-4fee-c721-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375107,
+                "courseTitle": "Myths, Frauds, and Misconceptions",
+                "courseNumber": "264",
+                "prefix": "ANTH",
+                "prefixParentId": 10831,
+                "prefixDescription": "Anthropology",
+                "departmentParentId": 766,
+                "department": "Anthropology",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7e021c75-5ce7-42fd-c6dd-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 345702,
+                "courseTitle": "Peoples and Cultures of Native North America",
+                "courseNumber": "261",
+                "prefix": "ANTH",
+                "prefixParentId": 10831,
+                "prefixDescription": "Anthropology",
+                "departmentParentId": 766,
+                "department": "Anthropology",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 345701,
+                    "courseTitle": "Peoples and Cultures of Native North America",
+                    "courseNumber": "261",
+                    "prefix": "AIST",
+                    "prefixParentId": 3987,
+                    "prefixDescription": "American Indian Studies",
+                    "departmentParentId": 9346,
+                    "department": "Multicultural and Gender Studies",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5bde1e8d-e1e7-4e86-ae0d-06de76b8c744",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329103,
+                "courseTitle": "Magic, Witchcraft, and Religion",
+                "courseNumber": "140",
+                "prefix": "ANTH",
+                "prefixParentId": 10831,
+                "prefixDescription": "Anthropology",
+                "departmentParentId": 766,
+                "department": "Anthropology",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "51358327-896e-4231-9e37-c7b5fd7b96f1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 209189,
+                "courseTitle": "Human Cultural Diversity",
+                "courseNumber": "113",
+                "prefix": "ANTH",
+                "prefixParentId": 10831,
+                "prefixDescription": "Anthropology",
+                "departmentParentId": 766,
+                "department": "Anthropology",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1bc9eaa9-4618-40a4-b1d8-86e18b0ffc84",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

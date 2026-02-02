@@ -1,0 +1,170 @@
+{
+  "major": "Portuguese & Brazilian Studies/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "fb9c8340-ee85-41ed-175a-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379236,
+                "courseTitle": "Advanced Portuguese",
+                "courseNumber": "25",
+                "prefix": "PORTGSE",
+                "prefixParentId": 15871,
+                "prefixDescription": "Portuguese",
+                "departmentParentId": 11135,
+                "department": "Portuguese",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "09d3debb-aa43-4d3f-86ef-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379237,
+                "courseTitle": "Language and Popular Culture",
+                "courseNumber": "26",
+                "prefix": "PORTGSE",
+                "prefixParentId": 15871,
+                "prefixDescription": "Portuguese",
+                "departmentParentId": 11135,
+                "department": "Portuguese",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e4f5ec8b-9068-4403-9352-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379238,
+                "courseTitle": "Writing Studies: Afro-Luso-Brazilian World",
+                "courseNumber": "27",
+                "prefix": "PORTGSE",
+                "prefixParentId": 15871,
+                "prefixDescription": "Portuguese",
+                "departmentParentId": 11135,
+                "department": "Portuguese",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "86c75558-0ccb-40f1-e77d-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "d336805d-cadd-47df-1af1-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 360098,
+                "courseTitle": "Brazil and Portuguese-Speaking World",
+                "courseNumber": "46",
+                "prefix": "PORTGSE",
+                "prefixParentId": 15871,
+                "prefixDescription": "Portuguese",
+                "departmentParentId": 11135,
+                "department": "Portuguese",
+                "begin": "Su2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "24bdf322-26d7-4921-2a41-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

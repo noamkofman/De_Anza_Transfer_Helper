@@ -1,0 +1,913 @@
+{
+  "major": "Social and Behavioral Sciences B.A., Anthropology Concentration",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 12,
+    "code": "CSUMB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Monterey Bay",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 289060,
+        "courseTitle": "Introduction to Statistics",
+        "courseNumber": "100",
+        "prefix": "STAT",
+        "prefixParentId": 3350,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 12536,
+        "department": "Statistics",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309383,
+              "courseTitle": "Integrated Statistics 2",
+              "courseNumber": "17",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 264008,
+        "courseTitle": "Human Biocultural Evolution",
+        "courseNumber": "100",
+        "prefix": "SBS",
+        "prefixParentId": 31,
+        "prefixDescription": "Social and Behavioral Sciences",
+        "departmentParentId": 11929,
+        "department": "Social and Behavioral Sciences",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288563,
+              "courseTitle": "Physical Anthropology",
+              "courseNumber": "1",
+              "prefix": "ANTH",
+              "prefixParentId": 10801,
+              "prefixDescription": "Anthropology",
+              "departmentParentId": 749,
+              "department": "Anthropology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 54490,
+              "courseTitle": "Physical Anthropology Laboratory",
+              "courseNumber": "1L",
+              "prefix": "ANTH",
+              "prefixParentId": 10801,
+              "prefixDescription": "Anthropology",
+              "departmentParentId": 749,
+              "department": "Anthropology",
+              "begin": "F2007",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 54490,
+              "courseTitle": "Physical Anthropology Laboratory",
+              "courseNumber": "1L",
+              "prefix": "ANTH",
+              "prefixParentId": 10801,
+              "prefixDescription": "Anthropology",
+              "departmentParentId": 749,
+              "department": "Anthropology",
+              "begin": "F2007",
+              "end": "",
+              "minUnits": 1,
+              "maxUnits": 1,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305660,
+              "courseTitle": "Physical Anthropology - HONORS",
+              "courseNumber": "1H",
+              "prefix": "ANTH",
+              "prefixParentId": 10801,
+              "prefixDescription": "Anthropology",
+              "departmentParentId": 749,
+              "department": "Anthropology",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 378888,
+        "courseTitle": "Native American Societies",
+        "courseNumber": "249",
+        "prefix": "SBS",
+        "prefixParentId": 31,
+        "prefixDescription": "Social and Behavioral Sciences",
+        "departmentParentId": 11929,
+        "department": "Social and Behavioral Sciences",
+        "begin": "F2021",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281472,
+              "courseTitle": "Ethnic Studies and the Historical Experiences of Native Americans",
+              "courseNumber": "12",
+              "prefix": "NAIS",
+              "prefixParentId": 16887,
+              "prefixDescription": "Native American and Indigenous Studies",
+              "departmentParentId": 13992,
+              "department": "Native American and Indigenous Studies",
+              "begin": "F2022",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 287,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 271506,
+        "courseTitle": "Global History I: to 1500",
+        "courseNumber": "214",
+        "prefix": "GS",
+        "prefixParentId": 11603,
+        "prefixDescription": "Global Studies",
+        "departmentParentId": 6565,
+        "department": "Global Studies",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 294870,
+              "courseTitle": "World History from 750 to 1750 CE",
+              "courseNumber": "3B",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 294888,
+              "courseTitle": "World History from Prehistory to 750 CE",
+              "courseNumber": "3A",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 357849,
+              "courseTitle": "World History from 750 to 1750 CE - HONORS",
+              "courseNumber": "3BH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 274006,
+              "courseTitle": "World History from Prehistory to 750 CE - HONORS",
+              "courseNumber": "3AH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 278012,
+        "courseTitle": "Introduction to Sociology",
+        "courseNumber": "100",
+        "prefix": "SOC",
+        "prefixParentId": 13997,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12039,
+        "department": "Sociology",
+        "begin": "F2012",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254964,
+              "courseTitle": "Introduction to Sociology",
+              "courseNumber": "1",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 240677,
+        "courseTitle": "Geology/Hydrology",
+        "courseNumber": "260",
+        "prefix": "GEOL",
+        "prefixParentId": 13849,
+        "prefixDescription": "Geology",
+        "departmentParentId": 6285,
+        "department": "Geology",
+        "begin": "F2021",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 308128,
+              "courseTitle": "Introductory Geology",
+              "courseNumber": "10",
+              "prefix": "GEOL",
+              "prefixParentId": 11330,
+              "prefixDescription": "Geology",
+              "departmentParentId": 6352,
+              "department": "Geology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 299092,
+        "courseTitle": "World Religions",
+        "courseNumber": "230",
+        "prefix": "GS",
+        "prefixParentId": 11603,
+        "prefixDescription": "Global Studies",
+        "departmentParentId": 6565,
+        "department": "Global Studies",
+        "begin": "F2012",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 304876,
+              "courseTitle": "Introduction to Comparative Religion - HONORS",
+              "courseNumber": "9H",
+              "prefix": "HUMI",
+              "prefixParentId": 6457,
+              "prefixDescription": "Humanities",
+              "departmentParentId": 7405,
+              "department": "Humanities",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353427,
+              "courseTitle": "Introduction to Comparative Religion",
+              "courseNumber": "9",
+              "prefix": "HUMI",
+              "prefixParentId": 6457,
+              "prefixDescription": "Humanities",
+              "departmentParentId": 7405,
+              "department": "Humanities",
+              "begin": "F2004",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 378910,
+        "courseTitle": "Introduction to Ethnic Studies",
+        "courseNumber": "243",
+        "prefix": "HCOM",
+        "prefixParentId": 10384,
+        "prefixDescription": "Humanities and Communication",
+        "departmentParentId": 7205,
+        "department": "Humanities and Communication",
+        "begin": "F2021",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283309,
+              "courseTitle": "Race, Ethnicity, and Inequality",
+              "courseNumber": "10",
+              "prefix": "CETH",
+              "prefixParentId": 16886,
+              "prefixDescription": "Comparative Ethnic Studies",
+              "departmentParentId": 13991,
+              "department": "Comparative Ethnic Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 283,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION COURSES FOR THE MAJOR": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "96f0faa9-2403-49d4-14f8-08dbeab4b1c7",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 350899,
+                "courseTitle": "Introduction to Anthropology",
+                "courseNumber": "101",
+                "prefix": "SBS",
+                "prefixParentId": 31,
+                "prefixDescription": "Social and Behavioral Sciences",
+                "departmentParentId": 11929,
+                "department": "Social and Behavioral Sciences",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f7f22077-77cc-446e-8e1c-215183629f56",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 289060,
+                "courseTitle": "Introduction to Statistics",
+                "courseNumber": "100",
+                "prefix": "STAT",
+                "prefixParentId": 3350,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 12536,
+                "department": "Statistics",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c188d5fb-e6e5-444d-be40-778d2741ad61",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 245318,
+                "courseTitle": "Earth Science for Teachers",
+                "courseNumber": "210",
+                "prefix": "GEOL",
+                "prefixParentId": 13849,
+                "prefixDescription": "Geology",
+                "departmentParentId": 6285,
+                "department": "Geology",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7153916e-003f-4959-aa95-8c9028783c4b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 369596,
+                "courseTitle": "Intro to Archaeology",
+                "courseNumber": "102",
+                "prefix": "SBS",
+                "prefixParentId": 31,
+                "prefixDescription": "Social and Behavioral Sciences",
+                "departmentParentId": 11929,
+                "department": "Social and Behavioral Sciences",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1b2e5e72-c22e-4909-a78d-234a73183bb4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 264008,
+                "courseTitle": "Human Biocultural Evolution",
+                "courseNumber": "100",
+                "prefix": "SBS",
+                "prefixParentId": 31,
+                "prefixDescription": "Social and Behavioral Sciences",
+                "departmentParentId": 11929,
+                "department": "Social and Behavioral Sciences",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e4c58924-ac4b-40be-a9e0-5af3c0b24354",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 54784,
+                "courseTitle": "Research Methods Laboratory",
+                "courseNumber": "200L",
+                "prefix": "PSY",
+                "prefixParentId": 13385,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11185,
+                "department": "Psychology",
+                "begin": "F2007",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8a2d6e84-49d0-4503-b425-3ca11253c619",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 378888,
+                "courseTitle": "Native American Societies",
+                "courseNumber": "249",
+                "prefix": "SBS",
+                "prefixParentId": 31,
+                "prefixDescription": "Social and Behavioral Sciences",
+                "departmentParentId": 11929,
+                "department": "Social and Behavioral Sciences",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ff0500ff-d008-40d9-b8f6-f6ad8386de86",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 271506,
+                "courseTitle": "Global History I: to 1500",
+                "courseNumber": "214",
+                "prefix": "GS",
+                "prefixParentId": 11603,
+                "prefixDescription": "Global Studies",
+                "departmentParentId": 6565,
+                "department": "Global Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "51f10ed0-f6f3-4cd9-8955-d27742b5d946",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 278012,
+                "courseTitle": "Introduction to Sociology",
+                "courseNumber": "100",
+                "prefix": "SOC",
+                "prefixParentId": 13997,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12039,
+                "department": "Sociology",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "34b97d14-8e8a-44bb-9fb6-2285633b488d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 240677,
+                "courseTitle": "Geology/Hydrology",
+                "courseNumber": "260",
+                "prefix": "GEOL",
+                "prefixParentId": 13849,
+                "prefixDescription": "Geology",
+                "departmentParentId": 6285,
+                "department": "Geology",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9afeb862-8e75-485c-a6f3-19579b993972",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 299092,
+                "courseTitle": "World Religions",
+                "courseNumber": "230",
+                "prefix": "GS",
+                "prefixParentId": 11603,
+                "prefixDescription": "Global Studies",
+                "departmentParentId": 6565,
+                "department": "Global Studies",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "89b35bf3-cc71-4fba-a2f4-15b60a96a673",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 252947,
+                "courseTitle": "Introduction Research/Method/Data/Analysis",
+                "courseNumber": "200",
+                "prefix": "PSY",
+                "prefixParentId": 13385,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11185,
+                "department": "Psychology",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "712488da-3c52-4bf3-988a-120c41d8a2bf",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 378910,
+                "courseTitle": "Introduction to Ethnic Studies",
+                "courseNumber": "243",
+                "prefix": "HCOM",
+                "prefixParentId": 10384,
+                "prefixDescription": "Humanities and Communication",
+                "departmentParentId": 7205,
+                "department": "Humanities and Communication",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bef72a25-f06a-4c23-88ba-436503928c0e",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

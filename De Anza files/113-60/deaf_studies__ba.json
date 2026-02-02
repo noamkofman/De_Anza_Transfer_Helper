@@ -1,0 +1,524 @@
+{
+  "major": "Deaf Studies, BA",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 60,
+    "code": "CSUS    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Sacramento",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 316293,
+        "courseTitle": "ASL Fingerspelling and Numbers",
+        "courseNumber": "56",
+        "prefix": "DEAF",
+        "prefixParentId": 66,
+        "prefixDescription": "Deaf Studies",
+        "departmentParentId": 569,
+        "department": "Deaf Studies",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 270031,
+        "courseTitle": "American Sign Language 4",
+        "courseNumber": "154",
+        "prefix": "DEAF",
+        "prefixParentId": 66,
+        "prefixDescription": "Deaf Studies",
+        "departmentParentId": 569,
+        "department": "Deaf Studies",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 295387,
+        "courseTitle": "American Sign Language 3",
+        "courseNumber": "53",
+        "prefix": "DEAF",
+        "prefixParentId": 66,
+        "prefixDescription": "Deaf Studies",
+        "departmentParentId": 569,
+        "department": "Deaf Studies",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 211155,
+        "courseTitle": "Introduction to Deaf Studies",
+        "courseNumber": "60",
+        "prefix": "DEAF",
+        "prefixParentId": 66,
+        "prefixDescription": "Deaf Studies",
+        "departmentParentId": 569,
+        "department": "Deaf Studies",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 129848,
+        "courseTitle": "ASL Classifiers",
+        "courseNumber": "57",
+        "prefix": "DEAF",
+        "prefixParentId": 66,
+        "prefixDescription": "Deaf Studies",
+        "departmentParentId": 569,
+        "department": "Deaf Studies",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 223496,
+        "courseTitle": "American Sign Language 1",
+        "courseNumber": "51",
+        "prefix": "DEAF",
+        "prefixParentId": 66,
+        "prefixDescription": "Deaf Studies",
+        "departmentParentId": 569,
+        "department": "Deaf Studies",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 308405,
+              "courseTitle": "Elementary American Sign Language (Third Quarter)",
+              "courseNumber": "3",
+              "prefix": "SIGN",
+              "prefixParentId": 11096,
+              "prefixDescription": "Sign Language",
+              "departmentParentId": 11882,
+              "department": "Sign Language",
+              "begin": "F1997",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 303280,
+              "courseTitle": "Elementary American Sign Language (Second Quarter)",
+              "courseNumber": "2",
+              "prefix": "SIGN",
+              "prefixParentId": 11096,
+              "prefixDescription": "Sign Language",
+              "departmentParentId": 11882,
+              "department": "Sign Language",
+              "begin": "F1997",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359374,
+              "courseTitle": "Elementary American Sign Language (First Quarter)",
+              "courseNumber": "1",
+              "prefix": "SIGN",
+              "prefixParentId": 11096,
+              "prefixDescription": "Sign Language",
+              "departmentParentId": 11882,
+              "department": "Sign Language",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 296609,
+        "courseTitle": "American Sign Language 5",
+        "courseNumber": "155",
+        "prefix": "DEAF",
+        "prefixParentId": 66,
+        "prefixDescription": "Deaf Studies",
+        "departmentParentId": 569,
+        "department": "Deaf Studies",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 177357,
+        "courseTitle": "American Sign Language 2",
+        "courseNumber": "52",
+        "prefix": "DEAF",
+        "prefixParentId": 66,
+        "prefixDescription": "Deaf Studies",
+        "departmentParentId": 569,
+        "department": "Deaf Studies",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 303280,
+              "courseTitle": "Elementary American Sign Language (Second Quarter)",
+              "courseNumber": "2",
+              "prefix": "SIGN",
+              "prefixParentId": 11096,
+              "prefixDescription": "Sign Language",
+              "departmentParentId": 11882,
+              "department": "Sign Language",
+              "begin": "F1997",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 308405,
+              "courseTitle": "Elementary American Sign Language (Third Quarter)",
+              "courseNumber": "3",
+              "prefix": "SIGN",
+              "prefixParentId": 11096,
+              "prefixDescription": "Sign Language",
+              "departmentParentId": 11882,
+              "department": "Sign Language",
+              "begin": "F1997",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359374,
+              "courseTitle": "Elementary American Sign Language (First Quarter)",
+              "courseNumber": "1",
+              "prefix": "SIGN",
+              "prefixParentId": 11096,
+              "prefixDescription": "Sign Language",
+              "departmentParentId": 11882,
+              "department": "Sign Language",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "9e45f647-b158-42c6-706c-08dbdbbe1f5e",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 316293,
+                "courseTitle": "ASL Fingerspelling and Numbers",
+                "courseNumber": "56",
+                "prefix": "DEAF",
+                "prefixParentId": 66,
+                "prefixDescription": "Deaf Studies",
+                "departmentParentId": 569,
+                "department": "Deaf Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a21a5447-b190-4018-81b3-bc6cb37e7e2b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 270031,
+                "courseTitle": "American Sign Language 4",
+                "courseNumber": "154",
+                "prefix": "DEAF",
+                "prefixParentId": 66,
+                "prefixDescription": "Deaf Studies",
+                "departmentParentId": 569,
+                "department": "Deaf Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Content credit only"
+                }
+              ],
+              "id": "a6d2f044-33f5-46f2-a190-2277fbb17f4f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 295387,
+                "courseTitle": "American Sign Language 3",
+                "courseNumber": "53",
+                "prefix": "DEAF",
+                "prefixParentId": 66,
+                "prefixDescription": "Deaf Studies",
+                "departmentParentId": 569,
+                "department": "Deaf Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3f0a1f71-6c69-4011-9f62-1952a2239452",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 211155,
+                "courseTitle": "Introduction to Deaf Studies",
+                "courseNumber": "60",
+                "prefix": "DEAF",
+                "prefixParentId": 66,
+                "prefixDescription": "Deaf Studies",
+                "departmentParentId": 569,
+                "department": "Deaf Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "51af0881-ac7c-408d-bf51-77cd741f8b11",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 129848,
+                "courseTitle": "ASL Classifiers",
+                "courseNumber": "57",
+                "prefix": "DEAF",
+                "prefixParentId": 66,
+                "prefixDescription": "Deaf Studies",
+                "departmentParentId": 569,
+                "department": "Deaf Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "18e4b7b9-8368-4f2c-b352-ec4dc6915234",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 223496,
+                "courseTitle": "American Sign Language 1",
+                "courseNumber": "51",
+                "prefix": "DEAF",
+                "prefixParentId": 66,
+                "prefixDescription": "Deaf Studies",
+                "departmentParentId": 569,
+                "department": "Deaf Studies",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d4c88d98-9d18-4e17-b5b7-37d410f9f95d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 296609,
+                "courseTitle": "American Sign Language 5",
+                "courseNumber": "155",
+                "prefix": "DEAF",
+                "prefixParentId": 66,
+                "prefixDescription": "Deaf Studies",
+                "departmentParentId": 569,
+                "department": "Deaf Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Content credit only"
+                }
+              ],
+              "id": "77142aa2-9e9f-4545-90c6-ecad379e31f1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 177357,
+                "courseTitle": "American Sign Language 2",
+                "courseNumber": "52",
+                "prefix": "DEAF",
+                "prefixParentId": 66,
+                "prefixDescription": "Deaf Studies",
+                "departmentParentId": 569,
+                "department": "Deaf Studies",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "47534e9c-a931-4a9c-b3f8-53665f40bcb3",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

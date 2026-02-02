@@ -1,0 +1,516 @@
+{
+  "major": "Theatre, B.F.A - Acting Concentration",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 129,
+    "code": "CSUFULL ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Fullerton",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 338397,
+        "courseTitle": "American Government",
+        "courseNumber": "100",
+        "prefix": "POSC",
+        "prefixParentId": 2042,
+        "prefixDescription": "Political Science",
+        "departmentParentId": 11050,
+        "department": "Political Science",
+        "begin": "F1995",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282754,
+              "courseTitle": "American Government and Politics",
+              "courseNumber": "1",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "THEATRE": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 204993,
+                "courseTitle": "Oral Communication of Literature",
+                "courseNumber": "110",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "da55c28f-45bd-4d2b-9eba-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 156446,
+                "courseTitle": "Script Analysis",
+                "courseNumber": "200",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "992b94eb-caad-4840-9ebb-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "PERFORMANCE AND PRODUCTION": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 115275,
+                "courseTitle": "Voice/Movement: Breath and Awareness",
+                "courseNumber": "141A",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c4b68722-de08-49dc-9eaf-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 192748,
+                "courseTitle": "Scene Study and Developing the Role",
+                "courseNumber": "240B",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4a5477c4-e3a7-4092-9eb0-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 197657,
+                "courseTitle": "Introduction to Costume Design",
+                "courseNumber": "277",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "054ef8e6-ab24-47d2-9eb1-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 178316,
+                "courseTitle": "Beginning Scene Study and Rehearsal Techniques",
+                "courseNumber": "240A",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cf4dee82-15c7-4a8a-9eb2-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 187036,
+                "courseTitle": "Voice/Movement: Text and Narrative",
+                "courseNumber": "141B",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fb82a986-fee6-492f-9eb3-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 191969,
+                "courseTitle": "Introduction to Acting",
+                "courseNumber": "160",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bde3e72f-68fa-451d-9eb4-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 159113,
+                "courseTitle": "Theatrical Makeup",
+                "courseNumber": "285",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F1995",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "02c8ccfa-b9e3-4f04-9eb5-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379056,
+                "courseTitle": "Fundamentals of Acting II",
+                "courseNumber": "140B",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b40db6b8-cd04-4e20-9eb6-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "PRODUCTION": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 370273,
+                "courseTitle": "Production",
+                "courseNumber": "278B",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f6c2c3e5-8532-43d9-9eb9-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ACTING CONCENTRATION-REQUIRED COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 123284,
+                "courseTitle": "Voice/Movement: Devised Theatre",
+                "courseNumber": "241A",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dd0323f6-eb24-48bd-9eb7-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 124404,
+                "courseTitle": "Voice/Movement: Character Transformation",
+                "courseNumber": "241B",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8c33893a-09ad-4f9b-9eb8-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ACTING CONCENTRATION-ELECTIVES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 207985,
+                "courseTitle": "Introduction to Scene Design",
+                "courseNumber": "288",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "eaa4575b-b330-45ef-9ead-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 167501,
+                "courseTitle": "Introduction to Stagecraft",
+                "courseNumber": "276",
+                "prefix": "THTR",
+                "prefixParentId": 2437,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12843,
+                "department": "Theatre and Dance",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "34294ae8-0e6e-4e0e-9eae-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "REQUIRED FOR GRADUATION": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 338397,
+                "courseTitle": "American Government",
+                "courseNumber": "100",
+                "prefix": "POSC",
+                "prefixParentId": 2042,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 11050,
+                "department": "Political Science",
+                "begin": "F1995",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6870cb09-6367-42e6-9ebe-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

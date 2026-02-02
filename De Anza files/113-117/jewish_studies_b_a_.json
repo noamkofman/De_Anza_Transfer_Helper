@@ -1,0 +1,350 @@
+{
+  "major": "Jewish Studies/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "1e95b0b8-c0e8-4a58-f3b4-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309301,
+                "courseTitle": "Introduction to Judaism",
+                "courseNumber": "M10",
+                "prefix": "JEWISH",
+                "prefixParentId": 15148,
+                "prefixDescription": "Jewish Studies",
+                "departmentParentId": 7922,
+                "department": "Jewish Studies",
+                "begin": "W2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 288642,
+                    "courseTitle": "Introduction to Judaism",
+                    "courseNumber": "M10",
+                    "prefix": "RELIGN",
+                    "prefixParentId": 15691,
+                    "prefixDescription": "Religion, Study of",
+                    "departmentParentId": 11670,
+                    "department": "Religion, Study of",
+                    "begin": "W2021",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9cc0d45e-9c26-4b98-85b8-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "AtLeast",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "2fa1690e-2f70-4abb-173f-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 376641,
+                "courseTitle": "Popular Jewish and Israeli Music",
+                "courseNumber": "M67",
+                "prefix": "JEWISH",
+                "prefixParentId": 15148,
+                "prefixDescription": "Jewish Studies",
+                "departmentParentId": 7922,
+                "department": "Jewish Studies",
+                "begin": "S2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 376642,
+                    "courseTitle": "Popular Jewish and Israeli",
+                    "courseNumber": "M67",
+                    "prefix": "MUSCLG",
+                    "prefixParentId": 16728,
+                    "prefixDescription": "Musicology",
+                    "departmentParentId": 13851,
+                    "department": "Musicology",
+                    "begin": "S2020",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a87f2a77-cc3a-4850-d08e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387655,
+                "courseTitle": "Jewish American Experience through Music",
+                "courseNumber": "M80",
+                "prefix": "JEWISH",
+                "prefixParentId": 15148,
+                "prefixDescription": "Jewish Studies",
+                "departmentParentId": 7922,
+                "department": "Jewish Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "09bdc232-e755-46c4-e049-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387656,
+                "courseTitle": "Music and Holocaust: Individual Experience",
+                "courseNumber": "M82",
+                "prefix": "JEWISH",
+                "prefixParentId": 15148,
+                "prefixDescription": "Jewish Studies",
+                "departmentParentId": 7922,
+                "department": "Jewish Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c792a6b2-0528-4ae2-e04a-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 360002,
+                "courseTitle": "Making and Studying Modern Middle East",
+                "courseNumber": "50CW",
+                "prefix": "M E STD",
+                "prefixParentId": 15431,
+                "prefixDescription": "Middle Eastern Studies",
+                "departmentParentId": 9296,
+                "department": "Middle Eastern Studies",
+                "begin": "S2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ceec2b2f-8452-4a94-a2d9-05977be365a4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287441,
+                "courseTitle": "Origins of Judaism, Christianity, and Islam",
+                "courseNumber": "M50B",
+                "prefix": "M E STD",
+                "prefixParentId": 15431,
+                "prefixDescription": "Middle Eastern Studies",
+                "departmentParentId": 9296,
+                "department": "Middle Eastern Studies",
+                "begin": "S2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 287442,
+                    "courseTitle": "Origins of Judaism, Christianity, and Islam",
+                    "courseNumber": "M50B",
+                    "prefix": "AN N E A",
+                    "prefixParentId": 15432,
+                    "prefixDescription": "Ancient Near East",
+                    "departmentParentId": 647,
+                    "department": "Ancient Near East",
+                    "begin": "S2016",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 288643,
+                    "courseTitle": "Origins of Judaism, Christianity, and Islam",
+                    "courseNumber": "M50",
+                    "prefix": "RELIGN",
+                    "prefixParentId": 15691,
+                    "prefixDescription": "Religion, Study of",
+                    "departmentParentId": 11670,
+                    "department": "Religion, Study of",
+                    "begin": "S2016",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ea70b18e-374d-4ce1-b6a3-bf07242a617c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305124,
+                "courseTitle": "Jerusalem: Holy City",
+                "courseNumber": "10W",
+                "prefix": "AN N E A",
+                "prefixParentId": 15432,
+                "prefixDescription": "Ancient Near East",
+                "departmentParentId": 647,
+                "department": "Ancient Near East",
+                "begin": "Su2014",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "61570bbc-93e6-4b35-9233-478db6ea133b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 360001,
+                "courseTitle": "First Civilzations",
+                "courseNumber": "50A",
+                "prefix": "M E STD",
+                "prefixParentId": 15431,
+                "prefixDescription": "Middle Eastern Studies",
+                "departmentParentId": 9296,
+                "department": "Middle Eastern Studies",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "21b5d22c-fe19-4112-abf5-c96619f147ce",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 376635,
+                "courseTitle": "Jerusalem; Holy City",
+                "courseNumber": "12W",
+                "prefix": "AN N E A",
+                "prefixParentId": 15432,
+                "prefixDescription": "Ancient Near East",
+                "departmentParentId": 647,
+                "department": "Ancient Near East",
+                "begin": "S2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "74f29dd5-2510-4917-808d-46bd2de299a1",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

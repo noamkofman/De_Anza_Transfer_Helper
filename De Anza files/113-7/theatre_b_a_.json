@@ -1,0 +1,351 @@
+{
+  "major": "Theatre B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 7,
+    "code": "UCSD    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, San Diego",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 268821,
+        "courseTitle": "Introduction to Theatre",
+        "courseNumber": "1",
+        "prefix": "TDGE",
+        "prefixParentId": 13348,
+        "prefixDescription": "Theatre & Dance/Theatre General",
+        "departmentParentId": 12844,
+        "department": "Theatre and Dance",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253811,
+              "courseTitle": "Appreciation of Theater",
+              "courseNumber": "1",
+              "prefix": "THEA",
+              "prefixParentId": 2428,
+              "prefixDescription": "Theater Arts",
+              "departmentParentId": 12812,
+              "department": "Theater Arts",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 289365,
+        "courseTitle": "Introduction to Acting",
+        "courseNumber": "1",
+        "prefix": "TDAC",
+        "prefixParentId": 10957,
+        "prefixDescription": "Theatre & Dance/Theatre Acting",
+        "departmentParentId": 12844,
+        "department": "Theatre and Dance",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 240330,
+              "courseTitle": "Theory and Technique of Acting (Introduction)",
+              "courseNumber": "20A",
+              "prefix": "THEA",
+              "prefixParentId": 2428,
+              "prefixDescription": "Theater Arts",
+              "departmentParentId": 12812,
+              "department": "Theater Arts",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "DEFAULT": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 268821,
+                "courseTitle": "Introduction to Theatre",
+                "courseNumber": "1",
+                "prefix": "TDGE",
+                "prefixParentId": 13348,
+                "prefixDescription": "Theatre & Dance/Theatre General",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5d18caae-e303-400c-bdbd-25891bc12e0c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 299921,
+                "courseTitle": "Ancient and Medieval Theatre",
+                "courseNumber": "21",
+                "prefix": "TDHT",
+                "prefixParentId": 10632,
+                "prefixDescription": "Theatre & Dance/Theatre History and Theory",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "43279468-d685-46ac-8c37-e65ea687c9a6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 289375,
+                "courseTitle": "Introduction to Design for the Theatre",
+                "courseNumber": "1",
+                "prefix": "TDDE",
+                "prefixParentId": 597,
+                "prefixDescription": "Theatre & Dance/Theatre Design",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "08ff7eb1-e12e-4cc2-ad28-6eb121d534d4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 289365,
+                "courseTitle": "Introduction to Acting",
+                "courseNumber": "1",
+                "prefix": "TDAC",
+                "prefixParentId": 10957,
+                "prefixDescription": "Theatre & Dance/Theatre Acting",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a5aba249-0450-4ee3-bcd6-e0894bace0c0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 259931,
+                "courseTitle": "Introduction to Playwriting",
+                "courseNumber": "1",
+                "prefix": "TDPW",
+                "prefixParentId": 8775,
+                "prefixDescription": "Theatre & Dance/Theatre Playwriting",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5e53a7da-6b1e-4a60-919c-f051f146ed14",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 356748,
+                "courseTitle": "Theatre 1500-1900",
+                "courseNumber": "22",
+                "prefix": "TDHT",
+                "prefixParentId": 10632,
+                "prefixDescription": "Theatre & Dance/Theatre History and Theory",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1841ac59-1341-4861-b20e-db776def3f26",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 300552,
+                "courseTitle": "Theatre Practicum",
+                "courseNumber": "6",
+                "prefix": "TDPR",
+                "prefixParentId": 12,
+                "prefixDescription": "Theatre & Dance/Practicum",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 6
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2b3ad641-fcee-43da-89b1-7b0b8b26deb2",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 269819,
+                "courseTitle": "Twentieth-Century Theatre",
+                "courseNumber": "23",
+                "prefix": "TDHT",
+                "prefixParentId": 10632,
+                "prefixDescription": "Theatre & Dance/Theatre History and Theory",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7796ee46-1163-4eb8-8499-18c05c654dcb",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 356104,
+                "courseTitle": "Introduction to Play Analysis",
+                "courseNumber": "10",
+                "prefix": "TDHT",
+                "prefixParentId": 10632,
+                "prefixDescription": "Theatre & Dance/Theatre History and Theory",
+                "departmentParentId": 12844,
+                "department": "Theatre and Dance",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e311e5cb-5422-4545-8f0f-7d43939e8c47",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

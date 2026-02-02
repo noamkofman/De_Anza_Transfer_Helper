@@ -1,0 +1,274 @@
+{
+  "major": "Environmental Studies, Geography and Planning, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 88,
+    "code": "SSU     ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "Sonoma State University",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 363154,
+        "courseTitle": "Human Geography",
+        "courseNumber": "203",
+        "prefix": "GEP",
+        "prefixParentId": 16165,
+        "prefixDescription": "Geography, Environment and Planning",
+        "departmentParentId": 13374,
+        "department": "Geography, Environment and Planning",
+        "begin": "F2017",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 298844,
+              "courseTitle": "Cultural Geography",
+              "courseNumber": "4",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F2004",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 363152,
+        "courseTitle": "Global Environmental Systems",
+        "courseNumber": "201",
+        "prefix": "GEP",
+        "prefixParentId": 16165,
+        "prefixDescription": "Geography, Environment and Planning",
+        "departmentParentId": 13374,
+        "department": "Geography, Environment and Planning",
+        "begin": "F2021",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283033,
+              "courseTitle": "Physical Geography",
+              "courseNumber": "1",
+              "prefix": "GEO",
+              "prefixParentId": 10601,
+              "prefixDescription": "Geography",
+              "departmentParentId": 6120,
+              "department": "Geography",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379509,
+                "courseTitle": "GEP Forum",
+                "courseNumber": "211",
+                "prefix": "GEP",
+                "prefixParentId": 16165,
+                "prefixDescription": "Geography, Environment and Planning",
+                "departmentParentId": 13374,
+                "department": "Geography, Environment and Planning",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "12d582ae-2915-47bf-9930-3b0de10ef44d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379510,
+                "courseTitle": "Foundations in Environmental Data Analysis",
+                "courseNumber": "280",
+                "prefix": "GEP",
+                "prefixParentId": 16165,
+                "prefixDescription": "Geography, Environment and Planning",
+                "departmentParentId": 13374,
+                "department": "Geography, Environment and Planning",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "29d24640-33fa-43d8-a13c-85894daf6469",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363152,
+                "courseTitle": "Global Environmental Systems",
+                "courseNumber": "201",
+                "prefix": "GEP",
+                "prefixParentId": 16165,
+                "prefixDescription": "Geography, Environment and Planning",
+                "departmentParentId": 13374,
+                "department": "Geography, Environment and Planning",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c5781bcb-d79b-4b35-857f-6d299d489a5b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Sequence",
+          "id": "5df0eb4a-6356-4318-bd10-08db93657755",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363154,
+                "courseTitle": "Human Geography",
+                "courseNumber": "203",
+                "prefix": "GEP",
+                "prefixParentId": 16165,
+                "prefixDescription": "Geography, Environment and Planning",
+                "departmentParentId": 13374,
+                "department": "Geography, Environment and Planning",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "89fbdb7e-b9b8-4cd5-28ca-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363156,
+                "courseTitle": "Society, Environment and Sustainable Development",
+                "courseNumber": "206",
+                "prefix": "GEP",
+                "prefixParentId": 16165,
+                "prefixDescription": "Geography, Environment and Planning",
+                "departmentParentId": 13374,
+                "department": "Geography, Environment and Planning",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8ce43119-9d4a-447d-28cb-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

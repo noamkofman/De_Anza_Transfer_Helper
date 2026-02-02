@@ -1,0 +1,203 @@
+{
+  "major": "Japanese",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 257787,
+        "courseTitle": "Intermediate Japanese",
+        "courseNumber": "202",
+        "prefix": "JAPN",
+        "prefixParentId": 9572,
+        "prefixDescription": "Japanese",
+        "departmentParentId": 7883,
+        "department": "Japanese",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284953,
+              "courseTitle": "Intermediate Japanese (Third Quarter)",
+              "courseNumber": "6",
+              "prefix": "JAPN",
+              "prefixParentId": 9598,
+              "prefixDescription": "Japanese",
+              "departmentParentId": 7894,
+              "department": "Japanese",
+              "begin": "F2002",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 303787,
+              "courseTitle": "Intermediate Japanese (Second Quarter)",
+              "courseNumber": "5",
+              "prefix": "JAPN",
+              "prefixParentId": 9598,
+              "prefixDescription": "Japanese",
+              "departmentParentId": 7894,
+              "department": "Japanese",
+              "begin": "F2002",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREREQUISITES FOR THE MAJOR": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 293296,
+                "courseTitle": "Intermediate Japanese",
+                "courseNumber": "201",
+                "prefix": "JAPN",
+                "prefixParentId": 9572,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 7883,
+                "department": "Japanese",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a9b9bf33-47c0-4c56-9c5c-2daa7b0a6a5f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257787,
+                "courseTitle": "Intermediate Japanese",
+                "courseNumber": "202",
+                "prefix": "JAPN",
+                "prefixParentId": 9572,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 7883,
+                "department": "Japanese",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f21fbc4a-c883-456f-95f8-dee7f7ba1ec5",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "44559b28-ff13-4d74-79f2-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 261798,
+                "courseTitle": "Asian Eats",
+                "courseNumber": "100",
+                "prefix": "AAAS",
+                "prefixParentId": 15616,
+                "prefixDescription": "Asian and Asian American Studies",
+                "departmentParentId": 1272,
+                "department": "Asian and Asian American Studies",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ece60e4f-e8f3-472d-a604-41f1e2a7a943",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

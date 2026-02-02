@@ -1,0 +1,145 @@
+{
+  "major": "Education and Social Transformation/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "d8d6fc69-fbff-4b87-171f-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375165,
+                "courseTitle": "Introduction to Educational Issues and Scholarship",
+                "courseNumber": "10",
+                "prefix": "EDUC",
+                "prefixParentId": 16670,
+                "prefixDescription": "Education",
+                "departmentParentId": 13806,
+                "department": "Education",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ee61843e-4e54-40b4-855c-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375166,
+                "courseTitle": "Education, Equality, and Future of American Society: Problems, Prospects, and Policies. ",
+                "courseNumber": "11",
+                "prefix": "EDUC",
+                "prefixParentId": 16670,
+                "prefixDescription": "Education",
+                "departmentParentId": 13806,
+                "department": "Education",
+                "begin": "S2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "440ef240-3a9b-47c0-9318-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "75cbe053-8a53-47de-1c47-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375172,
+                "courseTitle": "Introduction to Inquiry and Research in Education",
+                "courseNumber": "35",
+                "prefix": "EDUC",
+                "prefixParentId": 16670,
+                "prefixDescription": "Education",
+                "departmentParentId": 13806,
+                "department": "Education",
+                "begin": "W2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "367e99fe-78b4-4d66-8002-4a392dc8e26f",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

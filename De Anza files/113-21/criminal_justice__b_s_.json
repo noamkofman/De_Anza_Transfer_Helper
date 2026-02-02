@@ -1,0 +1,551 @@
+{
+  "major": "Criminal Justice, B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 21,
+    "code": "CSUHAY",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "California State University, Hayward",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      },
+      {
+        "name": "California State University, East Bay",
+        "hasDepartments": true,
+        "fromYear": 2005,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 2018
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 2005
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 284441,
+        "courseTitle": "POLICE COMMUNITY RELATIONS",
+        "courseNumber": "230",
+        "prefix": "CRJ",
+        "prefixParentId": 8346,
+        "prefixDescription": "Criminal Justice Administration",
+        "departmentParentId": 3606,
+        "department": "Criminal Justice Administration",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290799,
+              "courseTitle": "Community Relations",
+              "courseNumber": "5",
+              "prefix": "ADMJ",
+              "prefixParentId": 2523,
+              "prefixDescription": "Administration of Justice",
+              "departmentParentId": 173,
+              "department": "Administration of Justice",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 291820,
+        "courseTitle": "ELEMENTARY CRIMINAL LAW",
+        "courseNumber": "210",
+        "prefix": "CRJ",
+        "prefixParentId": 8346,
+        "prefixDescription": "Criminal Justice Administration",
+        "departmentParentId": 3606,
+        "department": "Criminal Justice Administration",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "178373f7-0395-427e-9d1a-d5dca6241bc9",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 277840,
+                  "courseTitle": "Concepts of Criminal Law (CP2)",
+                  "courseNumber": "13",
+                  "prefix": "POLI",
+                  "prefixParentId": 2020,
+                  "prefixDescription": "Political Science",
+                  "departmentParentId": 11018,
+                  "department": "Political Science",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                },
+                {
+                  "id": "8c95a648-4421-40f2-a255-d633049cecd3",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 301784,
+                  "courseTitle": "Concepts of Criminal Law (CP2)",
+                  "courseNumber": "3",
+                  "prefix": "PARA",
+                  "prefixParentId": 7126,
+                  "prefixDescription": "Paralegal Studies",
+                  "departmentParentId": 9993,
+                  "department": "Paralegal Studies",
+                  "begin": "F2017",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 271186,
+              "courseTitle": "Concepts of Criminal Law (CP2)",
+              "courseNumber": "3",
+              "prefix": "ADMJ",
+              "prefixParentId": 2523,
+              "prefixDescription": "Administration of Justice",
+              "departmentParentId": 173,
+              "department": "Administration of Justice",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 256797,
+        "courseTitle": "Introduction to Criminal Justice",
+        "courseNumber": "101",
+        "prefix": "CRJ",
+        "prefixParentId": 8346,
+        "prefixDescription": "Criminal Justice Administration",
+        "departmentParentId": 3606,
+        "department": "Criminal Justice Administration",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283642,
+              "courseTitle": "Introduction to Administration of Justice",
+              "courseNumber": "10",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 256793,
+        "courseTitle": "BASIC CRIMINAL INVESTIGATION",
+        "courseNumber": "220",
+        "prefix": "CRJ",
+        "prefixParentId": 8346,
+        "prefixDescription": "Criminal Justice Administration",
+        "departmentParentId": 3606,
+        "department": "Criminal Justice Administration",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282360,
+              "courseTitle": "Criminal Investigation",
+              "courseNumber": "61",
+              "prefix": "ADMJ",
+              "prefixParentId": 2523,
+              "prefixDescription": "Administration of Justice",
+              "departmentParentId": 173,
+              "department": "Administration of Justice",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 284357,
+        "courseTitle": "INTRODUCTION TO SOCIOLOGY",
+        "courseNumber": "100",
+        "prefix": "SOC",
+        "prefixParentId": 8995,
+        "prefixDescription": "Sociology and Social Sciences",
+        "departmentParentId": 12177,
+        "department": "Sociology and Social Sciences",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254964,
+              "courseTitle": "Introduction to Sociology",
+              "courseNumber": "1",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 308306,
+        "courseTitle": "ELEMENTS OF PROBABILITY AND STATISTICS",
+        "courseNumber": "100",
+        "prefix": "STAT",
+        "prefixParentId": 3351,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 12562,
+        "department": "Statistics and Biostatistics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309383,
+              "courseTitle": "Integrated Statistics 2",
+              "courseNumber": "17",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION CORE": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284441,
+                "courseTitle": "POLICE COMMUNITY RELATIONS",
+                "courseNumber": "230",
+                "prefix": "CRJ",
+                "prefixParentId": 8346,
+                "prefixDescription": "Criminal Justice Administration",
+                "departmentParentId": 3606,
+                "department": "Criminal Justice Administration",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a6c356ce-1dcb-4034-88c3-1aadff363656",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 291820,
+                "courseTitle": "ELEMENTARY CRIMINAL LAW",
+                "courseNumber": "210",
+                "prefix": "CRJ",
+                "prefixParentId": 8346,
+                "prefixDescription": "Criminal Justice Administration",
+                "departmentParentId": 3606,
+                "department": "Criminal Justice Administration",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "165e0267-4fcc-42ef-a927-8be514dac656",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256797,
+                "courseTitle": "Introduction to Criminal Justice",
+                "courseNumber": "101",
+                "prefix": "CRJ",
+                "prefixParentId": 8346,
+                "prefixDescription": "Criminal Justice Administration",
+                "departmentParentId": 3606,
+                "department": "Criminal Justice Administration",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bb56593e-93dd-493d-b2ad-33f66cb025d0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256793,
+                "courseTitle": "BASIC CRIMINAL INVESTIGATION",
+                "courseNumber": "220",
+                "prefix": "CRJ",
+                "prefixParentId": 8346,
+                "prefixDescription": "Criminal Justice Administration",
+                "departmentParentId": 3606,
+                "department": "Criminal Justice Administration",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dcc80bff-7d68-44a2-bac0-48c1030582dd",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284357,
+                "courseTitle": "INTRODUCTION TO SOCIOLOGY",
+                "courseNumber": "100",
+                "prefix": "SOC",
+                "prefixParentId": 8995,
+                "prefixDescription": "Sociology and Social Sciences",
+                "departmentParentId": 12177,
+                "department": "Sociology and Social Sciences",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "036bf4df-107d-4a80-b56f-80e9e9d3a2dc",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308306,
+                "courseTitle": "ELEMENTS OF PROBABILITY AND STATISTICS",
+                "courseNumber": "100",
+                "prefix": "STAT",
+                "prefixParentId": 3351,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 12562,
+                "department": "Statistics and Biostatistics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "08502213-9fdd-4d5f-b5fd-2780d10160c9",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

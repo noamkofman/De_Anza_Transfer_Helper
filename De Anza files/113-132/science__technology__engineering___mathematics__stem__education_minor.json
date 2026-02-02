@@ -1,0 +1,156 @@
+{
+  "major": "Science, Technology, Engineering & Mathematics (STEM) Education Minor",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 132,
+    "code": "UCSC    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Cruz",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "PREPARATION FOR THE MINOR": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "d30e599c-845b-4404-10f0-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304783,
+                "courseTitle": "Schooling, Democracy, and Justice",
+                "courseNumber": "60",
+                "prefix": "EDUC",
+                "prefixParentId": 7366,
+                "prefixDescription": "Education",
+                "departmentParentId": 4444,
+                "department": "Education",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3a83ed22-524d-4c7a-79e1-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 114963,
+                "courseTitle": "CAL Teach 1: Science and Mathematics",
+                "courseNumber": "50A",
+                "prefix": "EDUC",
+                "prefixParentId": 7366,
+                "prefixDescription": "Education",
+                "departmentParentId": 4444,
+                "department": "Education",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "399ba3e1-9996-4a09-ab4b-95687f51bffe",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 129812,
+                "courseTitle": "CAL Teach 1: Mathematics",
+                "courseNumber": "50B",
+                "prefix": "EDUC",
+                "prefixParentId": 7366,
+                "prefixDescription": "Education",
+                "departmentParentId": 4444,
+                "department": "Education",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a54d4cd3-cb83-43f8-abc3-8b424d965edf",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 129052,
+                "courseTitle": "CAL Teach 1: Science",
+                "courseNumber": "50C",
+                "prefix": "EDUC",
+                "prefixParentId": 7366,
+                "prefixDescription": "Education",
+                "departmentParentId": 4444,
+                "department": "Education",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e2bd74e6-6ea4-4be7-a80a-701bae0524fe",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

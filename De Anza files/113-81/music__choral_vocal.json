@@ -1,0 +1,1224 @@
+{
+  "major": "Music, Choral-Vocal",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 49922,
+        "courseTitle": "Class Piano",
+        "courseNumber": "220B",
+        "prefix": "MUS",
+        "prefixParentId": 6590,
+        "prefixDescription": "Music",
+        "departmentParentId": 9425,
+        "department": "Music",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 110487,
+        "courseTitle": "Musicianship I",
+        "courseNumber": "141A",
+        "prefix": "MUS",
+        "prefixParentId": 6590,
+        "prefixDescription": "Music",
+        "departmentParentId": 9425,
+        "department": "Music",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253821,
+              "courseTitle": "Comprehensive Musicianship (Third Quarter)",
+              "courseNumber": "3C",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353529,
+              "courseTitle": "Comprehensive Musicianship (First Quarter)",
+              "courseNumber": "3A",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281506,
+              "courseTitle": "Comprehensive Musicianship (Second Quarter)",
+              "courseNumber": "3B",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 343567,
+        "courseTitle": "Harmony II",
+        "courseNumber": "142B",
+        "prefix": "MUS",
+        "prefixParentId": 6590,
+        "prefixDescription": "Music",
+        "departmentParentId": 9425,
+        "department": "Music",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353188,
+              "courseTitle": "Comprehensive Musicianship II (Third Quarter)",
+              "courseNumber": "4C",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353516,
+              "courseTitle": "Comprehensive Musicianship II (Second Quarter)",
+              "courseNumber": "4B",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254952,
+              "courseTitle": "Comprehensive Musicianship II (First Quarter)",
+              "courseNumber": "4A",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 194197,
+        "courseTitle": "Harmony I",
+        "courseNumber": "142A",
+        "prefix": "MUS",
+        "prefixParentId": 6590,
+        "prefixDescription": "Music",
+        "departmentParentId": 9425,
+        "department": "Music",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253821,
+              "courseTitle": "Comprehensive Musicianship (Third Quarter)",
+              "courseNumber": "3C",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281506,
+              "courseTitle": "Comprehensive Musicianship (Second Quarter)",
+              "courseNumber": "3B",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353529,
+              "courseTitle": "Comprehensive Musicianship (First Quarter)",
+              "courseNumber": "3A",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 325764,
+        "courseTitle": "Musicianship II",
+        "courseNumber": "141B",
+        "prefix": "MUS",
+        "prefixParentId": 6590,
+        "prefixDescription": "Music",
+        "departmentParentId": 9425,
+        "department": "Music",
+        "begin": "F2000",
+        "end": "",
+        "minUnits": 2,
+        "maxUnits": 2
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254952,
+              "courseTitle": "Comprehensive Musicianship II (First Quarter)",
+              "courseNumber": "4A",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353516,
+              "courseTitle": "Comprehensive Musicianship II (Second Quarter)",
+              "courseNumber": "4B",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353188,
+              "courseTitle": "Comprehensive Musicianship II (Third Quarter)",
+              "courseNumber": "4C",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 42649,
+        "courseTitle": "Major Performance Organization",
+        "courseNumber": "100",
+        "prefix": "MUS",
+        "prefixParentId": 6590,
+        "prefixDescription": "Music",
+        "departmentParentId": 9425,
+        "department": "Music",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 131965,
+              "courseTitle": "Jazz Ensemble",
+              "courseNumber": "34",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": 251,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 140939,
+              "courseTitle": "Vintage Singers",
+              "courseNumber": "21",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2011",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": 243,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 123397,
+              "courseTitle": "Guitar Ensemble I",
+              "courseNumber": "15A",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2009",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": 235,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 141881,
+              "courseTitle": "Guitar Ensemble II",
+              "courseNumber": "15B",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2009",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": 235,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 95169,
+              "courseTitle": "Concert Band",
+              "courseNumber": "42",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 121737,
+              "courseTitle": "Chamber Orchestra",
+              "courseNumber": "31",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2011",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": 243,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 141334,
+              "courseTitle": "De Anza Chorale",
+              "courseNumber": "20",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 66766,
+              "courseTitle": "Early Music Study and Performance",
+              "courseNumber": "22",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2006",
+              "end": "",
+              "minUnits": 2,
+              "maxUnits": 2,
+              "publishedCourseIdentifierYearTermId": 223,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 42984,
+        "courseTitle": "Individual Instruction for Music Majors",
+        "courseNumber": "129",
+        "prefix": "MUS",
+        "prefixParentId": 6590,
+        "prefixDescription": "Music",
+        "departmentParentId": 9425,
+        "department": "Music",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 315553,
+        "courseTitle": "Guitar",
+        "courseNumber": "125F",
+        "prefix": "MUS",
+        "prefixParentId": 6590,
+        "prefixDescription": "Music",
+        "departmentParentId": 9425,
+        "department": "Music",
+        "begin": "F2004",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [],
+    "HISTORY/LITERATURE": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "808e8005-3d7b-45c0-7a4d-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 378708,
+                "courseTitle": "Western Art Music II: Beethoven to Present",
+                "courseNumber": "191B",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "98b0d87e-dda4-419c-95f2-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 378707,
+                "courseTitle": "Western Art Music I: Antiquity to Beethoven",
+                "courseNumber": "191A",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c86381e0-8a4c-4608-924b-ad29d188090f",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "MUSIC THEORY": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "9f90f302-21f1-47b2-7a4c-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 325765,
+                "courseTitle": "Advanced Musicianship",
+                "courseNumber": "240",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f3add0bd-c356-43dc-bd0e-5d03333afb74",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 110487,
+                "courseTitle": "Musicianship I",
+                "courseNumber": "141A",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d772d235-c49e-498c-97fe-bba73e0a1c36",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 343567,
+                "courseTitle": "Harmony II",
+                "courseNumber": "142B",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0bb05139-fc89-4cff-bba2-f6e46e263441",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 194197,
+                "courseTitle": "Harmony I",
+                "courseNumber": "142A",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "360a6bea-8ff2-4a07-8621-8c9a8d17fd80",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 325764,
+                "courseTitle": "Musicianship II",
+                "courseNumber": "141B",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "92e53073-1214-4471-bed6-9827df96e95b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "PERFORMANCE ENSEMBLES": [
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 6,
+          "amountQuantifier": "None",
+          "amountUnitType": "Unit",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "d32958f8-5b08-45d5-11e5-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 42649,
+                "courseTitle": "Major Performance Organization",
+                "courseNumber": "100",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "45edbf1f-1ae3-40a1-bc6c-e5562ee1e123",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "KEYBOARD": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "2daeef5e-ac75-4589-7a4e-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 49922,
+                "courseTitle": "Class Piano",
+                "courseNumber": "220B",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "24c0b791-e8fa-49fd-bea6-08ce24e9a75c",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 4,
+          "amountQuantifier": "None",
+          "amountUnitType": "Unit",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "ec036cf6-fa2e-47c3-7a4f-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 42984,
+                "courseTitle": "Individual Instruction for Music Majors",
+                "courseNumber": "129",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f5f9ef9e-060e-4449-a5c2-8cafef6a2f48",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "f91902d5-685d-4776-7a51-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383739,
+                "courseTitle": "Explorations in Teaching Music",
+                "courseNumber": "225",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f5be99e0-7b9e-4ec3-9a58-da9f794569b0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 122907,
+                "courseTitle": "Diction for Singers",
+                "courseNumber": "273A",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2003",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9cd92808-2032-43e5-9897-94f9a46d66d9",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "1a417ebe-316d-4361-7a50-08db8f7b48fa",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379837,
+                "courseTitle": "Voice",
+                "courseNumber": "125H",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a6eddbd6-b594-4e0e-a26d-cbe42ee0acbd",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 53180,
+                "courseTitle": "Strings",
+                "courseNumber": "125E",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2004",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "41ed5d6e-8815-49ae-b8d6-010b98e666de",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 52217,
+                "courseTitle": "Double Reeds",
+                "courseNumber": "125B",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2004",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d2c92f22-bcfb-4070-854c-1cc0752af8e2",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 315551,
+                "courseTitle": "Brass",
+                "courseNumber": "125C",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2004",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ce6ed4ba-9d12-4d8b-9c33-823936ccc4e8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 315553,
+                "courseTitle": "Guitar",
+                "courseNumber": "125F",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2004",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fa506d21-3685-4360-adc2-af772c96bb92",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 315552,
+                "courseTitle": "Percussion",
+                "courseNumber": "125D",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2004",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "780f96b2-ae39-4053-b9b5-fcdd7abe9c50",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "48606c32-0af1-4c51-11ec-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379351,
+                "courseTitle": "Selected Topics – Methods Lab: Band",
+                "courseNumber": "126B",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1a90b321-ce1d-45a5-7cc8-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379350,
+                "courseTitle": "Selected Topics – Methods Lab: Choral",
+                "courseNumber": "126A",
+                "prefix": "MUS",
+                "prefixParentId": 6590,
+                "prefixDescription": "Music",
+                "departmentParentId": 9425,
+                "department": "Music",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "424fc5e1-6223-493c-842e-434fa0988759",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

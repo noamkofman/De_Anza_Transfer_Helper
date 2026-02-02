@@ -1,0 +1,376 @@
+{
+  "major": "Languages and Literatures/Classical Studies, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 46,
+    "code": "UCR     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Riverside",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "courses": []
+    },
+    {
+      "courses": []
+    }
+  ],
+  "groups": {
+    "STRONGLY RECOMMENDED COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 291346,
+                "courseTitle": "Classical Mythology",
+                "courseNumber": "40",
+                "prefix": "CLA",
+                "prefixParentId": 3082,
+                "prefixDescription": "Classical Studies",
+                "departmentParentId": 2693,
+                "department": "Classical Studies",
+                "begin": "F1995",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a7b410c9-6ecf-4224-d4a5-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 373192,
+                "courseTitle": "THE ANCIENT WORLD IN FILM & TELEVISION",
+                "courseNumber": "45",
+                "prefix": "CLA",
+                "prefixParentId": 3082,
+                "prefixDescription": "Classical Studies",
+                "departmentParentId": 2693,
+                "department": "Classical Studies",
+                "begin": "F2007",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 373193,
+                    "courseTitle": "THE ANCIENT WORLD IN FILM & TELEVISION",
+                    "courseNumber": "38",
+                    "prefix": "MCS",
+                    "prefixParentId": 62,
+                    "prefixDescription": "Media and Cultural Studies",
+                    "departmentParentId": 9127,
+                    "department": "Media and Cultural Studies",
+                    "begin": "F2008",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "659518cb-f651-4265-d4a6-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "GRK 1, GRK 2, GRK 3",
+                "courses": [
+                  {
+                    "id": "38ba2a68-5b00-4195-b556-c2cd72f1ee7a",
+                    "position": 0,
+                    "courseIdentifierParentId": 353780,
+                    "courseTitle": "Intro to Classical Greek",
+                    "courseNumber": "1",
+                    "prefix": "GRK",
+                    "prefixParentId": 9750,
+                    "prefixDescription": "Greek",
+                    "departmentParentId": 6638,
+                    "department": "Greek",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "31d43957-68a6-4752-9519-9664e6670ab0",
+                    "position": 1,
+                    "courseIdentifierParentId": 291298,
+                    "courseTitle": "Intro to Classical Greek",
+                    "courseNumber": "2",
+                    "prefix": "GRK",
+                    "prefixParentId": 9750,
+                    "prefixDescription": "Greek",
+                    "departmentParentId": 6638,
+                    "department": "Greek",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "5dced6b2-8636-4872-82f6-5e326bd7b584",
+                    "position": 2,
+                    "courseIdentifierParentId": 353836,
+                    "courseTitle": "Intro to Classical Greek",
+                    "courseNumber": "3",
+                    "prefix": "GRK",
+                    "prefixParentId": 9750,
+                    "prefixDescription": "Greek",
+                    "departmentParentId": 6638,
+                    "department": "Greek",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "41597e93-f9b4-449c-0ab4-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "LATN 1, LATN 2, LATN 3",
+                "courses": [
+                  {
+                    "id": "5c336ee6-49a0-49e2-843b-39afec9fc9d4",
+                    "position": 0,
+                    "courseIdentifierParentId": 291049,
+                    "courseTitle": "Intro to Latin",
+                    "courseNumber": "1",
+                    "prefix": "LATN",
+                    "prefixParentId": 7390,
+                    "prefixDescription": "Latin",
+                    "departmentParentId": 8316,
+                    "department": "Latin",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "f999507d-4bea-4bc4-8a33-5a2bdc16cf24",
+                    "position": 1,
+                    "courseIdentifierParentId": 255909,
+                    "courseTitle": "Intro to Latin",
+                    "courseNumber": "2",
+                    "prefix": "LATN",
+                    "prefixParentId": 7390,
+                    "prefixDescription": "Latin",
+                    "departmentParentId": 8316,
+                    "department": "Latin",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "bf1315ee-5772-4d2d-b354-8c218f9048e8",
+                    "position": 2,
+                    "courseIdentifierParentId": 283491,
+                    "courseTitle": "Intro to Latin",
+                    "courseNumber": "3",
+                    "prefix": "LATN",
+                    "prefixParentId": 7390,
+                    "prefixDescription": "Latin",
+                    "departmentParentId": 8316,
+                    "department": "Latin",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "dab31662-1d11-43d7-84b8-53026e6d4560",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 255914,
+                "courseTitle": "Ancient Civilization",
+                "courseNumber": "10A",
+                "prefix": "CLA",
+                "prefixParentId": 3082,
+                "prefixDescription": "Classical Studies",
+                "departmentParentId": 2693,
+                "department": "Classical Studies",
+                "begin": "F1995",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "de9ad69a-9297-46dd-8141-31e544141332",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 283374,
+                "courseTitle": "Ancient Civilization: Rome",
+                "courseNumber": "10C",
+                "prefix": "CLA",
+                "prefixParentId": 3082,
+                "prefixDescription": "Classical Studies",
+                "departmentParentId": 2693,
+                "department": "Classical Studies",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7c43fe0d-6f6c-41f2-aaac-834c89ca01e2",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 353791,
+                "courseTitle": "Ancient Civilization: Classical Greece",
+                "courseNumber": "10B",
+                "prefix": "CLA",
+                "prefixParentId": 3082,
+                "prefixDescription": "Classical Studies",
+                "departmentParentId": 2693,
+                "department": "Classical Studies",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "640856ad-ddea-4a20-a826-97feccd3e7c6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 381667,
+                "courseTitle": "Ancient Civilization: Alexander the Great",
+                "courseNumber": "10D",
+                "prefix": "CLA",
+                "prefixParentId": 3082,
+                "prefixDescription": "Classical Studies",
+                "departmentParentId": 2693,
+                "department": "Classical Studies",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f12d4468-0c15-47de-a2df-8e4f92f23f72",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 302208,
+                "courseTitle": "Intro to Close Reading",
+                "courseNumber": "1",
+                "prefix": "CPLT",
+                "prefixParentId": 5959,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2942,
+                "department": "Comparative Literature",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4e1438c9-09d5-441d-898e-edc5df2922b9",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

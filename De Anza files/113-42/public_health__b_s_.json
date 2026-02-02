@@ -1,0 +1,1288 @@
+{
+  "major": "PUBLIC HEALTH, B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 42,
+    "code": "CSUN    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Northridge",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 330806,
+        "courseTitle": "Principles of Chemistry",
+        "courseNumber": "100",
+        "prefix": "CHEM",
+        "prefixParentId": 3782,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2298,
+        "department": "Chemistry",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309434,
+              "courseTitle": "Preparation Course for General Chemistry",
+              "courseNumber": "25",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 259,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 250789,
+        "courseTitle": "Introductory Chemistry I",
+        "courseNumber": "103",
+        "prefix": "CHEM",
+        "prefixParentId": 3782,
+        "prefixDescription": "Chemistry",
+        "departmentParentId": 2298,
+        "department": "Chemistry",
+        "begin": "F2009",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359144,
+              "courseTitle": "Introduction to General, Organic, and Biochemistry I",
+              "courseNumber": "30A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2012",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 136958,
+        "courseTitle": "Human Physiology",
+        "courseNumber": "281",
+        "prefix": "BIOL",
+        "prefixParentId": 4861,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1704,
+        "department": "Biology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 375257,
+        "courseTitle": "Human Anatomy for Health Sciences",
+        "courseNumber": "213",
+        "prefix": "BIOL",
+        "prefixParentId": 4861,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1704,
+        "department": "Biology",
+        "begin": "S2020",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 172007,
+        "courseTitle": "Introductory Sociology",
+        "courseNumber": "150",
+        "prefix": "SOC",
+        "prefixParentId": 9015,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12061,
+        "department": "Sociology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254964,
+              "courseTitle": "Introduction to Sociology",
+              "courseNumber": "1",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 171958,
+        "courseTitle": "Introduction to Psychology",
+        "courseNumber": "150",
+        "prefix": "PSY",
+        "prefixParentId": 4630,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11192,
+        "department": "Psychology",
+        "begin": "F2011",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281450,
+              "courseTitle": "General Psychology",
+              "courseNumber": "1",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158837,
+        "courseTitle": "Nutrition for Life",
+        "courseNumber": "207",
+        "prefix": "FCS",
+        "prefixParentId": 6067,
+        "prefixDescription": "Family and Consumer Sciences",
+        "departmentParentId": 5478,
+        "department": "Family and Consumer Sciences",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353646,
+              "courseTitle": "Contemporary Nutrition",
+              "courseNumber": "10",
+              "prefix": "NUTR",
+              "prefixParentId": 7969,
+              "prefixDescription": "Nutrition",
+              "departmentParentId": 9790,
+              "department": "Nutrition",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 262468,
+        "courseTitle": "Introductory Statistics",
+        "courseNumber": "140",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 330996,
+        "courseTitle": "Mathematical Methods for Business",
+        "courseNumber": "103",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359048,
+              "courseTitle": "Introductory Calculus for Business and Social Science",
+              "courseNumber": "12",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 375552,
+        "courseTitle": "Essentials of Statistics and Lab",
+        "courseNumber": "141/L",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 275,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247121,
+              "courseTitle": "Human Biology",
+              "courseNumber": "11",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282638,
+              "courseTitle": "Introductory Biology",
+              "courseNumber": "10",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 277589,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247110,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 277593,
+              "courseTitle": "Human Anatomy and Physiology",
+              "courseNumber": "40A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 101, BIOL 101L",
+                "courses": [
+                  {
+                    "id": "8b79b801-e54e-4b76-8c25-ecbc78baa2fa",
+                    "position": 0,
+                    "courseIdentifierParentId": 330993,
+                    "courseTitle": "General Biology",
+                    "courseNumber": "101",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "086c9fe0-6a62-4539-a13e-9b86ae228744",
+                    "position": 1,
+                    "courseIdentifierParentId": 47899,
+                    "courseTitle": "General Biology Laboratory",
+                    "courseNumber": "101L",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "110c0ada-d07e-48b1-4c4a-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "7454dfa4-4337-44d1-5968-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330806,
+                "courseTitle": "Principles of Chemistry",
+                "courseNumber": "100",
+                "prefix": "CHEM",
+                "prefixParentId": 3782,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2298,
+                "department": "Chemistry",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e8ba8c99-db60-4f1f-4c4b-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250789,
+                "courseTitle": "Introductory Chemistry I",
+                "courseNumber": "103",
+                "prefix": "CHEM",
+                "prefixParentId": 3782,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2298,
+                "department": "Chemistry",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "07caab88-6572-498e-4c4c-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 172007,
+                "courseTitle": "Introductory Sociology",
+                "courseNumber": "150",
+                "prefix": "SOC",
+                "prefixParentId": 9015,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12061,
+                "department": "Sociology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d369b86c-983d-40b6-9b07-3dd9956b87df",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171958,
+                "courseTitle": "Introduction to Psychology",
+                "courseNumber": "150",
+                "prefix": "PSY",
+                "prefixParentId": 4630,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11192,
+                "department": "Psychology",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d5d36923-bbb5-411b-8646-83d2cd634ac9",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "LOWER DIVISION-MATHEMATICS\n": [
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "b19348ab-145c-4ef5-5969-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 201784,
+                "courseTitle": "Pre-Calculus I",
+                "courseNumber": "102",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b77370e5-20c5-4e96-b188-d4333a0b857e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 262468,
+                "courseTitle": "Introductory Statistics",
+                "courseNumber": "140",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 375546,
+                    "courseTitle": "Introductory Statistics for Business",
+                    "courseNumber": "140BUS",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 375548,
+                    "courseTitle": "Introductory Statistics for STEM",
+                    "courseNumber": "140SCI",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 375552,
+                    "courseTitle": "Essentials of Statistics and Lab",
+                    "courseNumber": "141/L",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e25e76cf-6771-4bbe-9a58-3e4a49678aee",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330996,
+                "courseTitle": "Mathematical Methods for Business",
+                "courseNumber": "103",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0f648116-81c2-4d77-a7ba-431d8efc8af0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 233004,
+                "courseTitle": "Trigonometry and Analytic Geometry",
+                "courseNumber": "104",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "74720688-eda7-43cd-8a41-5a10d3866519",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375552,
+                "courseTitle": "Essentials of Statistics and Lab",
+                "courseNumber": "141/L",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 262468,
+                    "courseTitle": "Introductory Statistics",
+                    "courseNumber": "140",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 375546,
+                    "courseTitle": "Introductory Statistics for Business",
+                    "courseNumber": "140BUS",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                },
+                {
+                  "course": {
+                    "courseIdentifierParentId": 375548,
+                    "courseTitle": "Introductory Statistics for STEM",
+                    "courseNumber": "140SCI",
+                    "prefix": "MATH",
+                    "prefixParentId": 9949,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 8979,
+                    "department": "Mathematics",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e8679074-cbdf-4c70-9442-2c206b5102c8",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "LOWER-DIVISION BIOLOGY COURSES": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "7bb122ac-d479-4b41-841f-e5d1bf44cb14",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 122359,
+                "courseTitle": "Biology of Cancer",
+                "courseNumber": "285",
+                "prefix": "BIOL",
+                "prefixParentId": 4861,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1704,
+                "department": "Biology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6c853a85-41dc-44b7-ba01-04a25debb7a7",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136958,
+                "courseTitle": "Human Physiology",
+                "courseNumber": "281",
+                "prefix": "BIOL",
+                "prefixParentId": 4861,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1704,
+                "department": "Biology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "98418e79-9838-40cf-8437-c8de49989da8",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375257,
+                "courseTitle": "Human Anatomy for Health Sciences",
+                "courseNumber": "213",
+                "prefix": "BIOL",
+                "prefixParentId": 4861,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1704,
+                "department": "Biology",
+                "begin": "S2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e9d9c091-612f-4afb-9388-77d6131be2f4",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 218, BIOL 218L",
+                "courses": [
+                  {
+                    "id": "907327c7-1e11-4aa6-9803-d0b5d7d7192b",
+                    "position": 0,
+                    "courseIdentifierParentId": 371319,
+                    "courseTitle": "Microbes and People",
+                    "courseNumber": "218",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "83358bc6-3337-4271-a162-cf369bc2da72",
+                    "position": 1,
+                    "courseIdentifierParentId": 371320,
+                    "courseTitle": "Microbes and People Lab",
+                    "courseNumber": "218L",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "c2044665-7cc3-4537-817a-bdf0333a5dc6",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 211, BIOL 212",
+                "courses": [
+                  {
+                    "id": "556265c2-408c-4a7c-9148-999c0fda3930",
+                    "position": 0,
+                    "courseIdentifierParentId": 121280,
+                    "courseTitle": "Human Anatomy",
+                    "courseNumber": "211",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "084f78c3-7c50-4fc3-9b7b-48ea0ac204f1",
+                    "position": 1,
+                    "courseIdentifierParentId": 48182,
+                    "courseTitle": "Laboratory Studies in Human Anatomy",
+                    "courseNumber": "212",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4861,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1704,
+                    "department": "Biology",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "ace7f469-5031-4bee-a074-254cff1b49ac",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ELECTIVES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 331027,
+                "courseTitle": "Women and Health",
+                "courseNumber": "231",
+                "prefix": "HSCI",
+                "prefixParentId": 7481,
+                "prefixDescription": "Health Sciences",
+                "departmentParentId": 6859,
+                "department": "Health Sciences",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "841f403e-1527-49dc-85df-697d7be3b9f1",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158837,
+                "courseTitle": "Nutrition for Life",
+                "courseNumber": "207",
+                "prefix": "FCS",
+                "prefixParentId": 6067,
+                "prefixDescription": "Family and Consumer Sciences",
+                "departmentParentId": 5478,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates only with approval from department chair or advisor"
+                }
+              ],
+              "id": "2352c1e0-f886-498d-a4c7-756c927366c6",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

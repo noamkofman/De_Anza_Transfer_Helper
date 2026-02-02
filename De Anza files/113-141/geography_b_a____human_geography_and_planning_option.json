@@ -1,0 +1,812 @@
+{
+  "major": "Geography B.A. - Human Geography and Planning Option",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ]
+  },
+  "to": {
+    "id": 141,
+    "code": "CSUC    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Chico",
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 133819,
+        "courseTitle": "Logic and Critical Thinking",
+        "courseNumber": "102",
+        "prefix": "PHIL",
+        "prefixDescription": "Philosophy",
+        "department": "Philosophy",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253827,
+              "courseTitle": "Deductive Logic",
+              "courseNumber": "7",
+              "prefix": "PHIL",
+              "prefixDescription": "Philosophy",
+              "department": "Philosophy",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290438,
+              "courseTitle": "Critical Thinking",
+              "courseNumber": "4",
+              "prefix": "PHIL",
+              "prefixDescription": "Philosophy",
+              "department": "Philosophy",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 133837,
+        "courseTitle": "Trigonometry",
+        "courseNumber": "118",
+        "prefix": "MATH",
+        "prefixDescription": "Mathematics",
+        "department": "Mathematics",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 250160,
+        "courseTitle": "Introduction to Statistics",
+        "courseNumber": "105",
+        "prefix": "MATH",
+        "prefixDescription": "Mathematics",
+        "department": "Mathematics",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixDescription": "Mathematics",
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixDescription": "Mathematics",
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281385,
+              "courseTitle": "Engineering Statistics",
+              "courseNumber": "23",
+              "prefix": "MATH",
+              "prefixDescription": "Mathematics",
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 273862,
+        "courseTitle": "Analytic Geometry and Calculus",
+        "courseNumber": "120",
+        "prefix": "MATH",
+        "prefixDescription": "Mathematics",
+        "department": "Mathematics",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "Or",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixDescription": "Mathematics",
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288769,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "MATH",
+              "prefixDescription": "Mathematics",
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "Or",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixDescription": "Mathematics",
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288768,
+              "courseTitle": "Calculus - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "MATH",
+              "prefixDescription": "Mathematics",
+              "department": "Mathematics",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 279161,
+        "courseTitle": "Principles of Ecological, Evolutionary, and Organismal Biology",
+        "courseNumber": "161",
+        "prefix": "BIOL",
+        "prefixDescription": "Biological Sciences",
+        "department": "Biological Sciences",
+        "begin": "F2021",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309815,
+              "courseTitle": "Ecology and Evolution",
+              "courseNumber": "6C",
+              "prefix": "BIOL",
+              "prefixDescription": "Biology",
+              "department": "Biology",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 244976,
+        "courseTitle": "Introduction to Living Systems",
+        "courseNumber": "102",
+        "prefix": "SCED",
+        "prefixDescription": "Science Education",
+        "department": "Science Education",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Maximum credit, one course"
+                },
+                {
+                  "position": 0,
+                  "content": "Course articulates with more than one university course"
+                }
+              ],
+              "courseIdentifierParentId": 282638,
+              "courseTitle": "Introductory Biology",
+              "courseNumber": "10",
+              "prefix": "BIOL",
+              "prefixDescription": "Biology",
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 191,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 134536,
+        "courseTitle": "Earth Systems and Physical Geography",
+        "courseNumber": "101",
+        "prefix": "GEOG",
+        "prefixDescription": "Geography",
+        "department": "Geography and Planning",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158095,
+        "courseTitle": "California Cultural Landscapes",
+        "courseNumber": "105",
+        "prefix": "GEOG",
+        "prefixDescription": "Geography",
+        "department": "Geography and Planning",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 271450,
+              "courseTitle": "A Geography of California",
+              "courseNumber": "5",
+              "prefix": "GEO",
+              "prefixDescription": "Geography",
+              "department": "Geography",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 157435,
+        "courseTitle": "Peoples, Places, and Environments",
+        "courseNumber": "102",
+        "prefix": "GEOG",
+        "prefixDescription": "Geography",
+        "department": "Geography and Planning",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 298844,
+              "courseTitle": "Cultural Geography",
+              "courseNumber": "4",
+              "prefix": "GEO",
+              "prefixDescription": "Geography",
+              "department": "Geography",
+              "begin": "F2004",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "RECOMMENDED GENERAL EDUCATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133819,
+                "courseTitle": "Logic and Critical Thinking",
+                "courseNumber": "102",
+                "prefix": "PHIL",
+                "prefixDescription": "Philosophy",
+                "department": "Philosophy",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0c8910b5-fbe9-45fa-b3b2-9b640c528adf",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 265945,
+                "courseTitle": "Inquiry into the Science of Climate Change",
+                "courseNumber": "104",
+                "prefix": "ERTH",
+                "prefixDescription": "Earth and Environmental Sciences",
+                "department": "Earth and Environmental Sciences",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7060d968-8743-4434-b618-32c3f86fcb4c",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133837,
+                "courseTitle": "Trigonometry",
+                "courseNumber": "118",
+                "prefix": "MATH",
+                "prefixDescription": "Mathematics",
+                "department": "Mathematics",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "28feedde-a2d5-453c-b758-304d31785dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250160,
+                "courseTitle": "Introduction to Statistics",
+                "courseNumber": "105",
+                "prefix": "MATH",
+                "prefixDescription": "Mathematics",
+                "department": "Mathematics",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "589bfc1b-69a5-449d-a80d-a908393a9fde",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 273862,
+                "courseTitle": "Analytic Geometry and Calculus",
+                "courseNumber": "120",
+                "prefix": "MATH",
+                "prefixDescription": "Mathematics",
+                "department": "Mathematics",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "20cb776c-9142-422c-9e07-0518c2b7d8a9",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 279161,
+                "courseTitle": "Principles of Ecological, Evolutionary, and Organismal Biology",
+                "courseNumber": "161",
+                "prefix": "BIOL",
+                "prefixDescription": "Biological Sciences",
+                "department": "Biological Sciences",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c4e20e15-0490-412b-94f3-19328d2cb4d4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 244976,
+                "courseTitle": "Introduction to Living Systems",
+                "courseNumber": "102",
+                "prefix": "SCED",
+                "prefixDescription": "Science Education",
+                "department": "Science Education",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 244977,
+                    "courseTitle": "Introduction to Living Systems",
+                    "courseNumber": "102",
+                    "prefix": "BIOL",
+                    "prefixDescription": "Biological Sciences",
+                    "department": "Biological Sciences",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "829837e8-e54a-46e8-b0ec-3d71eef51dae",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 151324,
+                "courseTitle": "Introduction to Plant Science",
+                "courseNumber": "101",
+                "prefix": "PSSC",
+                "prefixDescription": "Plant and Soil Science",
+                "department": "Agriculture",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "072adcd6-8527-49eb-b454-1f7122712675",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "LOWER DIVISION CORE REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "c00bec20-5373-4fab-dddc-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 241310,
+                "courseTitle": "Introduction to Geographic Methods",
+                "courseNumber": "219",
+                "prefix": "GEOG",
+                "prefixDescription": "Geography",
+                "department": "Geography and Planning",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "278b1e97-0e4e-444e-a577-32a36e238507",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 134536,
+                "courseTitle": "Earth Systems and Physical Geography",
+                "courseNumber": "101",
+                "prefix": "GEOG",
+                "prefixDescription": "Geography",
+                "department": "Geography and Planning",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ffd97c3d-efd5-4ab1-839e-ac83c67fe3ac",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 268016,
+                "courseTitle": "Introduction to Geographical Information Systems",
+                "courseNumber": "211",
+                "prefix": "GEOG",
+                "prefixDescription": "Geography",
+                "department": "Geography and Planning",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7a4b6de9-ce8b-46a7-94a2-09bc0b3327a9",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133804,
+                "courseTitle": "American West Decolonized",
+                "courseNumber": "106",
+                "prefix": "GEOG",
+                "prefixDescription": "Geography",
+                "department": "Geography and Planning",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0d141b67-0e9c-444e-b036-d4211eddacef",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158095,
+                "courseTitle": "California Cultural Landscapes",
+                "courseNumber": "105",
+                "prefix": "GEOG",
+                "prefixDescription": "Geography",
+                "department": "Geography and Planning",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1f0e10ff-dec3-418d-bf6a-c3342af18491",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157435,
+                "courseTitle": "Peoples, Places, and Environments",
+                "courseNumber": "102",
+                "prefix": "GEOG",
+                "prefixDescription": "Geography",
+                "department": "Geography and Planning",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "adb076a8-1adc-49be-9561-827efe144208",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

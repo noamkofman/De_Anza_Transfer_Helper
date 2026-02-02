@@ -1,0 +1,405 @@
+{
+  "major": "Linguistics and Psychology/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 1153,
+        "courseTitle": "Introduction to Programming(C++)",
+        "courseNumber": "10A",
+        "prefix": "COMPTNG",
+        "prefixParentId": 111,
+        "prefixDescription": "Computing, Program in",
+        "departmentParentId": 3329,
+        "department": "Program in Computing",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 300758,
+              "courseTitle": "Intermediate Programming Methodologies in C++",
+              "courseNumber": "22B",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 275613,
+              "courseTitle": "Beginning Programming Methodologies in C++",
+              "courseNumber": "22A",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 279908,
+              "courseTitle": "Programming in C++ for C/Java Programmers",
+              "courseNumber": "27",
+              "prefix": "CIS",
+              "prefixParentId": 2242,
+              "prefixDescription": "Computer Information Systems",
+              "departmentParentId": 3124,
+              "department": "Computer Information Systems",
+              "begin": "F2013",
+              "end": "",
+              "minUnits": 4.5,
+              "maxUnits": 4.5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 260129,
+        "courseTitle": "Introductory Psychology",
+        "courseNumber": "10",
+        "prefix": "PSYCH",
+        "prefixParentId": 4720,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11309,
+        "department": "Psychology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281450,
+              "courseTitle": "General Psychology",
+              "courseNumber": "1",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "e1d450f1-324b-4fc7-f399-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 288650,
+                "courseTitle": "Introduction to Linguistics Analysis",
+                "courseNumber": "20",
+                "prefix": "LING",
+                "prefixParentId": 118,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8640,
+                "department": "Linguistics",
+                "begin": "S2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "35d1b6b5-f1a0-4b23-d04c-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "14fe4c7e-bc2c-44ce-f39a-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 260129,
+                "courseTitle": "Introductory Psychology",
+                "courseNumber": "10",
+                "prefix": "PSYCH",
+                "prefixParentId": 4720,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11309,
+                "department": "Psychology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "396fb752-fdcb-4ec7-d04d-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 262288,
+                "courseTitle": "Introduction to Cognitive Science",
+                "courseNumber": "85",
+                "prefix": "PSYCH",
+                "prefixParentId": 4720,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11309,
+                "department": "Psychology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7ea4a4b7-09f1-4659-d04e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "9d3fc663-41af-4dbf-1be3-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 299713,
+                "courseTitle": "Psychological Statistics",
+                "courseNumber": "100A",
+                "prefix": "PSYCH",
+                "prefixParentId": 4720,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11309,
+                "department": "Psychology",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course recommended to be taken at university"
+                }
+              ],
+              "id": "9092b70c-0403-4483-9133-5963746bcd0a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305914,
+                "courseTitle": "Research Methods in Psychology",
+                "courseNumber": "100B",
+                "prefix": "PSYCH",
+                "prefixParentId": 4720,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11309,
+                "department": "Psychology",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 6,
+                "maxUnits": 6
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course recommended to be taken at university"
+                }
+              ],
+              "id": "5ed07947-e32c-42b8-b4f6-a1da0146e37a",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "39b6ff7c-50ec-4b3a-1be1-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 1153,
+                "courseTitle": "Introduction to Programming(C++)",
+                "courseNumber": "10A",
+                "prefix": "COMPTNG",
+                "prefixParentId": 111,
+                "prefixDescription": "Computing, Program in",
+                "departmentParentId": 3329,
+                "department": "Program in Computing",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "788c7054-b07a-4e1c-9f40-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "1418a04c-61d2-4984-1be2-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Equivalent of level three of two foreign languages"
+              },
+              "requirementAttributes": [],
+              "id": "66b396cf-3a74-4717-83e0-9e569abe6c17",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Elementary and Intermediate Levels (Six Terms) Of One Foreign Language"
+              },
+              "requirementAttributes": [],
+              "id": "83e22deb-393a-43a9-aa7e-26d754a6e97a",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,904 @@
+{
+  "major": "Liberal Studies B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 12,
+    "code": "CSUMB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Monterey Bay",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 346240,
+        "courseTitle": "Introduction to US History",
+        "courseNumber": "251",
+        "prefix": "HCOM",
+        "prefixParentId": 10384,
+        "prefixDescription": "Humanities and Communication",
+        "departmentParentId": 7205,
+        "department": "Humanities and Communication",
+        "begin": "F2015",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305663,
+              "courseTitle": "History of the United States to Early National Era - HONORS",
+              "courseNumber": "17AH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 300286,
+              "courseTitle": "History of the United States from 1800 to 1900 - HONORS",
+              "courseNumber": "17BH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290436,
+              "courseTitle": "History of the United States to Early National Era",
+              "courseNumber": "17A",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353102,
+              "courseTitle": "History of the United States from 1800 to 1900",
+              "courseNumber": "17B",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 255453,
+        "courseTitle": "United States History to 1890",
+        "courseNumber": "111",
+        "prefix": "SBS",
+        "prefixParentId": 31,
+        "prefixDescription": "Social and Behavioral Sciences",
+        "departmentParentId": 11929,
+        "department": "Social and Behavioral Sciences",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305663,
+              "courseTitle": "History of the United States to Early National Era - HONORS",
+              "courseNumber": "17AH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 300286,
+              "courseTitle": "History of the United States from 1800 to 1900 - HONORS",
+              "courseNumber": "17BH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290436,
+              "courseTitle": "History of the United States to Early National Era",
+              "courseNumber": "17A",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353102,
+              "courseTitle": "History of the United States from 1800 to 1900",
+              "courseNumber": "17B",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2000",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 355691,
+        "courseTitle": "Quantitative Literacy",
+        "courseNumber": "100",
+        "prefix": "MATH",
+        "prefixParentId": 9919,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8957,
+        "department": "Mathematics",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "a02368ff-878a-49b8-8a63-31e0d0a511e3",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 282333,
+                  "courseTitle": "Mathematics for Elementary Education",
+                  "courseNumber": "46",
+                  "prefix": "MATH",
+                  "prefixParentId": 10025,
+                  "prefixDescription": "Mathematics",
+                  "departmentParentId": 9040,
+                  "department": "Mathematics",
+                  "begin": "F2001",
+                  "end": "",
+                  "minUnits": 5,
+                  "maxUnits": 5
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282332,
+              "courseTitle": "Mathematics for Elementary Education",
+              "courseNumber": "46",
+              "prefix": "EDUC",
+              "prefixParentId": 7355,
+              "prefixDescription": "Education",
+              "departmentParentId": 4434,
+              "department": "Education",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "acbaaa45-efb0-4bcd-8c21-87d0345cbc3b",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 282332,
+                  "courseTitle": "Mathematics for Elementary Education",
+                  "courseNumber": "46",
+                  "prefix": "EDUC",
+                  "prefixParentId": 7355,
+                  "prefixDescription": "Education",
+                  "departmentParentId": 4434,
+                  "department": "Education",
+                  "begin": "F2001",
+                  "end": "",
+                  "minUnits": 5,
+                  "maxUnits": 5
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282333,
+              "courseTitle": "Mathematics for Elementary Education",
+              "courseNumber": "46",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 369591,
+        "courseTitle": "Service Learning in Public Schools",
+        "courseNumber": "242S",
+        "prefix": "LS",
+        "prefixParentId": 5355,
+        "prefixDescription": "Liberal Studies",
+        "departmentParentId": 8463,
+        "department": "Liberal Studies",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 208926,
+              "courseTitle": "Introduction to Elementary Education in a Diverse Society",
+              "courseNumber": "1",
+              "prefix": "EDUC",
+              "prefixParentId": 7355,
+              "prefixDescription": "Education",
+              "departmentParentId": 4434,
+              "department": "Education",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 3,
+              "maxUnits": 3,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 271506,
+        "courseTitle": "Global History I: to 1500",
+        "courseNumber": "214",
+        "prefix": "GS",
+        "prefixParentId": 11603,
+        "prefixDescription": "Global Studies",
+        "departmentParentId": 6565,
+        "department": "Global Studies",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 294870,
+              "courseTitle": "World History from 750 to 1750 CE",
+              "courseNumber": "3B",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 294888,
+              "courseTitle": "World History from Prehistory to 750 CE",
+              "courseNumber": "3A",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 357849,
+              "courseTitle": "World History from 750 to 1750 CE - HONORS",
+              "courseNumber": "3BH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 274006,
+              "courseTitle": "World History from Prehistory to 750 CE - HONORS",
+              "courseNumber": "3AH",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 219508,
+        "courseTitle": "Introduction to Life Sciences",
+        "courseNumber": "204",
+        "prefix": "BIO",
+        "prefixParentId": 13847,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1656,
+        "department": "Biology",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309511,
+              "courseTitle": "Introductory Biology - HONORS",
+              "courseNumber": "10H",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282638,
+              "courseTitle": "Introductory Biology",
+              "courseNumber": "10",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358845,
+              "courseTitle": "Concepts of Physics",
+              "courseNumber": "10",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359076,
+              "courseTitle": "Introductory Chemistry",
+              "courseNumber": "10",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION COURSES FOR THE MAJOR": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "b545d7aa-7cde-4760-14f3-08dbeab4b1c7",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375065,
+                "courseTitle": "Intro to Child Development",
+                "courseNumber": "200",
+                "prefix": "HDFS",
+                "prefixParentId": 16666,
+                "prefixDescription": "Human Development and Family Studies",
+                "departmentParentId": 13802,
+                "department": "Human Development and Family Studies",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5e89ba4a-fcbc-4459-b2e5-fb39ce2cc3fc",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 346240,
+                "courseTitle": "Introduction to US History",
+                "courseNumber": "251",
+                "prefix": "HCOM",
+                "prefixParentId": 10384,
+                "prefixDescription": "Humanities and Communication",
+                "departmentParentId": 7205,
+                "department": "Humanities and Communication",
+                "begin": "F2015",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "575c9dda-7308-4242-a703-634ebfa3a704",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 245318,
+                "courseTitle": "Earth Science for Teachers",
+                "courseNumber": "210",
+                "prefix": "GEOL",
+                "prefixParentId": 13849,
+                "prefixDescription": "Geology",
+                "departmentParentId": 6285,
+                "department": "Geology",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "58dff60c-fc9a-48b9-b350-06f7a51ee2cb",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 255453,
+                "courseTitle": "United States History to 1890",
+                "courseNumber": "111",
+                "prefix": "SBS",
+                "prefixParentId": 31,
+                "prefixDescription": "Social and Behavioral Sciences",
+                "departmentParentId": 11929,
+                "department": "Social and Behavioral Sciences",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9b2253ed-a4ef-477a-8d67-e5af71183e97",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303150,
+                "courseTitle": "Arts in the School and Community",
+                "courseNumber": "233",
+                "prefix": "LS",
+                "prefixParentId": 5355,
+                "prefixDescription": "Liberal Studies",
+                "departmentParentId": 8463,
+                "department": "Liberal Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "05e6fcce-9a6f-4343-83d9-daa0ae735d38",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PHYS 121, PHYS 121L",
+                "courses": [
+                  {
+                    "id": "74445e05-d0cc-49e9-a78b-665bcb0b8f7c",
+                    "position": 0,
+                    "courseIdentifierParentId": 210378,
+                    "courseTitle": "Integrated Physical Science",
+                    "courseNumber": "121",
+                    "prefix": "PHYS",
+                    "prefixParentId": 13851,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10753,
+                    "department": "Physics",
+                    "begin": "S2006",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "5b0a82f2-69d5-4ce5-9a2b-b9a454b4cd53",
+                    "position": 1,
+                    "courseIdentifierParentId": 53243,
+                    "courseTitle": "Integrated Physical Science Laboratory",
+                    "courseNumber": "121L",
+                    "prefix": "PHYS",
+                    "prefixParentId": 13851,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10753,
+                    "department": "Physics",
+                    "begin": "S2006",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "e8dde392-b424-40f0-ba16-7314234485bb",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 355691,
+                "courseTitle": "Quantitative Literacy",
+                "courseNumber": "100",
+                "prefix": "MATH",
+                "prefixParentId": 9919,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8957,
+                "department": "Mathematics",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "56e3e9d5-ef04-4f7e-87fc-31a039fce7d7",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 369591,
+                "courseTitle": "Service Learning in Public Schools",
+                "courseNumber": "242S",
+                "prefix": "LS",
+                "prefixParentId": 5355,
+                "prefixDescription": "Liberal Studies",
+                "departmentParentId": 8463,
+                "department": "Liberal Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5fa7d920-0a89-4a60-8719-dad19937ebfd",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 271506,
+                "courseTitle": "Global History I: to 1500",
+                "courseNumber": "214",
+                "prefix": "GS",
+                "prefixParentId": 11603,
+                "prefixDescription": "Global Studies",
+                "departmentParentId": 6565,
+                "department": "Global Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f9e1cd60-097f-4d73-868b-b26fe502eed6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 219508,
+                "courseTitle": "Introduction to Life Sciences",
+                "courseNumber": "204",
+                "prefix": "BIO",
+                "prefixParentId": 13847,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1656,
+                "department": "Biology",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c34f9352-87e7-4aa4-8a55-c4f26deaa494",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

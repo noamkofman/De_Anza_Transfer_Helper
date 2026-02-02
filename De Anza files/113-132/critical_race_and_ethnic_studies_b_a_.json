@@ -1,0 +1,128 @@
+{
+  "major": "Critical Race and Ethnic Studies B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 132,
+    "code": "UCSC    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Cruz",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 287924,
+        "courseTitle": "Critical Race and Ethnic Studies: An Introduction",
+        "courseNumber": "10",
+        "prefix": "CRES",
+        "prefixParentId": 15662,
+        "prefixDescription": "Critical Race and Ethnic Studies",
+        "departmentParentId": 3620,
+        "department": "Critical Race and Ethnic Studies",
+        "begin": "F2014",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 283309,
+              "courseTitle": "Race, Ethnicity, and Inequality",
+              "courseNumber": "10",
+              "prefix": "CETH",
+              "prefixParentId": 16886,
+              "prefixDescription": "Comparative Ethnic Studies",
+              "departmentParentId": 13991,
+              "department": "Comparative Ethnic Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "62847615-a005-402c-dea0-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287924,
+                "courseTitle": "Critical Race and Ethnic Studies: An Introduction",
+                "courseNumber": "10",
+                "prefix": "CRES",
+                "prefixParentId": 15662,
+                "prefixDescription": "Critical Race and Ethnic Studies",
+                "departmentParentId": 3620,
+                "department": "Critical Race and Ethnic Studies",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "66a6a33b-dfb2-4bf5-be59-c69d95afdebc",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "major": "Italian Studies, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 128,
+    "code": "UCSB    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Barbara",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280450,
+              "courseTitle": "Elementary Italian (Third Quarter)",
+              "courseNumber": "3",
+              "prefix": "ITAL",
+              "prefixParentId": 1750,
+              "prefixDescription": "Italian",
+              "departmentParentId": 7795,
+              "department": "Italian",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302600,
+              "courseTitle": "Elementary Italian (Second Quarter)",
+              "courseNumber": "2",
+              "prefix": "ITAL",
+              "prefixParentId": 1750,
+              "prefixDescription": "Italian",
+              "departmentParentId": 7795,
+              "department": "Italian",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 280560,
+              "courseTitle": "Elementary Italian (First Quarter)",
+              "courseNumber": "1",
+              "prefix": "ITAL",
+              "prefixParentId": 1750,
+              "prefixDescription": "Italian",
+              "departmentParentId": 7795,
+              "department": "Italian",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": []
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "ITAL 1, ITAL 2, ITAL 3",
+                "courses": [
+                  {
+                    "id": "b665281d-caef-4e34-a89e-353cdd565339",
+                    "position": 0,
+                    "courseIdentifierParentId": 263813,
+                    "courseTitle": "Elementary Italian",
+                    "courseNumber": "1",
+                    "prefix": "ITAL",
+                    "prefixParentId": 1756,
+                    "prefixDescription": "Italian",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "S2017",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  },
+                  {
+                    "id": "a3c4190d-9940-44da-befc-d3ec6b726665",
+                    "position": 1,
+                    "courseIdentifierParentId": 293379,
+                    "courseTitle": "Elementary Italian",
+                    "courseNumber": "2",
+                    "prefix": "ITAL",
+                    "prefixParentId": 1756,
+                    "prefixDescription": "Italian",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "S2017",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  },
+                  {
+                    "id": "dd27e795-9ad7-45c2-be5d-019efce20803",
+                    "position": 2,
+                    "courseIdentifierParentId": 286804,
+                    "courseTitle": "Elementary Italian",
+                    "courseNumber": "3",
+                    "prefix": "ITAL",
+                    "prefixParentId": 1756,
+                    "prefixDescription": "Italian",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "S2017",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [
+                {
+                  "seriesCourseId": "dd27e795-9ad7-45c2-be5d-019efce20803",
+                  "position": 0,
+                  "content": "Or equivalent"
+                }
+              ],
+              "id": "89a27d0d-d2a1-4658-793c-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "ITAL 4, ITAL 5, ITAL 6",
+                "courses": [
+                  {
+                    "id": "e2458e3a-e467-44f1-99f9-12bc347dd5b1",
+                    "position": 0,
+                    "courseIdentifierParentId": 263815,
+                    "courseTitle": "Intermediate Italian",
+                    "courseNumber": "4",
+                    "prefix": "ITAL",
+                    "prefixParentId": 1756,
+                    "prefixDescription": "Italian",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "S2017",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  },
+                  {
+                    "id": "e08c46a7-3fb3-45c2-805a-5e6cbf5657f7",
+                    "position": 1,
+                    "courseIdentifierParentId": 293381,
+                    "courseTitle": "Intermediate Italian",
+                    "courseNumber": "5",
+                    "prefix": "ITAL",
+                    "prefixParentId": 1756,
+                    "prefixDescription": "Italian",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "S2017",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  },
+                  {
+                    "id": "35ae46fa-6d56-4c2f-afd1-c6927b3cd13a",
+                    "position": 2,
+                    "courseIdentifierParentId": 286395,
+                    "courseTitle": "Intermediate Italian",
+                    "courseNumber": "6",
+                    "prefix": "ITAL",
+                    "prefixParentId": 1756,
+                    "prefixDescription": "Italian",
+                    "departmentParentId": 5905,
+                    "department": "French and Italian",
+                    "begin": "S2017",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [
+                {
+                  "seriesCourseId": "35ae46fa-6d56-4c2f-afd1-c6927b3cd13a",
+                  "position": 0,
+                  "content": "Or equivalent"
+                }
+              ],
+              "id": "3eb5ae9e-e202-4acc-7925-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 356242,
+                "courseTitle": "Introduction to Italian Culture",
+                "courseNumber": "20X",
+                "prefix": "ITAL",
+                "prefixParentId": 1756,
+                "prefixDescription": "Italian",
+                "departmentParentId": 5905,
+                "department": "French and Italian",
+                "begin": "S2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "94eb17ca-2722-4166-7924-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

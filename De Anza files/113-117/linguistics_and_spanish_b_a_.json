@@ -1,0 +1,267 @@
+{
+  "major": "Linguistics and Spanish/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "d336d05f-459d-4b39-1bdf-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 288650,
+                "courseTitle": "Introduction to Linguistics Analysis",
+                "courseNumber": "20",
+                "prefix": "LING",
+                "prefixParentId": 118,
+                "prefixDescription": "Linguistics",
+                "departmentParentId": 8640,
+                "department": "Linguistics",
+                "begin": "S2016",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "63aeff70-3540-49f4-85d8-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379235,
+                "courseTitle": "Spanish, Portuguese, and Nature of Language",
+                "courseNumber": "M35",
+                "prefix": "SPAN",
+                "prefixParentId": 14377,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12293,
+                "department": "Spanish",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 381005,
+                    "courseTitle": "Spanish, Portuguese, and Nature of Language",
+                    "courseNumber": "M35",
+                    "prefix": "PORTGSE",
+                    "prefixParentId": 15871,
+                    "prefixDescription": "Portuguese",
+                    "departmentParentId": 11135,
+                    "department": "Portuguese",
+                    "begin": "S2021",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "138550e8-1b68-477f-85d9-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "79f6f369-e8c6-4fc0-1745-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379212,
+                "courseTitle": "Advanced Spanish Composition",
+                "courseNumber": "25",
+                "prefix": "SPAN",
+                "prefixParentId": 14377,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12293,
+                "department": "Spanish",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4c7f1e59-ea61-4070-85da-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379213,
+                "courseTitle": "Advanced Spanish Composition for Heritage Speakers",
+                "courseNumber": "27",
+                "prefix": "SPAN",
+                "prefixParentId": 14377,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12293,
+                "department": "Spanish",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "85be6225-02eb-49bd-9335-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "a35d56d7-5c4e-4da5-1746-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 270479,
+                "courseTitle": "Iberian Culture",
+                "courseNumber": "42",
+                "prefix": "SPAN",
+                "prefixParentId": 14377,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12293,
+                "department": "Spanish",
+                "begin": "S2012",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a5f4539b-0cc9-4a2d-29bc-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 285965,
+                "courseTitle": "Latin American Cultures",
+                "courseNumber": "44",
+                "prefix": "SPAN",
+                "prefixParentId": 14377,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12293,
+                "department": "Spanish",
+                "begin": "Su2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9fc8bb14-15da-445a-9336-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "2b418665-027c-484a-1be0-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Equivalent Of Level Three Of A 2nd Foreign Language"
+              },
+              "requirementAttributes": [],
+              "id": "2c4d90e5-8fd6-4172-bc75-1f6c752cbb8e",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

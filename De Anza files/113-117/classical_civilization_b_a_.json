@@ -1,0 +1,415 @@
+{
+  "major": "Classical Civilization/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "24d02d4a-1c62-4374-1b44-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305057,
+                "courseTitle": "Discovering Greeks",
+                "courseNumber": "10",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c0055c97-ab7a-4f07-99cc-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287045,
+                "courseTitle": "Discovering Romans",
+                "courseNumber": "20",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "32e4b6a2-a747-43cc-99cd-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "Or",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "60e2f3e3-2022-4e0c-1b45-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309356,
+                "courseTitle": "Elementary Greek",
+                "courseNumber": "3",
+                "prefix": "GREEK",
+                "prefixParentId": 15299,
+                "prefixDescription": "Greek",
+                "departmentParentId": 6628,
+                "department": "Greek",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6dd4c039-4d37-4f94-99ce-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387579,
+                "courseTitle": "Intensive First-Year Greek",
+                "courseNumber": "16",
+                "prefix": "GREEK",
+                "prefixParentId": 15299,
+                "prefixDescription": "Greek",
+                "departmentParentId": 6628,
+                "department": "Greek",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 12,
+                "maxUnits": 12
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "993c7a23-f744-4bcd-cf20-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287047,
+                "courseTitle": "Elementary Latin",
+                "courseNumber": "3",
+                "prefix": "LATIN",
+                "prefixParentId": 15302,
+                "prefixDescription": "Latin",
+                "departmentParentId": 8310,
+                "department": "Latin",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "679ef5b6-a447-48dd-cf1e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 306771,
+                "courseTitle": "Intensive First-Year Latin",
+                "courseNumber": "16",
+                "prefix": "LATIN",
+                "prefixParentId": 15302,
+                "prefixDescription": "Latin",
+                "departmentParentId": 8310,
+                "department": "Latin",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 12,
+                "maxUnits": 12
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "dc68a67d-bc68-477b-cf1f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "452bc3b6-ac10-4131-170c-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309404,
+                "courseTitle": "Fantastic Journey: Antiquity And Beyond",
+                "courseNumber": "60",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d327abe3-7db4-4942-99d0-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309355,
+                "courseTitle": "General Education Seminar Sequences",
+                "courseNumber": "88GE",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e1a69ca5-329c-4363-9348-2c5ba8992a70",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359958,
+                "courseTitle": "Art and Archaeology of Ancient Rome",
+                "courseNumber": "51B",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "28e8b486-e26c-471d-946f-fe362cce6b2a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305059,
+                "courseTitle": "Art and Archaeology of Ancient Greece",
+                "courseNumber": "51A",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6a991d7c-82c6-49d3-928f-00f964036411",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309353,
+                "courseTitle": "Reading Greek Literature: Writing Intensive",
+                "courseNumber": "40W",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ea5ce24e-ca60-489a-a5d9-c07179ceff47",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 309354,
+                "courseTitle": "Reading Roman Literature: Writing Intensive",
+                "courseNumber": "41W",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "82667dc4-d5ca-48c2-9cd7-c7d7149ef3f3",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287046,
+                "courseTitle": "Classical Mythology",
+                "courseNumber": "30",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "19f3052e-753c-45e9-b296-65fe1b4b0005",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305058,
+                "courseTitle": "Cinema and Ancient World",
+                "courseNumber": "42",
+                "prefix": "CLASSIC",
+                "prefixParentId": 15300,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2691,
+                "department": "Classic",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a0088b9a-3136-4c79-b4a5-b627e194232c",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

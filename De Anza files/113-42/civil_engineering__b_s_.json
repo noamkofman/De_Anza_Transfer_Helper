@@ -1,0 +1,1100 @@
+{
+  "major": "CIVIL ENGINEERING, B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 42,
+    "code": "CSUN    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Northridge",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 136565,
+        "courseTitle": "Calculus II",
+        "courseNumber": "150B",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 359110,
+              "courseTitle": "Calculus",
+              "courseNumber": "1C",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 136990,
+        "courseTitle": "Calculus III",
+        "courseNumber": "250",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 302624,
+              "courseTitle": "Calculus",
+              "courseNumber": "1D",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 172121,
+        "courseTitle": "Biological Principles I",
+        "courseNumber": "106",
+        "prefix": "BIOL",
+        "prefixParentId": 4861,
+        "prefixDescription": "Biology",
+        "departmentParentId": 1704,
+        "department": "Biology",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 309815,
+              "courseTitle": "Ecology and Evolution",
+              "courseNumber": "6C",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290474,
+              "courseTitle": "Form and Function in the Biological World",
+              "courseNumber": "6A",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290473,
+              "courseTitle": "Cell and Molecular Biology",
+              "courseNumber": "6B",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2001",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 173921,
+        "courseTitle": "Electrical Engineering Fundamentals",
+        "courseNumber": "240",
+        "prefix": "ECE",
+        "prefixParentId": 770,
+        "prefixDescription": "Electrical & Computer Engineering",
+        "departmentParentId": 4503,
+        "department": "Electrical & Computer Engineering",
+        "begin": "S2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 171510,
+        "courseTitle": "Calculus I",
+        "courseNumber": "150A",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 307949,
+              "courseTitle": "Calculus",
+              "courseNumber": "1B",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281397,
+              "courseTitle": "Calculus",
+              "courseNumber": "1A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 359110,
+              "courseTitle": "Calculus",
+              "courseNumber": "1C",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158772,
+        "courseTitle": "Applied Differential Equations",
+        "courseNumber": "280",
+        "prefix": "MATH",
+        "prefixParentId": 9949,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 8979,
+        "department": "Mathematics",
+        "begin": "F1999",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281375,
+              "courseTitle": "Differential Equations",
+              "courseNumber": "2A",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Articulates as a sequence only"
+                }
+              ],
+              "courseIdentifierParentId": 306955,
+              "courseTitle": "General Chemistry and Qualitative Analysis",
+              "courseNumber": "1C",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359228,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 305519,
+              "courseTitle": "Physics for Scientists and Engineers: Mechanics",
+              "courseNumber": "4A",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 276901,
+              "courseTitle": "Physics for Scientists and Engineers: Electricity and Magnetism",
+              "courseNumber": "4B",
+              "prefix": "PHYS",
+              "prefixParentId": 300,
+              "prefixDescription": "Physics",
+              "departmentParentId": 10814,
+              "department": "Physics",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 6,
+              "maxUnits": 6,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290430,
+              "courseTitle": "Statics",
+              "courseNumber": "35",
+              "prefix": "ENGR",
+              "prefixParentId": 3570,
+              "prefixDescription": "Engineering",
+              "departmentParentId": 4803,
+              "department": "Engineering",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 179,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136565,
+                "courseTitle": "Calculus II",
+                "courseNumber": "150B",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "505057cb-52a3-47a4-a41f-e9292ada6c11",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CE 101, CE 101L",
+                "courses": [
+                  {
+                    "id": "f2ad2ae0-26b5-4af7-afe1-6ca6f75b2d61",
+                    "position": 0,
+                    "courseIdentifierParentId": 56649,
+                    "courseTitle": "Introduction to Civil Engineering",
+                    "courseNumber": "101",
+                    "prefix": "CE",
+                    "prefixParentId": 9705,
+                    "prefixDescription": "Civil Engineering",
+                    "departmentParentId": 13846,
+                    "department": "Civil Engineering and Construction Management",
+                    "begin": "F2008",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "22c87df8-63e2-4f8a-b69a-a4dc5599f933",
+                    "position": 1,
+                    "courseIdentifierParentId": 56073,
+                    "courseTitle": "Introduction to Civil Engineering Lab",
+                    "courseNumber": "101L",
+                    "prefix": "CE",
+                    "prefixParentId": 9705,
+                    "prefixDescription": "Civil Engineering",
+                    "departmentParentId": 13846,
+                    "department": "Civil Engineering and Construction Management",
+                    "begin": "F2008",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "8b54546f-19bd-4ad5-949d-6c17c4af940d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CHEM 101, CHEM 101L, CHEM 101D",
+                "courses": [
+                  {
+                    "id": "6ab68f86-d675-4210-a715-512f6fc5d634",
+                    "position": 0,
+                    "courseIdentifierParentId": 171515,
+                    "courseTitle": "General Chemistry I",
+                    "courseNumber": "101",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3782,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2298,
+                    "department": "Chemistry",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "990cc5c5-2701-422b-8e9c-092f68ffe058",
+                    "position": 1,
+                    "courseIdentifierParentId": 46122,
+                    "courseTitle": "General Chemistry I Laboratory",
+                    "courseNumber": "101L",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3782,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2298,
+                    "department": "Chemistry",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "f851cb82-daeb-4f70-8d4a-9b7b2ac84d04",
+                    "position": 2,
+                    "courseIdentifierParentId": 384185,
+                    "courseTitle": "Problem Solving in General Chemistry I",
+                    "courseNumber": "101D",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3782,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2298,
+                    "department": "Chemistry",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "cae083ee-28ec-4c4e-87bf-5d8897369073",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PHYS 220A, PHYS 220AL",
+                "courses": [
+                  {
+                    "id": "9329596b-cd46-4a2f-b25f-b5335ef73123",
+                    "position": 0,
+                    "courseIdentifierParentId": 136878,
+                    "courseTitle": "Mechanics",
+                    "courseNumber": "220A",
+                    "prefix": "PHYS",
+                    "prefixParentId": 222,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10864,
+                    "department": "Physics & Astronomy",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "dd42ca26-73f2-4ff3-bf36-5b1667e3db15",
+                    "position": 1,
+                    "courseIdentifierParentId": 171494,
+                    "courseTitle": "Mechanics Laboratory",
+                    "courseNumber": "220AL",
+                    "prefix": "PHYS",
+                    "prefixParentId": 222,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10864,
+                    "department": "Physics & Astronomy",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "f1b8a662-2475-4bfe-9674-d2ccdfccc68e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CE 280, CE 280L",
+                "courses": [
+                  {
+                    "id": "e634c680-eabf-4f98-abac-452244f3a093",
+                    "position": 0,
+                    "courseIdentifierParentId": 53006,
+                    "courseTitle": "Computer Applications in Civil Engineering",
+                    "courseNumber": "280",
+                    "prefix": "CE",
+                    "prefixParentId": 9705,
+                    "prefixDescription": "Civil Engineering",
+                    "departmentParentId": 13846,
+                    "department": "Civil Engineering and Construction Management",
+                    "begin": "F2005",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "b26e344f-bf9c-42ad-915d-d8eb88a5bf3a",
+                    "position": 1,
+                    "courseIdentifierParentId": 53007,
+                    "courseTitle": "Computer Applications in Civil Engineering Lab",
+                    "courseNumber": "280L",
+                    "prefix": "CE",
+                    "prefixParentId": 9705,
+                    "prefixDescription": "Civil Engineering",
+                    "departmentParentId": 13846,
+                    "department": "Civil Engineering and Construction Management",
+                    "begin": "F2005",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "40924cc4-b09d-4e77-b2a6-c3fe63cc5d31",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136990,
+                "courseTitle": "Calculus III",
+                "courseNumber": "250",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ea6e9b67-a6c4-4695-b3e4-ab1c6be31a99",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "MSE 227, MSE 227L",
+                "courses": [
+                  {
+                    "id": "65d1ec4c-e224-47d4-92a4-e6932afae113",
+                    "position": 0,
+                    "courseIdentifierParentId": 209005,
+                    "courseTitle": "Engineering Materials",
+                    "courseNumber": "227",
+                    "prefix": "MSE",
+                    "prefixParentId": 409,
+                    "prefixDescription": "Manufacturing Systems Engineering",
+                    "departmentParentId": 8804,
+                    "department": "Manufacturing Systems Engineering",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "5c5e81b0-f185-4130-a9ba-b6f41187aa93",
+                    "position": 1,
+                    "courseIdentifierParentId": 45859,
+                    "courseTitle": "Engineering Materials Laboratory",
+                    "courseNumber": "227L",
+                    "prefix": "MSE",
+                    "prefixParentId": 409,
+                    "prefixDescription": "Manufacturing Systems Engineering",
+                    "departmentParentId": 8804,
+                    "department": "Manufacturing Systems Engineering",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "6db855e5-652f-4845-bf09-b70518828853",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 172121,
+                "courseTitle": "Biological Principles I",
+                "courseNumber": "106",
+                "prefix": "BIOL",
+                "prefixParentId": 4861,
+                "prefixDescription": "Biology",
+                "departmentParentId": 1704,
+                "department": "Biology",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "41770d73-5d14-4f42-ab8c-63487cab8ea5",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 173921,
+                "courseTitle": "Electrical Engineering Fundamentals",
+                "courseNumber": "240",
+                "prefix": "ECE",
+                "prefixParentId": 770,
+                "prefixDescription": "Electrical & Computer Engineering",
+                "departmentParentId": 4503,
+                "department": "Electrical & Computer Engineering",
+                "begin": "S2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "107f07c6-79ed-47f9-99dc-065f7ae9a579",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PHYS 220B, PHYS 220BL",
+                "courses": [
+                  {
+                    "id": "d6f2a551-f8ea-4625-8ad7-89213e0e9066",
+                    "position": 0,
+                    "courseIdentifierParentId": 158796,
+                    "courseTitle": "Electricity and Magnetism",
+                    "courseNumber": "220B",
+                    "prefix": "PHYS",
+                    "prefixParentId": 222,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10864,
+                    "department": "Physics & Astronomy",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "a009ac57-7338-4840-82cf-635a0d294f4c",
+                    "position": 1,
+                    "courseIdentifierParentId": 171706,
+                    "courseTitle": "Electricity and Magnetism Laboratory",
+                    "courseNumber": "220BL",
+                    "prefix": "PHYS",
+                    "prefixParentId": 222,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10864,
+                    "department": "Physics & Astronomy",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "2cbc68b9-fe10-4f17-a185-92d889501baf",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171510,
+                "courseTitle": "Calculus I",
+                "courseNumber": "150A",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0d9442df-9326-4634-b437-873ef9783452",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CE 240, CE 240L",
+                "courses": [
+                  {
+                    "id": "6ac03e41-36fe-40ec-5058-08db9a87edda",
+                    "position": 0,
+                    "courseIdentifierParentId": 194157,
+                    "courseTitle": "Engineering Statics",
+                    "courseNumber": "240",
+                    "prefix": "CE",
+                    "prefixParentId": 9705,
+                    "prefixDescription": "Civil Engineering",
+                    "departmentParentId": 13846,
+                    "department": "Civil Engineering and Construction Management",
+                    "begin": "F2023",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "be12eaf8-2620-4951-5059-08db9a87edda",
+                    "position": 1,
+                    "courseIdentifierParentId": 385401,
+                    "courseTitle": "Engineering Statics Lab",
+                    "courseNumber": "240L",
+                    "prefix": "CE",
+                    "prefixParentId": 9705,
+                    "prefixDescription": "Civil Engineering",
+                    "departmentParentId": 13846,
+                    "department": "Civil Engineering and Construction Management",
+                    "begin": "F2023",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "7a0fe108-a32e-43fd-02ae-08dbc501b57e",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158772,
+                "courseTitle": "Applied Differential Equations",
+                "courseNumber": "280",
+                "prefix": "MATH",
+                "prefixParentId": 9949,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 8979,
+                "department": "Mathematics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "96563396-bab3-4448-9ff3-cf4fa3345aec",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

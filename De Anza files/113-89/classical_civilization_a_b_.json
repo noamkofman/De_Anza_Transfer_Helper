@@ -1,0 +1,1184 @@
+{
+  "major": "Classical Civilization A.B.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 89,
+    "code": "UCD     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Davis",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 284821,
+        "courseTitle": "Philosophical Classics of the Ancient Era ",
+        "courseNumber": "021",
+        "prefix": "PHI",
+        "prefixParentId": 5460,
+        "prefixDescription": "Philosophy",
+        "departmentParentId": 10219,
+        "department": "Philosophy",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 246491,
+              "courseTitle": "History of Western Philosophy: Ancient Greece",
+              "courseNumber": "20A",
+              "prefix": "PHIL",
+              "prefixParentId": 5487,
+              "prefixDescription": "Philosophy",
+              "departmentParentId": 10175,
+              "department": "Philosophy",
+              "begin": "F2007",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 257004,
+        "courseTitle": "Ancient Science",
+        "courseNumber": "050",
+        "prefix": "CLA",
+        "prefixParentId": 3086,
+        "prefixDescription": "Classics",
+        "departmentParentId": 2699,
+        "department": "Classics",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 292081,
+        "courseTitle": "Ancient Mediterranean Art",
+        "courseNumber": "001A",
+        "prefix": "AHI",
+        "prefixParentId": 8190,
+        "prefixDescription": "Art History",
+        "departmentParentId": 1207,
+        "department": "Art History",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254867,
+              "courseTitle": "History of Art: Europe from Prehistory through Early Christianity",
+              "courseNumber": "2A",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 234413,
+        "courseTitle": "Greek & Latin Elements in English Vocabulary",
+        "courseNumber": "030F",
+        "prefix": "CLA",
+        "prefixParentId": 3086,
+        "prefixDescription": "Classics",
+        "departmentParentId": 2699,
+        "department": "Classics",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "PREPARATION COURSES FOR THE MAJOR": [],
+    "CLASSICAL AND MEDITERRANEAN CIVILIZATIONS TRACK": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "279c9266-73c5-41b0-f6d3-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 281961,
+                "courseTitle": "Elementary Greek ",
+                "courseNumber": "002",
+                "prefix": "GRK",
+                "prefixParentId": 9755,
+                "prefixDescription": "Greek",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "385ee3d4-8f97-40c9-dea7-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359339,
+                "courseTitle": "Elementary Greek ",
+                "courseNumber": "001",
+                "prefix": "GRK",
+                "prefixParentId": 9755,
+                "prefixDescription": "Greek",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "448fd373-aba9-4eff-dea8-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308336,
+                "courseTitle": "Intermediate Greek ",
+                "courseNumber": "003",
+                "prefix": "GRK",
+                "prefixParentId": 9755,
+                "prefixDescription": "Greek",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6d5017b4-1b66-4270-dea9-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308334,
+                "courseTitle": "Elementary Latin ",
+                "courseNumber": "002",
+                "prefix": "LAT",
+                "prefixParentId": 7409,
+                "prefixDescription": "Latin",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "63948d2d-ae06-4afb-deaa-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308322,
+                "courseTitle": "Elementary Latin ",
+                "courseNumber": "001",
+                "prefix": "LAT",
+                "prefixParentId": 7409,
+                "prefixDescription": "Latin",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "590504e9-2313-4245-deab-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308326,
+                "courseTitle": "Intermediate Latin",
+                "courseNumber": "003",
+                "prefix": "LAT",
+                "prefixParentId": 7409,
+                "prefixDescription": "Latin",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "53f889f2-a97f-461e-deac-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 2,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "36e436ca-4832-42c1-f6d4-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354126,
+                "courseTitle": "Ancient Near East & Early Greece: 3000-500 B.C.E. ",
+                "courseNumber": "001",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "b02daaa2-301a-479b-dead-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284761,
+                "courseTitle": "Rome & the Mediterranean: 800 B.C.E. -500 C.E.",
+                "courseNumber": "003",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "acd855a1-41b7-40a6-deae-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 357878,
+                "courseTitle": "Late Antiquity",
+                "courseNumber": "004",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "2267d27c-7fd3-436b-deaf-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257033,
+                "courseTitle": "Ancient Greece & the Near East: 500-146 B.C.E.",
+                "courseNumber": "002",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "ba7b0338-a651-40ca-deb0-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 1,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "2b6b3b4f-451b-4337-f6d2-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 357878,
+                "courseTitle": "Late Antiquity",
+                "courseNumber": "004",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "6a7b7d14-9515-4bbd-de94-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284814,
+                "courseTitle": "Women & Gender in Classical Antiquity",
+                "courseNumber": "015",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "967917e8-5bdb-4895-de95-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 292092,
+                "courseTitle": "New Testament",
+                "courseNumber": "040",
+                "prefix": "RST",
+                "prefixParentId": 2143,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11679,
+                "department": "Religious Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "61e2316b-6ce6-4b66-de96-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 219701,
+                "courseTitle": "Greek & Latin Elements in English Vocabulary",
+                "courseNumber": "030",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3b4c16e7-1bc1-4990-de97-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257033,
+                "courseTitle": "Ancient Greece & the Near East: 500-146 B.C.E.",
+                "courseNumber": "002",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "ecd9786b-8eb0-4a68-de98-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 209446,
+                "courseTitle": "Greek & Latin Elements in Technical Vocabulary",
+                "courseNumber": "031",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7736930c-9f9a-4701-de99-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 292158,
+                "courseTitle": "Pompeii AD 79",
+                "courseNumber": "020",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "756acb6f-2490-4f61-de9a-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284761,
+                "courseTitle": "Rome & the Mediterranean: 800 B.C.E. -500 C.E.",
+                "courseNumber": "003",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "16bf5195-eb7a-4de5-de9b-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284817,
+                "courseTitle": "Major Works of the Ancient World",
+                "courseNumber": "001",
+                "prefix": "COM",
+                "prefixParentId": 6671,
+                "prefixDescription": "Comparative Literature",
+                "departmentParentId": 2941,
+                "department": "Comparative Literature",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5163520c-32e5-43ea-de9c-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 302238,
+                "courseTitle": "The Classical Heritage in America",
+                "courseNumber": "025",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b2db6e9d-8068-480c-de9d-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284821,
+                "courseTitle": "Philosophical Classics of the Ancient Era ",
+                "courseNumber": "021",
+                "prefix": "PHI",
+                "prefixParentId": 5460,
+                "prefixDescription": "Philosophy",
+                "departmentParentId": 10219,
+                "department": "Philosophy",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1acbf56e-2d8a-4869-de9f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256952,
+                "courseTitle": "The Bible & Its Interpreters ",
+                "courseNumber": "021",
+                "prefix": "RST",
+                "prefixParentId": 2143,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11679,
+                "department": "Religious Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8b961678-0009-4ee9-dea0-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257004,
+                "courseTitle": "Ancient Science",
+                "courseNumber": "050",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 257007,
+                    "courseTitle": "Ancient Science",
+                    "courseNumber": "050",
+                    "prefix": "STS",
+                    "prefixParentId": 106,
+                    "prefixDescription": "Science and Technology Studies",
+                    "departmentParentId": 11832,
+                    "department": "Science and Technology Studies",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "22f054a9-e9c0-4b20-dea1-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 292081,
+                "courseTitle": "Ancient Mediterranean Art",
+                "courseNumber": "001A",
+                "prefix": "AHI",
+                "prefixParentId": 8190,
+                "prefixDescription": "Art History",
+                "departmentParentId": 1207,
+                "department": "Art History",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2bd82dbb-9b6d-406d-dea2-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 300364,
+                "courseTitle": "Life & Economy in the Ancient Mediterranean World",
+                "courseNumber": "040",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "37f1b364-adf2-4c6c-dea3-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354126,
+                "courseTitle": "Ancient Near East & Early Greece: 3000-500 B.C.E. ",
+                "courseNumber": "001",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course cannot  be dual counted"
+                }
+              ],
+              "id": "3a7bdd3b-ffc8-45e4-dea4-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 209459,
+                "courseTitle": "Greek, Roman, & Near Eastern Mythology",
+                "courseNumber": "010",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "725c4444-61a9-45cd-dea5-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 234413,
+                "courseTitle": "Greek & Latin Elements in English Vocabulary",
+                "courseNumber": "030F",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "416b6efc-9315-4399-dea6-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "CLASSICAL LANGUAGES AND LITERATURES TRACK": [
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 1,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "2fd2460c-48bb-457a-f6d0-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 357878,
+                "courseTitle": "Late Antiquity",
+                "courseNumber": "004",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e3f3e4e2-f85b-4b79-de8a-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257033,
+                "courseTitle": "Ancient Greece & the Near East: 500-146 B.C.E.",
+                "courseNumber": "002",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "47fb5985-d4d2-4fab-de8b-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284761,
+                "courseTitle": "Rome & the Mediterranean: 800 B.C.E. -500 C.E.",
+                "courseNumber": "003",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3bcbd0b7-2814-4d25-de8c-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354126,
+                "courseTitle": "Ancient Near East & Early Greece: 3000-500 B.C.E. ",
+                "courseNumber": "001",
+                "prefix": "CLA",
+                "prefixParentId": 3086,
+                "prefixDescription": "Classics",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c1e6c239-aa17-48a5-de8d-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "e31bfe31-0685-4248-f6d1-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308336,
+                "courseTitle": "Intermediate Greek ",
+                "courseNumber": "003",
+                "prefix": "GRK",
+                "prefixParentId": 9755,
+                "prefixDescription": "Greek",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "34c85931-6ed2-4a85-de8e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 281961,
+                "courseTitle": "Elementary Greek ",
+                "courseNumber": "002",
+                "prefix": "GRK",
+                "prefixParentId": 9755,
+                "prefixDescription": "Greek",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e62cb10f-9910-4861-de8f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 359339,
+                "courseTitle": "Elementary Greek ",
+                "courseNumber": "001",
+                "prefix": "GRK",
+                "prefixParentId": 9755,
+                "prefixDescription": "Greek",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ed4b4f1f-5f0a-4219-de90-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308322,
+                "courseTitle": "Elementary Latin ",
+                "courseNumber": "001",
+                "prefix": "LAT",
+                "prefixParentId": 7409,
+                "prefixDescription": "Latin",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c357c85d-22c1-4c43-de91-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308334,
+                "courseTitle": "Elementary Latin ",
+                "courseNumber": "002",
+                "prefix": "LAT",
+                "prefixParentId": 7409,
+                "prefixDescription": "Latin",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d16c9113-cc9c-4925-de92-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 308326,
+                "courseTitle": "Intermediate Latin",
+                "courseNumber": "003",
+                "prefix": "LAT",
+                "prefixParentId": 7409,
+                "prefixDescription": "Latin",
+                "departmentParentId": 2699,
+                "department": "Classics",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3c995c39-ea9d-4679-de93-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

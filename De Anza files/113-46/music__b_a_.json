@@ -1,0 +1,258 @@
+{
+  "major": "Music, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 46,
+    "code": "UCR     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Riverside",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281506,
+              "courseTitle": "Comprehensive Musicianship (Second Quarter)",
+              "courseNumber": "3B",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 253821,
+              "courseTitle": "Comprehensive Musicianship (Third Quarter)",
+              "courseNumber": "3C",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 2,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353529,
+              "courseTitle": "Comprehensive Musicianship (First Quarter)",
+              "courseNumber": "3A",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": []
+    }
+  ],
+  "groups": {
+    "STRONGLY RECOMMENDED COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "MUS 31A, MUS 31B, MUS 31C",
+                "courses": [
+                  {
+                    "id": "036f5245-62e0-401c-8043-039eddf64a62",
+                    "position": 0,
+                    "courseIdentifierParentId": 128609,
+                    "courseTitle": "Musicianship I",
+                    "courseNumber": "31A",
+                    "prefix": "MUS",
+                    "prefixParentId": 6553,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9407,
+                    "department": "Music",
+                    "begin": "F2007",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "bc428a4c-b626-42d9-93ed-a5e24e67afc9",
+                    "position": 1,
+                    "courseIdentifierParentId": 53363,
+                    "courseTitle": "Musicianship I",
+                    "courseNumber": "31B",
+                    "prefix": "MUS",
+                    "prefixParentId": 6553,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9407,
+                    "department": "Music",
+                    "begin": "F2007",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "1a8d57e5-9d5f-4ff0-9291-2ba038bca13a",
+                    "position": 2,
+                    "courseIdentifierParentId": 52064,
+                    "courseTitle": "Musicianship I",
+                    "courseNumber": "31C",
+                    "prefix": "MUS",
+                    "prefixParentId": 6553,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9407,
+                    "department": "Music",
+                    "begin": "F2007",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "ab08c0bf-3e48-40da-888d-c524b1805bc2",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "MUS 30A, MUS 30B, MUS 30C",
+                "courses": [
+                  {
+                    "id": "aa44eef1-08aa-4585-a2f0-126c1388783f",
+                    "position": 0,
+                    "courseIdentifierParentId": 283658,
+                    "courseTitle": "Harmony",
+                    "courseNumber": "30A",
+                    "prefix": "MUS",
+                    "prefixParentId": 6553,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9407,
+                    "department": "Music",
+                    "begin": "F1997",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "46b2ddab-2720-4b0d-9ae8-5bcae2e8e180",
+                    "position": 1,
+                    "courseIdentifierParentId": 246946,
+                    "courseTitle": "Harmony",
+                    "courseNumber": "30B",
+                    "prefix": "MUS",
+                    "prefixParentId": 6553,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9407,
+                    "department": "Music",
+                    "begin": "F1997",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  },
+                  {
+                    "id": "f324421c-1eea-46d3-892d-edddca18588b",
+                    "position": 2,
+                    "courseIdentifierParentId": 246949,
+                    "courseTitle": "Harmony",
+                    "courseNumber": "30C",
+                    "prefix": "MUS",
+                    "prefixParentId": 6553,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9407,
+                    "department": "Music",
+                    "begin": "F1997",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "3bcf218c-3ce5-4f72-a608-201354864981",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

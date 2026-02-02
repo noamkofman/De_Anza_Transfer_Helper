@@ -1,0 +1,1545 @@
+{
+  "major": "Plant Science, B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 75,
+    "code": "CPP     ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "California Polytechnic University, Pomona",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 2018
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 283171,
+        "courseTitle": "Statistics with Applications",
+        "courseNumber": "1200",
+        "prefix": "STA",
+        "prefixParentId": 3364,
+        "prefixDescription": "Statistics",
+        "departmentParentId": 9086,
+        "department": "Mathematics and Statistics",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 271238,
+        "courseTitle": "Accounting for Agribusiness I",
+        "courseNumber": "2240",
+        "prefix": "ABM",
+        "prefixParentId": 71,
+        "prefixDescription": "Agribusiness and Food Industry Management",
+        "departmentParentId": 307,
+        "department": "Agribusiness and Food Industry Management",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Acceptable substitute"
+                }
+              ],
+              "courseIdentifierParentId": 305222,
+              "courseTitle": "Financial Accounting I - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Acceptable substitute"
+                }
+              ],
+              "courseIdentifierParentId": 309246,
+              "courseTitle": "Financial Accounting I",
+              "courseNumber": "1A",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Acceptable substitute"
+                }
+              ],
+              "courseIdentifierParentId": 280415,
+              "courseTitle": "Financial Accounting II",
+              "courseNumber": "1B",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Acceptable substitute"
+                }
+              ],
+              "courseIdentifierParentId": 360064,
+              "courseTitle": "Financial Accounting II - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "ACCT",
+              "prefixParentId": 5763,
+              "prefixDescription": "Accounting",
+              "departmentParentId": 53,
+              "department": "Accounting",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": []
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 309511,
+              "courseTitle": "Introductory Biology - HONORS",
+              "courseNumber": "10H",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282638,
+              "courseTitle": "Introductory Biology",
+              "courseNumber": "10",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 306955,
+              "courseTitle": "General Chemistry and Qualitative Analysis",
+              "courseNumber": "1C",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368023,
+              "courseTitle": "General Chemistry - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368024,
+              "courseTitle": "General Chemistry and Qualitative Analysis - HONORS",
+              "courseNumber": "1CH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358342,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1B",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1991",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 359228,
+              "courseTitle": "General Chemistry",
+              "courseNumber": "1A",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368022,
+              "courseTitle": "General Chemistry - HONORS",
+              "courseNumber": "1AH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 368023,
+              "courseTitle": "General Chemistry - HONORS",
+              "courseNumber": "1BH",
+              "prefix": "CHEM",
+              "prefixParentId": 3854,
+              "prefixDescription": "Chemistry",
+              "departmentParentId": 2358,
+              "department": "Chemistry",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MAJOR REQUIRED": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 2420, PLT 2420L",
+                "courses": [
+                  {
+                    "id": "5092ba8c-8c86-46bc-9d38-65a6589bedb3",
+                    "position": 0,
+                    "courseIdentifierParentId": 39684,
+                    "courseTitle": "Plant Identification",
+                    "courseNumber": "2420",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2023",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "585778d5-6606-4516-92ca-e7a98fbc7245",
+                    "position": 1,
+                    "courseIdentifierParentId": 46828,
+                    "courseTitle": "Plant Identification Laboratory",
+                    "courseNumber": "2420L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2023",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "25223324-9d4b-4795-9632-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 283171,
+                "courseTitle": "Statistics with Applications",
+                "courseNumber": "1200",
+                "prefix": "STA",
+                "prefixParentId": 3364,
+                "prefixDescription": "Statistics",
+                "departmentParentId": 9086,
+                "department": "Mathematics and Statistics",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a7cc27b8-78ff-498b-9633-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 2330, PLT 2330L",
+                "courses": [
+                  {
+                    "id": "535f9ca8-eb69-49f8-b36c-d0d094c4ba8f",
+                    "position": 0,
+                    "courseIdentifierParentId": 229064,
+                    "courseTitle": "Introduction to Arthropods",
+                    "courseNumber": "2330",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "8a4ebe74-97bd-4d38-a36a-00f65aec64d6",
+                    "position": 1,
+                    "courseIdentifierParentId": 27154,
+                    "courseTitle": "Introduction to Arthropods Laboratory",
+                    "courseNumber": "2330L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "3f066f52-fc15-4c7e-aad2-0167587bc154",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 2310, PLT 2310L",
+                "courses": [
+                  {
+                    "id": "c2bf4e10-883d-4ad1-a8c6-95fe9ef18e77",
+                    "position": 0,
+                    "courseIdentifierParentId": 156824,
+                    "courseTitle": "Basic Soil Science",
+                    "courseNumber": "2310",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "e8a97b8e-82e9-4310-8888-d9db2cd934bf",
+                    "position": 1,
+                    "courseIdentifierParentId": 26693,
+                    "courseTitle": "Basic Soil Science Laboratory",
+                    "courseNumber": "2310L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "c350bec4-aaea-4390-999d-98f882cbbfd8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIO 2050, BIO 2050L",
+                "courses": [
+                  {
+                    "id": "18fc05b0-d64a-49ed-a6a4-0e26c7cb41b1",
+                    "position": 0,
+                    "courseIdentifierParentId": 249248,
+                    "courseTitle": "Form and Function in Plants",
+                    "courseNumber": "2050",
+                    "prefix": "BIO",
+                    "prefixParentId": 4890,
+                    "prefixDescription": "Biological Sciences",
+                    "departmentParentId": 1633,
+                    "department": "Biological Sciences",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "08492b6a-74a0-429d-a211-f5d89f9b7858",
+                    "position": 1,
+                    "courseIdentifierParentId": 126813,
+                    "courseTitle": "Form and Function in Plants Laboratory",
+                    "courseNumber": "2050L",
+                    "prefix": "BIO",
+                    "prefixParentId": 4890,
+                    "prefixDescription": "Biological Sciences",
+                    "departmentParentId": 1633,
+                    "department": "Biological Sciences",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "8ac0cd5d-65c6-4b20-8d4d-cf548ab60db8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIO 1150, BIO 1150L",
+                "courses": [
+                  {
+                    "id": "58dffc94-c930-424c-b3fd-976625cd5c81",
+                    "position": 0,
+                    "courseIdentifierParentId": 198846,
+                    "courseTitle": "Basic Biology",
+                    "courseNumber": "1150",
+                    "prefix": "BIO",
+                    "prefixParentId": 4890,
+                    "prefixDescription": "Biological Sciences",
+                    "departmentParentId": 1633,
+                    "department": "Biological Sciences",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "3ed50e33-0ac9-4f1c-b08a-14a5120e624c",
+                    "position": 2,
+                    "courseIdentifierParentId": 56569,
+                    "courseTitle": "Basic Biology Laboratory",
+                    "courseNumber": "1150L",
+                    "prefix": "BIO",
+                    "prefixParentId": 4890,
+                    "prefixDescription": "Biological Sciences",
+                    "departmentParentId": 1633,
+                    "department": "Biological Sciences",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "436b2e4c-6568-4989-8a0f-283dbc9618f1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CHM 1220, CHM 1220L",
+                "courses": [
+                  {
+                    "id": "be9f9d04-e143-4cfe-90d8-35ac7885d804",
+                    "position": 0,
+                    "courseIdentifierParentId": 219409,
+                    "courseTitle": "General Chemistry II",
+                    "courseNumber": "1220",
+                    "prefix": "CHM",
+                    "prefixParentId": 3814,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2399,
+                    "department": "Chemistry and Biochemistry",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "e0f146c2-16f9-42d4-b1c3-bf2ab69eb9cf",
+                    "position": 1,
+                    "courseIdentifierParentId": 40951,
+                    "courseTitle": "General Chemistry Laboratory II",
+                    "courseNumber": "1220L",
+                    "prefix": "CHM",
+                    "prefixParentId": 3814,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2399,
+                    "department": "Chemistry and Biochemistry",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "fbc4b2e9-2943-4623-add0-dfe40ec3bab6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 364078,
+                "courseTitle": "Orientation to Plant Science",
+                "courseNumber": "1000",
+                "prefix": "PLT",
+                "prefixParentId": 14387,
+                "prefixDescription": "Plant Science",
+                "departmentParentId": 10936,
+                "department": "Plant Science",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0c41b86d-9cc7-4bb1-b035-bddcceb2bbb1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 1120, PLT 1120L",
+                "courses": [
+                  {
+                    "id": "7fd63401-e12c-409e-afe1-70e1ba042f7e",
+                    "position": 0,
+                    "courseIdentifierParentId": 245137,
+                    "courseTitle": "Plant Science I",
+                    "courseNumber": "1120",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "b7757c48-a964-474a-849b-8034db8122c7",
+                    "position": 1,
+                    "courseIdentifierParentId": 26695,
+                    "courseTitle": "Plant Science I Laboratory",
+                    "courseNumber": "1120L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "0c93b62e-5d6e-4650-bc22-cef9a8c59cca",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "CHM 1210, CHM 1210L",
+                "courses": [
+                  {
+                    "id": "9890fcc2-79e0-4ef3-b48d-b5d3ca2f5650",
+                    "position": 0,
+                    "courseIdentifierParentId": 209437,
+                    "courseTitle": "General Chemistry I",
+                    "courseNumber": "1210",
+                    "prefix": "CHM",
+                    "prefixParentId": 3814,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2399,
+                    "department": "Chemistry and Biochemistry",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "62d9623f-652d-4f12-936d-2190249012bb",
+                    "position": 1,
+                    "courseIdentifierParentId": 40967,
+                    "courseTitle": "General Chemistry Laboratory I",
+                    "courseNumber": "1210L",
+                    "prefix": "CHM",
+                    "prefixParentId": 3814,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2399,
+                    "department": "Chemistry and Biochemistry",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "93c038e5-4c14-40e7-b106-5c06bcc616ad",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 271238,
+                "courseTitle": "Accounting for Agribusiness I",
+                "courseNumber": "2240",
+                "prefix": "ABM",
+                "prefixParentId": 71,
+                "prefixDescription": "Agribusiness and Food Industry Management",
+                "departmentParentId": 307,
+                "department": "Agribusiness and Food Industry Management",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bd2a310a-efd4-4a46-b210-c196a45270c3",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 1130, PLT 1130L",
+                "courses": [
+                  {
+                    "id": "49de79ac-03de-4863-ac54-aee3bb4da5e4",
+                    "position": 0,
+                    "courseIdentifierParentId": 99000,
+                    "courseTitle": "Plant Science II",
+                    "courseNumber": "1130",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "27cd76bd-f73c-439e-abce-248e43752e79",
+                    "position": 1,
+                    "courseIdentifierParentId": 28732,
+                    "courseTitle": "Plant Science II Laboratory",
+                    "courseNumber": "1130L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "0b0b1322-1518-4292-8d12-64f60c877f02",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 270282,
+                "courseTitle": "Basic Irrigation Science",
+                "courseNumber": "2320",
+                "prefix": "PLT",
+                "prefixParentId": 14387,
+                "prefixDescription": "Plant Science",
+                "departmentParentId": 10936,
+                "department": "Plant Science",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2ee0e9a9-b56c-4697-a585-fdba09b49d2a",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "MAJOR REQUIRED ELECTIVES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 2020, PLT 2020L",
+                "courses": [
+                  {
+                    "id": "7e17fd49-2fd8-4de1-a3b1-4f355a561a65",
+                    "position": 0,
+                    "courseIdentifierParentId": 171034,
+                    "courseTitle": "Subtropical Fruits",
+                    "courseNumber": "2020",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "401896ba-7677-48d3-804a-a89bdbd284b5",
+                    "position": 1,
+                    "courseIdentifierParentId": 55641,
+                    "courseTitle": "Subtropical Fruits Laboratory",
+                    "courseNumber": "2020L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "ca633f0a-8ca0-4b06-9634-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 2030, PLT 2030L",
+                "courses": [
+                  {
+                    "id": "7b6e5967-6d00-425b-bae0-925893895058",
+                    "position": 0,
+                    "courseIdentifierParentId": 214518,
+                    "courseTitle": "Pomology",
+                    "courseNumber": "2030",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "9e4af8c0-9d28-4baa-a69f-96aa4a8665c7",
+                    "position": 1,
+                    "courseIdentifierParentId": 54775,
+                    "courseTitle": "Pomology Laboratory",
+                    "courseNumber": "2030L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "b2bb30a9-94fc-4564-9635-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 284148,
+                "courseTitle": "History of Garden Art",
+                "courseNumber": "2140",
+                "prefix": "PLT",
+                "prefixParentId": 14387,
+                "prefixDescription": "Plant Science",
+                "departmentParentId": 10936,
+                "department": "Plant Science",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d86e0817-b802-4ff8-9636-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 2200, PLT 2200L",
+                "courses": [
+                  {
+                    "id": "4b5633af-d789-49ee-bbf8-3aebda76be55",
+                    "position": 0,
+                    "courseIdentifierParentId": 135761,
+                    "courseTitle": "Agronomic Principles and Practices",
+                    "courseNumber": "2200",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "6153f8ca-33f9-4cf1-b990-9683fd6540d1",
+                    "position": 1,
+                    "courseIdentifierParentId": 26099,
+                    "courseTitle": "Agronomic Principles and Practices Laboratory",
+                    "courseNumber": "2200L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "2078571e-f4a5-477d-9637-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 282806,
+                "courseTitle": "Culinary Produce Technology",
+                "courseNumber": "2220",
+                "prefix": "PLT",
+                "prefixParentId": 14387,
+                "prefixDescription": "Plant Science",
+                "departmentParentId": 10936,
+                "department": "Plant Science",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ecf2fe25-8612-48e1-9638-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 2230, PLT 2230L",
+                "courses": [
+                  {
+                    "id": "23d1be98-2610-4f18-9718-e0c08ff7536a",
+                    "position": 0,
+                    "courseIdentifierParentId": 330810,
+                    "courseTitle": "Forage and Pasture Crops",
+                    "courseNumber": "2230",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "337d64a5-ec87-409a-b2ef-3c9cdc225454",
+                    "position": 1,
+                    "courseIdentifierParentId": 311034,
+                    "courseTitle": "Forage and Pasture Crops Laboratory",
+                    "courseNumber": "2230L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "6b0dfe72-00e4-42f1-9639-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 2260, PLT 2260L",
+                "courses": [
+                  {
+                    "id": "cac1bb46-f1a7-4c88-87d9-f44d3af155ab",
+                    "position": 0,
+                    "courseIdentifierParentId": 136282,
+                    "courseTitle": "Vegetable Crop Systems",
+                    "courseNumber": "2260",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "6942df4f-2c27-46b7-bfbd-fb401a761baf",
+                    "position": 1,
+                    "courseIdentifierParentId": 27152,
+                    "courseTitle": "Vegetable Crop Systems Laboratory",
+                    "courseNumber": "2260L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "c8e6ee7b-3e9c-4810-963a-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 2400, PLT 2400L",
+                "courses": [
+                  {
+                    "id": "7de0b21c-f8fa-48e7-a277-a029a3658f6c",
+                    "position": 0,
+                    "courseIdentifierParentId": 168897,
+                    "courseTitle": "Introduction to Turfgrass Management",
+                    "courseNumber": "2400",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "72245cd2-5325-4ce4-a0e5-cd8f8ea485d7",
+                    "position": 1,
+                    "courseIdentifierParentId": 27109,
+                    "courseTitle": "Introduction to Turfgrass Management Laboratory",
+                    "courseNumber": "2400L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "caea46dc-f974-4f5c-963b-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 373283,
+                "courseTitle": "Sports and Urban Turfgrass Management",
+                "courseNumber": "2410",
+                "prefix": "PLT",
+                "prefixParentId": 14387,
+                "prefixDescription": "Plant Science",
+                "departmentParentId": 10936,
+                "department": "Plant Science",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c9e68a7c-5035-4aa7-963f-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 373284,
+                "courseTitle": "Sports and Urban Turfgrass Management Laboratory",
+                "courseNumber": "2410L",
+                "prefix": "PLT",
+                "prefixParentId": 14387,
+                "prefixDescription": "Plant Science",
+                "departmentParentId": 10936,
+                "department": "Plant Science",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b4265613-a0fe-4567-9640-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 2450, PLT 2450L",
+                "courses": [
+                  {
+                    "id": "8239153b-ec17-4d06-a3c4-e6bb6b07968c",
+                    "position": 0,
+                    "courseIdentifierParentId": 128571,
+                    "courseTitle": "General Surveying",
+                    "courseNumber": "2450",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  },
+                  {
+                    "id": "c4ee0d0b-8137-44c0-bc29-18c8088ed54d",
+                    "position": 1,
+                    "courseIdentifierParentId": 27156,
+                    "courseTitle": "General Surveying Laboratory",
+                    "courseNumber": "2450L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "b416ad8c-ca60-4417-9641-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "PLT 2520, PLT 2520L",
+                "courses": [
+                  {
+                    "id": "ffd5da28-c25d-4320-8cc5-2479d843073d",
+                    "position": 0,
+                    "courseIdentifierParentId": 225309,
+                    "courseTitle": "Computer Aided Design",
+                    "courseNumber": "2520",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "9fd4b289-b197-4737-924b-41da6aa90c1b",
+                    "position": 1,
+                    "courseIdentifierParentId": 47345,
+                    "courseTitle": "Computer Aided Design Laboratory",
+                    "courseNumber": "2520L",
+                    "prefix": "PLT",
+                    "prefixParentId": 14387,
+                    "prefixDescription": "Plant Science",
+                    "departmentParentId": 10936,
+                    "department": "Plant Science",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "81414f67-33ea-4032-9642-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363866,
+                "courseTitle": "Farmers' Markets",
+                "courseNumber": "2977",
+                "prefix": "PLT",
+                "prefixParentId": 14387,
+                "prefixDescription": "Plant Science",
+                "departmentParentId": 10936,
+                "department": "Plant Science",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9f665336-53e6-4fe5-9643-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

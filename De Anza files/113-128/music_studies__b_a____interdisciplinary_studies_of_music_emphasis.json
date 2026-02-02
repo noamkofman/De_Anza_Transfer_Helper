@@ -1,0 +1,506 @@
+{
+  "major": "Music Studies, B.A. - Interdisciplinary Studies of Music Emphasis",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 128,
+    "code": "UCSB    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Barbara",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 314014,
+        "courseTitle": "Musicianship",
+        "courseNumber": "4A",
+        "prefix": "MUS",
+        "prefixParentId": 6640,
+        "prefixDescription": "Music",
+        "departmentParentId": 9448,
+        "department": "Music",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 299581,
+        "courseTitle": "Theory of Western Art Music: Fundamentals",
+        "courseNumber": "5A",
+        "prefix": "MUS",
+        "prefixParentId": 6640,
+        "prefixDescription": "Music",
+        "departmentParentId": 9448,
+        "department": "Music",
+        "begin": "F2014",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 304581,
+        "courseTitle": "Fundamentals of Music",
+        "courseNumber": "11",
+        "prefix": "MUS",
+        "prefixParentId": 6640,
+        "prefixDescription": "Music",
+        "departmentParentId": 9448,
+        "department": "Music",
+        "begin": "F2014",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 336947,
+              "courseTitle": "Music Fundamentals",
+              "courseNumber": "2",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 3,
+              "maxUnits": 3,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 299677,
+                "courseTitle": "Introduction to Music Studies",
+                "courseNumber": "3A",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a1f777fb-ed00-4d58-8fbe-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 273197,
+                "courseTitle": "Writing about Music",
+                "courseNumber": "3B",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f4c22914-c0df-40bf-8fbf-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 273198,
+                "courseTitle": "Structures of Music",
+                "courseNumber": "3C",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1109ee0d-6764-4d01-8fc0-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 314014,
+                "courseTitle": "Musicianship",
+                "courseNumber": "4A",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7777840b-7b52-4e28-8fc1-08dba897c33b",
+              "position": 0,
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Placement exam required"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "2e5c8eff-4a44-432d-16dc-08dba898cc31",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 299581,
+                "courseTitle": "Theory of Western Art Music: Fundamentals",
+                "courseNumber": "5A",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7cc5fd39-ecf6-4aa1-8fc2-08dba897c33b",
+              "position": 0,
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Placement exam required"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 304581,
+                "courseTitle": "Fundamentals of Music",
+                "courseNumber": "11",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "24d6de59-a48c-4668-8fc3-08dba897c33b",
+              "position": 0,
+              "attributes": [
+                {
+                  "position": 0,
+                  "content": "Placement exam required if used for major"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "c9c59100-0771-45e9-16dd-08dba898cc31",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 273196,
+                "courseTitle": "History of Western Music from Early Modern Culture through Modernism",
+                "courseNumber": "10A",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e3c7b8ee-e6e1-49f8-8fc4-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 357701,
+                "courseTitle": "History of Western Music from Early Modern Culture through Modernism",
+                "courseNumber": "10B",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "03ede6de-daa5-4fbd-8fc5-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 357702,
+                "courseTitle": "History of Western Music from Early Modern Culture through Modernism",
+                "courseNumber": "10C",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fde28cfd-07db-4a78-8fc6-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 286672,
+                "courseTitle": "World Music",
+                "courseNumber": "17",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "75f3c231-da35-439a-8fc7-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 3,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "26657356-fec5-4ff6-16de-08dba898cc31",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 132516,
+                "courseTitle": "Intermediate Composition",
+                "courseNumber": "88",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fa38ce9e-7e09-4af7-aef5-bce8439155a4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Other music courses (lessons, performance, ensembles)"
+              },
+              "requirementAttributes": [
+                {
+                  "position": 0,
+                  "content": "**REFER TO TOP OF AGREEMENT**"
+                }
+              ],
+              "id": "3efc72a1-80f3-45e4-b750-e442d1bda44f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 132515,
+                "courseTitle": "Class Composition",
+                "courseNumber": "8",
+                "prefix": "MUS",
+                "prefixParentId": 6640,
+                "prefixDescription": "Music",
+                "departmentParentId": 9448,
+                "department": "Music",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "713c3cad-63db-4a9f-89ef-dfe2c64c506e",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

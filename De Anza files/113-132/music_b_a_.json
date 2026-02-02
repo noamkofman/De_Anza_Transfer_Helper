@@ -1,0 +1,136 @@
+{
+  "major": "Music B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 132,
+    "code": "UCSC    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Cruz",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 1,
+          "amountQuantifier": "None",
+          "amountUnitType": "OrMoreCourses",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "a858006a-90e1-4f4d-df76-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377507,
+                "courseTitle": "Beginning Theory & Musicianship II",
+                "courseNumber": "14",
+                "prefix": "MUSC",
+                "prefixParentId": 6645,
+                "prefixDescription": "Music",
+                "departmentParentId": 9462,
+                "department": "Music",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "32823566-076d-4447-93c8-fc637fd2a972",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 277495,
+                "courseTitle": "Theory, Literature, and Musicianship",
+                "courseNumber": "30A",
+                "prefix": "MUSC",
+                "prefixParentId": 6645,
+                "prefixDescription": "Music",
+                "departmentParentId": 9462,
+                "department": "Music",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4ac2134b-6776-4a47-8e0e-af4ebc71a9ee",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 377506,
+                "courseTitle": "Beginning Theory & Musicianship I",
+                "courseNumber": "13",
+                "prefix": "MUSC",
+                "prefixParentId": 6645,
+                "prefixDescription": "Music",
+                "departmentParentId": 9462,
+                "department": "Music",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "36d695ce-2e6b-4d8c-b043-eada62a10a8e",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

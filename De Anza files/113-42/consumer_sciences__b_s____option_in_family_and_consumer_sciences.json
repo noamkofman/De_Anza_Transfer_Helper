@@ -1,0 +1,281 @@
+{
+  "major": "CONSUMER SCIENCES, B.S. - Option in Family and Consumer Sciences",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 42,
+    "code": "CSUN    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Northridge",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 158837,
+        "courseTitle": "Nutrition for Life",
+        "courseNumber": "207",
+        "prefix": "FCS",
+        "prefixParentId": 6067,
+        "prefixDescription": "Family and Consumer Sciences",
+        "departmentParentId": 5478,
+        "department": "Family and Consumer Sciences",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353646,
+              "courseTitle": "Contemporary Nutrition",
+              "courseNumber": "10",
+              "prefix": "NUTR",
+              "prefixParentId": 7969,
+              "prefixDescription": "Nutrition",
+              "departmentParentId": 9790,
+              "department": "Nutrition",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384199,
+                "courseTitle": "Adulting: Managing Your Resources ",
+                "courseNumber": "120",
+                "prefix": "FCS",
+                "prefixParentId": 6067,
+                "prefixDescription": "Family and Consumer Sciences",
+                "departmentParentId": 5478,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1df8a528-fb75-40ee-2b2d-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ADDITIONAL MAJOR PREPARATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 243561,
+                "courseTitle": "Interior Design Communication I",
+                "courseNumber": "113",
+                "prefix": "FCS",
+                "prefixParentId": 6067,
+                "prefixDescription": "Family and Consumer Sciences",
+                "departmentParentId": 5478,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "19629694-87fa-4841-2b2e-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "FCS 150, FCS 150L",
+                "courses": [
+                  {
+                    "id": "518e9b22-8d77-4aa0-9310-36271d5a4ee4",
+                    "position": 0,
+                    "courseIdentifierParentId": 136579,
+                    "courseTitle": "Apparel Construction I",
+                    "courseNumber": "150",
+                    "prefix": "FCS",
+                    "prefixParentId": 6067,
+                    "prefixDescription": "Family and Consumer Sciences",
+                    "departmentParentId": 5478,
+                    "department": "Family and Consumer Sciences",
+                    "begin": "F2005",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "a775f2e2-e912-4015-b8f5-5272ad9565b8",
+                    "position": 1,
+                    "courseIdentifierParentId": 46060,
+                    "courseTitle": "Apparel Construction I Laboratory",
+                    "courseNumber": "150L",
+                    "prefix": "FCS",
+                    "prefixParentId": 6067,
+                    "prefixDescription": "Family and Consumer Sciences",
+                    "departmentParentId": 5478,
+                    "department": "Family and Consumer Sciences",
+                    "begin": "F2005",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "14991754-8317-4098-2b2f-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "FCS 201, FCS 201L",
+                "courses": [
+                  {
+                    "id": "02914790-182f-4ab8-b6d9-cd0b182c50a1",
+                    "position": 0,
+                    "courseIdentifierParentId": 121106,
+                    "courseTitle": "Introductory Food Science",
+                    "courseNumber": "201",
+                    "prefix": "FCS",
+                    "prefixParentId": 6067,
+                    "prefixDescription": "Family and Consumer Sciences",
+                    "departmentParentId": 5478,
+                    "department": "Family and Consumer Sciences",
+                    "begin": "F2005",
+                    "end": "",
+                    "minUnits": 2,
+                    "maxUnits": 2
+                  },
+                  {
+                    "id": "160b6d23-5a4b-4109-bedb-2384f91a00d4",
+                    "position": 1,
+                    "courseIdentifierParentId": 45602,
+                    "courseTitle": "Introductory Food Science Laboratory",
+                    "courseNumber": "201L",
+                    "prefix": "FCS",
+                    "prefixParentId": 6067,
+                    "prefixDescription": "Family and Consumer Sciences",
+                    "departmentParentId": 5478,
+                    "department": "Family and Consumer Sciences",
+                    "begin": "F2005",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "b9e76bc2-0cc9-4e91-2b30-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158837,
+                "courseTitle": "Nutrition for Life",
+                "courseNumber": "207",
+                "prefix": "FCS",
+                "prefixParentId": 6067,
+                "prefixDescription": "Family and Consumer Sciences",
+                "departmentParentId": 5478,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6810c26d-ab66-4a39-2b31-08db93657f9b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

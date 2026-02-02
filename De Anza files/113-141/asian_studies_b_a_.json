@@ -1,0 +1,564 @@
+{
+  "major": "Asian Studies B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 141,
+    "code": "CSUC    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Chico",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 299322,
+        "courseTitle": "Beginning Japanese II",
+        "courseNumber": "102",
+        "prefix": "JAPN",
+        "prefixParentId": 9622,
+        "prefixDescription": "Japanese",
+        "departmentParentId": 14262,
+        "department": "Languages and Cultures",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284951,
+              "courseTitle": "Elementary Japanese (Third Quarter)",
+              "courseNumber": "3",
+              "prefix": "JAPN",
+              "prefixParentId": 9598,
+              "prefixDescription": "Japanese",
+              "departmentParentId": 7894,
+              "department": "Japanese",
+              "begin": "F2002",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 276365,
+        "courseTitle": "Beginning Japanese I",
+        "courseNumber": "101",
+        "prefix": "JAPN",
+        "prefixParentId": 9622,
+        "prefixDescription": "Japanese",
+        "departmentParentId": 14262,
+        "department": "Languages and Cultures",
+        "begin": "F2023",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 308817,
+              "courseTitle": "Elementary Japanese (First Quarter)",
+              "courseNumber": "1",
+              "prefix": "JAPN",
+              "prefixParentId": 9598,
+              "prefixDescription": "Japanese",
+              "departmentParentId": 7894,
+              "department": "Japanese",
+              "begin": "F2002",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 303785,
+              "courseTitle": "Elementary Japanese (Second Quarter)",
+              "courseNumber": "2",
+              "prefix": "JAPN",
+              "prefixParentId": 9598,
+              "prefixDescription": "Japanese",
+              "departmentParentId": 7894,
+              "department": "Japanese",
+              "begin": "F2002",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 267006,
+        "courseTitle": "Asian Art Survey",
+        "courseNumber": "140",
+        "prefix": "ARTH",
+        "prefixParentId": 14669,
+        "prefixDescription": "Art History",
+        "departmentParentId": 1148,
+        "department": "Art and Art History",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "1003cf0e-4589-4597-b2a3-86dfd4b2731b",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 353552,
+                  "courseTitle": "History of Art: Arts of Asia",
+                  "courseNumber": "40",
+                  "prefix": "ASAM",
+                  "prefixParentId": 16555,
+                  "prefixDescription": "Asian American and Asian Studies",
+                  "departmentParentId": 13706,
+                  "department": "Asian American and Asian Studies",
+                  "begin": "F2021",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353553,
+              "courseTitle": "History of Art: Arts of Asia",
+              "courseNumber": "2G",
+              "prefix": "ARTS",
+              "prefixParentId": 4538,
+              "prefixDescription": "Arts",
+              "departmentParentId": 1240,
+              "department": "Arts",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "f395b6d6-6346-46ba-ba03-598e493b1ac6",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 353553,
+                  "courseTitle": "History of Art: Arts of Asia",
+                  "courseNumber": "2G",
+                  "prefix": "ARTS",
+                  "prefixParentId": 4538,
+                  "prefixDescription": "Arts",
+                  "departmentParentId": 1240,
+                  "department": "Arts",
+                  "begin": "F2016",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353552,
+              "courseTitle": "History of Art: Arts of Asia",
+              "courseNumber": "40",
+              "prefix": "ASAM",
+              "prefixParentId": 16555,
+              "prefixDescription": "Asian American and Asian Studies",
+              "departmentParentId": 13706,
+              "department": "Asian American and Asian Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION FOUNDATION REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "fc361294-51ba-4c0d-df8b-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 255496,
+                "courseTitle": "Introduction to Asian Studies",
+                "courseNumber": "110W",
+                "prefix": "ASST",
+                "prefixParentId": 8671,
+                "prefixDescription": "Asian Studies",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 255495,
+                    "courseTitle": "Introduction to Asian Studies",
+                    "courseNumber": "110W",
+                    "prefix": "AAST",
+                    "prefixParentId": 3337,
+                    "prefixDescription": "Asian American Studies",
+                    "departmentParentId": 9346,
+                    "department": "Multicultural and Gender Studies",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "27169619-5330-4c95-94d9-3a8bb90efcf9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250170,
+                "courseTitle": "Introduction to Spiritual Traditions of Asia",
+                "courseNumber": "110",
+                "prefix": "RELS",
+                "prefixParentId": 2161,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 2944,
+                "department": "Comparative Religion and Humanities",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f3a6c0d9-3857-42ed-a837-9b7295722d37",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "LANGUAGE COMPETENCY REQUIREMENT": [
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 16,
+          "amountQuantifier": "UpTo",
+          "amountUnitType": "Unit",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "ffef1a71-a1d0-4248-df8c-08db99b6efac",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 276376,
+                "courseTitle": "Intermediate Japanese I",
+                "courseNumber": "201",
+                "prefix": "JAPN",
+                "prefixParentId": 9622,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4b2b0664-ad44-413c-be3f-40434fb9c5da",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 299322,
+                "courseTitle": "Beginning Japanese II",
+                "courseNumber": "102",
+                "prefix": "JAPN",
+                "prefixParentId": 9622,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c7fcb2f2-e1a3-4674-b78b-5f97d179d57c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 282473,
+                "courseTitle": "Intermediate Japanese II",
+                "courseNumber": "202",
+                "prefix": "JAPN",
+                "prefixParentId": 9622,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8da4ea9f-fb59-4960-845e-5ffc104715cf",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 276365,
+                "courseTitle": "Beginning Japanese I",
+                "courseNumber": "101",
+                "prefix": "JAPN",
+                "prefixParentId": 9622,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e3d0aa35-e792-4615-92f5-16b6138a522a",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ELECTIVE COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 209597,
+                "courseTitle": "Cultures of Asia",
+                "courseNumber": "200",
+                "prefix": "ASST",
+                "prefixParentId": 8671,
+                "prefixDescription": "Asian Studies",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 209598,
+                    "courseTitle": "Cultures of Asia",
+                    "courseNumber": "200",
+                    "prefix": "ANTH",
+                    "prefixParentId": 10831,
+                    "prefixDescription": "Anthropology",
+                    "departmentParentId": 766,
+                    "department": "Anthropology",
+                    "begin": "F2005",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fb169264-ac34-47f9-c755-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 375112,
+                "courseTitle": "Introduction to International Engagement",
+                "courseNumber": "110",
+                "prefix": "INST",
+                "prefixParentId": 15112,
+                "prefixDescription": "International Studies",
+                "departmentParentId": 14262,
+                "department": "Languages and Cultures",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "055fb8a8-5d4c-492a-c756-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 251148,
+                "courseTitle": "Asian Film and Literature",
+                "courseNumber": "224W",
+                "prefix": "HUMN",
+                "prefixParentId": 6478,
+                "prefixDescription": "Humanities",
+                "departmentParentId": 2944,
+                "department": "Comparative Religion and Humanities",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "623491f3-53fb-4ebf-9dba-34d62b9b5cfb",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 267006,
+                "courseTitle": "Asian Art Survey",
+                "courseNumber": "140",
+                "prefix": "ARTH",
+                "prefixParentId": 14669,
+                "prefixDescription": "Art History",
+                "departmentParentId": 1148,
+                "department": "Art and Art History",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d3d743cc-455a-4b11-9550-6aeb19468e46",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

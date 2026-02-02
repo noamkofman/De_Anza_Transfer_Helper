@@ -1,0 +1,727 @@
+{
+  "major": "Race, Ethnicity, and Health, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 116,
+    "code": "SFSU    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "San Francisco State University",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 234414,
+        "courseTitle": "History of Latinos in the U.S.",
+        "courseNumber": "278",
+        "prefix": "LTNS",
+        "prefixParentId": 426,
+        "prefixDescription": "Latina/o Studies",
+        "departmentParentId": 8333,
+        "department": "Latina/o Studies",
+        "begin": "F2014",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353582,
+              "courseTitle": "Chicanx and Latinx History",
+              "courseNumber": "12",
+              "prefix": "CHLX",
+              "prefixParentId": 16885,
+              "prefixDescription": "Chicanx/Latinx Studies",
+              "departmentParentId": 13990,
+              "department": "Chicanx/Latinx Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 238451,
+        "courseTitle": "Introduction to African American History",
+        "courseNumber": "208",
+        "prefix": "AFRS",
+        "prefixParentId": 1597,
+        "prefixDescription": "Africana Studies",
+        "departmentParentId": 284,
+        "department": "Africana Studies",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "1f11f02a-9dbf-4c3c-a699-36897ef02910",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 288577,
+                  "courseTitle": "African American History Since 1865",
+                  "courseNumber": "12B",
+                  "prefix": "AFAM",
+                  "prefixParentId": 16884,
+                  "prefixDescription": "African American Studies",
+                  "departmentParentId": 13989,
+                  "department": "African American Studies",
+                  "begin": "F2021",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288576,
+              "courseTitle": "African American History Since 1865",
+              "courseNumber": "18B",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2010",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "94713e2d-2c9a-47c8-b2e1-9c0b65b81825",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 353461,
+                  "courseTitle": "African American History to 1865",
+                  "courseNumber": "12A",
+                  "prefix": "AFAM",
+                  "prefixParentId": 16884,
+                  "prefixDescription": "African American Studies",
+                  "departmentParentId": 13989,
+                  "department": "African American Studies",
+                  "begin": "F2021",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353460,
+              "courseTitle": "African American History to 1865",
+              "courseNumber": "18A",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "852736a9-052d-48ed-83b4-937cb2fa2419",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 288576,
+                  "courseTitle": "African American History Since 1865",
+                  "courseNumber": "18B",
+                  "prefix": "HIST",
+                  "prefixParentId": 3013,
+                  "prefixDescription": "History",
+                  "departmentParentId": 7009,
+                  "department": "History",
+                  "begin": "F2010",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288577,
+              "courseTitle": "African American History Since 1865",
+              "courseNumber": "12B",
+              "prefix": "AFAM",
+              "prefixParentId": 16884,
+              "prefixDescription": "African American Studies",
+              "departmentParentId": 13989,
+              "department": "African American Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "34b91314-42f3-4430-ae07-a5acf2bc477c",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 353460,
+                  "courseTitle": "African American History to 1865",
+                  "courseNumber": "18A",
+                  "prefix": "HIST",
+                  "prefixParentId": 3013,
+                  "prefixDescription": "History",
+                  "departmentParentId": 7009,
+                  "department": "History",
+                  "begin": "F2015",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353461,
+              "courseTitle": "African American History to 1865",
+              "courseNumber": "12A",
+              "prefix": "AFAM",
+              "prefixParentId": 16884,
+              "prefixDescription": "African American Studies",
+              "departmentParentId": 13989,
+              "department": "African American Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 265190,
+        "courseTitle": "History of Asians in the United States",
+        "courseNumber": "210",
+        "prefix": "AA S",
+        "prefixParentId": 3331,
+        "prefixDescription": "Asian American Studies",
+        "departmentParentId": 1256,
+        "department": "Asian American Studies",
+        "begin": "Su2013",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281717,
+              "courseTitle": "Asian American Experience Past and Present",
+              "courseNumber": "1",
+              "prefix": "ASAM",
+              "prefixParentId": 16555,
+              "prefixDescription": "Asian American and Asian Studies",
+              "departmentParentId": 13706,
+              "department": "Asian American and Asian Studies",
+              "begin": "F2020",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "BREADTH: HISTORIES OF PEOPLE OF COLOR IN THE U.S.": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 234414,
+                "courseTitle": "History of Latinos in the U.S.",
+                "courseNumber": "278",
+                "prefix": "LTNS",
+                "prefixParentId": 426,
+                "prefixDescription": "Latina/o Studies",
+                "departmentParentId": 8333,
+                "department": "Latina/o Studies",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e8d67e97-bcc6-4e75-9ac0-43d1df16fa64",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 238451,
+                "courseTitle": "Introduction to African American History",
+                "courseNumber": "208",
+                "prefix": "AFRS",
+                "prefixParentId": 1597,
+                "prefixDescription": "Africana Studies",
+                "departmentParentId": 284,
+                "department": "Africana Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "586d9dec-9f50-4578-a1dc-e4f7a531bc79",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 252277,
+                "courseTitle": "American Indians and U.S. Laws",
+                "courseNumber": "205",
+                "prefix": "AIS",
+                "prefixParentId": 3986,
+                "prefixDescription": "American Indian Studies",
+                "departmentParentId": 492,
+                "department": "American Indian Studies",
+                "begin": "S2007",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a88505f3-94f4-41a7-a519-d8b21a2949c4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 381050,
+                "courseTitle": "Introduction to Pacific Studies",
+                "courseNumber": "103",
+                "prefix": "RRS",
+                "prefixParentId": 16553,
+                "prefixDescription": "Race and Resistance Studies",
+                "departmentParentId": 13704,
+                "department": "Race and Resistance Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c4cec66f-8557-4dca-b588-31b39c52c46e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 265190,
+                "courseTitle": "History of Asians in the United States",
+                "courseNumber": "210",
+                "prefix": "AA S",
+                "prefixParentId": 3331,
+                "prefixDescription": "Asian American Studies",
+                "departmentParentId": 1256,
+                "department": "Asian American Studies",
+                "begin": "Su2013",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2b7ab7f3-2cf5-4842-be20-d47098d75913",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136861,
+                "courseTitle": "Latina/o, U.S. Government, and Constitutional Ideals",
+                "courseNumber": "276",
+                "prefix": "LTNS",
+                "prefixParentId": 426,
+                "prefixDescription": "Latina/o Studies",
+                "departmentParentId": 8333,
+                "department": "Latina/o Studies",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "67d6e0f8-88f6-4549-9802-97e425bcbe3f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 345917,
+                "courseTitle": "Topics in Latina/o History",
+                "courseNumber": "265",
+                "prefix": "LTNS",
+                "prefixParentId": 426,
+                "prefixDescription": "Latina/o Studies",
+                "departmentParentId": 8333,
+                "department": "Latina/o Studies",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "749223c2-5250-43c8-8a29-3bba847f0896",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 373339,
+                "courseTitle": "All Power to the People: Comparative Freedom Movements of the \"Sixties\" ",
+                "courseNumber": "240",
+                "prefix": "RRS",
+                "prefixParentId": 16553,
+                "prefixDescription": "Race and Resistance Studies",
+                "departmentParentId": 13704,
+                "department": "Race and Resistance Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "89f586d0-096e-49e4-952c-0fa6d4a670e6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 136976,
+                "courseTitle": "American Indian History in the United States",
+                "courseNumber": "150",
+                "prefix": "AIS",
+                "prefixParentId": 3986,
+                "prefixDescription": "American Indian Studies",
+                "departmentParentId": 492,
+                "department": "American Indian Studies",
+                "begin": "S2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b5b8dc1a-1c43-45ee-9287-a95cdacb2360",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "BREADTH: HEALTH": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 259095,
+                "courseTitle": "Latina/o Families Narrative",
+                "courseNumber": "211",
+                "prefix": "LTNS",
+                "prefixParentId": 426,
+                "prefixDescription": "Latina/o Studies",
+                "departmentParentId": 8333,
+                "department": "Latina/o Studies",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a285403b-d953-49a6-7596-08dbdbbe1f5f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 381049,
+                "courseTitle": "American Indian Populations and Colonial Diseases",
+                "courseNumber": "250",
+                "prefix": "AIS",
+                "prefixParentId": 3986,
+                "prefixDescription": "American Indian Studies",
+                "departmentParentId": 492,
+                "department": "American Indian Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "368be00d-fcd4-4b91-7597-08dbdbbe1f5f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158793,
+                "courseTitle": "Introduction to Black Psychology",
+                "courseNumber": "200",
+                "prefix": "AFRS",
+                "prefixParentId": 1597,
+                "prefixDescription": "Africana Studies",
+                "departmentParentId": 284,
+                "department": "Africana Studies",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "87c5e8eb-17a5-4e1c-7598-08dbdbbe1f5f",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 239237,
+                "courseTitle": "Latina/Latino Health Care Perspectives",
+                "courseNumber": "210",
+                "prefix": "LTNS",
+                "prefixParentId": 426,
+                "prefixDescription": "Latina/o Studies",
+                "departmentParentId": 8333,
+                "department": "Latina/o Studies",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c76db742-457a-4135-9d45-e217d1562def",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "BREADTH: EQUITY, JUSTICE, AND ENVIRONMENT": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 381053,
+                "courseTitle": "Race, Activism and Climate Justice",
+                "courseNumber": "276",
+                "prefix": "RRS",
+                "prefixParentId": 16553,
+                "prefixDescription": "Race and Resistance Studies",
+                "departmentParentId": 13704,
+                "department": "Race and Resistance Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c94c5826-4c1c-44f0-add2-0aed8b28be38",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 381052,
+                "courseTitle": "Beyond Bars and Borders: Race and the Carceral State",
+                "courseNumber": "252",
+                "prefix": "RRS",
+                "prefixParentId": 16553,
+                "prefixDescription": "Race and Resistance Studies",
+                "departmentParentId": 13704,
+                "department": "Race and Resistance Studies",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d4c1d374-a502-4a40-a2bc-d315a55a89b7",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "BREADTH: HEALING, WELLNESS, AND LIBERATION": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 381054,
+                "courseTitle": "Creativity, Decolonization, and Social Justice in Oceania",
+                "courseNumber": "270",
+                "prefix": "RRS",
+                "prefixParentId": 16553,
+                "prefixDescription": "Race and Resistance Studies",
+                "departmentParentId": 13704,
+                "department": "Race and Resistance Studies",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5949dad3-4cdd-4de6-b3d9-70f6f560693d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

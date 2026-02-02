@@ -1,0 +1,249 @@
+{
+  "major": "Latin American & Iberian Studies, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 128,
+    "code": "UCSB    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Barbara",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 287171,
+        "courseTitle": "Intermediate Spanish III",
+        "courseNumber": "6",
+        "prefix": "SPAN",
+        "prefixParentId": 3222,
+        "prefixDescription": "Spanish",
+        "departmentParentId": 12299,
+        "department": "Spanish and Portuguese",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358905,
+              "courseTitle": "Intermediate Spanish (Third Quarter)",
+              "courseNumber": "6",
+              "prefix": "SPAN",
+              "prefixParentId": 3206,
+              "prefixDescription": "Spanish",
+              "departmentParentId": 12290,
+              "department": "Spanish",
+              "begin": "F2005",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "0e1ad410-a6ba-4999-16ad-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 262466,
+                "courseTitle": "Intermediate Portuguese",
+                "courseNumber": "6",
+                "prefix": "PORT",
+                "prefixParentId": 11431,
+                "prefixDescription": "Portuguese",
+                "departmentParentId": 12299,
+                "department": "Spanish and Portuguese",
+                "begin": "S2017",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Or equivalent"
+                }
+              ],
+              "id": "a592a18c-c14b-4bbd-8f56-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287171,
+                "courseTitle": "Intermediate Spanish III",
+                "courseNumber": "6",
+                "prefix": "SPAN",
+                "prefixParentId": 3222,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12299,
+                "department": "Spanish and Portuguese",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Or equivalent"
+                }
+              ],
+              "id": "1599037a-940b-4e1a-b6a3-6848974be141",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "d2add820-ee90-42f4-16ac-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384444,
+                "courseTitle": "Latin American History: Pre-Columbian and Colonial Periods",
+                "courseNumber": "8A",
+                "prefix": "HIST",
+                "prefixParentId": 3028,
+                "prefixDescription": "History",
+                "departmentParentId": 7021,
+                "department": "History",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "873fb287-1757-48fc-8f53-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384445,
+                "courseTitle": "Latin American History: Independence and National Period",
+                "courseNumber": "8B",
+                "prefix": "HIST",
+                "prefixParentId": 3028,
+                "prefixDescription": "History",
+                "departmentParentId": 7021,
+                "department": "History",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a4e8ade7-1a89-4964-8f54-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 293874,
+                "courseTitle": "Introduction to the Latin American and Iberian World",
+                "courseNumber": "10",
+                "prefix": "LAIS",
+                "prefixParentId": 12737,
+                "prefixDescription": "Latin American and Iberian Studies",
+                "departmentParentId": 8320,
+                "department": "Latin American and Iberian Studies",
+                "begin": "F2001",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ce448f1d-acdd-4a3c-8f55-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

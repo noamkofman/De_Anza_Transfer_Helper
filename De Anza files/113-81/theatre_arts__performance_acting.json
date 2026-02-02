@@ -1,0 +1,753 @@
+{
+  "major": "Theatre Arts, Performance-Acting",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 222754,
+        "courseTitle": "Fundamentals of Acting",
+        "courseNumber": "114A",
+        "prefix": "THEA",
+        "prefixParentId": 2400,
+        "prefixDescription": "Theater Arts",
+        "departmentParentId": 12809,
+        "department": "Theater Arts",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 240330,
+              "courseTitle": "Theory and Technique of Acting (Introduction)",
+              "courseNumber": "20A",
+              "prefix": "THEA",
+              "prefixParentId": 2428,
+              "prefixDescription": "Theater Arts",
+              "departmentParentId": 12812,
+              "department": "Theater Arts",
+              "begin": "F2015",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "169e756d-c1cf-450a-bc08-08db93657755",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 369357,
+                "courseTitle": "Text Analysis",
+                "courseNumber": "103",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f9ca07df-b217-4fff-8c18-ddfe0a44ebdc",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 265995,
+                "courseTitle": "History of Theatre and Drama since 1660",
+                "courseNumber": "222",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "ff47505e-125e-4536-a49d-e08f7ed92428",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 222754,
+                "courseTitle": "Fundamentals of Acting",
+                "courseNumber": "114A",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a31109c5-a505-436c-94e2-84dd20ba67a9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 255556,
+                "courseTitle": "History of Theatre and Drama to 1660",
+                "courseNumber": "221",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2012",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cc565844-3a6a-4fe3-8f11-043e89863a6c",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 366011,
+                "courseTitle": "Fundamentals of Collaboration",
+                "courseNumber": "116",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9225f150-ee81-4f62-bc98-2dc12cc212e1",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 6,
+          "amountQuantifier": "None",
+          "amountUnitType": "Unit",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "a0d0f106-a941-41a1-bc0c-08db93657755",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341487,
+                "courseTitle": "Stage Lighting",
+                "courseNumber": "148",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1f437bf4-978c-45d0-b249-300f81003b3d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 214009,
+                "courseTitle": "Stage Management",
+                "courseNumber": "271",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "57aade4d-1f7b-4303-97dc-0be02ee7548d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 179016,
+                "courseTitle": "Costume Crafts",
+                "courseNumber": "146",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "72b582f8-7aa5-4002-bad6-29e6b4419c52",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341424,
+                "courseTitle": "Elementary Stagecraft",
+                "courseNumber": "142",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "21bf6450-ed2a-4096-9d96-9a56d0c9fd8f",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "2e9f1a81-5366-4c78-bc0b-08db93657755",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 214330,
+                "courseTitle": "Intermediate Acting",
+                "courseNumber": "214",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cd830949-353f-4c67-8dae-615f40bdcf8d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 214155,
+                "courseTitle": "Beginning Voice and Speech",
+                "courseNumber": "112",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "af097e11-e3a4-4a0b-86f1-29878639d055",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 341359,
+                "courseTitle": "Beginning Movement for the Actor",
+                "courseNumber": "262",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b81ad08b-128a-4b13-a344-4617a9a82728",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 179035,
+                "courseTitle": "Fundamentals of Acting",
+                "courseNumber": "114B",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "283c4be2-20fd-40f5-bfc8-6fc16f45f7a6",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 1,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "eb9967a6-1059-4a80-bc0d-08db93657755",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 316048,
+                "courseTitle": "Theatre Arts Showcase",
+                "courseNumber": "111",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "16f8e9fd-4fb5-42c6-b57e-a6323583da4a",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 4,
+          "amountQuantifier": "None",
+          "amountUnitType": "Unit",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "5b78cb85-93cb-4bcb-bc0e-08db93657755",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 313914,
+                "courseTitle": "Theatre Arts Activity - Crews",
+                "courseNumber": "140",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "22f17ee0-314b-4fec-8364-f76b0dc8d875",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 42926,
+                "courseTitle": "Theatre Arts Activity - Crew",
+                "courseNumber": "240",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "648a3d1a-7461-4da4-98c7-2e45bc84790c",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 1,
+          "amountQuantifier": "None",
+          "amountUnitType": "Unit",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "bb65bc62-e355-416f-bc0f-08db93657755",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 313958,
+                "courseTitle": "Theatre Arts Activity - Cast",
+                "courseNumber": "110B",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "aa8a1b07-35df-40e0-b69e-2203949cdd0d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 42926,
+                "courseTitle": "Theatre Arts Activity - Crew",
+                "courseNumber": "240",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cb21ca1e-bc5c-49c0-ba74-85c98d353fb8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 313946,
+                "courseTitle": "Theatre Arts Activity - Cast",
+                "courseNumber": "110A",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "42b7d83d-0367-4e7e-9b6a-dd4a25b3efda",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 42981,
+                "courseTitle": "Theatre Arts Activity - Cast",
+                "courseNumber": "210A",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "52111850-1068-40b9-bff1-c6e49b64361e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 42972,
+                "courseTitle": "Theatre Arts Activity - Cast",
+                "courseNumber": "210B",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2688e880-8782-4eaf-88ab-5d43e4a8978f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 313914,
+                "courseTitle": "Theatre Arts Activity - Crews",
+                "courseNumber": "140",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5f88cc3c-4b43-4321-8be9-febd0149dbb4",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 6,
+          "amountQuantifier": "None",
+          "amountUnitType": "Unit",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "7c18d820-71d0-41c1-bc13-08db93657755",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 346349,
+                "courseTitle": "Special Topics in Theatre Arts",
+                "courseNumber": "290",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "S2007",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1430e2ac-565d-40cb-8762-68d7341ff31a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 211978,
+                "courseTitle": "Introduction to Audition Techniques",
+                "courseNumber": "215",
+                "prefix": "THEA",
+                "prefixParentId": 2400,
+                "prefixDescription": "Theater Arts",
+                "departmentParentId": 12809,
+                "department": "Theater Arts",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3b5bdaa9-8171-4f97-8cd4-71712ee087f0",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

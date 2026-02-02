@@ -1,0 +1,357 @@
+{
+  "major": "Sociology, BA",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 60,
+    "code": "CSUS    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Sacramento",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 329119,
+        "courseTitle": "Sense and Nonsense in Social Issues and Research",
+        "courseNumber": "8",
+        "prefix": "SOC",
+        "prefixParentId": 9034,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12072,
+        "department": "Sociology",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 133877,
+        "courseTitle": "Social Problems",
+        "courseNumber": "3",
+        "prefix": "SOC",
+        "prefixParentId": 9034,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12072,
+        "department": "Sociology",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 353326,
+              "courseTitle": "Social Problems",
+              "courseNumber": "20",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 133868,
+        "courseTitle": "Issues in Crime and Social Control",
+        "courseNumber": "10",
+        "prefix": "SOC",
+        "prefixParentId": 9034,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12072,
+        "department": "Sociology",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 151382,
+        "courseTitle": "Exploring Issues Facing Contemporary Families",
+        "courseNumber": "5",
+        "prefix": "SOC",
+        "prefixParentId": 9034,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12072,
+        "department": "Sociology",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 158136,
+        "courseTitle": "Principles of Sociology",
+        "courseNumber": "1",
+        "prefix": "SOC",
+        "prefixParentId": 9034,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12072,
+        "department": "Sociology",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254964,
+              "courseTitle": "Introduction to Sociology",
+              "courseNumber": "1",
+              "prefix": "SOC",
+              "prefixParentId": 9095,
+              "prefixDescription": "Sociology",
+              "departmentParentId": 12108,
+              "department": "Sociology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 383192,
+        "courseTitle": "You, Sociology and the University",
+        "courseNumber": "2",
+        "prefix": "SOC",
+        "prefixParentId": 9034,
+        "prefixDescription": "Sociology",
+        "departmentParentId": 12072,
+        "department": "Sociology",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 1,
+        "maxUnits": 1
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "PRE-MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "de31afe5-af69-472a-6933-08dbfdccbd2c",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 329119,
+                "courseTitle": "Sense and Nonsense in Social Issues and Research",
+                "courseNumber": "8",
+                "prefix": "SOC",
+                "prefixParentId": 9034,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12072,
+                "department": "Sociology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "12ba3187-c963-42f5-ab48-67c4ec7404e9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133877,
+                "courseTitle": "Social Problems",
+                "courseNumber": "3",
+                "prefix": "SOC",
+                "prefixParentId": 9034,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12072,
+                "department": "Sociology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6497812a-a23e-46d5-ab65-6ff1553d528f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 133868,
+                "courseTitle": "Issues in Crime and Social Control",
+                "courseNumber": "10",
+                "prefix": "SOC",
+                "prefixParentId": 9034,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12072,
+                "department": "Sociology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7215b396-27d8-4acd-9ff7-0da81164ddc5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 151382,
+                "courseTitle": "Exploring Issues Facing Contemporary Families",
+                "courseNumber": "5",
+                "prefix": "SOC",
+                "prefixParentId": 9034,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12072,
+                "department": "Sociology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f094ab97-f34d-469f-bb27-142d64357795",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 158136,
+                "courseTitle": "Principles of Sociology",
+                "courseNumber": "1",
+                "prefix": "SOC",
+                "prefixParentId": 9034,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12072,
+                "department": "Sociology",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3d7026aa-dbe1-4d17-88a1-ed7f6c67802b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 383192,
+                "courseTitle": "You, Sociology and the University",
+                "courseNumber": "2",
+                "prefix": "SOC",
+                "prefixParentId": 9034,
+                "prefixDescription": "Sociology",
+                "departmentParentId": 12072,
+                "department": "Sociology",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bbb6c35c-1d90-4286-9a4b-0f41242aedc2",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

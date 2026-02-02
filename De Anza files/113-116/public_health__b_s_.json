@@ -1,0 +1,622 @@
+{
+  "major": "Public Health, B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 116,
+    "code": "SFSU    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "San Francisco State University",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 275086,
+        "courseTitle": "Personal and Social Determinants of Health",
+        "courseNumber": "210",
+        "prefix": "PH",
+        "prefixParentId": 9438,
+        "prefixDescription": "Public Health",
+        "departmentParentId": 13847,
+        "department": "Public Health",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 160030,
+              "courseTitle": "Contemporary Health Concerns",
+              "courseNumber": "21",
+              "prefix": "HLTH",
+              "prefixParentId": 2110,
+              "prefixDescription": "Health",
+              "departmentParentId": 6700,
+              "department": "Health",
+              "begin": "F1996",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 249785,
+        "courseTitle": "Relaxation and Stress Reduction",
+        "courseNumber": "205",
+        "prefix": "HH",
+        "prefixParentId": 14441,
+        "prefixDescription": "Holistic Health Studies",
+        "departmentParentId": 7064,
+        "department": "Holistic Health",
+        "begin": "Su2009",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 290164,
+              "courseTitle": "Understanding and Managing Stress",
+              "courseNumber": "30",
+              "prefix": "HUMA",
+              "prefixParentId": 2275,
+              "prefixDescription": "Human Development",
+              "departmentParentId": 7228,
+              "department": "Human Development",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 330894,
+        "courseTitle": "Elementary Statistics",
+        "courseNumber": "124",
+        "prefix": "MATH",
+        "prefixParentId": 10028,
+        "prefixDescription": "Mathematics",
+        "departmentParentId": 9043,
+        "department": "Mathematics",
+        "begin": "F1998",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 358922,
+              "courseTitle": "Introductory Statistics",
+              "courseNumber": "10",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288705,
+              "courseTitle": "Introductory Statistics - HONORS",
+              "courseNumber": "10H",
+              "prefix": "MATH",
+              "prefixParentId": 10025,
+              "prefixDescription": "Mathematics",
+              "departmentParentId": 9040,
+              "department": "Mathematics",
+              "begin": "F2019",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247121,
+              "courseTitle": "Human Biology",
+              "courseNumber": "11",
+              "prefix": "BIOL",
+              "prefixParentId": 4926,
+              "prefixDescription": "Biology",
+              "departmentParentId": 1741,
+              "department": "Biology",
+              "begin": "F1998",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "FOUNDATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "BIOL 100, BIOL 101",
+                "courses": [
+                  {
+                    "id": "7eb09528-1215-40b6-adf9-b2aded15fdef",
+                    "position": 0,
+                    "courseIdentifierParentId": 171975,
+                    "courseTitle": "Human Biology",
+                    "courseNumber": "100",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4929,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1742,
+                    "department": "Biology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "4e11ca96-81c2-441d-b5ad-5e5c777c2fcb",
+                    "position": 1,
+                    "courseIdentifierParentId": 311097,
+                    "courseTitle": "Human Biology Laboratory",
+                    "courseNumber": "101",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4929,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1742,
+                    "department": "Biology",
+                    "begin": "F1994",
+                    "end": "",
+                    "minUnits": 1,
+                    "maxUnits": 1
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "a1a4e12f-b3d7-4eb8-758f-08dbdbbe1f5f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363575,
+                "courseTitle": "Public Health Biology",
+                "courseNumber": "100",
+                "prefix": "PH",
+                "prefixParentId": 9438,
+                "prefixDescription": "Public Health",
+                "departmentParentId": 13847,
+                "department": "Public Health",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9ea5cd4a-7e0f-4c3d-7590-08dbdbbe1f5f",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379062,
+                "courseTitle": "Introduction to Public Health",
+                "courseNumber": "205",
+                "prefix": "PH",
+                "prefixParentId": 9438,
+                "prefixDescription": "Public Health",
+                "departmentParentId": 13847,
+                "department": "Public Health",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "471d245f-9a16-4b8c-7591-08dbdbbe1f5f",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 172012,
+                "courseTitle": "Quantitative Reasoning in Psychology",
+                "courseNumber": "171",
+                "prefix": "PSY",
+                "prefixParentId": 4719,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11210,
+                "department": "Psychology",
+                "begin": "F2000",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "da8d9595-7626-48d3-9433-0c1ce8304dc0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384361,
+                "courseTitle": "Statistics for Social Justice",
+                "courseNumber": "117",
+                "prefix": "ETHS",
+                "prefixParentId": 4015,
+                "prefixDescription": "Ethnic Studies",
+                "departmentParentId": 5419,
+                "department": "Ethnic Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a925fc4b-4778-47e2-a587-053ed64fc624",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 330894,
+                "courseTitle": "Elementary Statistics",
+                "courseNumber": "124",
+                "prefix": "MATH",
+                "prefixParentId": 10028,
+                "prefixDescription": "Mathematics",
+                "departmentParentId": 9043,
+                "department": "Mathematics",
+                "begin": "F1998",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "91aba752-212b-4809-91d1-f0434025fd85",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384360,
+                "courseTitle": "Algebra and Statistics for Social Justice",
+                "courseNumber": "116",
+                "prefix": "ETHS",
+                "prefixParentId": 4015,
+                "prefixDescription": "Ethnic Studies",
+                "departmentParentId": 5419,
+                "department": "Ethnic Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "06aa9654-7ed8-482f-8b14-2af721a9b9fb",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 346438,
+                "courseTitle": "Data Analysis in Education",
+                "courseNumber": "160",
+                "prefix": "ISED",
+                "prefixParentId": 8324,
+                "prefixDescription": "Interdisciplinary Studies in Education",
+                "departmentParentId": 7631,
+                "department": "Interdisciplinary Studies in Education",
+                "begin": "Su2007",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a3e2f3f5-152e-414f-9017-3a6826d04a95",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "ELECTIVES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 275086,
+                "courseTitle": "Personal and Social Determinants of Health",
+                "courseNumber": "210",
+                "prefix": "PH",
+                "prefixParentId": 9438,
+                "prefixDescription": "Public Health",
+                "departmentParentId": 13847,
+                "department": "Public Health",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "66c640d4-1208-40e2-81a4-df80fc94bfa7",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 275087,
+                "courseTitle": "Health and Social Movements in the United States in the 20th Century",
+                "courseNumber": "241",
+                "prefix": "PH",
+                "prefixParentId": 9438,
+                "prefixDescription": "Public Health",
+                "departmentParentId": 13847,
+                "department": "Public Health",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9a244d14-c5d5-46bf-b759-28c4e0c67ca0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 239237,
+                "courseTitle": "Latina/Latino Health Care Perspectives",
+                "courseNumber": "210",
+                "prefix": "LTNS",
+                "prefixParentId": 426,
+                "prefixDescription": "Latina/o Studies",
+                "departmentParentId": 8333,
+                "department": "Latina/o Studies",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5f0d4284-2bfe-4f66-b788-1545bc3b8fef",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171956,
+                "courseTitle": "Promoting Positive Health",
+                "courseNumber": "290",
+                "prefix": "PH",
+                "prefixParentId": 9438,
+                "prefixDescription": "Public Health",
+                "departmentParentId": 13847,
+                "department": "Public Health",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "027c4b72-4781-4435-af4c-0923498400b3",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 249785,
+                "courseTitle": "Relaxation and Stress Reduction",
+                "courseNumber": "205",
+                "prefix": "HH",
+                "prefixParentId": 14441,
+                "prefixDescription": "Holistic Health Studies",
+                "departmentParentId": 7064,
+                "department": "Holistic Health",
+                "begin": "Su2009",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3b680b34-e63e-4423-8220-7b0a363c78cf",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 248097,
+                "courseTitle": "Global Health",
+                "courseNumber": "200",
+                "prefix": "PH",
+                "prefixParentId": 9438,
+                "prefixDescription": "Public Health",
+                "departmentParentId": 13847,
+                "department": "Public Health",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e29ed783-4a08-429d-9d66-5b1455272471",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 345928,
+                "courseTitle": "Health and Social Justice - Burning Issues, Taking Action",
+                "courseNumber": "221",
+                "prefix": "PH",
+                "prefixParentId": 9438,
+                "prefixDescription": "Public Health",
+                "departmentParentId": 13847,
+                "department": "Public Health",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d4e49b44-6578-40cd-8234-987ad156a2be",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "major": "Spanish and Community and Culture/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "19a9e497-53e1-433e-1aa0-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 270479,
+                "courseTitle": "Iberian Culture",
+                "courseNumber": "42",
+                "prefix": "SPAN",
+                "prefixParentId": 14377,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12293,
+                "department": "Spanish",
+                "begin": "S2012",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "759c1493-f84c-495b-977b-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 285965,
+                "courseTitle": "Latin American Cultures",
+                "courseNumber": "44",
+                "prefix": "SPAN",
+                "prefixParentId": 14377,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12293,
+                "department": "Spanish",
+                "begin": "Su2019",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "81ec8059-f96a-4ca2-977c-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "58443173-d3af-4ab1-1aa1-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379212,
+                "courseTitle": "Advanced Spanish Composition",
+                "courseNumber": "25",
+                "prefix": "SPAN",
+                "prefixParentId": 14377,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12293,
+                "department": "Spanish",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c8aff9b4-6832-41c7-99a7-3b20ed38c4ca",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379213,
+                "courseTitle": "Advanced Spanish Composition for Heritage Speakers",
+                "courseNumber": "27",
+                "prefix": "SPAN",
+                "prefixParentId": 14377,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12293,
+                "department": "Spanish",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "88862e3d-0d6d-4b73-bdc5-65d11d7ddab0",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "2655ee08-d3ce-4658-1aa2-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379235,
+                "courseTitle": "Spanish, Portuguese, and Nature of Language",
+                "courseNumber": "M35",
+                "prefix": "SPAN",
+                "prefixParentId": 14377,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12293,
+                "department": "Spanish",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 381005,
+                    "courseTitle": "Spanish, Portuguese, and Nature of Language",
+                    "courseNumber": "M35",
+                    "prefix": "PORTGSE",
+                    "prefixParentId": 15871,
+                    "prefixDescription": "Portuguese",
+                    "departmentParentId": 11135,
+                    "department": "Portuguese",
+                    "begin": "S2021",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5b434267-e5fa-42bb-977d-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 381005,
+                "courseTitle": "Spanish, Portuguese, and Nature of Language",
+                "courseNumber": "M35",
+                "prefix": "PORTGSE",
+                "prefixParentId": 15871,
+                "prefixDescription": "Portuguese",
+                "departmentParentId": 11135,
+                "department": "Portuguese",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 379235,
+                    "courseTitle": "Spanish, Portuguese, and Nature of Language",
+                    "courseNumber": "M35",
+                    "prefix": "SPAN",
+                    "prefixParentId": 14377,
+                    "prefixDescription": "Spanish",
+                    "departmentParentId": 12293,
+                    "department": "Spanish",
+                    "begin": "F2022",
+                    "end": "",
+                    "minUnits": 5,
+                    "maxUnits": 5
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b47c0d6a-3d5f-4a51-977e-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

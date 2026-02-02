@@ -1,0 +1,142 @@
+{
+  "major": "German",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 81,
+    "code": "CSULB   ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Long Beach",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 354366,
+        "courseTitle": "Intermediate German",
+        "courseNumber": "201B",
+        "prefix": "GERM",
+        "prefixParentId": 7839,
+        "prefixDescription": "German",
+        "departmentParentId": 6452,
+        "department": "German",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 354353,
+        "courseTitle": "Intermediate German",
+        "courseNumber": "201A",
+        "prefix": "GERM",
+        "prefixParentId": 7839,
+        "prefixDescription": "German",
+        "departmentParentId": 6452,
+        "department": "German",
+        "begin": "F1997",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "aa7ad196-2049-4ee1-dec7-08db99b6efac",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354366,
+                "courseTitle": "Intermediate German",
+                "courseNumber": "201B",
+                "prefix": "GERM",
+                "prefixParentId": 7839,
+                "prefixDescription": "German",
+                "departmentParentId": 6452,
+                "department": "German",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1197e3fc-6d3e-49ff-9504-0461b75ea997",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354353,
+                "courseTitle": "Intermediate German",
+                "courseNumber": "201A",
+                "prefix": "GERM",
+                "prefixParentId": 7839,
+                "prefixDescription": "German",
+                "departmentParentId": 6452,
+                "department": "German",
+                "begin": "F1997",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e3476de8-2c4f-4b46-a850-b8e8821c0ada",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

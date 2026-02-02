@@ -1,0 +1,503 @@
+{
+  "major": "Recreation Administration - Community Recreation, Youth Development, and Senior Services Emphasis (B.S.)",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 29,
+    "code": "CSUFRES ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Fresno",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 135021,
+        "courseTitle": "Lifelong Learning in the Natural Environment",
+        "courseNumber": "80",
+        "prefix": "RA",
+        "prefixParentId": 9287,
+        "prefixDescription": "Recreation Administration",
+        "departmentParentId": 11621,
+        "department": "Recreation Administration",
+        "begin": "F2010",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 135474,
+        "courseTitle": "Leadership in Recreation, Parks, and Tourism",
+        "courseNumber": "73S",
+        "prefix": "RA",
+        "prefixParentId": 9287,
+        "prefixDescription": "Recreation Administration",
+        "departmentParentId": 11621,
+        "department": "Recreation Administration",
+        "begin": "F2011",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 250655,
+        "courseTitle": "Recreation, Parks, and Tourism Programming",
+        "courseNumber": "77S",
+        "prefix": "RA",
+        "prefixParentId": 9287,
+        "prefixDescription": "Recreation Administration",
+        "departmentParentId": 11621,
+        "department": "Recreation Administration",
+        "begin": "F2011",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 160592,
+        "courseTitle": "Foundations and Careers in Recreation, Parks, and Tourism",
+        "courseNumber": "55",
+        "prefix": "RA",
+        "prefixParentId": 9287,
+        "prefixDescription": "Recreation Administration",
+        "departmentParentId": 11621,
+        "department": "Recreation Administration",
+        "begin": "F2014",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 135027,
+        "courseTitle": "Introductory Child Development",
+        "courseNumber": "39",
+        "prefix": "CFS",
+        "prefixParentId": 9797,
+        "prefixDescription": "Child and Family Science",
+        "departmentParentId": 13539,
+        "department": "Child and Family Science",
+        "begin": "F2019",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "4bcafc0c-be8e-4a5e-b659-87821cafd318",
+                  "publishedCourseIdentifierYearTermId": 191,
+                  "courseIdentifierParentId": 284398,
+                  "courseTitle": "Child Development (The Early Years)",
+                  "courseNumber": "10G",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F1998",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284399,
+              "courseTitle": "Child Development (The Early Years)",
+              "courseNumber": "10G",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 195,
+              "position": 0,
+              "type": "Course"
+            },
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "e3e16b91-9b41-4ada-b259-043784a521ea",
+                  "publishedCourseIdentifierYearTermId": 263,
+                  "courseIdentifierParentId": 284725,
+                  "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+                  "courseNumber": "10H",
+                  "prefix": "PSYC",
+                  "prefixParentId": 4716,
+                  "prefixDescription": "Psychology",
+                  "departmentParentId": 11251,
+                  "department": "Psychology",
+                  "begin": "F2016",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 284726,
+              "courseTitle": "Child Growth and Development (Middle Childhood and Adolescence)",
+              "courseNumber": "10H",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F2016",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": 263,
+              "position": 1,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 206408,
+        "courseTitle": "Journey of Adulthood: Planning a Meaningful Life",
+        "courseNumber": "10S",
+        "prefix": "GERON",
+        "prefixParentId": 8844,
+        "prefixDescription": "Gerontology",
+        "departmentParentId": 6538,
+        "department": "Gerontology Program",
+        "begin": "F2018",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 134991,
+        "courseTitle": "American Government and Institutions",
+        "courseNumber": "2",
+        "prefix": "PLSI",
+        "prefixParentId": 1918,
+        "prefixDescription": "Political Science",
+        "departmentParentId": 10952,
+        "department": "Political Science",
+        "begin": "F2002",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363587,
+              "courseTitle": "American Government and Politics - HONORS",
+              "courseNumber": "1H",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 271,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 282754,
+              "courseTitle": "American Government and Politics",
+              "courseNumber": "1",
+              "prefix": "POLI",
+              "prefixParentId": 2020,
+              "prefixDescription": "Political Science",
+              "departmentParentId": 11018,
+              "department": "Political Science",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": 267,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 135021,
+                "courseTitle": "Lifelong Learning in the Natural Environment",
+                "courseNumber": "80",
+                "prefix": "RA",
+                "prefixParentId": 9287,
+                "prefixDescription": "Recreation Administration",
+                "departmentParentId": 11621,
+                "department": "Recreation Administration",
+                "begin": "F2010",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "78bf3a4a-75f8-48db-a375-833a65c90130",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387022,
+                "courseTitle": "Technologies in Recreation, Parks and Tourism",
+                "courseNumber": "60",
+                "prefix": "RA",
+                "prefixParentId": 9287,
+                "prefixDescription": "Recreation Administration",
+                "departmentParentId": 11621,
+                "department": "Recreation Administration",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a35c6ea0-2aef-4d63-d19e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 135474,
+                "courseTitle": "Leadership in Recreation, Parks, and Tourism",
+                "courseNumber": "73S",
+                "prefix": "RA",
+                "prefixParentId": 9287,
+                "prefixDescription": "Recreation Administration",
+                "departmentParentId": 11621,
+                "department": "Recreation Administration",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7cf31705-066d-4110-aaab-d7bb3aaebc9a",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 250655,
+                "courseTitle": "Recreation, Parks, and Tourism Programming",
+                "courseNumber": "77S",
+                "prefix": "RA",
+                "prefixParentId": 9287,
+                "prefixDescription": "Recreation Administration",
+                "departmentParentId": 11621,
+                "department": "Recreation Administration",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e8724762-1115-451b-ac8d-84fd026388ea",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 160592,
+                "courseTitle": "Foundations and Careers in Recreation, Parks, and Tourism",
+                "courseNumber": "55",
+                "prefix": "RA",
+                "prefixParentId": 9287,
+                "prefixDescription": "Recreation Administration",
+                "departmentParentId": 11621,
+                "department": "Recreation Administration",
+                "begin": "F2014",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7d416602-a9fd-4c2d-930e-703107b3b337",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 135027,
+                "courseTitle": "Introductory Child Development",
+                "courseNumber": "39",
+                "prefix": "CFS",
+                "prefixParentId": 9797,
+                "prefixDescription": "Child and Family Science",
+                "departmentParentId": 13539,
+                "department": "Child and Family Science",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6bfaa644-a024-496d-9478-91f634d1a0a8",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 206408,
+                "courseTitle": "Journey of Adulthood: Planning a Meaningful Life",
+                "courseNumber": "10S",
+                "prefix": "GERON",
+                "prefixParentId": 8844,
+                "prefixDescription": "Gerontology",
+                "departmentParentId": 6538,
+                "department": "Gerontology Program",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "813ffe2a-2fa1-4ba8-b5ef-9a59e44c565a",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "OTHER DEGREE REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 134991,
+                "courseTitle": "American Government and Institutions",
+                "courseNumber": "2",
+                "prefix": "PLSI",
+                "prefixParentId": 1918,
+                "prefixDescription": "Political Science",
+                "departmentParentId": 10952,
+                "department": "Political Science",
+                "begin": "F2002",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b98b740f-8087-4013-bd50-bfc0dca7e9f7",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

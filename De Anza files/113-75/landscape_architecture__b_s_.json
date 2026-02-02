@@ -1,0 +1,393 @@
+{
+  "major": "Landscape Architecture, B.S.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 75,
+    "code": "CPP     ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "California Polytechnic University, Pomona",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 2018
+      },
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "MAJOR REQUIRED": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363832,
+                "courseTitle": "Design III: Placemaking Laboratory",
+                "courseNumber": "2111L",
+                "prefix": "LA",
+                "prefixParentId": 7724,
+                "prefixDescription": "Landscape Architecture",
+                "departmentParentId": 8253,
+                "department": "Landscape Architecture",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "add544e8-a366-41a5-9595-c77e1f380b61",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363829,
+                "courseTitle": "Plant Ecology and Design II",
+                "courseNumber": "2451",
+                "prefix": "LA",
+                "prefixParentId": 7724,
+                "prefixDescription": "Landscape Architecture",
+                "departmentParentId": 8253,
+                "department": "Landscape Architecture",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "21de852d-c1b1-43cc-9bc2-5baa35d07259",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Series",
+              "series": {
+                "conjunction": "And",
+                "name": "LA 1111L, LA 1121L, LA 1581, LA 1771",
+                "courses": [
+                  {
+                    "id": "ccc20a41-3520-47fa-a8d9-3c1aa93117ad",
+                    "position": 0,
+                    "courseIdentifierParentId": 363830,
+                    "courseTitle": "Design I: Figure-Ground Laboratory",
+                    "courseNumber": "1111L",
+                    "prefix": "LA",
+                    "prefixParentId": 7724,
+                    "prefixDescription": "Landscape Architecture",
+                    "departmentParentId": 8253,
+                    "department": "Landscape Architecture",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "3dfc1a05-64bc-43c8-9d23-7d25cf52e6fb",
+                    "position": 1,
+                    "courseIdentifierParentId": 363831,
+                    "courseTitle": "Design II: Topographic Form Laboratory",
+                    "courseNumber": "1121L",
+                    "prefix": "LA",
+                    "prefixParentId": 7724,
+                    "prefixDescription": "Landscape Architecture",
+                    "departmentParentId": 8253,
+                    "department": "Landscape Architecture",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "b8b1b247-06aa-4213-bc78-034cf3adee93",
+                    "position": 2,
+                    "courseIdentifierParentId": 364113,
+                    "courseTitle": "Introduction to Visual Communication for Design",
+                    "courseNumber": "1581",
+                    "prefix": "LA",
+                    "prefixParentId": 7724,
+                    "prefixDescription": "Landscape Architecture",
+                    "departmentParentId": 8253,
+                    "department": "Landscape Architecture",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  },
+                  {
+                    "id": "a76345c8-7172-4d56-9766-b77fc30b0193",
+                    "position": 3,
+                    "courseIdentifierParentId": 364114,
+                    "courseTitle": "Reading and Representing the Landscape",
+                    "courseNumber": "1771",
+                    "prefix": "LA",
+                    "prefixParentId": 7724,
+                    "prefixDescription": "Landscape Architecture",
+                    "departmentParentId": 8253,
+                    "department": "Landscape Architecture",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                ]
+              },
+              "requisites": [],
+              "visibleCrossListedCourses": [],
+              "seriesAttributes": [],
+              "courseAttributes": [],
+              "id": "8f776940-34a5-4370-b6d0-31c26a1549cc",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 367540,
+                "courseTitle": "Environmental Design Theory",
+                "courseNumber": "2771",
+                "prefix": "LA",
+                "prefixParentId": 7724,
+                "prefixDescription": "Landscape Architecture",
+                "departmentParentId": 8253,
+                "department": "Landscape Architecture",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b835ad0e-7850-464f-b9e2-ff2b5f5fc8ca",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363833,
+                "courseTitle": "Design IV: Site Engineering and Applied Site Design Laboratory",
+                "courseNumber": "2121L",
+                "prefix": "LA",
+                "prefixParentId": 7724,
+                "prefixDescription": "Landscape Architecture",
+                "departmentParentId": 8253,
+                "department": "Landscape Architecture",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1d2634ac-2d4a-4508-9f6c-e0e9d6269182",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 363828,
+                "courseTitle": "Plant Ecology and Design I",
+                "courseNumber": "2441",
+                "prefix": "LA",
+                "prefixParentId": 7724,
+                "prefixDescription": "Landscape Architecture",
+                "departmentParentId": 8253,
+                "department": "Landscape Architecture",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "011964ad-576c-4e53-b718-4adbec869828",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "MAJOR REQUIRED LANDSCAPE ARCHITECTURE HISTORY ELECTIVES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 367538,
+                "courseTitle": "History I: History of Landscape Design",
+                "courseNumber": "2261",
+                "prefix": "LA",
+                "prefixParentId": 7724,
+                "prefixDescription": "Landscape Architecture",
+                "departmentParentId": 8253,
+                "department": "Landscape Architecture",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "5e184224-e201-4d18-94b6-08db8f7b9dd1",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 367539,
+                "courseTitle": "History II: Modern Landscapes",
+                "courseNumber": "2271",
+                "prefix": "LA",
+                "prefixParentId": 7724,
+                "prefixDescription": "Landscape Architecture",
+                "departmentParentId": 8253,
+                "department": "Landscape Architecture",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "97117807-5fe2-40c6-c722-08db99b6efb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379308,
+                "courseTitle": "The Japanese American Experience and the California Landscape",
+                "courseNumber": "2250",
+                "prefix": "EWS",
+                "prefixParentId": 8574,
+                "prefixDescription": "Ethnic and Women's Studies",
+                "departmentParentId": 5382,
+                "department": "Ethnic and Women's Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 379307,
+                    "courseTitle": "The Japanese American Experience and the California Landscape",
+                    "courseNumber": "2250",
+                    "prefix": "LA",
+                    "prefixParentId": 7724,
+                    "prefixDescription": "Landscape Architecture",
+                    "departmentParentId": 8253,
+                    "department": "Landscape Architecture",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "237bff36-f8e6-4e85-7c8d-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379307,
+                "courseTitle": "The Japanese American Experience and the California Landscape",
+                "courseNumber": "2250",
+                "prefix": "LA",
+                "prefixParentId": 7724,
+                "prefixDescription": "Landscape Architecture",
+                "departmentParentId": 8253,
+                "department": "Landscape Architecture",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 379308,
+                    "courseTitle": "The Japanese American Experience and the California Landscape",
+                    "courseNumber": "2250",
+                    "prefix": "EWS",
+                    "prefixParentId": 8574,
+                    "prefixDescription": "Ethnic and Women's Studies",
+                    "departmentParentId": 5382,
+                    "department": "Ethnic and Women's Studies",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 3,
+                    "maxUnits": 3
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4d1003ec-114f-4695-7c8e-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "major": "Broadcast and Electronic Communication Arts, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 116,
+    "code": "SFSU    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "San Francisco State University",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 157906,
+        "courseTitle": "Introduction to Electronic Communication",
+        "courseNumber": "200",
+        "prefix": "BECA",
+        "prefixParentId": 8728,
+        "prefixDescription": "Broadcast and Electronic Communication Arts",
+        "departmentParentId": 1866,
+        "department": "Broadcast and Electronic Communication Arts",
+        "begin": "S2017",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 363737,
+              "courseTitle": "Introduction to Electronic Media - HONORS",
+              "courseNumber": "10H",
+              "prefix": "F/TV",
+              "prefixParentId": 11748,
+              "prefixDescription": "Film/Television",
+              "departmentParentId": 5645,
+              "department": "Film/Television",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254850,
+              "courseTitle": "Introduction to Electronic Media",
+              "courseNumber": "10",
+              "prefix": "F/TV",
+              "prefixParentId": 11748,
+              "prefixDescription": "Film/Television",
+              "departmentParentId": 5645,
+              "department": "Film/Television",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 310970,
+        "courseTitle": "TV Studio Basics",
+        "courseNumber": "241",
+        "prefix": "BECA",
+        "prefixParentId": 8728,
+        "prefixDescription": "Broadcast and Electronic Communication Arts",
+        "departmentParentId": 1866,
+        "department": "Broadcast and Electronic Communication Arts",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288386,
+              "courseTitle": "Beginning TV Studio Production",
+              "courseNumber": "23",
+              "prefix": "F/TV",
+              "prefixParentId": 11748,
+              "prefixDescription": "Film/Television",
+              "departmentParentId": 5645,
+              "department": "Film/Television",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 26878,
+        "courseTitle": "Audio Production Basics",
+        "courseNumber": "231",
+        "prefix": "BECA",
+        "prefixParentId": 8728,
+        "prefixDescription": "Broadcast and Electronic Communication Arts",
+        "departmentParentId": 1866,
+        "department": "Broadcast and Electronic Communication Arts",
+        "begin": "F2020",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 257127,
+              "courseTitle": "Location Recording and Sound Design",
+              "courseNumber": "30",
+              "prefix": "F/TV",
+              "prefixParentId": 11748,
+              "prefixDescription": "Film/Television",
+              "departmentParentId": 5645,
+              "department": "Film/Television",
+              "begin": "F2017",
+              "end": "",
+              "minUnits": 3,
+              "maxUnits": 3,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "CORE": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157906,
+                "courseTitle": "Introduction to Electronic Communication",
+                "courseNumber": "200",
+                "prefix": "BECA",
+                "prefixParentId": 8728,
+                "prefixDescription": "Broadcast and Electronic Communication Arts",
+                "departmentParentId": 1866,
+                "department": "Broadcast and Electronic Communication Arts",
+                "begin": "S2017",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9705ba18-a796-4c43-9291-f6268915ba94",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "FOUNDATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 371409,
+                "courseTitle": "Electronic Field Production I",
+                "courseNumber": "246",
+                "prefix": "BECA",
+                "prefixParentId": 8728,
+                "prefixDescription": "Broadcast and Electronic Communication Arts",
+                "departmentParentId": 1866,
+                "department": "Broadcast and Electronic Communication Arts",
+                "begin": "F2019",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2c0f7d3e-a9f1-4175-9b2c-b55b5f83aaa5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 310970,
+                "courseTitle": "TV Studio Basics",
+                "courseNumber": "241",
+                "prefix": "BECA",
+                "prefixParentId": 8728,
+                "prefixDescription": "Broadcast and Electronic Communication Arts",
+                "departmentParentId": 1866,
+                "department": "Broadcast and Electronic Communication Arts",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f801362b-e677-4b1d-9997-1a9d3cccbe75",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 26878,
+                "courseTitle": "Audio Production Basics",
+                "courseNumber": "231",
+                "prefix": "BECA",
+                "prefixParentId": 8728,
+                "prefixDescription": "Broadcast and Electronic Communication Arts",
+                "departmentParentId": 1866,
+                "department": "Broadcast and Electronic Communication Arts",
+                "begin": "F2020",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "d4bc0442-4cb3-45fb-badf-b409724f7961",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

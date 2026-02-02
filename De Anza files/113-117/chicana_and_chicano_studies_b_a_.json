@@ -1,0 +1,141 @@
+{
+  "major": "Chicana and Chicano Studies/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "e50ac4bd-11f7-4de6-1b32-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 388435,
+                "courseTitle": "Introduction to Chicana/Chicano Studies: History and Culture",
+                "courseNumber": "10A",
+                "prefix": "CCAS",
+                "prefixParentId": 16926,
+                "prefixDescription": "Chicana/o and Central American Studies",
+                "departmentParentId": 2404,
+                "department": "Chicana and Chicano Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9418c19f-7b47-4275-2c87-08dbfdcaf961",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 388436,
+                "courseTitle": "Introduction to Chicana/Chicano Studies: Social Structure and Contempory Conditions",
+                "courseNumber": "10B",
+                "prefix": "CCAS",
+                "prefixParentId": 16926,
+                "prefixDescription": "Chicana/o and Central American Studies",
+                "departmentParentId": 2404,
+                "department": "Chicana and Chicano Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "214c8ef8-2043-4fdc-2c88-08dbfdcaf961",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "8c710eb0-945e-4f27-1b31-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 357088,
+                "courseTitle": "Intermediate Spanish",
+                "courseNumber": "5",
+                "prefix": "SPAN",
+                "prefixParentId": 14377,
+                "prefixDescription": "Spanish",
+                "departmentParentId": 12293,
+                "department": "Spanish",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "503ec530-545b-4db7-8a08-571fe3f62f85",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

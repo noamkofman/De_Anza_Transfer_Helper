@@ -1,0 +1,333 @@
+{
+  "major": "Russian A.B.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 89,
+    "code": "UCD     ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Davis",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 303216,
+        "courseTitle": "Elementary Russian ",
+        "courseNumber": "003",
+        "prefix": "RUS",
+        "prefixParentId": 1067,
+        "prefixDescription": "Russian",
+        "departmentParentId": 11804,
+        "department": "Russian",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 304764,
+              "courseTitle": "Elementary Russian (Third Quarter)",
+              "courseNumber": "3",
+              "prefix": "RUSS",
+              "prefixParentId": 1078,
+              "prefixDescription": "Russian",
+              "departmentParentId": 11795,
+              "department": "Russian",
+              "begin": "F2009",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 281959,
+        "courseTitle": "Elementary Russian ",
+        "courseNumber": "002",
+        "prefix": "RUS",
+        "prefixParentId": 1067,
+        "prefixDescription": "Russian",
+        "departmentParentId": 11804,
+        "department": "Russian",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 285977,
+              "courseTitle": "Elementary Russian (Second Quarter)",
+              "courseNumber": "2",
+              "prefix": "RUSS",
+              "prefixParentId": 1078,
+              "prefixDescription": "Russian",
+              "departmentParentId": 11795,
+              "department": "Russian",
+              "begin": "F2009",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 303218,
+        "courseTitle": "Elementary Russian ",
+        "courseNumber": "001",
+        "prefix": "RUS",
+        "prefixParentId": 1067,
+        "prefixDescription": "Russian",
+        "departmentParentId": 11804,
+        "department": "Russian",
+        "begin": "F2022",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 304762,
+              "courseTitle": "Elementary Russian (First Quarter)",
+              "courseNumber": "1",
+              "prefix": "RUSS",
+              "prefixParentId": 1078,
+              "prefixDescription": "Russian",
+              "departmentParentId": 11795,
+              "department": "Russian",
+              "begin": "F2009",
+              "end": "",
+              "minUnits": 5,
+              "maxUnits": 5,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION COURSES FOR THE MAJOR": [
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "UpTo",
+          "amount": 27,
+          "amountUnitType": "QuarterUnit",
+          "id": "e1722b33-98a1-422a-f5f8-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 256875,
+                "courseTitle": "Intermediate Russian ",
+                "courseNumber": "005",
+                "prefix": "RUS",
+                "prefixParentId": 1067,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11804,
+                "department": "Russian",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "744e9aef-e316-4f76-da5e-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257019,
+                "courseTitle": "Intermediate Russian ",
+                "courseNumber": "004",
+                "prefix": "RUS",
+                "prefixParentId": 1067,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11804,
+                "department": "Russian",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "171af0e4-cbbf-48b0-da5f-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354203,
+                "courseTitle": "Intermediate Russian ",
+                "courseNumber": "006",
+                "prefix": "RUS",
+                "prefixParentId": 1067,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11804,
+                "department": "Russian",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3d43ab7d-446f-4096-da60-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303216,
+                "courseTitle": "Elementary Russian ",
+                "courseNumber": "003",
+                "prefix": "RUS",
+                "prefixParentId": 1067,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11804,
+                "department": "Russian",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "9db32e51-c06c-47ee-da61-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 281959,
+                "courseTitle": "Elementary Russian ",
+                "courseNumber": "002",
+                "prefix": "RUS",
+                "prefixParentId": 1067,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11804,
+                "department": "Russian",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6854f0ab-0044-4050-da62-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 303218,
+                "courseTitle": "Elementary Russian ",
+                "courseNumber": "001",
+                "prefix": "RUS",
+                "prefixParentId": 1067,
+                "prefixDescription": "Russian",
+                "departmentParentId": 11804,
+                "department": "Russian",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "131ffef9-dcfa-4828-da63-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

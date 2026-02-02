@@ -1,0 +1,302 @@
+{
+  "major": "Theatre, BA",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 60,
+    "code": "CSUS    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Sacramento",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 227311,
+        "courseTitle": "Acting Study I",
+        "courseNumber": "11",
+        "prefix": "THEA",
+        "prefixParentId": 70,
+        "prefixDescription": "Theatre",
+        "departmentParentId": 12832,
+        "department": "Theatre",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 264101,
+        "courseTitle": "Stage Makeup and Costume Construction",
+        "courseNumber": "14",
+        "prefix": "THEA",
+        "prefixParentId": 70,
+        "prefixDescription": "Theatre",
+        "departmentParentId": 12832,
+        "department": "Theatre",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 122572,
+        "courseTitle": "Lighting",
+        "courseNumber": "20",
+        "prefix": "THEA",
+        "prefixParentId": 70,
+        "prefixDescription": "Theatre",
+        "departmentParentId": 12832,
+        "department": "Theatre",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 157274,
+        "courseTitle": "History of the Theatre: Ancient To Renaissance",
+        "courseNumber": "2",
+        "prefix": "THEA",
+        "prefixParentId": 70,
+        "prefixDescription": "Theatre",
+        "departmentParentId": 12832,
+        "department": "Theatre",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 123543,
+        "courseTitle": "Stagecraft",
+        "courseNumber": "16",
+        "prefix": "THEA",
+        "prefixParentId": 70,
+        "prefixDescription": "Theatre",
+        "departmentParentId": 12832,
+        "department": "Theatre",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 214610,
+        "courseTitle": "Theatre History After 1660",
+        "courseNumber": "3",
+        "prefix": "THEA",
+        "prefixParentId": 70,
+        "prefixDescription": "Theatre",
+        "departmentParentId": 12832,
+        "department": "Theatre",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": []
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": {
+          "type": "Following",
+          "id": "2e244bfe-9243-465f-6934-08dbfdccbd2c",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 227311,
+                "courseTitle": "Acting Study I",
+                "courseNumber": "11",
+                "prefix": "THEA",
+                "prefixParentId": 70,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12832,
+                "department": "Theatre",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "8505a1b2-d5bc-412b-ba60-8e01ad4652d0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 264101,
+                "courseTitle": "Stage Makeup and Costume Construction",
+                "courseNumber": "14",
+                "prefix": "THEA",
+                "prefixParentId": 70,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12832,
+                "department": "Theatre",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "00ea9c4e-d795-4227-9e92-fb4a12fb1af9",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 122572,
+                "courseTitle": "Lighting",
+                "courseNumber": "20",
+                "prefix": "THEA",
+                "prefixParentId": 70,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12832,
+                "department": "Theatre",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cb7e4299-95e6-4ee1-9b90-fc9f9e7493ce",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 157274,
+                "courseTitle": "History of the Theatre: Ancient To Renaissance",
+                "courseNumber": "2",
+                "prefix": "THEA",
+                "prefixParentId": 70,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12832,
+                "department": "Theatre",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c9ac7877-7701-4240-8864-e8406538d161",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 123543,
+                "courseTitle": "Stagecraft",
+                "courseNumber": "16",
+                "prefix": "THEA",
+                "prefixParentId": 70,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12832,
+                "department": "Theatre",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "eb2a6f24-5424-4ec3-80a0-8a17aa36f5b6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 214610,
+                "courseTitle": "Theatre History After 1660",
+                "courseNumber": "3",
+                "prefix": "THEA",
+                "prefixParentId": 70,
+                "prefixDescription": "Theatre",
+                "departmentParentId": 12832,
+                "department": "Theatre",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a572c2f0-afb5-40a8-a9ce-49b3a99f381c",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

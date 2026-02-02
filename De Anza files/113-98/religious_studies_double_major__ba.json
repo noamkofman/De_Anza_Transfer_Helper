@@ -1,0 +1,258 @@
+{
+  "major": "Religious Studies Double Major, BA",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 98,
+    "code": "CSUB    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Bakersfield",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "MAJOR REQUIREMENTS": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 384266,
+                "courseTitle": "Exploring Religion",
+                "courseNumber": "2900",
+                "prefix": "RS",
+                "prefixParentId": 2145,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11673,
+                "department": "Religious Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "109ab073-3432-4a39-b050-5900502d0208",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 3,
+          "amountQuantifier": "None",
+          "amountUnitType": "Unit",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "7ab123c3-ac29-4eac-5aa9-08dbf14722d9",
+          "selectionType": "Select"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379640,
+                "courseTitle": "Latinx Spiritualities",
+                "courseNumber": "2108",
+                "prefix": "RS",
+                "prefixParentId": 2145,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11673,
+                "department": "Religious Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b64ffdef-17ad-441b-5245-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 388161,
+                "courseTitle": "Anime Spirituality",
+                "courseNumber": "2018",
+                "prefix": "RS",
+                "prefixParentId": 2145,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11673,
+                "department": "Religious Studies",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "c6ead45a-ca1c-45ca-5246-08dbf1469773",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 364863,
+                "courseTitle": "Cults in America",
+                "courseNumber": "2010",
+                "prefix": "RS",
+                "prefixParentId": 2145,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11673,
+                "department": "Religious Studies",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7caa5229-1d84-46a7-8153-1e943b22a7ab",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 264707,
+                "courseTitle": "Religions of Asia",
+                "courseNumber": "1138",
+                "prefix": "RS",
+                "prefixParentId": 2145,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11673,
+                "department": "Religious Studies",
+                "begin": "S2018",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "18325b4e-05ee-4952-bd2e-d28da021b4a4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 69189,
+                "courseTitle": "Religion and Film: Screening the Sacred",
+                "courseNumber": "1118",
+                "prefix": "RS",
+                "prefixParentId": 2145,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11673,
+                "department": "Religious Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 1,
+                "maxUnits": 1
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3399f973-61fa-4614-983c-29164623ec15",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 350234,
+                "courseTitle": "A History of God",
+                "courseNumber": "1128",
+                "prefix": "RS",
+                "prefixParentId": 2145,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11673,
+                "department": "Religious Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "458052b0-c7b1-4c36-a9d3-eee6a486a5c5",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 238441,
+                "courseTitle": "Jesus, Buddha and the Moral Life",
+                "courseNumber": "1108",
+                "prefix": "RS",
+                "prefixParentId": 2145,
+                "prefixDescription": "Religious Studies",
+                "departmentParentId": 11673,
+                "department": "Religious Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "6738f012-48ce-4cb1-a4b9-b58f65256ced",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

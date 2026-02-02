@@ -1,0 +1,249 @@
+{
+  "major": "FAMILY AND CONSUMER SCIENCES, B.S. - Option in Family Studies",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 42,
+    "code": "CSUN    ",
+    "isCommunityCollege": false,
+    "category": "CSU",
+    "termType": "Semester",
+    "names": [
+      {
+        "name": "California State University, Northridge",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Semester",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 171958,
+        "courseTitle": "Introduction to Psychology",
+        "courseNumber": "150",
+        "prefix": "PSY",
+        "prefixParentId": 4630,
+        "prefixDescription": "Psychology",
+        "departmentParentId": 11192,
+        "department": "Psychology",
+        "begin": "F2011",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 281450,
+              "courseTitle": "General Psychology",
+              "courseNumber": "1",
+              "prefix": "PSYC",
+              "prefixParentId": 4716,
+              "prefixDescription": "Psychology",
+              "departmentParentId": 11251,
+              "department": "Psychology",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 345099,
+        "courseTitle": "The Child in the Family and Community",
+        "courseNumber": "234",
+        "prefix": "FCS",
+        "prefixParentId": 6067,
+        "prefixDescription": "Family and Consumer Sciences",
+        "departmentParentId": 5478,
+        "department": "Family and Consumer Sciences",
+        "begin": "F2005",
+        "end": "",
+        "minUnits": 3,
+        "maxUnits": 3
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247734,
+              "courseTitle": "Child, Family and Community Interrelationships",
+              "courseNumber": "12",
+              "prefix": "C D",
+              "prefixParentId": 7251,
+              "prefixDescription": "Child Development",
+              "departmentParentId": 2448,
+              "department": "Child Development",
+              "begin": "F1999",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "LOWER DIVISION MAJOR PREPARATION COURSES": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 171958,
+                "courseTitle": "Introduction to Psychology",
+                "courseNumber": "150",
+                "prefix": "PSY",
+                "prefixParentId": 4630,
+                "prefixDescription": "Psychology",
+                "departmentParentId": 11192,
+                "department": "Psychology",
+                "begin": "F2011",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1df8d032-8c65-4a33-8867-5e53a2143dca",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 172119,
+                "courseTitle": "Individual and Family Development",
+                "courseNumber": "232",
+                "prefix": "FCS",
+                "prefixParentId": 6067,
+                "prefixDescription": "Family and Consumer Sciences",
+                "departmentParentId": 5478,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "f2099ec3-3d54-4197-b0cb-6a9b0937375a",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 121077,
+                "courseTitle": "Creative Expression in Family Environmental Sciences",
+                "courseNumber": "170",
+                "prefix": "FCS",
+                "prefixParentId": 6067,
+                "prefixDescription": "Family and Consumer Sciences",
+                "departmentParentId": 5478,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 2,
+                "maxUnits": 2
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "bb740369-d683-4451-8ea2-c018f6c6d4f4",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ],
+    "PATTERN A": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 345099,
+                "courseTitle": "The Child in the Family and Community",
+                "courseNumber": "234",
+                "prefix": "FCS",
+                "prefixParentId": 6067,
+                "prefixDescription": "Family and Consumer Sciences",
+                "departmentParentId": 5478,
+                "department": "Family and Consumer Sciences",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 3,
+                "maxUnits": 3
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4f715756-6f60-4f5a-a671-ad464e2c2f4d",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

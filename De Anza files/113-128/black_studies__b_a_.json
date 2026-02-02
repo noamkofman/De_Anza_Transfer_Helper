@@ -1,0 +1,857 @@
+{
+  "major": "Black Studies, B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 128,
+    "code": "UCSB    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Santa Barbara",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 354409,
+        "courseTitle": "Introduction to African-American Studies",
+        "courseNumber": "1",
+        "prefix": "BL ST",
+        "prefixParentId": 1600,
+        "prefixDescription": "Black Studies",
+        "departmentParentId": 1812,
+        "department": "Black Studies",
+        "begin": "F2021",
+        "end": "",
+        "minUnits": 5,
+        "maxUnits": 5
+      },
+      "courses": []
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 257322,
+        "courseTitle": "Survey of African History",
+        "courseNumber": "49B",
+        "prefix": "BL ST",
+        "prefixParentId": 1600,
+        "prefixDescription": "Black Studies",
+        "departmentParentId": 1812,
+        "department": "Black Studies",
+        "begin": "F2009",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "1ceb1888-0462-4cc9-8912-b3411c0ff5c3",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 288955,
+                  "courseTitle": "History of Africa From 1800 to the Present",
+                  "courseNumber": "16B",
+                  "prefix": "HIST",
+                  "prefixParentId": 3013,
+                  "prefixDescription": "History",
+                  "departmentParentId": 7009,
+                  "department": "History",
+                  "begin": "F2006",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288956,
+              "courseTitle": "History of Africa From 1800 to the Present",
+              "courseNumber": "16B",
+              "prefix": "ICS",
+              "prefixParentId": 9360,
+              "prefixDescription": "Intercultural Studies",
+              "departmentParentId": 7565,
+              "department": "Intercultural Studies",
+              "begin": "F2006",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "d5b4ff3c-4042-4ce9-a22a-1715bfa43efa",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 288956,
+                  "courseTitle": "History of Africa From 1800 to the Present",
+                  "courseNumber": "16B",
+                  "prefix": "ICS",
+                  "prefixParentId": 9360,
+                  "prefixDescription": "Intercultural Studies",
+                  "departmentParentId": 7565,
+                  "department": "Intercultural Studies",
+                  "begin": "F2006",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 288955,
+              "courseTitle": "History of Africa From 1800 to the Present",
+              "courseNumber": "16B",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F2006",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 257844,
+        "courseTitle": "The History of Jazz",
+        "courseNumber": "14",
+        "prefix": "BL ST",
+        "prefixParentId": 1600,
+        "prefixDescription": "Black Studies",
+        "departmentParentId": 1812,
+        "department": "Black Studies",
+        "begin": "F2016",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 247468,
+              "courseTitle": "Music Appreciation: Jazz Styles",
+              "courseNumber": "1B",
+              "prefix": "MUSI",
+              "prefixParentId": 6626,
+              "prefixDescription": "Music",
+              "departmentParentId": 9469,
+              "department": "Music",
+              "begin": "F2018",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 296584,
+        "courseTitle": "Critical Introduction to Race and Racism",
+        "courseNumber": "4",
+        "prefix": "BL ST",
+        "prefixParentId": 1600,
+        "prefixDescription": "Black Studies",
+        "departmentParentId": 1812,
+        "department": "Black Studies",
+        "begin": "F2006",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 352949,
+              "courseTitle": "Race and Ethnicity: Belonging and Exclusion in the U.S.",
+              "courseNumber": "11",
+              "prefix": "CETH",
+              "prefixParentId": 16886,
+              "prefixDescription": "Comparative Ethnic Studies",
+              "departmentParentId": 13991,
+              "department": "Comparative Ethnic Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "courseIdentifierParentId": 269135,
+        "courseTitle": "Survey of African History",
+        "courseNumber": "49A",
+        "prefix": "BL ST",
+        "prefixParentId": 1600,
+        "prefixDescription": "Black Studies",
+        "departmentParentId": 1812,
+        "department": "Black Studies",
+        "begin": "F2009",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "a2348a3d-7850-41a4-83a5-6dad524b07ae",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 254987,
+                  "courseTitle": "History of Africa to 1800",
+                  "courseNumber": "16A",
+                  "prefix": "ICS",
+                  "prefixParentId": 9360,
+                  "prefixDescription": "Intercultural Studies",
+                  "departmentParentId": 7565,
+                  "department": "Intercultural Studies",
+                  "begin": "F1995",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254986,
+              "courseTitle": "History of Africa to 1800",
+              "courseNumber": "16A",
+              "prefix": "HIST",
+              "prefixParentId": 3013,
+              "prefixDescription": "History",
+              "departmentParentId": 7009,
+              "department": "History",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        },
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [
+                {
+                  "id": "5cfe19e0-85e0-4b9b-9512-5b557c17f166",
+                  "publishedCourseIdentifierYearTermId": null,
+                  "courseIdentifierParentId": 254986,
+                  "courseTitle": "History of Africa to 1800",
+                  "courseNumber": "16A",
+                  "prefix": "HIST",
+                  "prefixParentId": 3013,
+                  "prefixDescription": "History",
+                  "departmentParentId": 7009,
+                  "department": "History",
+                  "begin": "F1995",
+                  "end": "",
+                  "minUnits": 4,
+                  "maxUnits": 4
+                }
+              ],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 254987,
+              "courseTitle": "History of Africa to 1800",
+              "courseNumber": "16A",
+              "prefix": "ICS",
+              "prefixParentId": 9360,
+              "prefixDescription": "Intercultural Studies",
+              "departmentParentId": 7565,
+              "department": "Intercultural Studies",
+              "begin": "F1995",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "PREPARATION FOR THE MAJOR": [
+      {
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "2cb3c3e1-f30f-4424-f332-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354409,
+                "courseTitle": "Introduction to African-American Studies",
+                "courseNumber": "1",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [
+                {
+                  "position": 0,
+                  "content": "Course(s) must be taken at university"
+                }
+              ],
+              "id": "a0cf390a-3aa9-4220-7d1a-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 368281,
+                "courseTitle": "Black Globalization",
+                "courseNumber": "2",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4f826f4e-7024-44d9-7d1b-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354429,
+                "courseTitle": "Introduction to African Studies",
+                "courseNumber": "3",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2001",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "1a4892ea-fce0-479c-7d1c-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ],
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354448,
+                "courseTitle": "Introduction to Caribbean Studies",
+                "courseNumber": "7",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2001",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "fe633f9a-6757-48ba-7d1d-08dba897c33b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 1,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1,
+          "areaType": "None",
+          "id": "172d93f5-d034-4a59-122e-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257871,
+                "courseTitle": "Mass Media, Blackness and the Politics of Representation",
+                "courseNumber": "50",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "295e828f-4730-4a34-be03-2fde1c067fad",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 293503,
+                "courseTitle": "Blacks and Western Civilization",
+                "courseNumber": "5",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2001",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "cf7819bf-0639-4ce4-9cfc-292eab37fcae",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 356643,
+                "courseTitle": "Black Arts Expressions",
+                "courseNumber": "45",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2005",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4e4e02b5-0290-4712-a97d-dea7c14ae5a4",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257322,
+                "courseTitle": "Survey of African History",
+                "courseNumber": "49B",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 257319,
+                    "courseTitle": "Survey of African History",
+                    "courseNumber": "49B",
+                    "prefix": "HIST",
+                    "prefixParentId": 3028,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7021,
+                    "department": "History",
+                    "begin": "F2008",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e2d796dd-4803-4213-ae0c-a2a9c06a4d7e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 287154,
+                "courseTitle": "African American Psychology",
+                "courseNumber": "15",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2022",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "7989e7dd-72b5-401e-8ad9-25d655623270",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 293518,
+                "courseTitle": "Introduction to African-American Literature (Part I)",
+                "courseNumber": "38A",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2010",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3734d412-bbe5-4c99-8bc6-e90c01bfdf62",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257844,
+                "courseTitle": "The History of Jazz",
+                "courseNumber": "14",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e117f979-67f7-4654-a321-8df50a1eb416",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 296584,
+                "courseTitle": "Critical Introduction to Race and Racism",
+                "courseNumber": "4",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2006",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "23ed4ec2-fb8f-4a00-8fd4-5eb602b8db8d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 269135,
+                "courseTitle": "Survey of African History",
+                "courseNumber": "49A",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 269134,
+                    "courseTitle": "Survey of African History",
+                    "courseNumber": "49A",
+                    "prefix": "HIST",
+                    "prefixParentId": 3028,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7021,
+                    "department": "History",
+                    "begin": "F2008",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "838644e6-8077-4fa0-9802-54a0441ecabe",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 368282,
+                "courseTitle": "Survey of African History",
+                "courseNumber": "49C",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2018",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 368284,
+                    "courseTitle": "Survey of African History",
+                    "courseNumber": "49C",
+                    "prefix": "HIST",
+                    "prefixParentId": 3028,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7021,
+                    "department": "History",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4e716257-c490-418e-abe9-7797458e97c6",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 298862,
+                "courseTitle": "Major Works of African Literatures",
+                "courseNumber": "33",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2008",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [
+                {
+                  "course": {
+                    "courseIdentifierParentId": 298861,
+                    "courseTitle": "Major Works of African Literatures",
+                    "courseNumber": "33",
+                    "prefix": "C LIT",
+                    "prefixParentId": 6672,
+                    "prefixDescription": "Comparative Literature",
+                    "departmentParentId": 2936,
+                    "department": "Comparative Literature",
+                    "begin": "F2008",
+                    "end": "",
+                    "minUnits": 4,
+                    "maxUnits": 4
+                  }
+                }
+              ],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "84d061c3-73a0-45ee-a6bb-72114a280f03",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 257878,
+                "courseTitle": "Introduction to African-American Literature (Part II)",
+                "courseNumber": "38B",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2010",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "797dad52-7d5c-4844-8066-2f55e7ba397e",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 354431,
+                "courseTitle": "The Civil Rights Movement",
+                "courseNumber": "6",
+                "prefix": "BL ST",
+                "prefixParentId": 1600,
+                "prefixDescription": "Black Studies",
+                "departmentParentId": 1812,
+                "department": "Black Studies",
+                "begin": "F2016",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "2a417a9d-3666-474d-a543-2558cf0a5f1b",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

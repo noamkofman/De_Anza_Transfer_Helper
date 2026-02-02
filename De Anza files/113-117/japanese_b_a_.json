@@ -1,0 +1,251 @@
+{
+  "major": "Japanese/B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 117,
+    "code": "UCLA    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, Los Angeles",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [],
+  "groups": {
+    "LOWER DIVISION MAJOR REQUIREMENTS": [
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "None",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "d9a3ca9c-ed12-4597-f73c-08dbc4fd2609",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387650,
+                "courseTitle": "Intermediate Modern Japanese",
+                "courseNumber": "6",
+                "prefix": "JAPAN",
+                "prefixParentId": 15689,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 7852,
+                "department": "Japanese",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "0d8864e9-313d-4a67-e047-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 387651,
+                "courseTitle": "Intermediate Modern Japanese: Intensive",
+                "courseNumber": "10",
+                "prefix": "JAPAN",
+                "prefixParentId": 15689,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 7852,
+                "department": "Japanese",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 15,
+                "maxUnits": 15
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "b4f13a7d-9bd2-4db1-e048-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Requirement",
+              "requirement": {
+                "name": "Intermediate Japanese"
+              },
+              "requirementAttributes": [],
+              "id": "986a7208-0902-4940-ac01-210fce132858",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      },
+      {
+        "instruction": {
+          "type": "NFromConjunction",
+          "conjunction": "And",
+          "amountQuantifier": "AtLeast",
+          "amount": 1,
+          "amountUnitType": "Course",
+          "id": "d10c4a47-642e-4f99-173e-08dba898cc31",
+          "selectionType": "Complete"
+        },
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379820,
+                "courseTitle": "How Does It Move? Action and Moving Image in Modern Japan",
+                "courseNumber": "80",
+                "prefix": "JAPAN",
+                "prefixParentId": 15689,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 7852,
+                "department": "Japanese",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "3ccad8aa-a718-41e5-d784-08dbc501b57d",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 305212,
+                "courseTitle": "Japanese Civilization",
+                "courseNumber": "50",
+                "prefix": "JAPAN",
+                "prefixParentId": 15689,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 7852,
+                "department": "Japanese",
+                "begin": "Su2015",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "816c3960-d294-438e-aa6f-afa08247a665",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379814,
+                "courseTitle": "Languages and Cultures of Asia",
+                "courseNumber": "30",
+                "prefix": "ASIAN",
+                "prefixParentId": 14422,
+                "prefixDescription": "Asian",
+                "departmentParentId": 1249,
+                "department": "Asian",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "070d2d43-9a3c-48d1-a1f4-742423f13562",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379819,
+                "courseTitle": "Anime",
+                "courseNumber": "75",
+                "prefix": "JAPAN",
+                "prefixParentId": 15689,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 7852,
+                "department": "Japanese",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "e182bb9e-d3d1-42ff-a798-575191cc8fb0",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 379818,
+                "courseTitle": "Images of Japan: Literature and Film",
+                "courseNumber": "70",
+                "prefix": "JAPAN",
+                "prefixParentId": 15689,
+                "prefixDescription": "Japanese",
+                "departmentParentId": 7852,
+                "department": "Japanese",
+                "begin": "S2021",
+                "end": "",
+                "minUnits": 5,
+                "maxUnits": 5
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "90473a46-2b36-49bb-8f04-4a223c7d58a0",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

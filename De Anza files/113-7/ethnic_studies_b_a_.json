@@ -1,0 +1,170 @@
+{
+  "major": "Ethnic Studies B.A.",
+  "from": {
+    "id": 113,
+    "code": "DAC     ",
+    "isCommunityCollege": true,
+    "category": "CCC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "De Anza College",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "to": {
+    "id": 7,
+    "code": "UCSD    ",
+    "isCommunityCollege": false,
+    "category": "UC",
+    "termType": "Quarter",
+    "names": [
+      {
+        "name": "University of California, San Diego",
+        "hasDepartments": true,
+        "fromYear": 0,
+        "hideInList": false
+      }
+    ],
+    "termTypeAcademicYears": [
+      {
+        "termType": "Quarter",
+        "fromYear": 1980
+      }
+    ]
+  },
+  "agreements": [
+    {
+      "target": {
+        "courseIdentifierParentId": 294680,
+        "courseTitle": "Introduction to Ethnic Studies: Making Culture",
+        "courseNumber": "3",
+        "prefix": "ETHN",
+        "prefixParentId": 3992,
+        "prefixDescription": "Ethnic Studies",
+        "departmentParentId": 5403,
+        "department": "Ethnic Studies",
+        "begin": "F2013",
+        "end": "",
+        "minUnits": 4,
+        "maxUnits": 4
+      },
+      "courses": [
+        {
+          "group": "And",
+          "classes": [
+            {
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "attributes": [],
+              "courseIdentifierParentId": 352949,
+              "courseTitle": "Race and Ethnicity: Belonging and Exclusion in the U.S.",
+              "courseNumber": "11",
+              "prefix": "CETH",
+              "prefixParentId": 16886,
+              "prefixDescription": "Comparative Ethnic Studies",
+              "departmentParentId": 13991,
+              "department": "Comparative Ethnic Studies",
+              "begin": "F2021",
+              "end": "",
+              "minUnits": 4,
+              "maxUnits": 4,
+              "publishedCourseIdentifierYearTermId": null,
+              "position": 0,
+              "type": "Course"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "DEFAULT": [
+      {
+        "instruction": null,
+        "sections": [
+          [
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 294683,
+                "courseTitle": "Introduction to Ethnic Studies: Land and Labor",
+                "courseNumber": "1",
+                "prefix": "ETHN",
+                "prefixParentId": 3992,
+                "prefixDescription": "Ethnic Studies",
+                "departmentParentId": 5403,
+                "department": "Ethnic Studies",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "a076b689-c1e3-4064-881d-9b20f01f4642",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 294680,
+                "courseTitle": "Introduction to Ethnic Studies: Making Culture",
+                "courseNumber": "3",
+                "prefix": "ETHN",
+                "prefixParentId": 3992,
+                "prefixDescription": "Ethnic Studies",
+                "departmentParentId": 5403,
+                "department": "Ethnic Studies",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "4b26ba64-71c5-4612-9234-aaac5679ec74",
+              "position": 0,
+              "attributes": []
+            },
+            {
+              "type": "Course",
+              "course": {
+                "courseIdentifierParentId": 272366,
+                "courseTitle": "Introduction to Ethnic Studies: Circulations of Difference",
+                "courseNumber": "2",
+                "prefix": "ETHN",
+                "prefixParentId": 3992,
+                "prefixDescription": "Ethnic Studies",
+                "departmentParentId": 5403,
+                "department": "Ethnic Studies",
+                "begin": "F2013",
+                "end": "",
+                "minUnits": 4,
+                "maxUnits": 4
+              },
+              "visibleCrossListedCourses": [],
+              "requisites": [],
+              "courseAttributes": [],
+              "id": "53b680c5-1592-4b81-ba18-81c666490430",
+              "position": 0,
+              "attributes": []
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}
