@@ -1,0 +1,153 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Plan Builder</title>
+    <style>
+      :root {
+        --bg-1: #c075bc;
+        --bg-2: #eef0ff;
+        --card: #ffffff;
+        --ink: #1f1b2e;
+        --muted: #6c6480;
+        --accent: #6d28d9;
+        --accent-2: #7c3aed;
+        --ring: rgba(109, 40, 217, 0.2);
+        --line: #ebe7f5;
+      }
+      * { box-sizing: border-box; }
+      body {
+        font-family: "Plus Jakarta Sans", "Segoe UI", Arial, sans-serif;
+        margin: 0;
+        color: var(--ink);
+        background:
+          radial-gradient(1200px 600px at 10% -10%, #e5d9ff 0%, transparent 60%),
+          linear-gradient(135deg, var(--bg-1), var(--bg-2));
+        min-height: 100vh;
+        padding: 28px;
+      }
+      .shell { max-width: 980px; margin: 0 auto; }
+      .card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        box-shadow: 0 20px 60px rgba(31, 27, 46, 0.08);
+        padding: 22px;
+        border-radius: 16px;
+        margin-bottom: 18px;
+      }
+      h2 { margin: 0 0 6px; font-size: 22px; }
+      .meta { color: var(--muted); font-size: 14px; }
+      .req { padding: 12px 0; border-bottom: 1px dashed var(--line); }
+      .req:last-child { border-bottom: none; }
+      .bundle { color: var(--muted); font-size: 0.9rem; margin-left: 12px; }
+      label { display:block; margin: 8px 0 6px; font-weight: 600; }
+      select {
+        padding: 10px 12px;
+        min-width: 360px;
+        border-radius: 10px;
+        border: 1px solid #e5e1f0;
+        background: #fff;
+      }
+      select:focus {
+        border-color: var(--accent);
+        box-shadow: 0 0 0 4px var(--ring);
+        outline: none;
+      }
+      button {
+        background: linear-gradient(135deg, var(--accent), var(--accent-2));
+        color: #fff;
+        border: none;
+        padding: 12px 18px;
+        border-radius: 10px;
+        font-weight: 700;
+        cursor: pointer;
+      }
+      pre {
+        background: #f8f6ff;
+        border: 1px solid var(--line);
+        padding: 14px;
+        border-radius: 12px;
+        overflow: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <div class="card">
+        <h2>{{ school_label }}</h2>
+        <div class="meta">Major: {{ major_label }}</div>
+      </div>
+
+      <form method="post" action="/plan">
+        <input type="hidden" name="school_query" value="{{ school_query }}" />
+        <input type="hidden" name="major_query" value="{{ major_query }}" />
+
+        <div class="card">
+         
+
+          <h3>Requirements</h3>
+          {% for req in requirements %}
+            <div class="req">
+              <strong>{{ loop.index }}. {{ req.label }}</strong>
+              {% if req.bundles|length == 0 %}
+                <div class="bundle">(no articulation listed)</div>
+              {% elif req.bundles|length == 1 %}
+                <div class="bundle">
+                  {% for c in req.bundles[0] %}
+                    {{ c.prefix }} {{ c.number }}{% if not loop.last %} + {% endif %}
+                  {% endfor %}
+                </div>
+                <input type="hidden" name="req_{{ loop.index0 }}" value="1" />
+              {% else %}
+                <label>Choose bundle:</label>
+                <select name="req_{{ loop.index0 }}">
+                  {% for bundle in req.bundles %}
+                    <option value="{{ loop.index }}">
+                      {{ loop.index }}:
+                      {% for c in bundle %}
+                        {{ c.prefix }} {{ c.number }}{% if not loop.last %} + {% endif %}
+                      {% endfor %}
+                    </option>
+                  {% endfor %}
+                </select>
+              {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+
+        <button type="submit" name="generate" value="1">Generate Plan</button>
+      </form>
+
+      {% if plan_lines %}
+        <div class="card">
+          <h3>Plan  for: {{school_label}} </h3>
+          <div class="bundle">Major: {{major_label }}</div>
+
+          <pre>{{ plan_lines|join('\n') }}</pre>
+        </div>
+      {% endif %}
+
+      {% if saved_plans and saved_plans|length > 0 %}
+        <div class="card">
+          <h3>Saved Plans (per school)</h3>
+          {% for item in saved_plans %}
+            <div class="req">
+              <strong>{{ item.school_label }}</strong>
+              <div class="bundle">Major: {{ item.major_label }}</div>
+              <pre>{{ item.plan_lines|join('\n') }}</pre>
+            </div>
+          {% endfor %}
+        </div>
+        <form method="post" action="/plan">
+          <button type="submit" name="clear_saved" value="1">Clear Saved Plans</button>
+        </form>
+      {% endif %}
+
+      <div class="card">
+        <form method="get" action="/">
+          <button type="submit">Add Another School</button>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

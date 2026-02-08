@@ -1,0 +1,221 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>De Anza Plan Builder</title>
+    <style>
+      :root {
+        --bg-1: #c075bc;
+        --bg-2: #eef0ff;
+        --card: #ffffff;
+        --ink: #1f1b2e;
+        --muted: #6c6480;
+        --accent: #6d28d9;
+        --accent-2: #7c3aed;
+        --ring: rgba(109, 40, 217, 0.2);
+      }
+      * { box-sizing: border-box; }
+      body {
+        font-family: "Plus Jakarta Sans", "Segoe UI", Arial, sans-serif;
+        margin: 0;
+        color: var(--ink);
+        background:
+          radial-gradient(1200px 600px at 10% -10%, #e5d9ff 0%, transparent 60%),
+          linear-gradient(135deg, var(--bg-1), var(--bg-2));
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 32px;
+      }
+      .shell {
+        width: 100%;
+        max-width: 720px;
+      }
+      .card {
+        background: var(--card);
+        border: 1px solid #ebe7f5;
+        box-shadow: 0 20px 60px rgba(31, 27, 46, 0.08);
+        padding: 28px;
+        border-radius: 16px;
+      }
+      h1 {
+        margin: 0 0 8px;
+        font-size: 28px;
+        letter-spacing: -0.02em;
+      }
+      .subtitle {
+        color: var(--muted);
+        margin: 0 0 20px;
+        font-size: 15px;
+      }
+      label { display:block; margin: 14px 0 6px; font-weight: 600; }
+      input {
+        width: 100%;
+        padding: 12px 14px;
+        border-radius: 10px;
+        border: 1px solid #e5e1f0;
+        font-size: 15px;
+        outline: none;
+      }
+      input:focus {
+        border-color: var(--accent);
+        box-shadow: 0 0 0 4px var(--ring);
+      }
+      .actions { margin-top: 18px; display: flex; gap: 12px; }
+      button {
+        background: linear-gradient(135deg, var(--accent), var(--accent-2));
+        color: #fff;
+        border: none;
+        padding: 12px 18px;
+        border-radius: 10px;
+        font-weight: 700;
+        cursor: pointer;
+      }
+      .dropdown {
+        list-style: none;
+        margin: 6px 0 0;
+        padding: 6px;
+        border: 1px solid #e5e1f0;
+        border-radius: 10px;
+        max-height: 220px;
+        overflow-y: auto;
+        background: #fff;
+        box-shadow: 0 16px 30px rgba(31, 27, 46, 0.08);
+        display: none;
+      }
+      .dropdown.visible { display: block; }
+      .dropdown li {
+        padding: 8px 10px;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 14px;
+      }
+      .dropdown li:hover,
+      .dropdown li.active {
+        background: rgba(109, 40, 217, 0.12);
+      }
+      .hint {
+        margin-top: 10px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <div class="card">
+        <h1>De Anza Plan Builder</h1>
+        <p class="subtitle">Create a clean transfer plan by selecting the university and major.</p>
+        <form method="post" action="/plan">
+          <label>School for Transfer (e.g., ucla, ucsb)</label>
+          <input id="schoolInput" name="school_query" required autocomplete="off" />
+          <ul id="schoolDropdown" class="dropdown" role="listbox"></ul>
+          <label>Major (e.g., data science)</label>
+          <input id="majorInput" name="major_query" required autocomplete="off" />
+          <ul id="majorDropdown" class="dropdown" role="listbox"></ul>
+
+          <div class="actions">
+            <button type="submit">Load Requirements</button>
+          </div>
+        </form>
+        <div class="hint">(Please do your own research do not assume everything here is 100% accurate)</div>
+        <div class="hint">By Noam Kofman </div>
+
+      </div>
+    </div>
+    <script>
+      const schoolInput = document.getElementById("schoolInput");
+      const schoolDropdown = document.getElementById("schoolDropdown");
+      const majorInput = document.getElementById("majorInput");
+      const majorDropdown = document.getElementById("majorDropdown");
+
+      let schools = [];
+      let majors = [];
+      let schoolIndex = -1;
+      let majorIndex = -1;
+
+      fetch("/schools")
+        .then((r) => r.json())
+        .then((data) => { schools = data || []; });
+
+      function renderDropdown(dropdown, matches, activeIndex) {
+        dropdown.innerHTML = matches.map((s, i) =>
+          `<li role="option" data-index="${i}" class="${i === activeIndex ? "active" : ""}">${s}</li>`
+        ).join("");
+        dropdown.classList.toggle("visible", matches.length > 0);
+      }
+
+      function getMatches(inputValue, list) {
+        const q = inputValue.toLowerCase().trim();
+        if (!q) return [];
+        return list.filter(s => s.toLowerCase().includes(q)).slice(0, 12);
+      }
+
+      function hookDropdown(inputEl, dropdownEl, listRef, setIndex, getIndex, onPick) {
+        inputEl.addEventListener("input", () => {
+          const matches = getMatches(inputEl.value, listRef());
+          setIndex(-1);
+          renderDropdown(dropdownEl, matches, getIndex());
+        });
+
+        inputEl.addEventListener("keydown", (e) => {
+          const items = dropdownEl.querySelectorAll("li");
+          if (!items.length) return;
+          if (e.key === "ArrowDown") {
+            e.preventDefault();
+            setIndex((getIndex() + 1) % items.length);
+          } else if (e.key === "ArrowUp") {
+            e.preventDefault();
+            setIndex((getIndex() - 1 + items.length) % items.length);
+          } else if (e.key === "Enter" && getIndex() >= 0) {
+            e.preventDefault();
+            items[getIndex()].click();
+            return;
+          } else {
+            return;
+          }
+          items.forEach((li, i) => li.classList.toggle("active", i === getIndex()));
+        });
+
+        dropdownEl.addEventListener("click", (e) => {
+          if (e.target.tagName !== "LI") return;
+          inputEl.value = e.target.textContent;
+          dropdownEl.classList.remove("visible");
+          dropdownEl.innerHTML = "";
+          onPick(e.target.textContent);
+        });
+
+        document.addEventListener("click", (e) => {
+          if (e.target !== inputEl && !dropdownEl.contains(e.target)) {
+            dropdownEl.classList.remove("visible");
+          }
+        });
+      }
+
+      hookDropdown(
+        schoolInput,
+        schoolDropdown,
+        () => schools,
+        (v) => { schoolIndex = v; },
+        () => schoolIndex,
+        (pickedSchool) => {
+          fetch(`/majors?school=${encodeURIComponent(pickedSchool)}`)
+            .then((r) => r.json())
+            .then((data) => { majors = data || []; });
+          majorInput.value = "";
+          majorDropdown.innerHTML = "";
+        }
+      );
+
+      hookDropdown(
+        majorInput,
+        majorDropdown,
+        () => majors,
+        (v) => { majorIndex = v; },
+        () => majorIndex,
+        () => {}
+      );
+    </script>
+  </body>
+</html>
