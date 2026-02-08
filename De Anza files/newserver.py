@@ -1,4 +1,5 @@
 from flask import Flask, request, render_template, session, redirect, url_for, jsonify
+from jinja2 import ChoiceLoader, FileSystemLoader
 import os
 import json
 import re
@@ -11,6 +12,10 @@ app = Flask(
     template_folder=os.path.join(BASE_DIR, "templates"),
     static_folder=BASE_DIR,
 )
+app.jinja_loader = ChoiceLoader([
+    FileSystemLoader(os.path.join(BASE_DIR, "templates")),
+    FileSystemLoader(BASE_DIR),
+])
 app.secret_key = "dev-change-this"
 
 def _display_name(folder_name: str) -> str:
